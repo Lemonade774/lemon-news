@@ -1,8 +1,25 @@
 {
   "date": "2026-09-03",
-  "update_time": "2026-09-03T08:14:37.357012",
+  "update_time": "2026-09-03T08:34:40.071838",
   "total_items": 8,
   "top_items": [
+    {
+      "title": "谷歌：AI核心员工回硅谷坐班",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/468398.html",
+      "publish_time": "2026-08-08",
+      "category": "AI 产业",
+      "summary": "甚至连刚刚接过Google DeepMind运营大权的 Koray Kavukcuoglu ，也从伦敦搬进Mountain View总部 | （doge） 据了解谷歌正在谈一笔超过15亿美元的交易，准备直接拿下初创公司Mechanize的技术与核心人才 | 一边把自家AI指挥部往加州搬，一边从外面买来现成的AI编程队伍",
+      "importance_score": 10,
+      "keywords": [
+        "AI",
+        "交易"
+      ],
+      "tags": [
+        "公司动态"
+      ],
+      "track": "industry"
+    },
     {
       "title": "百融硅基员工批量上岗，按结果领工资",
       "source": "量子位",
@@ -11,11 +28,15 @@
       "category": "AI 产业",
       "summary": "大模型越来越强之后，企业究竟愿意为什么样的AI付钱 | 单纯的模型能力，恐怕已经很难单独构成企业采用AI的理由 | 百融智能最新披露的中报，呈现出的正是这样一条变化路径",
       "importance_score": 9,
-      "keywords": [],
+      "keywords": [
+        "大模型",
+        "AI"
+      ],
       "tags": [
         "大模型",
         "公司动态"
-      ]
+      ],
+      "track": "industry"
     },
     {
       "title": "MiniMax探索AI视频的实时商业化",
@@ -25,23 +46,13 @@
       "category": "AI 产业",
       "summary": "你没听错，就在昨天，真的出现了一个全程由AI实时生成素材的直播间 | 不是那种「半AI化」的数字人直播，这个直播间根本没有主播，也没有脚本，内容由观众现场点播 | 而且不是预制菜，点完之后AI直接现场制作",
       "importance_score": 9,
-      "keywords": [],
+      "keywords": [
+        "AI"
+      ],
       "tags": [
         "AI 应用"
-      ]
-    },
-    {
-      "title": "谷歌：AI核心员工回硅谷坐班",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/08/468398.html",
-      "publish_time": "2026-08-08",
-      "category": "AI 产业",
-      "summary": "甚至连刚刚接过Google DeepMind运营大权的 Koray Kavukcuoglu ，也从伦敦搬进Mountain View总部 | （doge） 据了解谷歌正在谈一笔超过15亿美元的交易，准备直接拿下初创公司Mechanize的技术与核心人才 | 一边把自家AI指挥部往加州搬，一边从外面买来现成的AI编程队伍",
-      "importance_score": 9,
-      "keywords": [],
-      "tags": [
-        "公司动态"
-      ]
+      ],
+      "track": "industry"
     },
     {
       "title": "机器人Demo：“机器人含量”为0",
@@ -51,10 +62,14 @@
       "category": "AI 产业",
       "summary": "今年5月，英伟达机器人负责人Jim Fan在一场公开演讲中宣告：VLA、遥操已死 | 当时，绝大多数人听到的第一反应都是：从来不缺暴论的AI圈，又多了一条新暴论 | 但没想到，几个月后，这句当时听起来有点夸张的话，居然真的开始照进现实",
       "importance_score": 9,
-      "keywords": [],
+      "keywords": [
+        "AI",
+        "机器人"
+      ],
       "tags": [
         "具身智能"
-      ]
+      ],
+      "track": "industry"
     },
     {
       "title": "蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率提升5.6倍",
@@ -64,12 +79,16 @@
       "category": "AI 产业",
       "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文 训练一个大模型之前，语料要经过解析、清洗、去重、质量评分、Token 化和样本组装 | 规模来到 PB 级，工程团队每天面对的不止算力账单，还有数百张表、不断增加的特征，以及少数几条就可能让整批任务重跑的异常数据 | org/...",
       "importance_score": 9,
-      "keywords": [],
+      "keywords": [
+        "大模型",
+        "算力"
+      ],
       "tags": [
         "大模型",
         "公司动态",
         "算力与芯片"
-      ]
+      ],
+      "track": "industry"
     },
     {
       "title": "前字节强化学习专家孙鹏博士加盟星尘智能，完善Physical AI全栈技术布局",
@@ -79,12 +98,20 @@
       "category": "AI 产业",
       "summary": "过去两年，机器人基础模型主要在解决“会不会” | 但随着机器人从 Demo 走向真实部署和商业化，问题正在转向“能不能稳定做好” | 孙鹏长期深耕强化学习（RL）、智能体（Agent）及多智能体强化学习（MARL），拥有横跨机器人强化学习、大规模分布式 RL 系统与大模型强化学习的研究与产业实践经历",
       "importance_score": 9,
-      "keywords": [],
+      "keywords": [
+        "大模型",
+        "强化学习",
+        "AI",
+        "Agent",
+        "智能体",
+        "机器人"
+      ],
       "tags": [
         "大模型",
         "Agent",
         "具身智能"
-      ]
+      ],
+      "track": "industry"
     },
     {
       "title": "Claude最强Fable 5.1发布！8项屠榜，最高降价45%，反蒸馏机制上线",
@@ -94,11 +121,15 @@
       "category": "AI 产业",
       "summary": "无论你此前让Claude处理什么任务，Fable 5 | 8项公开基准测试全部第一， 价格最高降45% | 尤其是在 科学研究和代码 这两项上，明显甩开了Fable 5和隔壁GPT-5",
       "importance_score": 9,
-      "keywords": [],
+      "keywords": [
+        "GPT",
+        "Claude"
+      ],
       "tags": [
         "大模型",
         "公司动态"
-      ]
+      ],
+      "track": "industry"
     },
     {
       "title": "香港首个真实开放场景服务机器人落地兰桂坊",
@@ -108,10 +139,14 @@
       "category": "AI 产业",
       "summary": "同时，这也将为兰桂坊带来一种全新的消费与互动体验 | 作为香港最具国际化和代表性的夜生活地标之一，兰桂坊一直以独特的消费体验和不断创新的城市活力吸引全球游客 | 而积极拥抱AI与新技术，也正成为兰桂坊持续升级客户体验的重要方向",
       "importance_score": 9,
-      "keywords": [],
+      "keywords": [
+        "AI",
+        "机器人"
+      ],
       "tags": [
         "具身智能"
-      ]
+      ],
+      "track": "industry"
     }
   ]
 }

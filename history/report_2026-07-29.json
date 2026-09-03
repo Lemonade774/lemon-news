@@ -10,7 +10,11 @@
       "publish_time": "2026-07-28",
       "category": "AI 综合",
       "summary": "一觉睡醒，Ilya和黄仁勋，双剑合璧了？！！ 你没听错，Ilya旗下SSI（Safe Superintelligence Inc.），刚刚宣布与英伟达结为长期盟友。。。 作为合作的一部分，英伟达将授予下一代Vera Rubin平台的使用权，",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "OPPO 端侧多模态大模型工程化实践｜AICon深圳",
@@ -19,7 +23,11 @@
       "publish_time": "2026-07-29",
       "category": "AI 技术",
       "summary": "模型参数规模不断突破，推理成本持续下降，开源生态日益繁荣",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "豆包搜索，走出了豆包",
@@ -28,7 +36,11 @@
       "publish_time": "2026-07-28",
       "category": "AI 综合",
       "summary": "每条结果还同时带回了信源名称、权威分级、发布时间、围绕当前问题生成的正文摘要，以及能够直接引用的原文Markdown节选",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "100%开源！吴恩达做了个个人桌面Agent",
@@ -37,7 +49,11 @@
       "publish_time": "2026-07-25",
       "category": "AI 综合",
       "summary": "项目名为OpenWorker，现已在GitHub开源，采用MIT License | 吴恩达在推上表示，OpenWorker已经可以在Mac上运行，Windows版本也即将上线",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "当AI学会“仿真思维”，教师才能回归育人本质",
@@ -46,7 +62,11 @@
       "publish_time": "2026-07-28",
       "category": "AI 综合",
       "summary": "县域、乡村学校骨干教师稀缺，大班额下教师无力兼顾后进生补差与优等生拔高，大量时间消耗在学情统计、习题整理等标准化工作，无暇开展价值引领、情感浸润等AI不可替代的育人工作；第二，AI应用浅层化难以突破",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "出海企业苦等的可信任AI营销产品，飞书深诺做出来了",
@@ -55,7 +75,13 @@
       "publish_time": "2026-07-27",
       "category": "AI 综合",
       "summary": "2025年6月，飞书深诺就推出了业内首款针对出海营销的Agentic AI产品Marvy 1",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "周鸿祎发布纳米Work：新一代企业智能体工作平台，为企业而生",
@@ -64,7 +90,12 @@
       "publish_time": "2026-07-29",
       "category": "AI 综合",
       "summary": "7月28日，360集团创始人周鸿祎正式发布新一代企业智能体工作平台“纳米Work” | 发布会现场，周鸿祎提出一个鲜明的观点：企业搞AI，老板要先用",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
@@ -73,7 +104,13 @@
       "publish_time": "2026-07-26",
       "category": "AI 综合",
       "summary": "现在，上海新智具身智能科技有限公司（NeoteAI）联合复旦大学可信具身智能研究院，正式发布了N0系列三份技术报告，把触觉从“辅助模态”跃升为“核心基建” | 更具行业价值的是，项目的数据和模型会进行开源，可以直接查看项目的完整链接：...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归",
@@ -82,7 +119,12 @@
       "publish_time": "2026-07-28",
       "category": "AI 综合",
       "summary": "Agent赛道，不再是自回归（AR）模型一家独大 | 长期处于非主流位置的扩散模型，也开始有了一席之地",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent"
+      ]
     },
     {
       "title": "Kimi K3、Unlimited OCR包揽全球前二，中国开源模型持续刷屏海外",
@@ -91,7 +133,11 @@
       "publish_time": "2026-07-28",
       "category": "AI 综合",
       "summary": "截至目前，Unlimited OCR 在GitHub Star 已突破 1",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "publish_time": "2026-05-13",
       "category": "AI 综合",
       "summary": "对于一家还没发产品的中国AI初创公司而言，这一估值，几乎没有先例 | 但相比林俊旸之前同台竞速的硅谷同行，不算贵 | 梦晨 发自 凹非寺量子位 | 公众号 QbitAI 离职阿里后，千问大模型前负责人林俊旸的最新动态曝光了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
@@ -19,16 +25,25 @@
       "publish_time": "2026-05-13",
       "category": "AI 技术",
       "summary": "用 Thinking Machines 的话说，目前大多数 AI 模型都是通过“外挂式”的方式来实现交互，将不同组件拼接在一起以模拟打断、多模态或并发等能力 | 今天，Thinking Machines 宣布推出“交互模型”TML-I...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
-      "title": "阿里首度披露AI年化收入，AI叙事被市场接受了吗？",
+      "title": "阿里首度披露AI年化收入，AI叙事被市场接受了吗",
       "source": "界面新闻",
       "url": "https://www.jiemian.com/article/14425457.html",
       "publish_time": "2026-05-14",
       "category": "AI 产业",
       "summary": "财报显示，2026财年全年阿里集团营收首次突破万亿大关，达到10236 | 阿里首次对外分享了AI MaaS和应用的年化经常性收入（ARR）规模以及目标，这说明资本市场初步认可了阿里有关AI叙事的价值，但也存在一定担忧 | 财报显示，...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改",
@@ -37,7 +52,12 @@
       "publish_time": "2026-05-13",
       "category": "AI 综合",
       "summary": "自拍、电影、追剧、街头采访、听音乐会，还抽空回老家结了次婚…… 视频链接：https://mp",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用"
+      ]
     },
     {
       "title": "浙大校友用AI突破32年拉姆齐数下界",
@@ -46,7 +66,12 @@
       "publish_time": "2026-05-10",
       "category": "AI 综合",
       "summary": "而且，这次世界级数学突破并没有依赖超级算力集群，仅用Claude Code、Codex+1台CPU服务器就完成全部攻坚，成果已全量开源 | 数学巨匠保罗・埃尔德什的这句调侃，直接说明了拉姆齐数有多难缠",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "算力与芯片"
+      ]
     },
     {
       "title": "原来Ilya还有70亿美元OpenAI股权",
@@ -55,7 +80,11 @@
       "publish_time": "2026-05-12",
       "category": "AI 综合",
       "summary": "马斯克 VS 奥特曼的世纪庭审，也太劲爆了—— 感觉自己像是瓜田里的猹，一瓜未平一瓜又起 | 吃不过来，根本吃不过来…… 这不，就在刚刚，OpenAI的造富神话被「一不小心」炸了出来 | 著名前员工Ilya当堂作证：「至今仍手握OpenAI",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "Markdown要凉…卡帕西也站HTML了",
@@ -64,7 +93,11 @@
       "publish_time": "2026-05-12",
       "category": "AI 综合",
       "summary": "这个暴论，出自今天Anthropic工程师Thariq发的一篇引爆全网的长文 | 是的，这个前不久风靡vibe coding的人机交流格式，正在被Claude的工程师们呼吁抛弃 | 我现在几乎不怎么亲手编辑这些文件了，更多是拿它们当规范、参",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "倒计时一周，AIGC峰会嘉宾又上新了！一起来看第三波嘉宾",
@@ -73,7 +106,13 @@
       "publish_time": "2026-05-13",
       "category": "AI 综合",
       "summary": "组委会 发自 凹非寺公众号｜量子位 QbitAI 5月20日，我们聚齐了20位来自AI一线的实战派：从底层架构到爆款应用，从软件到硬件，从创作到投资… 这次商汤、MiniMax、商汤、京东确认都要来，还有Agent Infra、AI漫剧、A",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "融资与投资"
+      ]
     },
     {
       "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
@@ -82,7 +121,13 @@
       "publish_time": "2026-05-07",
       "category": "AI 综合",
       "summary": "例如，“把@图1的人物塞进@图2的场景，镜头运动和角色动作完全照搬@视频1”： 这些能力，来自国内最大ComfyUI平台RunningHub最新推出的原生AI智能体全能内容创作平台——RHTV | 界面简洁轻量化，底层却背靠Runni...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "Waymo CEO回应L2升维L4：有可能，但只靠端到端还不够",
@@ -91,7 +136,11 @@
       "publish_time": "2026-05-14",
       "category": "AI 综合",
       "summary": "暂无详细内容，请点击阅读原文查看。",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "publish_time": "2026-05-20",
       "category": "AI 综合",
       "summary": "在开放日上，智象未来正式发布基于新一代原生全模态模型架构 Unified Transformer（UiT）打造的图像大模型 HiDream-O1-Image-Pro | 同时，智象未来宣布完成新一轮亿级融资，深创投、金浦投资、财鑫资本...",
-      "importance_score": 10
+      "importance_score": 10,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "腾讯混元世界模型的研发布局与思考｜AICon上海",
@@ -19,16 +25,25 @@
       "publish_time": "2026-05-21",
       "category": "AI 技术",
       "summary": "腾讯混元 3D 世界模型负责人王腾飞已确认出席 “世界模型与多模态智能突破” 专题，并发表题为《腾讯混元世界模型的研发布局与思考》的主题分享 | 本次报告将分享混元团队在世界模型方面的技术探索与研发布局，涵盖 3D 世界模型与实时世界...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
-      "title": "刚刚，马斯克公开SpaceX招股书！",
+      "title": "马斯克公开SpaceX招股书",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/05/420761.html",
       "publish_time": "2026-05-21",
       "category": "AI 综合",
       "summary": "马斯克OpenAI“世纪官司”刚落槌，两家又开始抢谁先IPO了 | 对了补充一下，老马的这次起诉“败了”，理由是法院认为他告得太晚，整件事过了诉讼时效 | 好嘛，眼见给OpenAI使绊子不成（bushi，老马转头火速递表SpaceX IPO",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "融资与投资"
+      ]
     },
     {
       "title": "苏姿丰上海开讲：AI正在重新定义计算的每一层",
@@ -37,7 +52,11 @@
       "publish_time": "2026-05-20",
       "category": "AI 综合",
       "summary": "这是AMD AI开发者大会今天首次落地上海时，AMD董事会主席、首席执行官苏姿丰针对AI行业给出的最新判断 | 这次应AMD邀请，量子位来到了这场大会现场观摩学习 | 参加完这一天的活动后可以感受到，从苏姿丰的判断，到整场大会的选题和阵容，",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
@@ -46,7 +65,13 @@
       "publish_time": "2026-05-19",
       "category": "AI 综合",
       "summary": "审美很独特的一家公司，拍个发布视频跟拍《黑镜》一样",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "VC、品牌顾问、编剧，正在批量把自己做成AI",
@@ -55,7 +80,11 @@
       "publish_time": "2026-05-20",
       "category": "AI 综合",
       "summary": "5月19日，一个叫袋袋（Profy）的产品悄悄上线",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "AIDC建设正从“通用标准”走向“适用高效”",
@@ -64,7 +93,11 @@
       "publish_time": "2026-05-20",
       "category": "AI 综合",
       "summary": "近日，2026全球AIDC产业论坛在东莞隆重召开 | 商汤科技大装置事业群智算中心总经理林海受邀出席大会，以《商汤AIDC从通用标准到适用高效原则的演进》为主题发表演讲，系统性分享了商汤大装置在AIDC（智算中心）领域的建设思路、长期运营实",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
@@ -73,16 +106,27 @@
       "publish_time": "2026-05-19",
       "category": "AI 综合",
       "summary": "但一家国产GPU厂商，却在一整场发布会的时间里，做了一件非常物理的事儿—— 在走到舞台中央后，只见屏幕里仿真世界的小飞侧空翻了一下，随即，物理世界的小飞便做出了一模一样的动作 | 正是由摩尔线程新鲜发布的MT Lambda | 这是首...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "算力与芯片",
+        "具身智能"
+      ]
     },
     {
-      "title": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？",
+      "title": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/05/420656.html",
       "publish_time": "2026-05-20",
       "category": "AI 综合",
       "summary": "在这样的背景下，第四届中国AIGC产业峰会正式发布： 市场需要经过验证的引领者，行业需要经得起审视的标杆答案 | 这些入选者，或在技术纵深上持续突破，或在商业化落地上跑通了闭环，或在垂直场景里扎下了深根",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "Qwen最新3.7 Max预览版空降！两代超大杯并行迭代，林俊旸走了但还在加速",
@@ -91,7 +135,11 @@
       "publish_time": "2026-05-19",
       "category": "AI 综合",
       "summary": "7-Plus-Preview排名第16，阿里巴巴排名升至第5 Qwen官号直接放话：“迫不及待想发布Qwen3",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     }
   ]
 }

@@ -4,13 +4,18 @@
   "total_items": 10,
   "top_items": [
     {
-      "title": "首款癌症疫苗，一针300万？？？",
+      "title": "首款癌症疫苗，一针300万",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/480557.html",
       "publish_time": "2026-08-28",
       "category": "AI 综合",
       "summary": "刚刚爆火、借助AI研制的黑色素瘤癌症疫苗Intismeran Autogene，转眼间就被曝可能成为一场“富人的专属游戏”—— 据美国投资银行William Blair预计，该疫苗未来的批发采购价格可能高达每名患者47 | 而这距离莫德纳与",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "融资与投资",
+        "AI × 金融"
+      ]
     },
     {
       "title": "曝英伟达129 亿美元收购Hugging Face！黄仁勋：我只后悔没有更早、更多投资OpenAI、Anthropic",
@@ -19,34 +24,56 @@
       "publish_time": "2026-08-28",
       "category": "AI 技术",
       "summary": "Hugging Face 是一个备受欢迎的、用于分享开源模型以及基于开源模型进行开发的 AI 平台 | 而就在该消息曝出前数小时，英伟达发布了最新的季度财报 | 在最新的 2027 财年第二季度财报电话会上，黄仁勋判断，客户对英伟达算...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
-      "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+      "title": "我的自媒体搭子，一顿饭功夫17份成品",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/480700.html",
       "publish_time": "2026-08-28",
       "category": "AI 综合",
       "summary": "不得不说，这真是我参加过最「全自动」的产品发布会…… 新闻稿、产品长图、嘉宾金句海报、现场高光视频……一个接一个往外冒，简直是「实时转录」 | 完成这一切的，正是发布会的主角——百度搭子 | 从资料检索、信息分析到生成最终成果，整个过...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
-      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "title": "谷歌：AI核心员工回硅谷坐班",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/468398.html",
       "publish_time": "2026-08-08",
       "category": "AI 综合",
       "summary": "眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
-      "title": "被高估的视触觉：容易复制的生意，有多大投资价值？",
+      "title": "被高估的视触觉：容易复制的生意，有多大投资价值",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/480236.html",
       "publish_time": "2026-08-28",
       "category": "AI 综合",
       "summary": "行业对具身智能的期待，已升维至以物理交互为主的真实产业场景落地与价值创造 | 物理交互的核心需求，使触觉感知成为继视觉之后的新一代核心感知技术",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "融资与投资",
+        "具身智能"
+      ]
     },
     {
       "title": "e生涯斩获浙江一等奖，同蚂蚁、浙大一道晋级数据要素国赛",
@@ -55,7 +82,11 @@
       "publish_time": "2026-08-28",
       "category": "AI 综合",
       "summary": "8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕 | 8月26日，2026年“数据要素×”大赛浙江赛区决赛落下帷幕 | 经多轮专业评审与同台竞技，海亮科服选送的“智绘生涯成长蓝图 赋能智慧教育新发展”项目从全省209支参赛队伍中",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "Claude开始接管物理世界！能用机械臂阻拦5000万美元打款了",
@@ -64,7 +95,12 @@
       "publish_time": "2026-08-28",
       "category": "AI 综合",
       "summary": "继昨天下午线上阻止「今日瓜男」转账5000万后，Claude又在今天凌晨整了一个颇有《超体》意味的新发布—— 刚刚，Claude母公司Anthropic发布了一套全新模型硬件标准（Model Hardware Standard），简称MHS",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
@@ -73,7 +109,11 @@
       "publish_time": "2026-08-28",
       "category": "AI 综合",
       "summary": "时代周刊刚刚公布了2026年度全球百名AI人物名单—— 奥特曼、马斯克、Ilya、李飞飞、LeCun、Dario等全球AI行业的Big Name悉数入选 | 国内的熟悉面孔同样不少，字节跳动梁汝波、阿里巴巴吴泳铭、月之暗面杨植麟、智谱张鹏、",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "Łukasz Kaiser领衔，2026 奇点智能技术大会北京站正式官宣",
@@ -82,7 +122,11 @@
       "publish_time": "2026-08-28",
       "category": "AI 综合",
       "summary": "11 月 20 -21 日，由奇点智能研究院与 CSDN 联合主办的「奇点智能大会北京站」正式举行 2026 年，AI 世界最有权力的四个人，在同一件事上罕见地异口同声：Sam Altman：「We are now, like, in th",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "MiniMax ARR暴涨500%，token暴涨2000%！这就是Agent红利吧",
@@ -91,7 +135,12 @@
       "publish_time": "2026-08-27",
       "category": "AI 综合",
       "summary": "MiniMax最新数据披露，今年8月截至目前，公司ARR（年度经常性收入）已经超过8亿美元 | 而今年2月MiniMax披露的ARR还只有1",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "公司动态"
+      ]
     }
   ]
 }

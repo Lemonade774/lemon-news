@@ -10,7 +10,11 @@
       "publish_time": "2026-04-21",
       "category": "AI 综合",
       "summary": "暂无详细内容，请点击阅读原文查看。",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "中国具身智能最高单轮融资出炉！前华为、百度高管联手创业，打造真干活、真量产的机器人",
@@ -19,7 +23,12 @@
       "publish_time": "2026-04-21",
       "category": "AI 技术",
       "summary": "55 亿美元 Pre-A 轮融资，创下中国具身智能有史以来最高单轮融资纪录 | 值得注意的是，这已经是它石智航第二次刷新行业融资纪录 | 42 亿美金完成中国具身智能有史以来最大天使轮融资",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "融资与投资",
+        "具身智能"
+      ]
     },
     {
       "title": "单Agent时代结束，AI们开始组团上班",
@@ -28,16 +37,28 @@
       "publish_time": "2026-04-22",
       "category": "AI 综合",
       "summary": "昨晚，月之暗面发布并开源了旗下最新模型——K2 | 6在Artificial Analysis上取得了全球开源第一的成绩，仅次于闭源的全球“御三家” | 咱就是说，在御三家新模型轮流上线的这张梗图里，也是能有Kimi的一个位置了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
-      "title": "全球首个世界统一模型发布，机器人家庭成员来了！",
+      "title": "全球首个世界统一模型发布，机器人家庭成员来了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/04/404446.html",
       "publish_time": "2026-04-22",
       "category": "AI 综合",
       "summary": "jpg） 就在刚刚，自变量机器人发布了全球首个世界统一模型架构的具身智能基础模型：WALL-B",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "从GPU到Token：AI基础设施竞争逻辑重构",
@@ -46,7 +67,12 @@
       "publish_time": "2026-04-22",
       "category": "AI 综合",
       "summary": "近日，全球权威市场研究机构Omdia发布《2026全球AI工厂市场格局》报告",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "算力与芯片"
+      ]
     },
     {
       "title": "Kimi新论文：把KVCache玩成新商业模式了",
@@ -55,7 +81,11 @@
       "publish_time": "2026-04-19",
       "category": "AI 综合",
       "summary": "其核心突破是让KV Cache可以跨数据中心传输，把Prefill和Decode彻底解耦到不同的异构集群 | 这项工作由月之暗面和清华大学清华大学郑纬民院士、武永卫教授团队联合推出",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "6分钟满电续航1500公里！宁王一夜终结加油时代",
@@ -64,7 +94,12 @@
       "publish_time": "2026-04-22",
       "category": "AI 综合",
       "summary": "” 不愧是“宁王”史上技术密度最高的发布会，产品体系全维度升级，每一项几乎都刷新了天花板 | “宁王”的选择是，充换电全都要，而且能同时、同地实现 | 本次发布会，宁德时代发布了公司在动力电池、补能生态领域的最新进展",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "前小鹏汽车自动驾驶一号位李力耘出任众擎CTO，加速打造具身大脑",
@@ -73,7 +108,12 @@
       "publish_time": "2026-04-21",
       "category": "AI 综合",
       "summary": "通过将自动驾驶领域成熟的“工业化AI”打法、高效的数据飞轮与极强的工程部署能力引入具身赛道，众擎加速打造原生多模态驱动、大小脑与神经末梢协同的全集成架构 | ”4月21日，众擎创始人兼CEO赵同阳在朋友圈庆祝自己喜得悍将，并配上了他和前小鹏",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "2026萤石品牌新品发布会：驭智向前锚定长期主义，AI驱动多点开花",
@@ -82,7 +122,11 @@
       "publish_time": "2026-04-22",
       "category": "AI 综合",
       "summary": "4月21日，全球领先的安全智能生活品牌萤石在杭州正式举办2026品牌新品发布会 | 本次发布会上，萤石正式宣布了全新的品牌使命，从“致力于人人轻松享有安全的智能生活”，升级为“以安全的智能科技共创美好生活”",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "5月20日，马上AI起来！中国AIGC产业峰会报名已启动｜首波嘉宾官宣",
@@ -91,7 +135,11 @@
       "publish_time": "2026-04-21",
       "category": "AI 综合",
       "summary": "组委会 发自 凹非寺公众号｜量子位 QbitAI “龙虾”、“爱马仕”接连爆火，你用上了吗 | 可以看到，AI正在从少数人的工具，变成所有人的日常 | 今年5月20日，我们将在北京金茂万丽酒店举办一年一度的中国AIGC产业峰会",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     }
   ]
 }

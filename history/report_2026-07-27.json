@@ -10,7 +10,11 @@
       "publish_time": "2026-07-25",
       "category": "AI 综合",
       "summary": "项目名为OpenWorker，现已在GitHub开源，采用MIT License | 吴恩达在推上表示，OpenWorker已经可以在Mac上运行，Windows版本也即将上线",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "亚马逊云科技发布 Loom，一个用于在企业级规模上管理 AI 代理的开源参考平台",
@@ -19,7 +23,11 @@
       "publish_time": "2026-07-27",
       "category": "AI 技术",
       "summary": "亚马逊云科技最近发布了 Loom，这是一个开源且具有明确设计理念的智能代理平台，展示了企业如何在 AWS 上构建、部署和管理 AI 智能代理，并从一开始就内置了安全控制措施 | 它源于亚马逊云科技首席解决方案架构师 Heeki Par...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
@@ -28,7 +36,13 @@
       "publish_time": "2026-07-24",
       "category": "AI 综合",
       "summary": "这是这家多模态大模型公司在近三个月内完成的第三轮融资 | 三轮密集融资超21亿元后，智象未来估值超过10亿美金，正式跻身全球AI独角兽行列",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
@@ -37,7 +51,11 @@
       "publish_time": "2026-07-25",
       "category": "AI 综合",
       "summary": "你敢相信么，现在的AI，已经把“横店”给直接搞到了线上了 | 以后啊，人要进横店拍戏，可能就会出现两种方式了 | 一种是像以前一样，本人肉身进剧组；另一种，则变成了坐在电脑前，进入线上虚拟片场，在数字化的影棚中调度人物、道具和摄像机，完成影",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
@@ -46,7 +64,12 @@
       "publish_time": "2026-07-25",
       "category": "AI 综合",
       "summary": "而这只小猫背后，就是Vivix最新发布的实时交互多模态模型A1",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
@@ -55,7 +78,13 @@
       "publish_time": "2026-07-26",
       "category": "AI 综合",
       "summary": "现在，上海新智具身智能科技有限公司（NeoteAI）联合复旦大学可信具身智能研究院，正式发布了N0系列三份技术报告，把触觉从“辅助模态”跃升为“核心基建” | 更具行业价值的是，项目的数据和模型会进行开源，可以直接查看项目的完整链接：...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
@@ -64,7 +93,13 @@
       "publish_time": "2026-07-25",
       "category": "AI 综合",
       "summary": "做扫地机器人的科沃斯，把旗下一款具身智能机器人整个开源了 | 2012年，它推出了全球首款家庭服务机器人「亲宝」，是最早一批入局家庭服务机器人赛道的公司 | 现在，它在苏州挂牌成立了「八界开源智创空间」，面向开发者、高校师生和科研人员...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "蚂蚁百灵发布新一代原生混合推理模型Ling-3.0-Flash",
@@ -73,7 +108,12 @@
       "publish_time": "2026-07-27",
       "category": "AI 综合",
       "summary": "7月24日，蚂蚁百灵正式发布新一代原生混合推理模型 Ling-3 | 据了解，该模型已上线OpenRouter，限时免费一周，之后将正式开源",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
@@ -82,7 +122,13 @@
       "publish_time": "2026-07-24",
       "category": "AI 综合",
       "summary": "登顶的是兔展智能团队联合北大、鹏城实验室研发的UniWorld-View（模型已适配国产昇腾算力）： 你随手拍一段视频，或者干脆只给一张图，它还你一段“相机轨迹任你指定”的新视角视频—— 推、拉、摇、移，甚至“绕着场景360°转一圈”都可以",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "算力与芯片"
+      ]
     },
     {
       "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
@@ -91,7 +137,11 @@
       "publish_time": "2026-07-25",
       "category": "AI 综合",
       "summary": "模型变强，Claude Code系统提示词都精简了 泄露了一路的Opus 5，刚正式登场就被网友玩疯了 | 今天凌晨，Anthropic正式把这款新模型放了出来 | 多项硬核评测上，它追平甚至反超了Fable 5，价格却只有一半",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     }
   ]
 }

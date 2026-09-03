@@ -10,7 +10,11 @@
       "publish_time": "2026-07-18",
       "category": "AI 综合",
       "summary": "不儿，现在连无人机都开始传Token（词元）了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "企业 AI：方法论易得，交付力难求",
@@ -19,7 +23,11 @@
       "publish_time": "2026-07-20",
       "category": "AI 技术",
       "summary": "22 亿个 Agent 上线，和真正产出业务价值，是两回事",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "撑起全球AI半边天？一文了解姚期智与他的清华姚班",
@@ -28,7 +36,11 @@
       "publish_time": "2026-07-23",
       "category": "AI 产业",
       "summary": "图片显示，该实习生税前单日薪资5500元，按每月22个工作日计算，月度实习收入突破12万元，这与普通AI行业实习生日薪500至1000元的基准形成鲜明反差",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 产业"
+      ]
     },
     {
       "title": "看了20万小时「人类干活实录」，机器人悟了",
@@ -37,7 +49,13 @@
       "publish_time": "2026-07-19",
       "category": "AI 综合",
       "summary": "这个模型才刚在WAIC 2026上正式发布",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "美图拿出1亿元，面向全行业寻找AI影像Builder",
@@ -46,7 +64,11 @@
       "publish_time": "2026-07-23",
       "category": "AI 综合",
       "summary": "近期，美图发起美图产品挑战赛（Meitu Hatch Catch），拿出1亿元，面向全球寻找已经上线并拥有种子用户的AI原生影像应用，希望与更多Builder共同探索AI影像的下一种可能",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "小红书大模型IMO满分夺金，第三题解法让冠军选手直呼优雅",
@@ -55,7 +77,11 @@
       "publish_time": "2026-07-22",
       "category": "AI 综合",
       "summary": "刚刚，IMO 2026成绩新鲜出炉，大模型交卷今年卷到了新高度",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "上海这场大赛有点“野”：让AI自主科研、控核聚变、认甲骨文",
@@ -64,7 +90,11 @@
       "publish_time": "2026-07-23",
       "category": "AI 综合",
       "summary": "7月17-18日，第四届世界科学智能大赛总决赛及颁奖典礼在上海举行 | 来自AI4S智能体CNS挑战赛、电力市场交易、可控核聚变、生物结构预测与古文字识别五大赛道的30支队伍齐聚西岸，在上海科学智能研究院（下称“上智院”）开展线下答辩，最终",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "太初元碁携手上海人工智能实验室举办AI4S和新型模型架构算子优化赛",
@@ -73,7 +103,12 @@
       "publish_time": "2026-07-23",
       "category": "AI 综合",
       "summary": "日前，由上海人工智能实验室主办的KernelSwift算子创新大赛正式发布 | 其中，国产智算企业太初（杭州）集成电路有限公司（“太初元碁”）作为大赛主要合作伙伴推出 AI4S和新型模型架构算子优化赛道（太初赛道）",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "不同模型厂同一家Agentic Infra，AGI时代的地基终于浮出水面",
@@ -82,7 +117,13 @@
       "publish_time": "2026-07-20",
       "category": "AI 综合",
       "summary": "就在今天的WAIC论坛上，MiniMax和阶跃星辰，同时出现在了一家AI Infra公司的论坛现场，前者参加战略合作签约，后者发布主旨演讲 | 需求端，2026年推理开始反超训练，成为AI算力消耗的主战场，推理成本两年降了280倍，企...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
@@ -91,7 +132,13 @@
       "publish_time": "2026-07-13",
       "category": "AI 综合",
       "summary": "同时发布CPU原生液冷整机柜、多模融合超节点 AI基础设施的核心任务，已经从支撑大模型推理，转向支撑海量智能体的规模化运行与高质量Token的持续生产",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     }
   ]
 }

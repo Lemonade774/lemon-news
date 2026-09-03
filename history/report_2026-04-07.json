@@ -10,7 +10,12 @@
       "publish_time": "2026-04-07",
       "category": "AI 综合",
       "summary": "6-Max也将发布 4月7日，国际知名的大模型API三方调用平台OpenRouter公布了新一期调用量周榜单，阿里千问新模型Qwen3 | 6-Plus是OpenRouter平台上首个单日调用量突破1万亿Token的模型，被OpenR...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "AI 时代的架构治理",
@@ -19,7 +24,11 @@
       "publish_time": "2026-04-06",
       "category": "AI 技术",
       "summary": "本文由 InfoQ 认证架构师在线课程的学员撰写，是其学习成果的集大成之作，反映了学员群体在 AI 与现代软件架构交叉领域的集体学习心得 | 生成式 AI 大幅降低了编写代码所需的工作量，快速原型设计也变得越来越普遍 | 因此，如今软件开发",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 技术"
+      ]
     },
     {
       "title": "下一代OpenClaw来了？“龙虾之父”称将率先支持阿里千问",
@@ -28,7 +37,12 @@
       "publish_time": "2026-04-07",
       "category": "AI 综合",
       "summary": "据了解，过去的一周，阿里连续发布Qwen3 | 6Plus在全球最大的大模型API平台OpenRouter上霸榜多日，成为该平台首个单日调用量突破1万亿Token的模型",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "Ilya曝光70页OpenAI绝密文件",
@@ -37,7 +51,12 @@
       "publish_time": "2026-04-07",
       "category": "AI 综合",
       "summary": "Ilya偷拍备份的OpenAI机密文件，刚刚曝光 | 70页内部证据、200+页私人笔记，偷拍视频、绕开公司系统、用阅后即焚的方式传递消息，甚至上来直接一个大暴击： Sam Altman撒谎成性",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "OpenAI又曝出内讧了！IPO前夜高层大换血",
@@ -46,7 +65,12 @@
       "publish_time": "2026-04-06",
       "category": "AI 综合",
       "summary": "就怎么说呢，和前脚刚拿到千亿融资以及GPT-6传出新进展相比，这反转也来得太快了吧 | 关于OpenAI身上正在发生的事，这第一件就很耐人寻味： 就在它拿下1220亿美元创纪录融资、全力冲刺IPO的节骨眼上，几位核心高管却要么换岗、要...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资"
+      ]
     },
     {
       "title": "北大团队改造DeepSeek注意力，速度快四倍还不丢精度",
@@ -55,7 +79,11 @@
       "publish_time": "2026-04-06",
       "category": "AI 综合",
       "summary": "就在大家都急头白脸地等待DeepSeek-V4的时候，冷不丁一篇新论文引起了网友们的注意—— 提出新稀疏注意力机制HISA（分层索引稀疏注意力），突破64K上下文的索引瓶颈，相比DeepSeek正在用的DSA（DeepSeek Sparse",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "让离线强化学习从「局部描摹」变「全局布局」丨ICLR’26",
@@ -64,7 +92,11 @@
       "publish_time": "2026-04-06",
       "category": "AI 综合",
       "summary": "这就好比画一幅素描，你不会一上来就描绘眼睛的睫毛，而是先画出整体的身体轮廓（宏观规划），再逐步细化五官和表情 为了直观展示现有模型的缺陷，研究团队设计了一个迷宫吃金币小实验",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "23天靠AI短片赚100万！非科班出身逆袭影视区，郭帆导演拍手叫好",
@@ -73,7 +105,11 @@
       "publish_time": "2026-04-07",
       "category": "AI 综合",
       "summary": "以《牌子》这部7分多钟的视频为例，制作周期23天，在B站上线一周，收获1000多万次播放，80多万点赞，30多万投币",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
@@ -82,7 +118,11 @@
       "publish_time": "2026-04-05",
       "category": "AI 综合",
       "summary": "现在AI找Bug的速度，比他们修Bug还快 | 从今年开始，每天雷打不动收到5到10份报告，周二周五尤其多 | 最搞心态的是，这些AI生成的报告，竟然大部分都还是对的，想摸鱼都没借口，何况这提交者还是一个不用睡觉的“赛博监工”",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "卡帕西没做完的，开源社区48小时搞定了！完全体知识库，token省70倍",
@@ -91,7 +131,11 @@
       "publish_time": "2026-04-07",
       "category": "AI 综合",
       "summary": "Graphify，一款零配置、全模态、本地跑、还特能省token的知识图谱工具，GitHub开源狂揽2k+ Star | 不仅能自动构建可导航知识图谱、自带反向链接和关系溯源，更实现71",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     }
   ]
 }

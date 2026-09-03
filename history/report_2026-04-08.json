@@ -10,7 +10,11 @@
       "publish_time": "2026-04-07",
       "category": "AI 综合",
       "summary": "怒肝三天，啃完哈萨比斯的最新官方传记，发现了这位谷歌AI一号位许多不为人知的一面 | 辛顿初创公司拍卖夜，DeepMind也出了1000万美元 | 可惜辛顿实在太抢手，发现没戏后，哈萨比斯给辛顿打了个电话： 扎克伯格请哈萨比斯来家里吃饭，谁",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "地瓜机器人再获1.5亿美元投资！B轮累计融资2.7亿美元，出货量同比大幅增长180%",
@@ -19,7 +23,12 @@
       "publish_time": "2026-04-08",
       "category": "AI 技术",
       "summary": "5 亿美元 B2 轮融资，B 轮累计融资额达 2 | 地瓜机器人与地平线始终保持技术同源、战略协同，共同打造“具身智能大脑基座”，推动机器人核心软硬件技术的革新与突破",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "融资与投资",
+        "具身智能"
+      ]
     },
     {
       "title": "又一家“理想系”具身智能公司创办，理想汽车参投",
@@ -28,7 +37,13 @@
       "publish_time": "2026-04-08",
       "category": "AI 产业",
       "summary": "公司成立于2026年2月，首轮融资由元璟资本和理想汽车共同投资，近期会完成工商变更",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资",
+        "具身智能"
+      ]
     },
     {
       "title": "Ilya曝光70页OpenAI绝密文件",
@@ -37,7 +52,12 @@
       "publish_time": "2026-04-07",
       "category": "AI 综合",
       "summary": "Ilya偷拍备份的OpenAI机密文件，刚刚曝光 | 70页内部证据、200+页私人笔记，偷拍视频、绕开公司系统、用阅后即焚的方式传递消息，甚至上来直接一个大暴击： Sam Altman撒谎成性",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "Skill vs App：一场入口范式的争夺",
@@ -46,7 +66,11 @@
       "publish_time": "2026-04-08",
       "category": "AI 综合",
       "summary": "中关村科学城国际创新服务集聚区的会议室，座无虚席 | 原定2点开始的沙龙活动，不少观众提前一个小时就到场 | 他们大多是从业多年的产品经理、创业者，也有大学生和刚入行的年轻人",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "DeepSeek深夜更新后自曝：我是V4（？！）",
@@ -55,7 +79,12 @@
       "publish_time": "2026-04-08",
       "category": "AI 综合",
       "summary": "就在刚刚，DeepSeek网页端直接就是一个大更新，推出了「快速模式」和「专家模式」两个功能 | （笑） 我们先来说说DeepSeek刚刚上线的「快速模式」和「专家模式」到底是个啥东西",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "Claude爆火研究漏引华人团队成果，已挨打立正道歉",
@@ -64,7 +93,12 @@
       "publish_time": "2026-04-07",
       "category": "AI 综合",
       "summary": "MBZUAI研究生Chenxi Wang发现，这篇论文的引用列表里，是不是忘了些什么…… 4月2日，Anthropic发布了一篇新论文，研究了Claude内部的“情绪机制”，在Sonnet 4",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
@@ -73,7 +107,11 @@
       "publish_time": "2026-04-05",
       "category": "AI 综合",
       "summary": "现在AI找Bug的速度，比他们修Bug还快 | 从今年开始，每天雷打不动收到5到10份报告，周二周五尤其多 | 最搞心态的是，这些AI生成的报告，竟然大部分都还是对的，想摸鱼都没借口，何况这提交者还是一个不用睡觉的“赛博监工”",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "Meta员工空转AI只为浪费token！烧的多挣的多，日均消耗2万亿",
@@ -82,7 +120,12 @@
       "publish_time": "2026-04-07",
       "category": "AI 综合",
       "summary": "不过，亚历山大王这每天两万亿也没白烧，Meta第一个由他主导的模型，即将以“半开源”的形式揭晓",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "省token神器3天狂揽4.1k星！19岁小哥开发，信息无损最高省87%",
@@ -91,7 +134,11 @@
       "publish_time": "2026-04-08",
       "category": "AI 综合",
       "summary": "信息无损Token最高节省87%，一款省Token神器正在GitHub蹿红 | 短短3天，纯靠口口相传，GitHub总揽星4 | 1K，增长曲线更是堪比“旱地拔葱”： 连开发这个项目的19岁外国小哥也懵了，直呼属实没想到",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     }
   ]
 }

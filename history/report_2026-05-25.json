@@ -10,7 +10,13 @@
       "publish_time": "2026-05-25",
       "category": "AI 综合",
       "summary": "刚刚完成新一轮亿元融资的具脑磐石，从成立之初押注的正是这个方向",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资",
+        "具身智能"
+      ]
     },
     {
       "title": "马斯克要当“太空版黄仁勋”：Anthropic一年上交150亿美元，Cursor百亿分手费锁死，SpaceX成新算力庄家",
@@ -19,7 +25,12 @@
       "publish_time": "2026-05-21",
       "category": "AI 技术",
       "summary": "75 万亿至 2 万亿美元，融资规模最高可达 750 亿至 800 亿美元",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "融资与投资",
+        "算力与芯片"
+      ]
     },
     {
       "title": "谷歌CEO承认Coding落后了",
@@ -28,7 +39,11 @@
       "publish_time": "2026-05-24",
       "category": "AI 综合",
       "summary": "搜索25年来最大改版，但谷歌还不敢一脚切到AI 谷歌CEO皮查伊这次真没藏着掖着，直接一个真心话大放送了： 在Coding这事儿上，我们家Gemini确实有点了落后哈… | （Gemini：怎么这话还从我自家老板嘴里说出来了呢",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "顶流里最快！智谱，你是在「喷」代码吧",
@@ -37,7 +52,12 @@
       "publish_time": "2026-05-22",
       "category": "AI 综合",
       "summary": "视频地址：https://mp.weixin.qq.com/s/Wn1-SzjpEkQLTyZnJKDRwg 这么多的代码，直接就是“啪的一下”喷出来的感觉。 之前AI写代码像CPU渲图一样，是一点一点打出来；但这个AI写代码，更像GPU：",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "算力与芯片"
+      ]
     },
     {
       "title": "OpenAI大神教你如何榨干Codex",
@@ -46,7 +66,11 @@
       "publish_time": "2026-05-23",
       "category": "AI 综合",
       "summary": "13k星开源库作者解锁Codex-maxxing",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "什么！你说胡彦斌也在苦修Vibe Coding",
@@ -55,7 +79,11 @@
       "publish_time": "2026-05-24",
       "category": "AI 综合",
       "summary": "Vibe Coding还是太权威了vibe Vibe Coding的风，已经从程序员工位一路吹到了文学圈和娱乐圈了 | 这边知名长篇小说《活着》的作者余华老师，对着镜头一脸骄傲地说： 那边《你要的全拿走》原唱，知名歌手胡彦斌直接在社交媒体发",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
@@ -64,7 +92,13 @@
       "publish_time": "2026-05-19",
       "category": "AI 综合",
       "summary": "但一家国产GPU厂商，却在一整场发布会的时间里，做了一件非常物理的事儿—— 在走到舞台中央后，只见屏幕里仿真世界的小飞侧空翻了一下，随即，物理世界的小飞便做出了一模一样的动作 | 正是由摩尔线程新鲜发布的MT Lambda | 这是首...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "算力与芯片",
+        "具身智能"
+      ]
     },
     {
       "title": "卷到今天，Agent的含金量还在提升丨AIGC2026圆桌论坛",
@@ -73,7 +107,12 @@
       "publish_time": "2026-05-24",
       "category": "AI 综合",
       "summary": "从OpenClaw小龙虾出圈，到Coding Agent、个人Agent、Agent OS、OPC工具密集出现，Agent产品已经从早期概念展示，进入真实产品爆发期",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用"
+      ]
     },
     {
       "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
@@ -82,7 +121,13 @@
       "publish_time": "2026-05-25",
       "category": "AI 综合",
       "summary": "从硅谷投资人的视角望出去，AI的叙事正在悄然换轨 | 在这个新旧周期交替的关键节点，Fusion Fund创始合伙人张璐带来了她一线的判断： 过去两年，行业所有的目光都聚焦在模型和算力上，但真正的战场，正在向基础设施的“通信层”和物理世界的",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资",
+        "算力与芯片"
+      ]
     },
     {
       "title": "未来推理将吃掉70%算力，30%留给训练丨硅谷投资人张璐@AIGC2026",
@@ -91,7 +136,13 @@
       "publish_time": "2026-05-24",
       "category": "AI 综合",
       "summary": "技术创新只是起点，产业整合速度才是AI落地的真正竞争力 从硅谷投资人的视角望出去，AI的叙事正在悄然换轨 | 在这个新旧周期交替的关键节点，Fusion Fund创始合伙人张璐带来了她一线的判断： 过去两年，行业所有的目光都聚焦在模型和算力",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资",
+        "算力与芯片"
+      ]
     }
   ]
 }

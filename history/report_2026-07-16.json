@@ -10,7 +10,11 @@
       "publish_time": "2026-07-15",
       "category": "AI 综合",
       "summary": "在国内多家知名医疗设备、精密制造工厂的品质部门完成精度与效率的确认后，优可测全新高精度闪测仪FMX系列2026年7月15日正式发布",
-      "importance_score": 10
+      "importance_score": 10,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "Linux 基金会推出 Akrites 项目，防护核心开源软件免受 AI 网络威胁侵害",
@@ -19,7 +23,13 @@
       "publish_time": "2026-07-15",
       "category": "AI 技术",
       "summary": "Linux 基金会正式发起Akrites倡议项目，这是一项面向全行业的全新倡议，旨在保护全球最关键的开源软件免受快速演进的 AI 驱动网络的威胁 | 该倡议获得了超过 20 家创始机构的支持，包括主要云服务商、AI 公司、金融机构、网...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资",
+        "AI × 金融"
+      ]
     },
     {
       "title": "WAIC开幕前夕，上海人工智能产业热议自主创新与AI治理",
@@ -28,7 +38,11 @@
       "publish_time": "2026-07-16",
       "category": "AI 产业",
       "summary": "上海市人工智能行业协会副秘书长徐琦回顾道，前年围绕具身智能产业，WAIC还是以“十八罗汉”静态展示具身智能机器人为主，去年升级为“技能大舞台“，机器人开始展示具体技能，但规模和成熟度仍有局限",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "马斯克也开始L4降维L2了！FSD正式进入反转时刻",
@@ -37,7 +51,11 @@
       "publish_time": "2026-07-15",
       "category": "AI 综合",
       "summary": "5，在更新说明中写入了一项更关键的变化：智能召唤、FSD和Robotaxi，开始共用一套模型",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "马斯克“机器人还进不了厂”刚说完，小米机器人”上岗“汽车产线了",
@@ -46,7 +64,12 @@
       "publish_time": "2026-07-14",
       "category": "AI 综合",
       "summary": "刚刚，小米技术官方微博发布小米机器人进厂“实习”的最新进展—— 不到半年的时间里，小米机器人就学会了柔性工件的长时作业",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO",
@@ -55,7 +78,13 @@
       "publish_time": "2026-07-15",
       "category": "AI 综合",
       "summary": "刚完成第一轮融资后，DeepSeek被曝第二轮融资已经启动 | 据《金融时报》消息，目前DeepSeek正在与新投资者接触，希望开启新一轮融资，融资前估值约710亿美元（折合人民币4800亿元），相比首轮融资后估值520亿美元，上涨3...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资",
+        "AI × 金融"
+      ]
     },
     {
       "title": "阶跃入局，重构智能体时代操作系统",
@@ -64,25 +93,38 @@
       "publish_time": "2026-07-15",
       "category": "AI 综合",
       "summary": "2026年，全球操作系统产业，迎来60年来的最大一次范式重构 | 从大模型厂商到终端巨头，几乎所有头部核心玩家都在，争夺下一代操作系统的定义权 | 今天的智能体不再满足于聊天与思考，它们已经能够代人行动、替人做事",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent"
+      ]
     },
     {
-      "title": "人在Meta，休个病假/产假转身被AI裁了？？",
+      "title": "人在Meta，休个病假/产假转身被AI裁了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/450709.html",
       "publish_time": "2026-07-15",
       "category": "AI 综合",
       "summary": "人在Meta，因为休个病假/产假，然后……工作就没了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
-      "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓！",
+      "title": "主论坛丨WAIC 2026主论坛（下午场）重磅揭晓",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/450831.html",
       "publish_time": "2026-07-15",
       "category": "AI 综合",
       "summary": "最新 | WAIC 2026交通指引与入场须知 2026世界人工智能大会暨人工智能全球治理高级别会议主论坛下午场将于7月17日在上海世博中心举行 | 主论坛紧扣“智能伙伴 共创未来”大会主题，以“伙伴基石—伙伴征程—伙伴边界”三大篇章为主线",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "2026年世界人工智能大会，7月17-7月20上海举办",
@@ -91,7 +133,11 @@
       "publish_time": "2026-07-15",
       "category": "AI 综合",
       "summary": "WAIC 2026将于7月17-20日在上海举行，分设世博、张江、西岸三大片区，以“智能伙伴，共创未来”为主题，设置论坛会议、展览展示、评奖赛事、应用体验、创新孵化、招才引智六大板块：计划举办140余场主题论坛，集聚1400余位国际嘉宾，展",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     }
   ]
 }

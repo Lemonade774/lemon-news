@@ -10,7 +10,13 @@
       "publish_time": "2026-06-29",
       "category": "AI 综合",
       "summary": "Anthropic今年4月发布第一个预览，DeepSeek融资传闻也是4月中旬第一次传出 | 融资完成后，DeepSeek本周四罕见地发了一则公开声明： 所有部门招人“至少翻倍”，覆盖AI系统开发、基础设施、产品开发和深度学习研究",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛",
@@ -19,16 +25,27 @@
       "publish_time": "2026-06-18",
       "category": "AI 技术",
       "summary": "去年刚成立的光象科技，近日发布了首个工业级自进化具身智能机器人 Phi-Bot X1",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
-      "title": "如果顺利上市，这将成为近年来中国AI芯片领域规模最大的IPO之一。",
+      "title": "如果顺利上市，这将成为近年来中国AI芯片领域规模最大的IPO之一",
       "source": "界面新闻",
       "url": "https://www.jiemian.com/article/14663563.html",
       "publish_time": "2026-06-30",
       "category": "AI 产业",
       "summary": "百度旗下昆仑芯拟赴港IPO，估值500亿美元 如果顺利上市，这将成为近年来中国AI芯片领域规模最大的IPO之一 | 6月29日，据科创板日报报道，百度集团（NASDAQ: BIDU/09888 | HK）旗下昆仑芯（北京）科技股份有限公司计",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资",
+        "算力与芯片"
+      ]
     },
     {
       "title": "太空算力的国产答案：用光子更高效！马斯克和老黄都太绕了",
@@ -37,7 +54,11 @@
       "publish_time": "2026-06-29",
       "category": "AI 综合",
       "summary": "克雷西 发自 凹非寺量子位 | 公众号 QbitAI 太空算力的竞赛，已经变成了一场真实的军备竞赛 | 马斯克判断，到2032年，太阳能驱动的太空AI卫星，将成为全球成本最优的算力方案 | 英伟达CEO黄仁勋今年三月的判断，也从某种程度上给",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "算力与芯片"
+      ]
     },
     {
       "title": "AI当老板，快给10家公司干破产了…",
@@ -46,16 +67,25 @@
       "publish_time": "2026-06-29",
       "category": "AI 综合",
       "summary": "AI当「老板」，快给10家公司干破产了…… 普林斯顿大学最近搞了个CEO-Bench，让AI运营一家虚拟SaaS初创，为期500天 | 谁曾想，14位硅基CEO上场，只有4个保住了本金 | 而这第四名，还是个纯rule-based算法…… ",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
-      "title": "啥？做AI短剧可以免费，免费，免费了！",
+      "title": "啥？做AI短剧可以免费，免费，免费了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/439750.html",
       "publish_time": "2026-06-29",
       "category": "AI 综合",
       "summary": "你没看错，我们这就来展示一下免费视频AI的效果 | 而它的背后，用的正是Agnes AI最新推出的视频创作平台——Pavo",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "“词元盗用”正在成为AI商业化面临的新风险",
@@ -64,7 +94,12 @@
       "publish_time": "2026-06-29",
       "category": "AI 综合",
       "summary": "过去一年，AI 智能体（AI Agent）已经从技术演示逐渐进入真实商业场景 | 随着各种“龙虾”的爆发，越来越多AI产品开始具备自主完成任务的能力：它们能够搜索信息、调用工具、连接服务，甚至可以代表用户完成复杂工作流 | 正如 Strip",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用"
+      ]
     },
     {
       "title": "抱抱脸模型TOP榜，我现在只服yuxinlu1",
@@ -73,16 +108,26 @@
       "publish_time": "2026-06-28",
       "category": "AI 综合",
       "summary": "2，智谱最新开源模型，老熟人了，下载量6万多，不足为奇 | 第二是百度的无限OCR，最近悄悄开源的，一口气能解析40多页文档，下载量也来到了7万",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
-      "title": "全球首个：隐空间世界模型，打通长时序双向物理因果链了！",
+      "title": "全球首个：隐空间世界模型，打通长时序双向物理因果链了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/439891.html",
       "publish_time": "2026-06-29",
       "category": "AI 综合",
       "summary": "其正式发布了全球首个“长时序双向物理因果链”隐空间世界模型MWA™，拓展具身智能的多元场景泛化能力，直击机器人长周期、高精度执行的行业老大难问题",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "OceanBase发布AI数据库：以一套引擎融合湖库与多模态数据",
@@ -91,7 +136,13 @@
       "publish_time": "2026-06-29",
       "category": "AI 综合",
       "summary": "过去三年，大模型能力快速跃升，算力持续突破，但企业AI落地却并未迎来预期中的价值释放 | （图说：OceanBase发布湖库一体的AI数据库） AI落地瓶颈在数据，“湖库一体”成为最佳路径 过去，大模型解决的是“会不会思考”的问题；今...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "算力与芯片"
+      ]
     }
   ]
 }

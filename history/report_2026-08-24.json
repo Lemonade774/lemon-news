@@ -10,7 +10,13 @@
       "publish_time": "2026-08-23",
       "category": "AI 综合",
       "summary": "当“具身智能”这个词从实验室一路火到资本市场，香港的大学里冒出了一批很特别的人 | 他们不只是在顶会发论文的教授，还是估值上亿公司的创始人或首席科学家 | 一只脚踩在象牙塔，一只脚踩在产业链上游，两边都不耽误",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资",
+        "具身智能"
+      ]
     },
     {
       "title": "JetBrains详细阐述了控制AI支出快速增长的首批举措",
@@ -19,7 +25,12 @@
       "publish_time": "2026-08-22",
       "category": "AI 技术",
       "summary": "随后公司通过供应商 API 与内部仪表盘实现了自动化，为团队提供持续更新的当前与预测支出视图",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
@@ -28,16 +39,27 @@
       "publish_time": "2026-08-22",
       "category": "AI 综合",
       "summary": "正式介绍之前我们来做个小互动：抛开AI、不查资料，5秒内能说出现有的具身数据采集方式有哪些 | 真机遥操作采集、无本体便携采集（UMI/Ego）、仿真合成数据、互联网视频蒸馏是最主流的四种方式",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "具身智能"
+      ]
     },
     {
-      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "title": "谷歌：AI核心员工回硅谷坐班",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/468398.html",
       "publish_time": "2026-08-08",
       "category": "AI 综合",
       "summary": "眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
@@ -46,7 +68,11 @@
       "publish_time": "2026-08-23",
       "category": "AI 综合",
       "summary": "WRC百个机器人展台，大多数在展示“我能做这个动作”，而它展示的是“我能在这样一个真实环境里持续工作，不出意外”",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
@@ -55,7 +81,11 @@
       "publish_time": "2026-08-23",
       "category": "AI 综合",
       "summary": "2016年，AlphaGo战胜李世石，让人工智能第一次以一种近乎震撼的方式走进公众视野 | 这场被载入AI发展史的人机大战，不仅证明了机器能够在复杂博弈中挑战人类顶尖水平，更成为人工智能迈向新阶段的一个标志性时刻 | 十年之后，2026年，",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "他给了王兴兴第一个200万，现在给下一个「宇树」当董事长",
@@ -64,7 +94,11 @@
       "publish_time": "2026-08-23",
       "category": "AI 综合",
       "summary": "各家投中宇树的投资机构，纷纷发表祝贺、致谢或战报，既是与宇树共同分享喜悦，也是在展示自己投资成功的证明 | 2016年，他在王兴兴融资遇挫时，给了宇树最重要的首笔天使投资，以200万元换来了15%股权",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "融资与投资"
+      ]
     },
     {
       "title": "前保安杀进了AI决赛，高中生拿走25万！这AI比赛办得有点绝",
@@ -73,7 +107,11 @@
       "publish_time": "2026-08-24",
       "category": "AI 综合",
       "summary": "他叫彭铭裕，今年24岁，之前从事的职业是保安 | 而就是这么与AI八竿子打不着边的他，竟能从数万人中杀出一条血路，直接斩获全国第20强 | 如此的反转，还要从彭铭裕当保安那段时间说起",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "英伟达AI服务器将涨价15%！1GW数据中心成本激增50亿美元",
@@ -82,7 +120,12 @@
       "publish_time": "2026-08-23",
       "category": "AI 综合",
       "summary": "据彭博社消息，部分英伟达大客户已获告知，明年初交付的AI服务器，价格可能上调15%以上 | 涉及的产品包括现有的Grace Blackwell，以及下一代旗舰Vera Rubin | 具体涨幅会根据GPU代际和内存配置有所不同",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "算力与芯片"
+      ]
     },
     {
       "title": "不做硅谷follower：几个读博的年轻人，押注双足人形的一体化大脑",
@@ -91,7 +134,12 @@
       "publish_time": "2026-08-23",
       "category": "AI 综合",
       "summary": "一个机器人驾驶卡丁车在赛道上飞驰，过弯、加速、打方向，一镜到底 | 没想到我们的机器人现在已经可以在卡丁车赛道炫技了呢 | 展会上的机器人跑步、还有火花加闪电，没想到视频里的机器人什么时候背着人类偷偷报名赛车培训班了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "具身智能"
+      ]
     }
   ]
 }

@@ -10,7 +10,11 @@
       "publish_time": "2026-08-08",
       "category": "AI 综合",
       "summary": "谷歌姐夫be like：融资，那不是手到擒来的事儿吗",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "融资与投资"
+      ]
     },
     {
       "title": "Jeff Dean离职前最后一次对话：我低估了AI，也看清了创业者的唯一生路",
@@ -19,16 +23,26 @@
       "publish_time": "2026-08-06",
       "category": "AI 技术",
       "summary": "一年前，Google 首席科学家 Jeff Dean 在 AI Ascent 2025 峰会上预测：到 2026 年，可能出现能够全天候工作、能力接近初级软件工程师的 AI 系统 | 一年后，也就是 6 天前，他在一期 YC 访谈中承认，自",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 技术"
+      ]
     },
     {
-      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "title": "谷歌：AI核心员工回硅谷坐班",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/468398.html",
       "publish_time": "2026-08-08",
       "category": "AI 综合",
       "summary": "眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "180万刀，连亚马逊都烧不起Claude了",
@@ -37,7 +51,13 @@
       "publish_time": "2026-08-09",
       "category": "AI 综合",
       "summary": "洛阳纸贵，Agent用量爆炸已成为科技公司的噩梦，这些公司不幸地发现：原来比起AI，人的最大优势是可以拖欠工资（x） | 最近，年入7000多亿美元、家大业大的亚马逊，也被Claude狠狠毒打了 | 据亚马逊公司员工透露，公司近期想使用Cl",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "奥特曼的ChatGPT育儿大法，捅了马蜂窝",
@@ -46,16 +66,25 @@
       "publish_time": "2026-08-08",
       "category": "AI 综合",
       "summary": "奥特曼又被喷成筛子了，这回是他兴致勃勃想教大家伙用GPT养孩子…… 近日，OpenAI的联合创始人兼CEO奥特曼在X上分享了一个他自认为很酷的ChatGPT使用场景： 把全家人的日程表和孩子们的兴趣统统喂给ChatGPT，然后让它在每天早晨",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
-      "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+      "title": "爆料：哈萨比斯原本要和Jeff Dean一起走",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/468715.html",
       "publish_time": "2026-08-09",
       "category": "AI 综合",
       "summary": "据Pathfounders援引行业消息人士称，哈萨比斯原本计划和Jeff Dean等人同期离开谷歌 | 但是谷歌管理层担心自己股价跌得太惨…于是苦苦挽留哈萨比斯，最终把他劝了下来 | 哈萨比斯卸任Google DeepMind CEO，升任",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "Kimi K3也失控了…学霸AI逃离沙箱只为找答案",
@@ -64,7 +93,11 @@
       "publish_time": "2026-08-08",
       "category": "AI 综合",
       "summary": "美国AI安全初创公司Frontier Security表示，Kimi K3在一次网络安全能力测试中被发现突破了原本用于隔离它的沙箱环境，绕过限制连接到了外部互联网 | Frontier Security的CEO Yaron Singe...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "GPT-5.6和Fable联手，解决了一道悬了25年的数学难题",
@@ -73,7 +106,11 @@
       "publish_time": "2026-08-09",
       "category": "AI 综合",
       "summary": "所以问题就变成，能不能不通过穷举，利用快速算法实现还原 | 2001年，Hassibi和Vikalo以为找到了突破口，但2005年这条路又被Jaldén和Ottersten证明走不通",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "当题库追不上模型，AI开始给自己出题：中国这支团队跑通了数据层RSI",
@@ -82,7 +119,12 @@
       "publish_time": "2026-08-09",
       "category": "AI 综合",
       "summary": "由上海交大人工智能学院、深势科技、上海算法创新研究院组成的无尽前沿团队发布BigBang-V1——",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "Opus 5狂烧6.9亿token做游戏，GPT-5.6用5美元复刻了",
@@ -91,7 +133,11 @@
       "publish_time": "2026-08-09",
       "category": "AI 综合",
       "summary": "9亿个token、423美元和1条提示词，就能做出一款火遍全网的美式水上快艇竞速游戏 | 美式卡通风格、复古街机快艇竞速玩法，有完整的倒计时、圈数和排名系统",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     }
   ]
 }

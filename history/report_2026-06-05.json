@@ -10,7 +10,13 @@
       "publish_time": "2026-06-04",
       "category": "AI 综合",
       "summary": "量子位获悉，具身智能公司戴盟机器人（Daimon Robotics）新近完成亿元A轮融资，本轮融资由汇川产投和中国电信联合投资 | 这笔融资值得留意，不单是具身智能又拿到了投资 | 戴盟方面表明，本轮融资到账后主要会投向三件事",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践",
@@ -19,7 +25,11 @@
       "publish_time": "2026-06-05",
       "category": "AI 技术",
       "summary": "过去一年，“Agent”这个词从实验室走进了生产环境 | 工程师们开始真正面对一个新的问题：不是“AI 能不能做到”，而是“我们能不能把它跑稳、跑对、跑出规模”",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "当AI图“入侵”服装电商：买家当毒药，卖家作解药",
@@ -28,7 +38,11 @@
       "publish_time": "2026-06-05",
       "category": "AI 产业",
       "summary": "当AI图“入侵”服装电商：买家当毒药，卖家作解药 AI可以让女装电商更快，也更便宜，但它没有让女装生意变简单 | 消费者对AI女装图的反感，正在成为服装电商店家使用AI的第一道阻力 | 在小红书等社交平台上，围绕AI女装卖家秀和买家秀的吐槽",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 产业"
+      ]
     },
     {
       "title": "重估比亚迪，从智驾开始",
@@ -37,16 +51,24 @@
       "publish_time": "2026-06-04",
       "category": "AI 综合",
       "summary": "5月28日，比亚迪在深圳举办“敢为”智能化战略发布会，继去年为智能泊车安全兜底后，比亚迪再次率先承诺为城市领航安全兜底1年",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
-      "title": "刚刚，Meta Skill来了",
+      "title": "Meta Skill来了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/428335.html",
       "publish_time": "2026-06-03",
       "category": "AI 综合",
       "summary": "他们刚发布了个新功能，叫Meta Skill",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "连GitLab都开始裁程序员了",
@@ -55,7 +77,11 @@
       "publish_time": "2026-06-04",
       "category": "AI 综合",
       "summary": "最新Q1财报显示，这家公司营收同比增长23%，业绩超出市场预期，财报发布后股价盘后一度上涨7%",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "A股账户可以买Robotaxi了",
@@ -64,16 +90,26 @@
       "publish_time": "2026-06-04",
       "category": "AI 综合",
       "summary": "文远知行、小马智行同日官宣，已被正式纳入港股通，6月4日生效 | 也就是说，从今天起，内地投资者用A股账户，就能直接买卖这两家头部L4自动驾驶公司的股票了 | 在整个汽车行业里，Robotaxi依然是最烧钱的赛道之一，两家公司都还处于大规模",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资",
+        "具身智能"
+      ]
     },
     {
-      "title": "刚刚，Anthropic提交了招股书！",
+      "title": "Anthropic提交了招股书",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/428407.html",
       "publish_time": "2026-06-03",
       "category": "AI 综合",
       "summary": "保密S-1草案——也就是IPO招股说明书的前身",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "融资与投资"
+      ]
     },
     {
       "title": "中国足球小将夺冠，比亚迪携手足球少年走向世界",
@@ -82,7 +118,11 @@
       "publish_time": "2026-06-04",
       "category": "AI 综合",
       "summary": "北京时间6月2日，意大利SIGISMONDI国际青少年杯落下帷幕，中国足球小将2014（U12）队伍历经七场鏖战，点球大战击败英超埃弗顿青训梯队，全胜捧起冠军奖杯，在欧洲赛场扬起五星红旗 | 本届赛事汇集全球48支顶尖青训队伍，埃弗顿、佛罗",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "扣子3.0实测：手机就能远程遥控你电脑里的Agent",
@@ -91,7 +131,11 @@
       "publish_time": "2026-06-04",
       "category": "AI 综合",
       "summary": "即便Prompt如此之简单，但《我的世界》界面、操作和交互，都在短短几分钟之内被扣子实现了出来",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     }
   ]
 }

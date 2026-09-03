@@ -10,7 +10,12 @@
       "publish_time": "2026-08-21",
       "category": "AI 综合",
       "summary": "无人配送头部公司九识智能，联合大型商用车龙头宇通，刚刚发布了一款无人轻卡——九识Z20 | 九识智能联合宇通轻卡，刚推出了一款量产无人轻卡——九识Z20",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "材科源图三个月完成两轮融资，AI全链路闭环加速材料产业化",
@@ -19,25 +24,40 @@
       "publish_time": "2026-08-21",
       "category": "AI 技术",
       "summary": "近日，苏州材科源图科技有限公司（MatSource）宣布，近三个月内连续完成两轮超亿元天使轮系列融资 | 公开信息显示，材科源图于 2025 年 11 月完成数千万元天使轮融资，由中科创星领投，元禾控股与亿合资本参与",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
-      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "title": "谷歌：AI核心员工回硅谷坐班",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/468398.html",
       "publish_time": "2026-08-08",
       "category": "AI 综合",
       "summary": "眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
-      "title": "用DeepSeek网页版就能瓜分鹅厂600万？？！",
+      "title": "用DeepSeek网页版就能瓜分鹅厂600万",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/475764.html",
       "publish_time": "2026-08-19",
       "category": "AI 综合",
       "summary": "Jeff Dean等一众大佬接连现身，会场里随便转个弯，都可能碰到深耕数据挖掘领域的知名研究者 | 就在这一片火热交流里，一道困扰行业许久的推荐系统统一建模的问题，也终于等来了它的答案 | 三个月前，腾讯营销以KDD Cup 2026官方赛",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "雷鸟iO发布：两天续航、全天候主动式AI，轻至34g",
@@ -46,7 +66,12 @@
       "publish_time": "2026-08-21",
       "category": "AI 综合",
       "summary": "在 AI 眼镜从概念验证走向产品竞争的关键阶段，雷鸟创新决定回归眼镜本质，推出全新 iO 系列",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
@@ -55,7 +80,12 @@
       "publish_time": "2026-08-17",
       "category": "AI 综合",
       "summary": "人类发球喂球，机器人守在半台回击，这类视频这两年已经不算稀奇 | 球台两边，你发我接、你攻我守，一直打到11分",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "具身智能"
+      ]
     },
     {
       "title": "机器人的GPT-3时刻真·来了！卡卡西上身，看3秒就学会新动作",
@@ -64,7 +94,12 @@
       "publish_time": "2026-08-21",
       "category": "AI 综合",
       "summary": "救啊我说……机器人界的GPT-3时刻，好像真来了 | GPT-3当年看几个例子就能学会一项新任务的本事，现在直接在机器人身上上演了—— 哪怕是从没学过的新活，只要给机器人看一段3-12秒的动作示范，人家下一秒直接大干特干",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "具身智能"
+      ]
     },
     {
       "title": "科学家只管提问题，AI负责跑实验：深势科技把科研全流程搬进桌面",
@@ -73,7 +108,11 @@
       "publish_time": "2026-08-21",
       "category": "AI 综合",
       "summary": "其正式发布的玻尔·科学空间（公开测试版），是一个专为科研人员与AI科学家协同工作打造的桌面端环境",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
@@ -82,7 +121,12 @@
       "publish_time": "2026-08-19",
       "category": "AI 综合",
       "summary": "衡宇 发自 凹非寺量子位 | 公众号 QbitAI 不是我说，随着模型能力越来越强，现在各大平台上优秀的AI视频早就超过普通人玩AI的范畴了 | 更多是有编导思维的科班/专业人士利用AI下放的门槛，把自己的专业能力放大，在这些赛道一通乱杀 ",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用"
+      ]
     },
     {
       "title": "AI Infra进入自进化时代！清华团队AI优化AI造就国产万亿Token工厂",
@@ -91,7 +135,11 @@
       "publish_time": "2026-08-18",
       "category": "AI 综合",
       "summary": "一个词开始在前沿讨论里高频出现：RecursiveSelf-Improvement | 它指的是AI自主优化，让AI来研发更强大的AI—— AI开始自己提出问题、设计实验、评估结果，再根据反馈不断改进自己 | 这被认为是继AI推理、Agen",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     }
   ]
 }

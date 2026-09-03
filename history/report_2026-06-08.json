@@ -4,31 +4,43 @@
   "total_items": 10,
   "top_items": [
     {
-      "title": "有余凯不投的地平线离职创业员工吗？",
+      "title": "有余凯不投的地平线离职创业员工吗",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/431931.html",
       "publish_time": "2026-06-07",
       "category": "AI 综合",
       "summary": "没错，地平线创始人、CEO余凯，正在以业内不常见的方式续写着与地平线离职员工的同事情谊 | 一些公司对待离职高管的态度，要么是「追杀」，要么从此陌路……余凯和地平线的做法，罕见 | 量子位不完全统计，截至目前，至少有14位地平线核心技术和管",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
-      "title": "汤道生对谈姚顺雨：AI下半场，腾讯比什么？",
+      "title": "汤道生对谈姚顺雨：AI下半场，腾讯比什么",
       "source": "InfoQ",
       "url": "https://www.infoq.cn/article/xpNN4PdosoOVt5FtQUJw",
       "publish_time": "2026-06-08",
       "category": "AI 技术",
       "summary": "今日，在 2026 年腾讯云 AI 产业应用大会上，腾讯集团高级执行副总裁、云与智慧产业事业群 CEO 汤道生与腾讯首席 AI 科学家姚顺雨进行了一场深度对谈 | 他们对谈的主题是“腾讯 AI 下半场”，两个人相互提问，共同解读了腾讯在 A",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
-      "title": "腾讯当下对AI的几个基本判断。",
+      "title": "腾讯当下对AI的几个基本判断",
       "source": "界面新闻",
       "url": "https://www.jiemian.com/article/14543739.html",
       "publish_time": "2026-06-08",
       "category": "AI 产业",
       "summary": "一个背景是，腾讯云今年首次实现全年规模盈利，增长主要来自SaaS与PaaS业务",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 产业"
+      ]
     },
     {
       "title": "马斯克是SpaceX面子，她才是里子",
@@ -37,7 +49,11 @@
       "publish_time": "2026-06-06",
       "category": "AI 综合",
       "summary": "还有一周，6月12日，SpaceX正式启动世纪IPO，最新招股书一锤定音：每股定价135美元 | 好家伙，不算不知道，「造火箭的」正在批量「造巨富」—— 届时除了马斯克问鼎人类史上首位万亿富翁，连带着他那一水儿的高管都要集体身价暴涨 | 照",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "融资与投资"
+      ]
     },
     {
       "title": "马斯克39页SpaceX计划，人类史上最伟大的PPT",
@@ -46,16 +62,24 @@
       "publish_time": "2026-06-07",
       "category": "AI 综合",
       "summary": "556亿股，筹集IPO历史最高融资额750亿美元，估值1",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "融资与投资"
+      ]
     },
     {
-      "title": "Hinton吹哨了：AI已经有意识！",
+      "title": "Hinton吹哨了：AI已经有意识",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/431349.html",
       "publish_time": "2026-06-06",
       "category": "AI 综合",
       "summary": "AI已经有意识，人类得接受自己不再是唯一智能生命体 | 这就是AI教父、诺贝尔物理学奖得主、图灵奖得主Geoffrey Hinton，最新说出的暴论 | 是的，Hinton认为，智能不再是人类独有的能力",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "港股鞋王千百度，一夜完成AI数据公司转型",
@@ -64,7 +88,13 @@
       "publish_time": "2026-06-06",
       "category": "AI 综合",
       "summary": "一家港股鞋履公司，买下了一家给大模型“喂数据”的公司 | HK）6月5日宣布，将通过收购股权并认购新股，取得国内领先AI数据服务商本原智数的控股权益，并纳入合并报表，形成「鞋履+人工智能数据」双主业",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "教你用AI一节课收17万，华尔街精英排着队付费",
@@ -73,7 +103,13 @@
       "publish_time": "2026-06-07",
       "category": "AI 综合",
       "summary": "两个三十岁出头的年轻人，正在靠AI向华尔街收每节课2 | 他们在纽约一家风险投资基金的办公室里支起台子，先演示了一套用AI分析创业公司创始人路演视频的方法",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
@@ -82,7 +118,11 @@
       "publish_time": "2026-06-07",
       "category": "AI 综合",
       "summary": "在长视频生成集体卡壳的当下，刚刚，有团队给出了一套新解法—— 开源长音视频生成框架JoyAI-Echo，并杀入全球长视频生成领域全球「第一梯队」",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "OpenAI芯片核心叛逃Anthropic！就在量产前夜",
@@ -91,7 +131,11 @@
       "publish_time": "2026-06-07",
       "category": "AI 综合",
       "summary": "帮OpenAI从零造出第一颗芯片的人，转投Anthropic了 Anthropic到底有谁在 | 刚刚，OpenAI芯片工程师Clive Chan在X上宣布离职，同时透露已于本周加入Anthropic",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "算力与芯片"
+      ]
     }
   ]
 }

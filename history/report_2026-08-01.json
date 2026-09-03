@@ -10,7 +10,11 @@
       "publish_time": "2026-07-31",
       "category": "AI 综合",
       "summary": "米哈游蔡浩宇的AI公司Anuttacon，这是准备GG了 | 职业经历里，Anuttacon停在了今年7月，紧接着出现的新身份是—— 和上一段Anuttacon工作经历相比，可谓朴素得多",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "下一个国民级 AI 产品，或许就诞生于一人之手",
@@ -19,7 +23,12 @@
       "publish_time": "2026-07-31",
       "category": "AI 技术",
       "summary": "12 组 AI 创业项目依次完成项目展示与评审问答，覆盖企业风险排查、浏览器 Agent、个人 AI 行动助手、AI 工具交易、品牌与内容增长、企业知识管理、家居空间焕新及独立游戏等多个方向",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用"
+      ]
     },
     {
       "title": "姚顺雨拿50年数学难题成绩单，招人了",
@@ -28,16 +37,25 @@
       "publish_time": "2026-07-31",
       "category": "AI 综合",
       "summary": "图片展示的，是一张腾讯混元AI刚刚交出的科研成绩单： 一个困扰数学家约50年、长期没有取得突破的开放问题，被自研智能体Hyra推进到了新的最好结果 | 根据混元官方最新介绍，基于本月开源的Hy3模型（总参数295B、激活参数21B）：...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent"
+      ]
     },
     {
-      "title": "GPT-5.6今起大降价，最大幅度80%！",
+      "title": "GPT-5.6今起大降价，最大幅度80%",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/463640.html",
       "publish_time": "2026-07-31",
       "category": "AI 综合",
       "summary": "入门款Luna直接打骨折，每百万Token输入价格从1美元降到0",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "学习强国做了个AI社区，两周铺进68座城市",
@@ -46,7 +64,13 @@
       "publish_time": "2026-07-31",
       "category": "AI 综合",
       "summary": "行业会议一场接一场，融资新闻天天有，产品发布会的PPT一张比一张精美",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "100%开源！吴恩达做了个个人桌面Agent",
@@ -55,7 +79,11 @@
       "publish_time": "2026-07-25",
       "category": "AI 综合",
       "summary": "项目名为OpenWorker，现已在GitHub开源，采用MIT License | 吴恩达在推上表示，OpenWorker已经可以在Mac上运行，Windows版本也即将上线",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "终端市场的下一个增长点，高通押在了“个人AI”上",
@@ -64,16 +92,26 @@
       "publish_time": "2026-07-30",
       "category": "AI 综合",
       "summary": "全球智能终端市场，正在经历一场错位，在出货量开始下滑的同时，其中AI终端的数量却越来越多 | 数据显示，今年上半年，全球智能手机出货量同比下滑13 | 9%，但同一批手机里，具备AI能力的比例，却已经达到66",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
-      "title": "刚刚，即梦 Seedance 2.5来了！我狂测测测测……",
+      "title": "即梦 Seedance 2.5来了！我狂测测测测……",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/464329.html",
       "publish_time": "2026-07-31",
       "category": "AI 综合",
       "summary": "就在刚刚，字节跳动正式发布了自研视频模型Seedance 2",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "SIGGRAPH时间检验奖揭晓：这项研究，提前十年押中了物理AI",
@@ -82,7 +120,11 @@
       "publish_time": "2026-07-31",
       "category": "AI 综合",
       "summary": "开源项目GitHub狂揽8000+Star 2026年7月召开的计算机图形学顶会SIGGRAPH，公布了时间检验奖（Test-of-Time Award） | 彼时，AI的突破还主要集中在图像领域，这项工作已经系统地把表示学习用于复杂...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "Claude Code之父：Harness保质期只有半年，解开缰绳吧",
@@ -91,7 +133,12 @@
       "publish_time": "2026-07-30",
       "category": "AI 综合",
       "summary": "Claude code之父：大模型是有机生物，做好AI产品疏胜于堵 每六个月，删掉你的Claude | md，删掉你的skills，删掉你的hooks | 这是Boris Cherny——Claude Code之父给产品使用者们的建议",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用"
+      ]
     }
   ]
 }

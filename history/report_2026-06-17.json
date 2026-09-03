@@ -10,7 +10,13 @@
       "publish_time": "2026-06-16",
       "category": "AI 综合",
       "summary": "6月16日，阿里巴巴发布千问具身智能大模型 Qwen-Robot 系列，包含 VLA 操作模型 Qwen-RobotManip、VLN 移动模型 Qwen-RobotNav 和世界模型 Qwen-RobotWorld三大模型 | 这是千问大",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "全网首份指令级拆解：看华为昇腾 950DT 芯片如何撬动 DeepSeek 75%降价与字节锁单",
@@ -19,16 +25,27 @@
       "publish_time": "2026-06-17",
       "category": "AI 技术",
       "summary": "距离正式上线华为云还有两个月，华为的最新 AI 芯片昇腾 950DT，已经被提前放到了显微镜下 | 也就是说，昇腾 950DT并非在模型发布之后被动接入 DeepSeek V4，而是更早参与到了模型推理路径、硬件执行方式和软件栈优化的...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "算力与芯片"
+      ]
     },
     {
-      "title": "AI浪潮之下，尝试将AI与信用卡进行业务绑定的不只招行。",
+      "title": "AI浪潮之下，尝试将AI与信用卡进行业务绑定的不只招行",
       "source": "界面新闻",
       "url": "https://www.jiemian.com/article/14591466.html",
       "publish_time": "2026-06-17",
       "category": "AI 产业",
       "summary": "近日，招商银行官宣工程师信用卡专属AI权益上线 | 该行表示，AI的能力不断突破曾经的想象，这一趋势下，该行率先迈出一步，推出招商银行运通工程师信用卡专属AI权益 | 有信用卡业内人士对界面新闻记者表示，“对于招行推出的AI权益，我个...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "AI × 金融"
+      ]
     },
     {
       "title": "许锦波率分子之心完成逾亿美元融资，定义全球AI蛋白质产业新基建",
@@ -37,7 +54,12 @@
       "publish_time": "2026-06-17",
       "category": "AI 综合",
       "summary": "近日，业界领先的AI蛋白质设计平台公司分子之心（MoleculeMind）完成A轮系列融资，累计融资金额逾亿美元",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "不儿，罗永浩、胡彦斌都来参加这场AI大赛了啊",
@@ -46,7 +68,11 @@
       "publish_time": "2026-06-16",
       "category": "AI 综合",
       "summary": "因为罗永浩、胡彦斌、王兴兴、楼天城、影视飓风Tim……这些“跨频道”选手都来了 | 这就是TRAE（旗下有TRAE Work和TRAE IDE两款AI助手）搞出来的花活儿——TRAE AI创造力大赛 | 这次AI创造力大赛的主题也是非常应景",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "网易有道首席科学家段亦涛：让AI技术扎根业务场景",
@@ -55,7 +81,12 @@
       "publish_time": "2026-06-16",
       "category": "AI 综合",
       "summary": "互联网和信息化的发展，使得第一个问题迎刃而解，而生成式AI则为第二个问题提供了实质性突破的机会 | 由此，网易有道在2023年7月推出了国内首个教育领域垂直大模型“子曰” | 有道以此为基座，针对翻译、作业批改、语法精讲、口语练习等多...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "一个模型控制手脚腰身！机器人终于学会全身协同干精细活了",
@@ -64,16 +95,26 @@
       "publish_time": "2026-06-16",
       "category": "AI 综合",
       "summary": "不是先走过去、立定，再用手执行动作；而是在同一套策略中，把行走、姿态调整、躯干协同和手部精细操作统一起来—— 今天，Current Robotics发布全身灵巧操作模型Curr-0 | 通过Single Policy，Curr-0能够...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
-      "title": "和朱广权同台讲脱口秀，鸿蒙小艺这次把AI助手卷到新阶段了？！",
+      "title": "和朱广权同台讲脱口秀，鸿蒙小艺这次把AI助手卷到新阶段了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/435953.html",
       "publish_time": "2026-06-16",
       "category": "AI 综合",
       "summary": "太有看头了太有看头了，现在AI都进化到能直播讲脱口秀了 | 而且还是和央视主持人朱广权现场开麦、群聊接梗、金句频出的那种～ 能说会道还只是开胃菜，订票、打车、旅行、运动、教育、办公等场景它也能接得住",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "英特尔晒出未来芯片”三张底牌”：CFET、氮化镓+硅集成、钌互连",
@@ -82,16 +123,24 @@
       "publish_time": "2026-06-17",
       "category": "AI 综合",
       "summary": "“我们在VLSI研讨会上展示的最新进展和所作的报告，向英特尔代工的客户和合作伙伴传递了一个明确信号：我们长期坚定致力于前沿制程创新",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "算力与芯片"
+      ]
     },
     {
-      "title": "刚刚，Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一！",
+      "title": "Fable-5之下，智谱开源的GLM-5.2拿下AI编程第一",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/436085.html",
       "publish_time": "2026-06-17",
       "category": "AI 综合",
       "summary": "因为刚刚，在Claude Fable 5之下，开源界里拿下了AI编程第一（全球第二）： 不仅Arena官方用“令人难以置信的里程碑”来形容GLM-5 | 2的表现也是比较亮眼： 从结果上来看，国产、开源的大模型，可以说在Coding这...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     }
   ]
 }

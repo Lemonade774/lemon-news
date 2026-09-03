@@ -10,7 +10,13 @@
       "publish_time": "2026-05-09",
       "category": "AI 综合",
       "summary": "这轮融资中最大的一张支票，可能不是来自VC或互联网巨头，而是来自梁文锋本人 | 据The Information消息，梁文锋个人出资最高达200亿元人民币，占本轮计划融资总额的40% | 如果最终落地，这会是中国大模型公司有史以来最大...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱",
@@ -19,7 +25,12 @@
       "publish_time": "2026-05-07",
       "category": "AI 技术",
       "summary": "Anthropic 时不时限制用户使用速率的问题终于迎来一次大的改善 | 当地时间 5 月 6 日，Anthropic 宣布，将使用马斯克旗下 SpaceX 的计算资源 | 根据协议，Anthropic 将使用 SpaceX 位于田纳西州孟",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "算力与芯片"
+      ]
     },
     {
       "title": "三部门联合印发《智能体规范应用与创新发展实施意见》",
@@ -28,7 +39,12 @@
       "publish_time": "2026-05-09",
       "category": "AI 产业",
       "summary": "据中国网信网 ，近日，国家网信办、国家发展改革委、工业和信息化部联合印发《智能体规范应用与创新发展实施意见》（下称《实施意见》） | 《实施意见》旨在落实国务院《关于深入实施“人工智能+”行动的意见》，促进智能体规范应用与创新发展 | 《实",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用"
+      ]
     },
     {
       "title": "所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行",
@@ -37,7 +53,11 @@
       "publish_time": "2026-05-08",
       "category": "AI 综合",
       "summary": "中国AI研究员的性格、魅力和真诚……让人倍感亲切 | 这是艾伦研究所（Ai2）的研究员Nathan Lambert，在最近结束中国之行后，发自内心的一番感慨 | 在Nathan眼里，国内的LLM圈子简直是天堂，大家彼此尊重、即便立场不同也客",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "AI PPT，这次是真不用返工了",
@@ -46,7 +66,11 @@
       "publish_time": "2026-05-06",
       "category": "AI 综合",
       "summary": "过去一两年，AI做PPT这事儿一直处在一个比较尴尬的位置 | 虽然速度是比手搓快，但细看全是“幻觉数据”和“拼凑式模板”，后续改起来比从头做还累 | 所以圈内有个心照不宣的判断：AI PPT不说是个伪需求，但至少是被高估的需求",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "Anthropic出手！AI的内心独白，曝光了",
@@ -55,7 +79,12 @@
       "publish_time": "2026-05-08",
       "category": "AI 综合",
       "summary": "就在刚刚，他们发布并开源了一项新研究——Natural Language Autoencoders（自然语言自编码器，简称NLA），第一次让人类能够读懂大模型的真实想法",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "持续领跑！商汤大装置稳居中国MaaS市场第一梯队",
@@ -64,7 +93,11 @@
       "publish_time": "2026-05-08",
       "category": "AI 综合",
       "summary": "近日，国际数据公司（IDC）发布中国企业级MaaS市场最新格局分析报告",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
@@ -73,16 +106,26 @@
       "publish_time": "2026-05-07",
       "category": "AI 综合",
       "summary": "例如，“把@图1的人物塞进@图2的场景，镜头运动和角色动作完全照搬@视频1”： 这些能力，来自国内最大ComfyUI平台RunningHub最新推出的原生AI智能体全能内容创作平台——RHTV | 界面简洁轻量化，底层却背靠Runni...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
-      "title": "离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片？",
+      "title": "离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/05/414006.html",
       "publish_time": "2026-05-07",
       "category": "AI 综合",
       "summary": "哪怕AI工具满天飞的今天，广告圈打工人也得说一句： 成本高得没边儿不说，做起来还得在七八个工具之间反复横跳 | 一支30秒的片子得做一礼拜，预算没准还烧穿一大截",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "Redis之父下场，给DeepSeek V4单独造了一台推理引擎",
@@ -91,7 +134,12 @@
       "publish_time": "2026-05-08",
       "category": "AI 综合",
       "summary": "发布才两周，开源圈里，第一批V4原生基础设施已经冒了出来",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     }
   ]
 }

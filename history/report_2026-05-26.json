@@ -10,7 +10,11 @@
       "publish_time": "2026-05-24",
       "category": "AI 综合",
       "summary": "Vibe Coding还是太权威了vibe Vibe Coding的风，已经从程序员工位一路吹到了文学圈和娱乐圈了 | 这边知名长篇小说《活着》的作者余华老师，对着镜头一脸骄傲地说： 那边《你要的全拿走》原唱，知名歌手胡彦斌直接在社交媒体发",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "马斯克要当“太空版黄仁勋”：Anthropic一年上交150亿美元，Cursor百亿分手费锁死，SpaceX成新算力庄家",
@@ -19,16 +23,25 @@
       "publish_time": "2026-05-21",
       "category": "AI 技术",
       "summary": "75 万亿至 2 万亿美元，融资规模最高可达 750 亿至 800 亿美元",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "融资与投资",
+        "算力与芯片"
+      ]
     },
     {
-      "title": "摩尔定律追求的是单颗芯片通过制程微缩，即缩小晶体管尺寸、提升单芯片算力。韬（τ）定律则换了一个视角，把着眼点放在整个计算系统的均一化晶体管密度上。",
+      "title": "摩尔定律追求的是单颗芯片通过制程微缩，即缩小晶体管尺寸、提升单芯片算力。韬（τ）定律则换了一个视角，把着眼点放在整个计算系统的均一化晶体",
       "source": "界面新闻",
       "url": "https://www.jiemian.com/article/14481467.html",
       "publish_time": "2026-05-26",
       "category": "AI 产业",
       "summary": "按照华为的官方表述，该定律主张以“时间（τ）缩微”替代“几何缩微”，通过逻辑折叠（LogicFolding）等技术，持续压缩信号传播时延，不断提升晶体管密度，从而实现半导体与电子系统的持续演进",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "算力与芯片"
+      ]
     },
     {
       "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
@@ -37,7 +50,13 @@
       "publish_time": "2026-05-19",
       "category": "AI 综合",
       "summary": "但一家国产GPU厂商，却在一整场发布会的时间里，做了一件非常物理的事儿—— 在走到舞台中央后，只见屏幕里仿真世界的小飞侧空翻了一下，随即，物理世界的小飞便做出了一模一样的动作 | 正是由摩尔线程新鲜发布的MT Lambda | 这是首...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "算力与芯片",
+        "具身智能"
+      ]
     },
     {
       "title": "无人车遇水则瘫？Waymo大规模召回，叫停多城Robotaxi服务",
@@ -46,7 +65,11 @@
       "publish_time": "2026-05-25",
       "category": "AI 综合",
       "summary": "都2026年了，无人车Waymo还是搞定不了积水路面",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "打造创投生态的超级枢纽， 2026投资界SuperLink大会定档6月",
@@ -55,7 +78,13 @@
       "publish_time": "2026-05-25",
       "category": "AI 综合",
       "summary": "与此同时，人工智能、机器人等新兴技术加速渗透，传统产业迭代升级、新兴产业多点突破，产业结构优化升级进入关键阶段 | 两天会期内，设置开幕式、第二十届中国基金合伙人大会、未来产业峰会、机器人峰会、科创峰会五大硬核板块；同时精准嵌入国资基...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资",
+        "具身智能"
+      ]
     },
     {
       "title": "图灵奖得主领衔，中国大模型第一梯队集结！2026智源大会，看懂AI下一程",
@@ -64,7 +93,13 @@
       "publish_time": "2026-05-25",
       "category": "AI 综合",
       "summary": "当大模型从数字世界走入物理世界、重塑社会肌理，我们一直都在追问：AI的下一程，路在何方 | 而在这一跨越中，智能体与世界模型无疑成为了今年最核心的两大技术趋势： 智能体让大模型拥有了自主规划、调用工具与自我迭代的“行动力”，而世界模型则为A",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "AI 应用"
+      ]
     },
     {
       "title": "DeepSeek V4还能更省！新工具缓存命中率高达99.82%，2折稳定到手",
@@ -73,7 +108,13 @@
       "publish_time": "2026-05-25",
       "category": "AI 综合",
       "summary": "原本4亿+token、61美元的账单，直降至12美元 我悟了，DeepSeek V4系列发布1个月，价格屠夫的本色这才刚刚发力啊",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "“五类人AI替代不了，企业做第二名最稳妥” | 昆仑万维方汉@AIGC2026",
@@ -82,7 +123,12 @@
       "publish_time": "2026-05-23",
       "category": "AI 综合",
       "summary": "他还抛出几个直接的判断：Token正在成为“AI时代的电力”；AI会让中间层员工加速分化，只剩小白和大神；所有正在融资或已上市的人口中的“AGI即将到来”，都是为市值服务的扯淡",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "蚂蚁灵波LingBot-VA论文被机器人顶会RSS 2026接收，让机器人边推演、边行动",
@@ -91,7 +137,13 @@
       "publish_time": "2026-05-25",
       "category": "AI 综合",
       "summary": "论文提出了面向机器人控制的因果世界建模框架，并将其落地为全球首个开源的自回归视频-动作世界模型 LingBot-VA",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "具身智能"
+      ]
     }
   ]
 }

@@ -10,7 +10,12 @@
       "publish_time": "2026-06-12",
       "category": "AI 综合",
       "summary": "后者成立刚满3年，是一家刚实现定点验证和小批量交付、走在量产前夜的企业 | 近期，千里科技发布公告宣布，其控股子公司重庆千里智驾科技，拟以2590",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "硅谷大厂，员工人均月花5万养 AI",
@@ -19,7 +24,12 @@
       "publish_time": "2026-06-11",
       "category": "AI 技术",
       "summary": "昨日，Ramp 发布了最新的 AI Index，一个令人难以消化的核心数据是：最积极采用 AI 的公司，每月每位员工在 AI 工具上花费 7500 美元，约合 50807 元人民币 | 该指数自推出以来，一直专注于追踪最基础的企业 A...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "神了，世界杯第一天真按千问剧本踢了",
@@ -28,16 +38,24 @@
       "publish_time": "2026-06-13",
       "category": "AI 综合",
       "summary": "神了啊我说，世界杯第一天真按「千问剧本」踢了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
-      "title": "Claude Fable 5首日实测，杀疯了…",
+      "title": "Claude Fable 5首日实测，…",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/433682.html",
       "publish_time": "2026-06-10",
       "category": "AI 综合",
       "summary": "Anthropic深夜突袭放出Claude Fable 5，直接迈入Mythos神话级新段位 | 这不，Fable 5开放首日，全网已经开始疯狂测测测了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "DeepSeek开招土木老哥：自建GW级数据中心",
@@ -46,7 +64,12 @@
       "publish_time": "2026-06-09",
       "category": "AI 综合",
       "summary": "DeepSeek官网最新上线了“IDC设计规划工程师”这个岗位 | 乍一看到岗位JD，我的脑子迅雷不及掩耳盗铃之势闪过一道机智的闪电—— 最近DeepSeek开放融资，估值据传已经飙到了3500亿元",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资"
+      ]
     },
     {
       "title": "Anthropic老大的唯一 -1，就是AI股神的未婚妻",
@@ -55,7 +78,12 @@
       "publish_time": "2026-06-12",
       "category": "AI 综合",
       "summary": "万亿估值AI公司的CEO，手下居然只有一名直属员工 | 没错，最新估值9650亿美元的Anthropic，只有一个人向创始人Dario直接汇报，而且这位还不是技术背景出身",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "抖音征召天下「AI视频英才」！创作者们，这次是真能吃上AI红利了…",
@@ -64,7 +92,11 @@
       "publish_time": "2026-06-10",
       "category": "AI 综合",
       "summary": "先说声恭喜——这400万元现金里，或许有你一份 | 抖音刚发起了个「AI创作大赛」，征召视频方向「AI创作者」 | 说实话，对绝大多数内容创作者来说，这可能是离AI红利最近的一次",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "耐心资本护航创新，2026SuperLink开启创投价值共生新时代",
@@ -73,7 +105,11 @@
       "publish_time": "2026-06-12",
       "category": "AI 综合",
       "summary": "2026年6月10日至11日，2026Superlink在苏州吴中太湖之畔圆满落幕",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
@@ -82,7 +118,13 @@
       "publish_time": "2026-06-11",
       "category": "AI 综合",
       "summary": "Meshy发布全球首个3D AI Agent 在3D创作这个圈子，一直有个心照不宣的扎心真相： 那就是最难的一步从来不是生成，而是让模型变为可用资产",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
@@ -91,7 +133,13 @@
       "publish_time": "2026-06-11",
       "category": "AI 综合",
       "summary": "全球大模型的军备竞赛，正在“智商”之外开辟新的战场—— 小米发布了全新的MiMo-V2 | 而且不像Groq那样依靠定制芯片，用通用GPU就能实现",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "算力与芯片"
+      ]
     }
   ]
 }

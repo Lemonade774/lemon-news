@@ -10,7 +10,13 @@
       "publish_time": "2026-08-25",
       "category": "AI 综合",
       "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段 | 北京-8月25日-近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其...",
-      "importance_score": 10
+      "importance_score": 10,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "“Anthropic不再是AI圈的信仰”",
@@ -19,34 +25,52 @@
       "publish_time": "2026-08-21",
       "category": "AI 技术",
       "summary": "“Anthropic 堪称 AI 界的‘苹果’，尽管价格最高，却攫取了最多的收入 | 但另一方面，用户的体感是：“做 Anthropic 的用户，就像身处一段有毒的关系中",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 技术"
+      ]
     },
     {
-      "title": "小米正在加速把自研芯片扩展为覆盖手机、AI计算和智能驾驶的完整算力体系。",
+      "title": "小米正在加速把自研芯片扩展为覆盖手机、AI计算和智能驾驶的完整算力体系",
       "source": "界面新闻",
       "url": "https://www.jiemian.com/article/14976672.html",
       "publish_time": "2026-08-26",
       "category": "AI 产业",
       "summary": "小米正在加速把自研芯片扩展为覆盖手机、AI计算和智能驾驶的完整算力体系 | 8月24日，小米举行玄戒芯片技术沟通会，集中披露玄戒O3旗舰SoC、玄戒O100 AI加速芯片以及玄戒D100智驾芯片的技术规格和终端规划 | 这三款芯片分别对应消",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "算力与芯片"
+      ]
     },
     {
-      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "title": "谷歌：AI核心员工回硅谷坐班",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/468398.html",
       "publish_time": "2026-08-08",
       "category": "AI 综合",
       "summary": "眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
-      "title": "开源国产8B模型，比肩闭源Image 2了！",
+      "title": "开源国产8B模型，比肩闭源Image 2了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/479192.html",
       "publish_time": "2026-08-25",
       "category": "AI 综合",
       "summary": "上回书到，这个生图模型是4K直出的，开源的，只有8B大小的 | 而这个AI，便是商汤科技这次正式开源的SenseNova U1",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "王虹合作者获奖！科学探索奖2026年度获奖名单公布",
@@ -55,7 +79,11 @@
       "publish_time": "2026-08-25",
       "category": "AI 综合",
       "summary": "今年50位获奖人来自13个城市的30家高校、医院和科研机构 刚刚，科学探索奖2026年度获奖名单正式公布 | 今年共有50位青年科学家获奖，覆盖数学物理学、化学新材料、天文和地学、生命科学、医学科学、信息电子、前沿交叉、能源环境、先进制造、",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
@@ -64,7 +92,11 @@
       "publish_time": "2026-08-23",
       "category": "AI 综合",
       "summary": "WRC百个机器人展台，大多数在展示“我能做这个动作”，而它展示的是“我能在这样一个真实环境里持续工作，不出意外”",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
@@ -73,7 +105,11 @@
       "publish_time": "2026-08-23",
       "category": "AI 综合",
       "summary": "2016年，AlphaGo战胜李世石，让人工智能第一次以一种近乎震撼的方式走进公众视野 | 这场被载入AI发展史的人机大战，不仅证明了机器能够在复杂博弈中挑战人类顶尖水平，更成为人工智能迈向新阶段的一个标志性时刻 | 十年之后，2026年，",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "半年3轮10亿，他们都投了这家已经把机器人卖到500个家庭的公司",
@@ -82,7 +118,13 @@
       "publish_time": "2026-08-25",
       "category": "AI 综合",
       "summary": "字节、汇川等已入股未来不远机器人最新一轮融资 据悉，字节跳动已经入股刚刚在WAIC和WRC上都热度满满的未来不远机器人最新一轮融资 | 这家全球首个实现家庭商业化落地的通用机器人公司半年内已经获得了3轮10亿元融资",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资",
+        "具身智能"
+      ]
     },
     {
       "title": "赛博义父Tibo最新访谈：专门实体按钮搞重置，“我想重置就重置”",
@@ -91,7 +133,11 @@
       "publish_time": "2026-08-25",
       "category": "AI 综合",
       "summary": "下一代Agent天然会走向云端和更大规模的计算资源 刚刚，赛博义父、AKA Codex重制额度的神，Tibo在最新一期与Matthew Berman播客节目中自信表示道～ 而且最骚的是，为了重置，Tibo已经专门搞了一个实体按钮 | 作为现",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     }
   ]
 }

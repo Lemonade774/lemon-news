@@ -10,7 +10,13 @@
       "publish_time": "2026-04-24",
       "category": "AI 综合",
       "summary": "4月24日，DeepSeek-V4模型正式发布并开源，华为云首发适配 | DeepSeek-V4 拥有百万Token超长上下文，在 Agent 能力、世界知识和推理性能上均实现国内与开源领域的领先 | 其中，DeepSeek-V4-F...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权",
@@ -19,7 +25,13 @@
       "publish_time": "2026-04-24",
       "category": "AI 技术",
       "summary": "DeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界知识和推理性能三大维度上均实现了国内与开源领域的领先 | 秉承 DeepSeek 一贯的开放精神，本次发布的模型按大小分为两个版本，欢迎开发者、研究者和企业用户前...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "DeepSeek V4终于出场，为大模型国产算力时代做准备",
@@ -28,7 +40,12 @@
       "publish_time": "2026-04-25",
       "category": "AI 产业",
       "summary": "4月24日，DeepSeek-V4的预览版本正式上线并同步开源，官方给出的节点定义是“迈入百万上下文普惠时代”，没有脱离DeepSeek自出圈以来最强势的价格叙事 | 6T（Pro）和284B（Flash）两个版本，拥有百万字超长上下...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "算力与芯片"
+      ]
     },
     {
       "title": "DeepSeek V4终于发布！打破最强闭源垄断，明确携手华为芯片",
@@ -37,7 +54,13 @@
       "publish_time": "2026-04-24",
       "category": "AI 综合",
       "summary": "在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先 | 官方原话是：在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权",
@@ -46,7 +69,13 @@
       "publish_time": "2026-04-24",
       "category": "AI 技术",
       "summary": "DeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界知识和推理性能三大维度上均实现了国内与开源领域的领先 | 秉承 DeepSeek 一贯的开放精神，本次发布的模型按大小分为两个版本，欢迎开发者、研究者和企业用户前...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "真有人做AI小猫啊？！生产力和情绪价值都拉满了",
@@ -55,25 +84,39 @@
       "publish_time": "2026-04-24",
       "category": "AI 综合",
       "summary": "上班累了就找她摸摸鱼，真的感觉心都化了…… 这个抱着AI小猫的女孩叫SUSU，她们都来自AI初创公司SentiPulse思维光谱自主研发的AI Agent产品——SentiCat | SentiCat拥有三大核心能力：办公自动化、深度研究、",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
-      "title": "河南师傅，左手扳手，右手飞书，竟然能搞数据分析！",
+      "title": "河南师傅，左手扳手，右手飞书，竟然能搞数据分析",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/04/406191.html",
       "publish_time": "2026-04-23",
       "category": "AI 综合",
       "summary": "然后往这个扳手上贴上一张飞书生成的二维码，再用手机上的飞书去扫它，就能实现在点巡检现场直接上传数据： 更有意思的来了，一位河南工友，甚至可以把点巡检结果，通过说方言的形式，直接录入结果",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
-      "title": "神秘模型「大象」：仅100B拿下SOTA，Token效率超高！",
+      "title": "模型「大象」：仅100B拿下SOTA，Token效率超高",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/04/404645.html",
       "publish_time": "2026-04-22",
       "category": "AI 综合",
       "summary": "神秘模型Elephant的面纱，终于被揭开了 | 前一阵子OpenRouters在自家官方上提到了一个神秘模型Elephant Alpha，并且给到的评价是这样的： 仅100B大小，在同规模模型里是SOTA，还巨省Token | 话题一出，",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "100%主流车企的共同选择：一个AI“通用底座”正在汽车行业成型",
@@ -82,7 +125,11 @@
       "publish_time": "2026-04-24",
       "category": "AI 综合",
       "summary": "在4月24日北京车展的首日，火山引擎正式发布了新一代汽车AI解决方案，核心关键词只有一个：用“一个AI大脑”重构整车交互与能力调用",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "PPIO首批上线DeepSeek-V4预览版，1M超长上下文能力开箱即用",
@@ -91,7 +138,12 @@
       "publish_time": "2026-04-24",
       "category": "AI 综合",
       "summary": "中国全栈式AI云服务商PPIO第一时间全量首批上线，成为业内最快上线DeepSeek-V4的AI云平台之一，为广大企业与开发者带来百万超长上下文、顶尖Agent能力、超强推理性能的一站式开箱即用体验 | DeepSeek-V4在模型结...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent"
+      ]
     }
   ]
 }

@@ -10,7 +10,11 @@
       "publish_time": "2026-06-13",
       "category": "AI 综合",
       "summary": "高盛CEO、摩根大通CEO、a16z合伙人Katherine Boyle、特斯拉前AI总监&现Anthropic研究员卡帕西……纷纷下场发帖 | 所有人的心情都和卡帕西一样，两个词：激动、震撼",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "AI驱动的网络钓鱼：技术演变与实施方式",
@@ -19,7 +23,11 @@
       "publish_time": "2026-06-13",
       "category": "AI 技术",
       "summary": "借助 AI 可以实现更具针对性的网络钓鱼，同时可制作出迷惑性更强的钓鱼诱饵",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 技术"
+      ]
     },
     {
       "title": "千里收购了一家毫米波雷达公司",
@@ -28,7 +36,12 @@
       "publish_time": "2026-06-12",
       "category": "AI 综合",
       "summary": "后者成立刚满3年，是一家刚实现定点验证和小批量交付、走在量产前夜的企业 | 近期，千里科技发布公告宣布，其控股子公司重庆千里智驾科技，拟以2590",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "神了，世界杯第一天真按千问剧本踢了",
@@ -37,7 +50,11 @@
       "publish_time": "2026-06-13",
       "category": "AI 综合",
       "summary": "神了啊我说，世界杯第一天真按「千问剧本」踢了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "2026智源大会开幕：推动AI、物理世界和生命科学“三体互动”",
@@ -46,7 +63,13 @@
       "publish_time": "2026-06-13",
       "category": "AI 综合",
       "summary": "智源研究院院长王仲远做2026年研究进展报告，发布智源研究院在基座大模型、智能体、基础软硬件生态等前沿技术领域的探索成果和开源生态建设的最新动态 | 自2018年成立以来，智源研究院先后发布了“悟道”系列大模型和“悟界”系列大模型，构...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "抖音征召天下「AI视频英才」！创作者们，这次是真能吃上AI红利了…",
@@ -55,7 +78,11 @@
       "publish_time": "2026-06-10",
       "category": "AI 综合",
       "summary": "先说声恭喜——这400万元现金里，或许有你一份 | 抖音刚发起了个「AI创作大赛」，征召视频方向「AI创作者」 | 说实话，对绝大多数内容创作者来说，这可能是离AI红利最近的一次",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "耐心资本护航创新，2026SuperLink开启创投价值共生新时代",
@@ -64,7 +91,11 @@
       "publish_time": "2026-06-12",
       "category": "AI 综合",
       "summary": "2026年6月10日至11日，2026Superlink在苏州吴中太湖之畔圆满落幕",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
@@ -73,7 +104,11 @@
       "publish_time": "2026-06-13",
       "category": "AI 综合",
       "summary": "今天，openJiuwen社区正式开源Jiuwen Symbiosis，一个专为更高阶的physical AI打造的Symbiosis（共生）架构",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
@@ -82,7 +117,13 @@
       "publish_time": "2026-06-11",
       "category": "AI 综合",
       "summary": "Meshy发布全球首个3D AI Agent 在3D创作这个圈子，一直有个心照不宣的扎心真相： 那就是最难的一步从来不是生成，而是让模型变为可用资产",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "实测小米最快1T大模型：吞吐量每秒1000+ Tokens，Vibe Coding七秒交付",
@@ -91,7 +132,13 @@
       "publish_time": "2026-06-11",
       "category": "AI 综合",
       "summary": "全球大模型的军备竞赛，正在“智商”之外开辟新的战场—— 小米发布了全新的MiMo-V2 | 而且不像Groq那样依靠定制芯片，用通用GPU就能实现",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "算力与芯片"
+      ]
     }
   ]
 }

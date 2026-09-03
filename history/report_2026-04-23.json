@@ -10,7 +10,11 @@
       "publish_time": "2026-04-22",
       "category": "AI 综合",
       "summary": "量子位了解到，即便是实习生，国内头部厂开出的年薪也已突破百万大关 | 但这一次，我们在京东前不久开源的240亿参数图像编辑模型JoyAI-Image-Edit的贡献者名单中发现，除了技术大咖，还出现了许多新名字 | 量子位辗转联系到其...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "清华系团队星工聚将完成数千万天使轮融资，轮式机器人拿下头部制造企业亿级大单",
@@ -19,7 +23,13 @@
       "publish_time": "2026-04-23",
       "category": "AI 技术",
       "summary": "近日，工业具身智能领域的新锐力量星工聚将（XGSynBot）正式宣布完成数千万元天使轮融资，本轮融资由天空工场创投基金独家投资 | 星工聚将总经理李梓正表示：\"这轮融资不仅是对我们技术路线的认可，更是对'工业场景优先'战略的肯定 | ...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资",
+        "具身智能"
+      ]
     },
     {
       "title": "单Agent时代结束，AI们开始组团上班",
@@ -28,7 +38,13 @@
       "publish_time": "2026-04-22",
       "category": "AI 综合",
       "summary": "昨晚，月之暗面发布并开源了旗下最新模型——K2 | 6在Artificial Analysis上取得了全球开源第一的成绩，仅次于闭源的全球“御三家” | 咱就是说，在御三家新模型轮流上线的这张梗图里，也是能有Kimi的一个位置了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "挖漏洞何必Mythos，国产智能体早跑通了",
@@ -37,16 +53,27 @@
       "publish_time": "2026-04-23",
       "category": "AI 综合",
       "summary": "手握最强大的模型Mythos，Anthropic却把它锁了起来 | 原因是它能自主发现软件漏洞，而且发现得太多、太快，Anthropic觉得不安全，只开放给少数机构测试",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent"
+      ]
     },
     {
-      "title": "全球首个世界统一模型发布，机器人家庭成员来了！",
+      "title": "全球首个世界统一模型发布，机器人家庭成员来了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/04/404446.html",
       "publish_time": "2026-04-22",
       "category": "AI 综合",
       "summary": "jpg） 就在刚刚，自变量机器人发布了全球首个世界统一模型架构的具身智能基础模型：WALL-B",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "Kimi新论文：把KVCache玩成新商业模式了",
@@ -55,7 +82,11 @@
       "publish_time": "2026-04-19",
       "category": "AI 综合",
       "summary": "其核心突破是让KV Cache可以跨数据中心传输，把Prefill和Decode彻底解耦到不同的异构集群 | 这项工作由月之暗面和清华大学清华大学郑纬民院士、武永卫教授团队联合推出",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "特斯拉开源硬件，中国公司回应来了：直接把机器人大脑开源了",
@@ -64,7 +95,12 @@
       "publish_time": "2026-04-23",
       "category": "AI 综合",
       "summary": "特斯拉开源硬件专利后，所有人都在等：中国公司怎么回应 | 现在答案来了——跟风硬件没意思，要开源就找比硬件更值钱的东西 | 4月22日，智平方发布AlphaBrain Platform开源社区",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "科大讯飞发布燎原N30m笔记本，重塑全栈国产AIPC新标杆",
@@ -73,16 +109,24 @@
       "publish_time": "2026-04-22",
       "category": "AI 综合",
       "summary": "4月21日，科大讯飞正式发布讯飞星火· 燎原N30m笔记本",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
-      "title": "神秘模型「大象」：仅100B拿下SOTA，Token效率超高！",
+      "title": "模型「大象」：仅100B拿下SOTA，Token效率超高",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/04/404645.html",
       "publish_time": "2026-04-22",
       "category": "AI 综合",
       "summary": "神秘模型Elephant的面纱，终于被揭开了 | 前一阵子OpenRouters在自家官方上提到了一个神秘模型Elephant Alpha，并且给到的评价是这样的： 仅100B大小，在同规模模型里是SOTA，还巨省Token | 话题一出，",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "PixVerse 成为联合国 2026 AI for Good 全球峰会AI合作伙伴",
@@ -91,7 +135,11 @@
       "publish_time": "2026-04-23",
       "category": "AI 综合",
       "summary": "在这一框架下举办的AI for Good电影节，聚焦AI时代的影像创作与社会叙事，被视为全球AI创意领域最具影响力的展示舞台之一 | AI for Good 电影节负责人Guillem Martínez Roura表示：“通过 AI ...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     }
   ]
 }

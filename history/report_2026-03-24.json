@@ -10,7 +10,11 @@
       "publish_time": "2026-03-24",
       "category": "AI 综合",
       "summary": "而整场访谈最有趣的，无疑是在老黄所谓“AGI已经实现后”，他基于这个第一性原理，对未来所做出的展望",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "极客部落“OPC 创业者招募计划”正式发布，赋能 AI 时代“一人独角兽”",
@@ -19,7 +23,11 @@
       "publish_time": "2026-03-24",
       "category": "AI 技术",
       "summary": "暂无详细内容，请点击阅读原文查看。",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "大模型做通用 Or 垂直？中小AI公司的「生死抉择」",
@@ -28,7 +36,12 @@
       "publish_time": "2023-06-29",
       "category": "AI 产业",
       "summary": "暂无详细内容，请点击阅读原文查看。",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单",
@@ -37,7 +50,13 @@
       "publish_time": "2026-03-24",
       "category": "AI 综合",
       "summary": "最新模型在Embodied Arena登顶 6G冲浪的量子位最新发现，去年从华为诺亚方舟实验室转入学界的周凯文，在入职港中文不到半年后，悄然更新了个人主页 | 他已加入具身创企诺因智能，担任合伙人兼算法主管 | 顺着周凯文人事变动这条线往下",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "具身智能"
+      ]
     },
     {
       "title": "LeCun的世界模型单GPU就能跑了",
@@ -46,7 +65,12 @@
       "publish_time": "2026-03-24",
       "category": "AI 综合",
       "summary": "LeCun世界模型最新进展，开源了一套极简训练方案，单GPU就能跑 | 这套方案叫LeWorldModel，它基于JEPA架构，实现像素输入直接预测未来，速度快到离谱，完整规划仅需1秒",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "算力与芯片"
+      ]
     },
     {
       "title": "陶哲轩：我差点江郎才尽，只因在普林斯顿待了一年",
@@ -55,7 +79,11 @@
       "publish_time": "2026-03-23",
       "category": "AI 综合",
       "summary": "陶哲轩在普林斯顿高等研究院待了一年，差点让他江郎才尽了 | 在与顶级播客主理人Dwarkesh Patel的最新访谈中，这位菲尔兹奖得主用亲身经历，向同行们抛出了一个反直觉的建议： 朋友们，埋头纯搞学术，对数学家来说真不见得是件好事啊",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "阿里在海外上了个“企业级龙虾”，我用它30分钟手搓了一家网店",
@@ -64,7 +92,11 @@
       "publish_time": "2026-03-24",
       "category": "AI 综合",
       "summary": "30分钟，我用阿里凌晨在海外刚上线的“企业版龙虾”，开了家网店",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "字节版龙虾架构火爆GitHub！开源获35k+ Star，内置Skill全家桶，原生适配飞书",
@@ -73,7 +105,12 @@
       "publish_time": "2026-03-23",
       "category": "AI 综合",
       "summary": "开源发布后迅速登上了GitHub Trending榜首，已经收获了35 | Deer-Flow2采用模块化多智能体架构，这些智能体通过LangGraph实现协同合作",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "龙虾史上最大升级！但接了微信的千万别更",
@@ -82,7 +119,11 @@
       "publish_time": "2026-03-24",
       "category": "AI 综合",
       "summary": "时隔九天，虾父Peter带来了全新版本2026",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "拜拜了SWE-Bench！Cursor刚发了个AI Coding评测基准，难哭Claude",
@@ -91,7 +132,13 @@
       "publish_time": "2026-03-14",
       "category": "AI 综合",
       "summary": "专门评价Cursor中不同模型谁更“智能体” 编程智能体时代，顶流Cursor举旗发布新的评测基准—— CursorBench，专门评价Cursor中不同模型谁更“智能体”（即高效执行复杂任务）",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "publish_time": "2026-06-26",
       "category": "AI 综合",
       "summary": "目前，全产品线均已实现商业订单，累计签约金额达数千万元，是行业内落地速度最快的全栈技术公司之一",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛",
@@ -19,7 +25,12 @@
       "publish_time": "2026-06-18",
       "category": "AI 技术",
       "summary": "去年刚成立的光象科技，近日发布了首个工业级自进化具身智能机器人 Phi-Bot X1",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "免费AI被高价倒卖、被包装的“资深规划师”",
@@ -28,7 +39,12 @@
       "publish_time": "2026-06-27",
       "category": "AI 产业",
       "summary": "她告诉界面新闻，最初是在微信视频号看到北京某教育咨询有限公司发布的宣传内容 | ”CC回忆，直播和公开课中，对方不断强调自己熟悉高考志愿填报政策，展示大量所谓“国家认证”“民族品牌认证”“荣誉证书”等材料，还有世界冠军代言",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "云计算一哥，让小鹏、Kimi和猎豹都爽了一把",
@@ -37,16 +53,25 @@
       "publish_time": "2026-06-23",
       "category": "AI 综合",
       "summary": "有这么一组数据，是真真儿地戳到了用Agent这件事的爽点 | 看完这些数字，想必大家脑海里已经是一堆Agent塞满一家公司的画面了，而且是井井有条的那种 | 这家率先尝到Agent“甜蜜点”的公司是谁",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "公司动态"
+      ]
     },
     {
-      "title": "豆包收费版第一天，我：充值…又得充值？我要再充值！",
+      "title": "豆包收费版第一天，我：充值…又得充值？我要再充值",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/438204.html",
       "publish_time": "2026-06-25",
       "category": "AI 综合",
       "summary": "是的，豆包全免费时代终结，现在有了付费模式 | 收费标准共有三档：标准版68元/月、加强版200元/月、高级版500元/月 | 学生还有专属优惠，38元/月，这价格也是美滋滋了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "GPT-5.6突然发布！Fable5痛失最强基模王座",
@@ -55,7 +80,12 @@
       "publish_time": "2026-06-27",
       "category": "AI 综合",
       "summary": "就在刚刚，OpenAI一口气端出三款GPT 5 | 旗舰模型Sol（太阳）、平衡模型Terra（大地）、低成本高速款Luna（月亮）",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "谷歌「推理之王」也跑路Meta了，当年还是李飞飞挖来的",
@@ -64,7 +94,11 @@
       "publish_time": "2026-06-26",
       "category": "AI 综合",
       "summary": "刚刚才发现，那堪称DeepMind「推理之王」的男人——周登勇（Denny Zhou），早已离开了谷歌 | 现在的东家是Meta，在MSL担任研究科学家",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "Claude Fable 5分批重新上线！GPT-5.6秒跟",
@@ -73,7 +107,11 @@
       "publish_time": "2026-06-26",
       "category": "AI 综合",
       "summary": "Fable 5，已于手机端Claude Code「空降」 | 并且可交互，能用它进行SVG生成、git status和PR",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "华勤技术与正行创新达成战略合作，加速机器人“走进工厂、走上产线”",
@@ -82,7 +120,13 @@
       "publish_time": "2026-06-26",
       "category": "AI 综合",
       "summary": "物理智能企业发展也从单一算法、单独本体的重点突破，演进为需构建“场景—数据—模型—产品—解决方案—场景”的完整闭环",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "具身智能"
+      ]
     },
     {
       "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
@@ -91,7 +135,11 @@
       "publish_time": "2026-06-26",
       "category": "AI 综合",
       "summary": "苹果电脑iPad等多款产品一夕之间大涨价，悬着的心终于死了 | Mac价格上涨约15%-20%，iPad涨幅约15%-25% | 昨天还在犹豫要不要买MacBook Air/iPad Air，今天打开官网，发现同一款机型的统一配置，突然贵了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     }
   ]
 }

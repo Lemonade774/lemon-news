@@ -10,7 +10,13 @@
       "publish_time": "2026-07-15",
       "category": "AI 综合",
       "summary": "刚完成第一轮融资后，DeepSeek被曝第二轮融资已经启动 | 据《金融时报》消息，目前DeepSeek正在与新投资者接触，希望开启新一轮融资，融资前估值约710亿美元（折合人民币4800亿元），相比首轮融资后估值520亿美元，上涨3...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资",
+        "AI × 金融"
+      ]
     },
     {
       "title": "WAIC 2026 | 混元Hy3大模型首秀，腾讯上线AI技能支付体系",
@@ -19,7 +25,13 @@
       "publish_time": "2026-07-17",
       "category": "AI 技术",
       "summary": "连续九届参展的腾讯以“Hey，我的 AI Buddy”为主题，集中展示 AI 在各领域进化为生产生活好搭档的跃进，与本届大会“智能伙伴共创未来”的主题相契合 | 这款于今年 3 月推出的全场景职场 AI 智能体工作台，目前已成为国内 ...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "习近平在2026世界人工智能大会暨人工智能全球治理高级别会议开幕式上的主旨讲话（全文）",
@@ -28,7 +40,11 @@
       "publish_time": "2026-07-18",
       "category": "AI 产业",
       "summary": "70年间，世界各国人工智能科学家和研发者不断在未知中求索、在曲折中前行、在坚守中突破",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 产业"
+      ]
     },
     {
       "title": "给AI发工号、定岗位、做绩效，数字员工终于能落地了",
@@ -37,7 +53,12 @@
       "publish_time": "2026-07-18",
       "category": "AI 综合",
       "summary": "近两年，每个看到AI Agent未来潜力的企业主，都曾努力尝试过将其引入现有业务 | 希望这群24小时在线的「数字精英」，能够帮助自己进行企业管理的降本增效 | 包括但不限于将各种繁琐的流程简单化、回答客户的各种刁钻提问…… 但现实往往是：",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "2026年世界人工智能大会，7月17-7月20上海举办",
@@ -46,7 +67,11 @@
       "publish_time": "2026-07-15",
       "category": "AI 综合",
       "summary": "WAIC 2026将于7月17-20日在上海举行，分设世博、张江、西岸三大片区，以“智能伙伴，共创未来”为主题，设置论坛会议、展览展示、评奖赛事、应用体验、创新孵化、招才引智六大板块：计划举办140余场主题论坛，集聚1400余位国际嘉宾，展",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了",
@@ -55,7 +80,12 @@
       "publish_time": "2026-07-16",
       "category": "AI 综合",
       "summary": "要说这两年，大模型最重要的变化之一，就是越来越不依赖预训练一锤定音，部分能力开始留到推理时刻再兑现 | OpenAI o1如此，DeepSeek-R1也是如此 | 模型推理能力提升，靠的是在应用过程中的持续自我提升",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用"
+      ]
     },
     {
       "title": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界",
@@ -64,7 +94,13 @@
       "publish_time": "2026-07-16",
       "category": "AI 综合",
       "summary": "代码Agent这两年为何进步飞快，成为AI界的宗门大师兄 | 代码Agent可以自动执行、自动验证、自动反馈 | 写了代码跑一下就知道对不对，奖励信号非常清晰明确",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "PPIO发布智能模型网关，打造面向Agent时代的智能Token工厂",
@@ -73,16 +109,28 @@
       "publish_time": "2026-07-18",
       "category": "AI 综合",
       "summary": "PPIO 同期举办了媒体沟通会，会上正式发布全新的 Agentic Cloud 定位，以及智能模型网关新品，致力于打造面向 Agent 时代的智能 Token 工厂 | 今年 PPIO 通过 Harness 手段推出的 PPClaw/...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
-      "title": "WAIC直击 | 十大开源社区「挤」进了一家GPU展台，沐曦凭什么？",
+      "title": "WAIC直击 | 十大开源社区「挤」进了一家GPU展台，沐曦凭什么",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/453246.html",
       "publish_time": "2026-07-18",
       "category": "AI 综合",
       "summary": "曦景S600超节点首次亮相，单机柜64张GPU、可扩展至万卡集群； AI4S方向的曦索X300系列科学智能GPU首次发布； Agent体验区排起长队，数字员工、AI文创工作站几乎没停过",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "公司动态",
+        "算力与芯片"
+      ]
     },
     {
       "title": "逛完WAIC 2026我悟了：国产AI芯片的真对手，根本不是英伟达的GPU",
@@ -91,7 +139,13 @@
       "publish_time": "2026-07-18",
       "category": "AI 综合",
       "summary": "可重构芯片、4K超节点、RAISA软件栈、行业应用，被放在一起呈现——像是在回答所有国产芯片厂商都绕不开的问题： 芯片发布之后呢 | 这个问题背后，是国产算力竞争逻辑的一次切换：从发布会上的参数对比，转向能否形成稳定、易用、可规模部署...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态",
+        "算力与芯片"
+      ]
     }
   ]
 }

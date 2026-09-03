@@ -10,7 +10,12 @@
       "publish_time": "2026-04-28",
       "category": "AI 综合",
       "summary": "要实现这一系列功能，离不开车载Agent，但Agent上车，不是把手机App搬进车机，也不是把Chatbot塞进座舱，而是让车从“能听懂人话”，进一步变成“能替人办事”",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent"
+      ]
     },
     {
       "title": "DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权",
@@ -19,7 +24,13 @@
       "publish_time": "2026-04-24",
       "category": "AI 技术",
       "summary": "DeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界知识和推理性能三大维度上均实现了国内与开源领域的领先 | 秉承 DeepSeek 一贯的开放精神，本次发布的模型按大小分为两个版本，欢迎开发者、研究者和企业用户前...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "老龄化催生商业变局，傅利叶走出康复机器人的“上海样本”",
@@ -28,7 +39,11 @@
       "publish_time": "2026-04-28",
       "category": "AI 产业",
       "summary": "老龄化催生商业变局，傅利叶走出康复机器人的“上海样本” 庞大老龄基数相对应的，是全国每10万人中仅有约3 | 在极不平衡的供需关系推力下，机器人辅助康复设备正加速向医疗系统渗透",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "Claude第一款AI桌宠硬件，深圳制造",
@@ -37,7 +52,11 @@
       "publish_time": "2026-04-27",
       "category": "AI 综合",
       "summary": "这是Anthropic工程师Felix Rieseberg发起的开源项目，名字叫Claude-Desktop-Buddy",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "打工人五一自救指南：把活全甩给AI，准备免打扰出门",
@@ -46,7 +65,11 @@
       "publish_time": "2026-04-27",
       "category": "AI 综合",
       "summary": "还有两三天就是五一假期了，看看你的工作群，是不是已经开始有人发“假期保持在线”了 | 这绝对是打工人放假出门前的终极内耗：背不背电脑",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "麒麟云中现，境启新人生！全新坦克700正式上市，售价42.8万起",
@@ -55,7 +78,12 @@
       "publish_time": "2026-04-27",
       "category": "AI 综合",
       "summary": "发布会围绕“麒麟云中现·境启新人生”主题，打破行业参数内卷困局，实现从卖产品到卖生活方式的理念升级 | 全新坦克700上市发布会，通过沉浸式篇章叙事呈现别具一格的视听盛宴，以“意境诠释豪华、体验传递价值”的氛围营造，为用户带来身临其境...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "芒果传媒与爱诗科技达成战略合作，全栈AI视频能力接入芒果内容生态",
@@ -64,7 +92,12 @@
       "publish_time": "2026-04-27",
       "category": "AI 综合",
       "summary": "4月23日上午，芒果传媒与爱诗科技在湖南广播电视台金鹰大厦正式签署战略合作协议 | 湖南广播影视集团（湖南广播电视台）党委委员、副总经理、副台长杨贇，爱诗科技联合创始人谢旭璋、副总裁徐舒帆等双方核心团队出席签约仪式 | 此次合作将以芒果传媒",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "Meshy用户破千万后杀向新战场：ARR年翻14倍，头部厂商集体买单",
@@ -73,7 +106,11 @@
       "publish_time": "2026-04-27",
       "category": "AI 综合",
       "summary": "月前，全球3D打印行业风向标TCT Asia展会上，一个展台被围得水泄不通 | 展台背后的名字叫Meshy，正是计算机图形学大神胡渊鸣创立的AI 3D公司",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "量子位专访楼天城：AI是匹脱缰野马，Harness是这个时代最关键的能力",
@@ -82,7 +119,12 @@
       "publish_time": "2026-04-27",
       "category": "AI 综合",
       "summary": "这也是小马智行发布PonyWorld世界模型2",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "3个月手搓Gamma架构，这个团队打造出了场景白盒化推理的“下一代内容OS”",
@@ -91,7 +133,11 @@
       "publish_time": "2026-04-28",
       "category": "AI 综合",
       "summary": "通过AI驱动的可编辑内容系统「Pi」（Presentation Intelligence），这个团队把AI的生成能力和人的编辑能力，真正装进了同一个系统，让内容设计真正实现白盒化",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     }
   ]
 }

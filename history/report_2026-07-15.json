@@ -10,7 +10,13 @@
       "publish_time": "2026-07-14",
       "category": "AI 综合",
       "summary": "爱诗科技今日宣布完成整体C轮融资，本轮累计融资29 | 本轮融资将主要用于视频生成基础模型、实时世界模型、全球化产品增长和产业场景落地",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "融资与投资"
+      ]
     },
     {
       "title": "从看见问题到解决问题，Agent 正重新定义可观测",
@@ -19,7 +25,11 @@
       "publish_time": "2026-07-13",
       "category": "AI 技术",
       "summary": "Vibe Coding 正在批量生产“日抛型软件” | 它们可以在一天内被搭出来，却未必经得起一周后的真实业务流量、权限调用和故障追责 | Gartner 预警，到 2028 年，公民开发者采用 Prompt-to-App 的方式可能使软件",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "马斯克“机器人还进不了厂”刚说完，小米机器人”上岗“汽车产线了",
@@ -28,7 +38,12 @@
       "publish_time": "2026-07-14",
       "category": "AI 综合",
       "summary": "刚刚，小米技术官方微博发布小米机器人进厂“实习”的最新进展—— 不到半年的时间里，小米机器人就学会了柔性工件的长时作业",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO",
@@ -37,7 +52,13 @@
       "publish_time": "2026-07-15",
       "category": "AI 综合",
       "summary": "刚完成第一轮融资后，DeepSeek被曝第二轮融资已经启动 | 据《金融时报》消息，目前DeepSeek正在与新投资者接触，希望开启新一轮融资，融资前估值约710亿美元（折合人民币4800亿元），相比首轮融资后估值520亿美元，上涨3...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资",
+        "AI × 金融"
+      ]
     },
     {
       "title": "阶跃入局，重构智能体时代操作系统",
@@ -46,7 +67,12 @@
       "publish_time": "2026-07-15",
       "category": "AI 综合",
       "summary": "2026年，全球操作系统产业，迎来60年来的最大一次范式重构 | 从大模型厂商到终端巨头，几乎所有头部核心玩家都在，争夺下一代操作系统的定义权 | 今天的智能体不再满足于聊天与思考，它们已经能够代人行动、替人做事",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent"
+      ]
     },
     {
       "title": "百年德国「战车」征服欧陆，驾驶位上是中国AI司机",
@@ -55,16 +81,25 @@
       "publish_time": "2026-07-14",
       "category": "AI 综合",
       "summary": "德国不限速高速、法国复杂环岛、日本右舵左行道路…… 这几天，量产L2++测试车辆正穿梭这些国家公开道路之上，车身上的标识格外醒目： Robotaxi海外大规模落地运营步履不停，文远知行的另一条腿——量产车L2++，也迈出了国门 | 而不论是",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
-      "title": "刚刚，一个免费AI Coding选手杀入全球第一梯队",
+      "title": "一个免费AI Coding选手杀入全球第一梯队",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/448475.html",
       "publish_time": "2026-07-14",
       "category": "AI 综合",
       "summary": "（马景涛老师咆哮版） Agnes AI，一家明星AI实验室，在这个节骨眼干了这样一件事： 发布Coding能力位列全球第一梯队的新一代文本模型，Agnes-2",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "2026年世界人工智能大会，7月17-7月20上海举办",
@@ -73,7 +108,11 @@
       "publish_time": "2026-07-14",
       "category": "AI 综合",
       "summary": "WAIC 2026将于7月17-20日在上海举行，分设世博、张江、西岸三大片区，以“智能伙伴，共创未来”为主题，设置论坛会议、展览展示、评奖赛事、应用体验、创新孵化、招才引智六大板块：计划举办140余场主题论坛，集聚1400余位国际嘉宾，展",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "B站AI创造公开赛正式上线投币榜，单月参赛人数突破五千",
@@ -82,7 +121,11 @@
       "publish_time": "2026-07-14",
       "category": "AI 综合",
       "summary": "7月14日，哔哩哔哩（以下简称“B站”）正式上线“build in bilibili·AI创造公开赛”作品投币入围榜",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
@@ -91,7 +134,13 @@
       "publish_time": "2026-07-13",
       "category": "AI 综合",
       "summary": "同时发布CPU原生液冷整机柜、多模融合超节点 AI基础设施的核心任务，已经从支撑大模型推理，转向支撑海量智能体的规模化运行与高质量Token的持续生产",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     }
   ]
 }

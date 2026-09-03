@@ -10,7 +10,13 @@
       "publish_time": "2026-05-23",
       "category": "AI 综合",
       "summary": "AI）」已于近期完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金及知名投资人个人跟投",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资",
+        "具身智能"
+      ]
     },
     {
       "title": "华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
@@ -19,7 +25,11 @@
       "publish_time": "2026-05-23",
       "category": "AI 技术",
       "summary": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业 | Agent 从 Demo 到工程化还差什么",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
@@ -28,7 +38,12 @@
       "publish_time": "2026-05-22",
       "category": "AI 综合",
       "summary": "DeepSeek Code is Coming DeepSeek融资额已飙升至700亿元，管理层向潜在投资者表示，优先考虑突破性的AI研究，而不是短期商业化",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资"
+      ]
     },
     {
       "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
@@ -37,7 +52,12 @@
       "publish_time": "2026-05-22",
       "category": "AI 综合",
       "summary": "这是2026年，中国企业AI落地最尴尬、也最具产业价值的一个真相 | 就以某家年营收过百亿的零售企业为例，其最近做了一份不算光彩的内部统计 | 他们的员工，平均每天要在11个系统之间切换",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "顶流里最快！智谱，你是在「喷」代码吧",
@@ -46,7 +66,12 @@
       "publish_time": "2026-05-22",
       "category": "AI 综合",
       "summary": "视频地址：https://mp.weixin.qq.com/s/Wn1-SzjpEkQLTyZnJKDRwg 这么多的代码，直接就是“啪的一下”喷出来的感觉。 之前AI写代码像CPU渲图一样，是一点一点打出来；但这个AI写代码，更像GPU：",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "算力与芯片"
+      ]
     },
     {
       "title": "OpenAI大神教你如何榨干Codex",
@@ -55,7 +80,11 @@
       "publish_time": "2026-05-23",
       "category": "AI 综合",
       "summary": "13k星开源库作者解锁Codex-maxxing",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "李飞飞再出手，空间智能的ImageNet来了",
@@ -64,7 +93,12 @@
       "publish_time": "2026-05-22",
       "category": "AI 综合",
       "summary": "李飞飞团队最新发布ESI-Bench——一个专门用来评测具身空间智能的新基准 | ESI-Bench发布的背景，是由于目前的空间智能benchmark，测的都是「被动感知」",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
@@ -73,7 +107,13 @@
       "publish_time": "2026-05-19",
       "category": "AI 综合",
       "summary": "但一家国产GPU厂商，却在一整场发布会的时间里，做了一件非常物理的事儿—— 在走到舞台中央后，只见屏幕里仿真世界的小飞侧空翻了一下，随即，物理世界的小飞便做出了一模一样的动作 | 正是由摩尔线程新鲜发布的MT Lambda | 这是首...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "算力与芯片",
+        "具身智能"
+      ]
     },
     {
       "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
@@ -82,7 +122,12 @@
       "publish_time": "2026-05-22",
       "category": "AI 综合",
       "summary": "2026年的Agent赛道，画风真有点反差 | 虾（OpenClaw）、马（HERMES）、人（OpenHuman）……各路Harness框架狂卷迭代，热得发烫",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用"
+      ]
     },
     {
       "title": "DeepSeek V4价格打骨折，宁王京东网易抢着入场，梁文锋：目标是AGI",
@@ -91,7 +136,13 @@
       "publish_time": "2026-05-23",
       "category": "AI 综合",
       "summary": "另一边，The Information爆料：宁德时代，正在接洽DeepSeek的融资 | 据彭博社报道，DeepSeek正在推进一轮700亿元融资，估值已飙至450亿美元 | 知情人士称，梁文锋已向潜在投资者明确表示，公司将继续优先推...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "融资与投资"
+      ]
     }
   ]
 }

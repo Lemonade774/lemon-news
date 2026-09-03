@@ -10,7 +10,11 @@
       "publish_time": "2026-04-06",
       "category": "AI 综合",
       "summary": "你的AI产品，从Day0起就应具备“全球原生基因” 如果你的计划还是“国内卷完再转战海外”，对不起，你可能已经提前出局 | 在这一波AI浪潮里，Day 0即全球化，早已是圈内默认的入场券",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "AI 时代的架构治理",
@@ -19,7 +23,11 @@
       "publish_time": "2026-04-06",
       "category": "AI 技术",
       "summary": "本文由 InfoQ 认证架构师在线课程的学员撰写，是其学习成果的集大成之作，反映了学员群体在 AI 与现代软件架构交叉领域的集体学习心得 | 生成式 AI 大幅降低了编写代码所需的工作量，快速原型设计也变得越来越普遍 | 因此，如今软件开发",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 技术"
+      ]
     },
     {
       "title": "日调用量超万亿破纪录！阿里千问3.6Plus登顶全球模型调用量榜首",
@@ -28,7 +36,12 @@
       "publish_time": "2026-04-04",
       "category": "AI 综合",
       "summary": "4月4日消息，发布仅1天的阿里千问新模型Qwen3 | 4月2日上午，阿里发布国产最强编程模型Qwen3",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "具身龙虾，上车理想",
@@ -37,7 +50,13 @@
       "publish_time": "2026-04-05",
       "category": "AI 综合",
       "summary": "最近，理想发布了全新的流式视频理解与具身智能统一的Agent框架—— 在保持与OpenClaw框架完全兼容的基础上，StreamingClaw原生支持实时的多模态流式交互 | 依托主-从代理的紧密协同，它不仅能自主完成复杂的任务规划与...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "GPT-6，曝光了",
@@ -46,7 +65,12 @@
       "publish_time": "2026-04-05",
       "category": "AI 综合",
       "summary": "据爆料，这颗「土豆」已经彻底煮熟了，4月14号就会发布",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "OpenAI又曝出内讧了！IPO前夜高层大换血",
@@ -55,7 +79,12 @@
       "publish_time": "2026-04-06",
       "category": "AI 综合",
       "summary": "就怎么说呢，和前脚刚拿到千亿融资以及GPT-6传出新进展相比，这反转也来得太快了吧 | 关于OpenAI身上正在发生的事，这第一件就很耐人寻味： 就在它拿下1220亿美元创纪录融资、全力冲刺IPO的节骨眼上，几位核心高管却要么换岗、要...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资"
+      ]
     },
     {
       "title": "让离线强化学习从「局部描摹」变「全局布局」丨ICLR’26",
@@ -64,7 +93,11 @@
       "publish_time": "2026-04-06",
       "category": "AI 综合",
       "summary": "这就好比画一幅素描，你不会一上来就描绘眼睛的睫毛，而是先画出整体的身体轮廓（宏观规划），再逐步细化五官和表情 为了直观展示现有模型的缺陷，研究团队设计了一个迷宫吃金币小实验",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "太初元碁向员工发放百亿算力token并将共建高校AI科教融合学院",
@@ -73,7 +106,13 @@
       "publish_time": "2026-04-05",
       "category": "AI 综合",
       "summary": "此前，太初元碁发布基于河南空港智算中心智算底座的太初龙虾一体机（TecoClaw），以全栈国产化、高安全性的私有化部署方案，为企业智能体应用提供开箱即用的算力基础设施",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
@@ -82,7 +121,11 @@
       "publish_time": "2026-04-05",
       "category": "AI 综合",
       "summary": "现在AI找Bug的速度，比他们修Bug还快 | 从今年开始，每天雷打不动收到5到10份报告，周二周五尤其多 | 最搞心态的是，这些AI生成的报告，竟然大部分都还是对的，想摸鱼都没借口，何况这提交者还是一个不用睡觉的“赛博监工”",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "OpenAI新模型不是GPTX！全新预训练“土豆”曝光，Sora成弃子的原因找到了",
@@ -91,7 +134,12 @@
       "publish_time": "2026-04-05",
       "category": "AI 综合",
       "summary": "还没完，Greg还聊到了OpenAI今年的大笔融资、和A社家对B端用户的争夺…… 以下为播客实录精校（感谢AI），在不改变原意的基础上做了适当编辑",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资"
+      ]
     }
   ]
 }

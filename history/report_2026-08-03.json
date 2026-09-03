@@ -10,7 +10,11 @@
       "publish_time": "2026-07-31",
       "category": "AI 综合",
       "summary": "米哈游蔡浩宇的AI公司Anuttacon，这是准备GG了 | 职业经历里，Anuttacon停在了今年7月，紧接着出现的新身份是—— 和上一段Anuttacon工作经历相比，可谓朴素得多",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "下一个国民级 AI 产品，或许就诞生于一人之手",
@@ -19,7 +23,12 @@
       "publish_time": "2026-07-31",
       "category": "AI 技术",
       "summary": "12 组 AI 创业项目依次完成项目展示与评审问答，覆盖企业风险排查、浏览器 Agent、个人 AI 行动助手、AI 工具交易、品牌与内容增长、企业知识管理、家居空间焕新及独立游戏等多个方向",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用"
+      ]
     },
     {
       "title": "ChinaJoy“AI含量”拉满，但AI游戏爆款仍是悬念",
@@ -28,7 +37,11 @@
       "publish_time": "2026-08-03",
       "category": "AI 产业",
       "summary": "这款名为《积案拂尘》的游戏拿下了BOOOMJam游戏创作挑战赛上的“骁龙最佳技术突破奖”",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 产业"
+      ]
     },
     {
       "title": "黄仁勋：不玩𝕏是我太内向，现在为AI必须站出来",
@@ -37,7 +50,11 @@
       "publish_time": "2026-08-01",
       "category": "AI 综合",
       "summary": "这次是因为想说的话太重要了，才终于克服了内向： 一直到2026年，我才在X上发了第一条帖子，这足以说明我有多么内向，我大概是地球上最后一个这么做的人了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "获奖之后，王虹最想感谢的人",
@@ -46,7 +63,11 @@
       "publish_time": "2026-08-01",
       "category": "AI 综合",
       "summary": "2026年菲尔兹奖得主王虹教授正在做报告讲解挂谷猜想，而她的博导Larry Guth（拉里·古斯）正在报告厅门外兴高采烈地探头张望",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "AI顶会现场，见到了一家美妆巨头",
@@ -55,16 +76,25 @@
       "publish_time": "2026-08-01",
       "category": "AI 综合",
       "summary": "欧莱雅把AI装进mei’zhuang’quan’lian’lu 谁曾想呢，在WAIC现场，我竟然看见了美妆巨头欧莱雅 | 定睛一看，竟然还有何同学和他带来的「手机床」",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
-      "title": "Anthropic模型，也失控了。。。",
+      "title": "Anthropic模型，也失控了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/464412.html",
       "publish_time": "2026-08-01",
       "category": "AI 综合",
       "summary": "好啊好啊，AI大厂的安全测试，这波是快把真实互联网测成筛子了…… 刚围观完OpenAI的AI Agent逃出测试环境、黑进Hugging Face，Anthropic转头一查—— 随橙想呢， 自己心肝大宝贝Claude也勇闯真实互联网了 |",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent"
+      ]
     },
     {
       "title": "100%开源！吴恩达做了个个人桌面Agent",
@@ -73,7 +103,11 @@
       "publish_time": "2026-07-25",
       "category": "AI 综合",
       "summary": "项目名为OpenWorker，现已在GitHub开源，采用MIT License | 吴恩达在推上表示，OpenWorker已经可以在Mac上运行，Windows版本也即将上线",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "「天线宝宝」机器人上门做保洁，200元/小时，纯·人工·智能",
@@ -82,16 +116,26 @@
       "publish_time": "2026-08-01",
       "category": "AI 综合",
       "summary": "不错，再次向进家庭迈出了重要一步，毕竟。。。 视频链接：https://mp.weixin.qq.com/s/3e7eZfLSRYThACOqzeqb_g 太神了，挤洗手液、关水龙头……最后还知道拿帕子擦一下。 就是长得有点奇怪，脑袋顶个W",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "具身智能"
+      ]
     },
     {
-      "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO！",
+      "title": "OpenAI前员工刚跑路就喊话：要套现就赶紧套，别等IPO",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/464693.html",
       "publish_time": "2026-08-01",
       "category": "AI 综合",
       "summary": "一位账上压着70万美元OpenAI股权、刚从OpenAI离职的员工，不睡觉也要上网喊话老同事 | 眼看OpenAI的估值一路走高，他怎么反倒劝人赶紧落袋为安 | 实际上，他本人对AI前沿实验室的估值相当悲观",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资"
+      ]
     }
   ]
 }

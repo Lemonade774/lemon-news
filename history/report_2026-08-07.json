@@ -10,7 +10,11 @@
       "publish_time": "2026-08-05",
       "category": "AI 综合",
       "summary": "马斯克旗下靠火箭声名赫赫的SpaceX，交出首份上市后财报时，最抢镜的已经不是火箭了 | 14亿美元，同比增长92%，高于市场约69亿美元的预期；其中，AI业务收入25",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "算力与芯片"
+      ]
     },
     {
       "title": "Jeff Dean离职前最后一次对话：我低估了AI，也看清了创业者的唯一生路",
@@ -19,7 +23,11 @@
       "publish_time": "2026-08-06",
       "category": "AI 技术",
       "summary": "一年前，Google 首席科学家 Jeff Dean 在 AI Ascent 2025 峰会上预测：到 2026 年，可能出现能够全天候工作、能力接近初级软件工程师的 AI 系统 | 一年后，也就是 6 天前，他在一期 YC 访谈中承认，自",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 技术"
+      ]
     },
     {
       "title": "DeepSeek也扛不住了？API降价后又将大幅涨价",
@@ -28,7 +36,12 @@
       "publish_time": "2026-08-07",
       "category": "AI 产业",
       "summary": "8月6日，DeepSeek发布公告称，“计划近期整体上调DeepSeek API服务的定价，预计涨幅较大，请合理安排您的使用",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "Jeff Dean离职前最后一次对话：我低估了AI，也看清了创业者的唯一生路",
@@ -37,7 +50,11 @@
       "publish_time": "2026-08-06",
       "category": "AI 技术",
       "summary": "一年前，Google 首席科学家 Jeff Dean 在 AI Ascent 2025 峰会上预测：到 2026 年，可能出现能够全天候工作、能力接近初级软件工程师的 AI 系统 | 一年后，也就是 6 天前，他在一期 YC 访谈中承认，自",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 技术"
+      ]
     },
     {
       "title": "智元下架了首席科学家罗剑岚",
@@ -46,7 +63,11 @@
       "publish_time": "2026-08-07",
       "category": "AI 综合",
       "summary": "刚刚，量子位发现，智元机器人官网最新的合伙人团队名单中，已经不见原首席科学家罗剑岚的名字 | 2025年9月智元首次对外披露合伙人团队时，罗剑岚与邓泰华、彭志辉、姚卯青等人一同出现在官网，其职务正是合伙人、高级副总裁、首席科学家",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "100%开源！吴恩达做了个个人桌面Agent",
@@ -55,7 +76,11 @@
       "publish_time": "2026-07-25",
       "category": "AI 综合",
       "summary": "项目名为OpenWorker，现已在GitHub开源，采用MIT License | 吴恩达在推上表示，OpenWorker已经可以在Mac上运行，Windows版本也即将上线",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "Show me《指环王》！卡帕西强推大模型评测新基准",
@@ -64,7 +89,11 @@
       "publish_time": "2026-08-07",
       "category": "AI 综合",
       "summary": "就在刚刚，大神卡帕西宣布，“我们”Anthropic已经开始用一种全新的方式，给大模型上强度—— 据卡帕西介绍，这套“指环王基准”，正在接替过去风靡一时的“鹈鹕骑自行车”SVG测试 | 具体来说，卡帕西直接把《指环王》的开头丢给Opus 5",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "冲刺全球首个100万小时具身数据！三家国产公司，联手了",
@@ -73,7 +102,12 @@
       "publish_time": "2026-08-07",
       "category": "AI 综合",
       "summary": "到2026年底，完成100万小时机器人训练数据采集，力争成为全球首个突破这一规模的企业",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "美学升维，流畅突破：荣耀MagicOS11双架构重塑体验",
@@ -82,7 +116,11 @@
       "publish_time": "2026-08-06",
       "category": "AI 综合",
       "summary": "此次品鉴会系统展示了MagicOS11从视觉美学到流畅性能的全面突破 | 设计团队深入解析真实玻璃的光学性质，对光线折射、模糊、高光等维度进行精细化还原，实现了从静态通透到动态流光通透的材质跃迁 | 在动态表现层面，MagicOS11...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "DeepSeek豪掷1.4亿护航宇树IPO，杭州绝代双骄战略合体",
@@ -91,7 +129,12 @@
       "publish_time": "2026-08-07",
       "category": "AI 综合",
       "summary": "8月6日，宇树科技公布首次公开发行股票并在科创板上市战略配售结果，共有9家投资者参与本次战略配售",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资"
+      ]
     }
   ]
 }

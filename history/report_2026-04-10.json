@@ -10,7 +10,11 @@
       "publish_time": "2026-04-10",
       "category": "AI 综合",
       "summary": "哦豁，马斯克一个“不小心”，把Claude参数抖出来了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "AI 资本大转向：OpenAI 凉、Anthropic 火、马斯克赢",
@@ -19,7 +23,11 @@
       "publish_time": "2026-04-02",
       "category": "AI 技术",
       "summary": "“SpaceX IPO，意味着资本正在押注一种由实体基础设施护城河构成的优势；OpenAI 的二级份额开始流向 Anthropic，说明市场其实在用真金白银下注：前沿实验室里，开发者到底真正信谁",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "融资与投资"
+      ]
     },
     {
       "title": "大模型能“原地”改参数了！字节Seed&北大新论文：测试时推理无需加层重训练",
@@ -28,16 +36,24 @@
       "publish_time": "2026-04-10",
       "category": "AI 综合",
       "summary": "字节Seed最新研究，让大模型能“原地改参数”了 | 既不用改模型结构，也不用重新训练，还跑得很快",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
-      "title": "别只用AI写脚本了，现在AI打广告可真是城会玩了！",
+      "title": "别只用AI写脚本了，现在AI打广告可真是城会玩了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/04/398181.html",
       "publish_time": "2026-04-10",
       "category": "AI 综合",
       "summary": "像下面这个再正常不过的短视频剧情，当镜头切到宝宝喝牛乳的时候，啪的一下，左下角就精准弹出了奶粉广子： 详细点击：https://mp",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "国产免费2B开源语音模型征服《莽撞人》！复刻郭德纲最难贯口",
@@ -46,7 +62,12 @@
       "publish_time": "2026-04-08",
       "category": "AI 综合",
       "summary": "刚融资数亿元的面壁又发新模型，让歪果仁直呼Amazing 终于，郭德纲最难的贯口——《莽撞人》，被免费的2B国产AI给复刻出来了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资"
+      ]
     },
     {
       "title": "Claude封杀龙虾后推自家Agent服务，又被开源平替了",
@@ -55,16 +76,27 @@
       "publish_time": "2026-04-09",
       "category": "AI 综合",
       "summary": "6k Star 刚刚，Claude推出“企业版”服务，发布Claude Managed Agents，结果被开源项目“开团秒跟” | com/s/7YhCYU2aR4EisYK1UzQExw 有意思的是，Claude Managed ...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
-      "title": "神秘「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
+      "title": "「欢乐马」霸榜视频模型！本以为Seedance2.0已封神…",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/04/398157.html",
       "publish_time": "2026-04-09",
       "category": "AI 综合",
       "summary": "0悄然登顶Artificial Analysis的AI Video Arena排行榜，力压Seedance和可灵 | 从昨天开始，它在文本转视频（无音频）赛道便登顶第一",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用"
+      ]
     },
     {
       "title": "Generalist最新长文定调：具身原生才是正道，原力灵机已交卷",
@@ -73,7 +105,12 @@
       "publish_time": "2026-04-08",
       "category": "AI 综合",
       "summary": "Generalist AI的GEN-1热度，仍在发酵 | 自节前那场引爆全网的Demo之后，昨日，创始人Pete Florence与团队，正式释出了GEN-1的技术博客 | 与其说这是一篇技术分享，不如说这是一篇「教同行做事」的檄文",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "Claude神之bug：给自己下指令，还诬赖用户？？Hacker News炸了",
@@ -82,7 +119,12 @@
       "publish_time": "2026-04-10",
       "category": "AI 综合",
       "summary": "这个关于“Claude混淆发言角色”的帖子一经发布，立刻在Hacker News上引发了数万名极客的强势围观",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "开源模型首超Opus4.6！智谱GLM-5.1登场，14小时后CUDA专家被冲了",
@@ -91,7 +133,11 @@
       "publish_time": "2026-04-08",
       "category": "AI 综合",
       "summary": "不卖关子，正是大家熟悉的，来自智谱的开源模型——GLM-5",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     }
   ]
 }

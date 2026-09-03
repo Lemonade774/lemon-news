@@ -10,7 +10,12 @@
       "publish_time": "2026-07-12",
       "category": "AI 综合",
       "summary": "本周，哈工大（深圳）杨朔团队发布了TouchWorld，一个面向灵巧操作的触觉世界模型 | 此前，杨朔团队已经推出EgoTouch和TouchAnything： 这三项工作连起来，构成了一条清晰路线：先采触觉，再恢复/对齐触觉，最后让...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "“300行代码写个Cursor，这是AI时代软件工程师的新底线。”Ralph Loop创造者、Claude Code核心技术设计者的暴论",
@@ -19,7 +24,11 @@
       "publish_time": "2026-07-08",
       "category": "AI 技术",
       "summary": "“软件开发已经死了，因为现在任何人都可以成为软件开发者 | 过去六个月的变化比过去三十年都多，而大多数工程师还在当 Jira 工单猴子，浑然不觉自己已经站在了悬崖边上 | ” 最近，Ralph Loop 的创造者 Geoffrey Hunt",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "WAIC 2026启幕倒计时：四大亮点一文看懂",
@@ -28,7 +37,11 @@
       "publish_time": "2026-07-14",
       "category": "AI 产业",
       "summary": "界面新闻获悉，今年展览总面积首次突破10万平方米，1100余家企业参展，3000余项展品集中亮相，超300款产品全球首发",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "菲尔兹奖提前泄露！王虹邓煜双双在列",
@@ -37,7 +50,11 @@
       "publish_time": "2026-07-14",
       "category": "AI 综合",
       "summary": "还是ICM 2026（国际数学家大会）官网前端代码直接漏的 | 这份名单中，王虹、邓煜两位中国数学家同时在列 | 两位数学家获得这一数学最高奖，看样子已经八九不离十——尽管国际数学家大会在今年7月23日才会官宣新一届菲尔兹奖结果，但人选一般",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "问界母公司突发亏损预警！一季度还在盈利",
@@ -46,7 +63,11 @@
       "publish_time": "2026-07-13",
       "category": "AI 综合",
       "summary": "最新公告显示，2026年上半年，赛力斯预计归母净亏损15亿~18亿元，扣非净亏损22亿~25亿元",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "Claude Code砸的坑，蚂蚁安全在尝试填上",
@@ -55,7 +76,12 @@
       "publish_time": "2026-07-13",
       "category": "AI 综合",
       "summary": "就在前两天，工信部NVDB平台发布风险预警，明确指出Claude Code存在安全后门隐患，可在用户不知情的情况下收集敏感信息",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "2026年世界人工智能大会，7月17-7月20上海举办",
@@ -64,7 +90,11 @@
       "publish_time": "2026-07-13",
       "category": "AI 综合",
       "summary": "WAIC 2026将于7月17-20日在上海举行，分设世博、张江、西岸三大片区，以“智能伙伴，共创未来”为主题，设置论坛会议、展览展示、评奖赛事、应用体验、创新孵化、招才引智六大板块：计划举办140余场主题论坛，集聚1400余位国际嘉宾，展",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "WAIC’26探展召集令！和量子位一起逛展、直播、聊AI",
@@ -73,7 +103,11 @@
       "publish_time": "2026-07-13",
       "category": "AI 综合",
       "summary": "7月17日至20日，世界人工智能大会WAIC 2026将在上海举行 | 我们将围绕前沿技术、创新产品与产业趋势，带来一线探展、论坛直播、产品体验和现场报道",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "从前沿创新到产业落地：西门子将亮相2026世界人工智能大会",
@@ -82,7 +116,11 @@
       "publish_time": "2026-07-13",
       "category": "AI 综合",
       "summary": "西门子将再度亮相2026世界人工智能大会（WAIC 2026），集中展示其在工业AI领域的前沿创新、多行业场景应用以及与本土生态伙伴的合作成果 | 西门子致力于将自身行业知识、数据积淀与技术创新深度融合，让AI扎根场景，从单点突破产生...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "Agent专用搜索登顶Product Hunt，Token更省搜得更准",
@@ -91,7 +129,13 @@
       "publish_time": "2026-07-13",
       "category": "AI 综合",
       "summary": "本期Product Hunt周榜Top 1出自中国团队，AnySearch—— 过去一年，PH榜一的位置被Agent、AI IDE、大模型轮番占据，几乎没见过搜索类产品的影子 | 就是因为在全球开发者眼里，普通AI搜索已经很难突围了 | 看",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "AI 应用"
+      ]
     }
   ]
 }

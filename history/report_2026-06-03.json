@@ -10,7 +10,11 @@
       "publish_time": "2026-06-02",
       "category": "AI 综合",
       "summary": "5上也取得了最领先的分数，综合性能全球第一，刷新业界SOTA，在复杂文档理解和真实场景解析能力方面进一步突破 | 6在多项能力中实现SOTA 在权威评测集 OmniDocBench v1",
-      "importance_score": 10
+      "importance_score": 10,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "AI 的目标在于可追责，欧盟法规则致力于保障透明度",
@@ -19,7 +23,11 @@
       "publish_time": "2026-06-03",
       "category": "AI 技术",
       "summary": "在哥本哈根 GOTO 大会上，Joanna Bryson 发表题为 \"AI、企业责任与民主合法性\" 的主题演讲，其中提到：AI 的偏见与人类的偏见如出一辙；两者都源于我们的语言和生活经历 | 伦理与 AI 密不可分，但 AI 改变了行为的可",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 技术"
+      ]
     },
     {
       "title": "当AI图“入侵”服装电商：买家当毒药，卖家作解药",
@@ -28,7 +36,11 @@
       "publish_time": "2026-06-03",
       "category": "AI 产业",
       "summary": "当AI图“入侵”服装电商：买家当毒药，卖家作解药 AI可以让女装电商更快，也更便宜，但它没有让女装生意变简单 | 消费者对AI女装图的反感，正在成为服装电商店家使用AI的第一道阻力 | 在小红书等社交平台上，围绕AI女装卖家秀和买家秀的吐槽",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 产业"
+      ]
     },
     {
       "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
@@ -37,7 +49,13 @@
       "publish_time": "2026-06-01",
       "category": "AI 综合",
       "summary": "通用人工智能公司VAST，带来两个新消息： 一，完成近2亿美元的新一轮融资；二，终于正式对外披露自己的世界模型路线 | VAST近期完成合计近2亿美元的A+及A++轮融资，领投方为渶策资本、国寿长三角科创基金 | 这也是VAST继今年...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
@@ -46,7 +64,13 @@
       "publish_time": "2026-05-29",
       "category": "AI 综合",
       "summary": "以文字和视频为例，只需要单点突破大模型生成环节就成，但游戏不仅是内容，更是一个强工程化的复杂系统 | 而这件事，现在正在发生—— 前两天的腾讯游戏发布会上，AI浓度高到爆表",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "字节开源统一框架Bernini：给DiT配个“大模型军师”，AI视频编辑先理解再动手",
@@ -55,16 +79,25 @@
       "publish_time": "2026-06-02",
       "category": "AI 综合",
       "summary": "就在刚刚，字节商业化技术团队反手给出一个行业新解法—— 开源面向视频生成与视频编辑的统一框架：Bernini",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用"
+      ]
     },
     {
-      "title": "刚刚，Meta Skill来了",
+      "title": "Meta Skill来了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/428335.html",
       "publish_time": "2026-06-03",
       "category": "AI 综合",
       "summary": "他们刚发布了个新功能，叫Meta Skill",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "“豆包汽车”，目标市场10万-20万",
@@ -73,16 +106,24 @@
       "publish_time": "2026-06-02",
       "category": "AI 综合",
       "summary": "多家媒体获悉，双方联合打造的新品牌，计划在这个月（2026年6月）正式发布，首款车会在今年年内落地",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
-      "title": "头部厂商集体买单，全球AI原生达人营销头号平台正在诞生！",
+      "title": "头部厂商集体买单，全球AI原生达人营销头号平台正在诞生",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/427922.html",
       "publish_time": "2026-06-02",
       "category": "AI 综合",
       "summary": "它就是全球入驻达人规模最大的AI Native达人营销平台「AhaCreator」，刚刚上线3 | 随着越来越多的海外达人在此收获商业化收益，上线1年以来，平台入驻达人数已飙升至10万",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "滴滴2026Q1财报：国内基本盘稳固 国际业务成第二增长引擎",
@@ -91,7 +132,11 @@
       "publish_time": "2026-06-02",
       "category": "AI 综合",
       "summary": "6月2日，滴滴在其官方发布2026年一季度业绩报告 | 其中，中国出行单量连续13个季度稳定增长；国际业务快速发展，本季度实现高达60%的GTV增速，带动核心平台GTV同比增长21%至1233亿元，经调EBITDA盈利9 | 我们推出...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     }
   ]
 }

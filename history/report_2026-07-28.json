@@ -10,7 +10,11 @@
       "publish_time": "2026-07-27",
       "category": "AI 综合",
       "summary": "但不到24小时，同一个会场，06年菲尔兹奖得主陶哲轩却当众泼下一盆冷水： 我相信，数学正在进入一个动荡的时期，一场关于数学价值观与实践方式的基础危机",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "从Token到任务：Agentic AI 如何改变基础设施的关注焦点",
@@ -19,16 +23,26 @@
       "publish_time": "2026-07-27",
       "category": "AI 技术",
       "summary": "上午 8:42，一名开发者打开笔记本电脑，映入眼帘的是环境构建失败、测试报错，还有一条等待发布的代码分支 | ” 敲几下键盘，喝上一口茶的时间，智能体就返回了已通过测试的补丁，并附上简洁的说明 | 但在系统内部，实现这一结果的过程一点...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "公司动态"
+      ]
     },
     {
-      "title": "突发，翁荔离职Thinking Machines",
+      "title": "翁荔离职Thinking Machines",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/461517.html",
       "publish_time": "2026-07-28",
       "category": "AI 综合",
       "summary": "随消息附送的，还有一篇详细解释原因的小作文，核心归纳起来就一句话： 说这话时，距离Thinking Machines发布首个开源模型Inkling，刚刚过去12天",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "智能体走向终端，个人AI时代正在到来",
@@ -37,7 +51,11 @@
       "publish_time": "2026-07-28",
       "category": "AI 综合",
       "summary": "7月27日下午，财新圆桌-AI系列活动“智能体时代终端产业的下一站”专题活动于北京举办 | 本次会议汇聚了经济学界、行业研究机构及产业专家等多方代表，围绕当前智能体技术对于终端产业的系统性重构、个人AI终端市场前景等话题展开交流与探讨 | ",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "100%开源！吴恩达做了个个人桌面Agent",
@@ -46,7 +64,11 @@
       "publish_time": "2026-07-25",
       "category": "AI 综合",
       "summary": "项目名为OpenWorker，现已在GitHub开源，采用MIT License | 吴恩达在推上表示，OpenWorker已经可以在Mac上运行，Windows版本也即将上线",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "出海企业苦等的可信任AI营销产品，飞书深诺做出来了",
@@ -55,7 +77,13 @@
       "publish_time": "2026-07-27",
       "category": "AI 综合",
       "summary": "2025年6月，飞书深诺就推出了业内首款针对出海营销的Agentic AI产品Marvy 1",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "超维动力携手北大医疗：务实构建具身智能医疗落地路径",
@@ -64,7 +92,13 @@
       "publish_time": "2026-07-27",
       "category": "AI 综合",
       "summary": "近日，深圳超维动力智能科技有限公司（以下简称“超维动力”）与北大医疗管理有限责任公司（以下简称“北大医疗”）达成深度合作，双方将围绕具身智能在医疗场景中的数据采集、世界模型与仿真训练展开联合创新，务实构建一条从「拟真训练」到「场景验证」、再",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "与AI共生：2026微信小程序开发大赛WAIC官宣启动",
@@ -73,7 +107,11 @@
       "publish_time": "2026-07-27",
       "category": "AI 综合",
       "summary": "我们希望通过这场大赛，让好创意被更快地实现、让好产品被更多人看见 | 参赛作品须为具有实用性和原创性的微信小程序，并以微信公众平台开发技术为基础进行创新设计与研发，鼓励参赛者紧扣真实场景需求、合理应用人工智能相关技术完成方案设计与产品上线",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "3万小时触觉数据补齐具身智能“手感”！新智具身&复旦报告三连发",
@@ -82,7 +120,13 @@
       "publish_time": "2026-07-26",
       "category": "AI 综合",
       "summary": "现在，上海新智具身智能科技有限公司（NeoteAI）联合复旦大学可信具身智能研究院，正式发布了N0系列三份技术报告，把触觉从“辅助模态”跃升为“核心基建” | 更具行业价值的是，项目的数据和模型会进行开源，可以直接查看项目的完整链接：...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
@@ -91,7 +135,11 @@
       "publish_time": "2026-07-25",
       "category": "AI 综合",
       "summary": "模型变强，Claude Code系统提示词都精简了 泄露了一路的Opus 5，刚正式登场就被网友玩疯了 | 今天凌晨，Anthropic正式把这款新模型放了出来 | 多项硬核评测上，它追平甚至反超了Fable 5，价格却只有一半",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     }
   ]
 }

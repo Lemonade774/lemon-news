@@ -10,7 +10,11 @@
       "publish_time": "2026-05-03",
       "category": "AI 综合",
       "summary": "马斯克这边，公开承认xAI蒸馏了OpenAI的模型来训练Grok | 律师Savitt追问捐款：承诺10亿，到账3800万，兑现不足4%",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "模力工场038周AI应用周榜：工具在消失，工作流在出现",
@@ -19,7 +23,13 @@
       "publish_time": "2026-04-30",
       "category": "AI 技术",
       "summary": "极客邦科技模力工场参与北京市朝阳区 OPC 创新发布活动 | 现场发布了“科技百园”建设合作伙伴招募计划，重点面向园区运营及算力、数据、智能体应用等领域机构，支持线上对接参与 | 同时推出支持人工智能 OPC 创新发展的相关措施，聚焦...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
@@ -28,7 +38,12 @@
       "publish_time": "2026-05-03",
       "category": "AI 综合",
       "summary": "作为机器人感知世界时信息密度最高、与自然人机交互最契合的模态，视觉是解锁通用机器人智能、实现仿真到真实无缝迁移的核心密钥",
-      "importance_score": 10
+      "importance_score": 10,
+      "keywords": [],
+      "tags": [
+        "算力与芯片",
+        "具身智能"
+      ]
     },
     {
       "title": "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
@@ -37,7 +52,11 @@
       "publish_time": "2026-05-01",
       "category": "AI 综合",
       "summary": "4月25日，中国科学技术大学正式发布“灵境造物”智能科研云平台，该平台面向全球开放使用，这标志着“人工智能驱动的科学研究”正走向工程化、平台化和开放共享",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "DeepSeek V4最大的遗憾",
@@ -46,7 +65,11 @@
       "publish_time": "2026-05-03",
       "category": "AI 综合",
       "summary": "DeepSeekV4的技术报告里有mHC，有CSA，有HCA，有Muon，有FP4…… Engram在今年1月由DeepSeek和北大联合开源，主要研究大模型的记忆与效率问题",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "不好！1930年的AI都来抢程序员饭碗了",
@@ -55,7 +78,11 @@
       "publish_time": "2026-05-03",
       "category": "AI 综合",
       "summary": "劳动节，马上100岁的vintage大模型也得劳动 | 是的，有人给只有1930年知识的大模型，微调成软件工程师了…… 过程比想象中轻松，仅用250个训练样本，强悍的老头便解决了自己人生中的第一个编程问题—— 一个连电视机都没见过的AI，现",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
@@ -64,16 +91,24 @@
       "publish_time": "2026-05-01",
       "category": "AI 综合",
       "summary": "智谱最新发布的一篇技术博客，画风稍微有点不一样： 没有过去的硬核技术输出，反而大倒苦水从GLM-5以来的各种花式踩坑，官方称之为「Scaling Pain」",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
-      "title": "刚刚，ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
+      "title": "ChatGPT免费模型升级了：幻觉砍半/记忆更强/回答更简洁",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/05/412995.html",
       "publish_time": "2026-05-06",
       "category": "AI 综合",
       "summary": "奥特曼特别强调，如果你最近都只用深度思考模型了，不妨回来看看 梦晨 发自 凹非寺量子位 | 公众号 QbitAI 新版本GPT-5",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "“DeepSeek版Claude Code”，Github 2.3k星",
@@ -82,16 +117,26 @@
       "publish_time": "2026-05-04",
       "category": "AI 综合",
       "summary": "它在今年1月由美国独立开发者Hunter Bown发起，用Rust语言编写，MIT协议开源，但一直不温不火，直到DeepSeek-V4的发布和Hunter的中文宣传，这个项目在这个五一假期开始爆火",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
-      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/05/412713.html",
       "publish_time": "2026-05-02",
       "category": "AI 综合",
       "summary": "这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     }
   ]
 }

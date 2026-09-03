@@ -10,7 +10,12 @@
       "publish_time": "2026-04-04",
       "category": "AI 综合",
       "summary": "4月4日消息，发布仅1天的阿里千问新模型Qwen3 | 4月2日上午，阿里发布国产最强编程模型Qwen3",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "智能体 AI 模式强化软件工程规范性",
@@ -19,7 +24,12 @@
       "publish_time": "2026-04-04",
       "category": "AI 技术",
       "summary": "在最新一期的AI DevOps 播客中，Paul Duvall探讨了随着现代模型能力的提升，智能体 AI 模式如何强化核心工程规范 | 他还分享了自己的智能体AI工程模式代码库，用于记录和演进 AI 辅助软件开发实践 | Duvall 是“",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent"
+      ]
     },
     {
       "title": "具身龙虾，上车理想",
@@ -28,7 +38,13 @@
       "publish_time": "2026-04-05",
       "category": "AI 综合",
       "summary": "最近，理想发布了全新的流式视频理解与具身智能统一的Agent框架—— 在保持与OpenClaw框架完全兼容的基础上，StreamingClaw原生支持实时的多模态流式交互 | 依托主-从代理的紧密协同，它不仅能自主完成复杂的任务规划与...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "GPT-6，曝光了",
@@ -37,7 +53,12 @@
       "publish_time": "2026-04-05",
       "category": "AI 综合",
       "summary": "据爆料，这颗「土豆」已经彻底煮熟了，4月14号就会发布",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "OpenAI收购了一家脱口秀公司",
@@ -46,7 +67,13 @@
       "publish_time": "2026-04-03",
       "category": "AI 综合",
       "summary": "拿下史上最大融资的OpenAI，反手了收购一个视频播客 | 对于这次收购，不少网友表示理解无能，尤其是在OpenAI刚砍掉Sora，拿下融资，说要集中注意力的时候",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "19岁，常青藤辍学，这群中国年轻人重构了AI记忆",
@@ -55,7 +82,11 @@
       "publish_time": "2026-04-04",
       "category": "AI 综合",
       "summary": "而它“弃用”传统RAG的玩法，其实恰恰也说明了一个问题：现有的RAG解决方案，性能并没有达标",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
@@ -64,7 +95,13 @@
       "publish_time": "2026-04-03",
       "category": "AI 综合",
       "summary": "4月2日，浪潮信息直播发布业界企业级OpenClaw方案——「企千虾」，为企业规模化部署、管理和应用OpenClaw，打造了安全、高效、易用的全链路方案 | 实操演示了「企千虾」基于元脑服务器实现本地化部署，通过沙箱隔离与底层系统级管...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态",
+        "算力与芯片"
+      ]
     },
     {
       "title": "价值归零！Django创始人警告：30岁程序员受AI冲击最大",
@@ -73,7 +110,11 @@
       "publish_time": "2026-04-04",
       "category": "AI 综合",
       "summary": "“我的超能力是快速做原型，现在任何人都能做到了 | ” 梦晨 发自 凹非寺量子位 | 公众号 QbitAI 一个写了25年代码的人，在AI时代突然发现，自己估不准项目要多久了 | 大佬Simon Willison，20年前就成为10x工程师",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
@@ -82,7 +123,11 @@
       "publish_time": "2026-04-05",
       "category": "AI 综合",
       "summary": "现在AI找Bug的速度，比他们修Bug还快 | 从今年开始，每天雷打不动收到5到10份报告，周二周五尤其多 | 最搞心态的是，这些AI生成的报告，竟然大部分都还是对的，想摸鱼都没借口，何况这提交者还是一个不用睡觉的“赛博监工”",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "为了不跟龙虾抢电脑用，有人开始造Agent专属的“三无”硬件，比Mac Mini+存储便宜",
@@ -91,7 +136,11 @@
       "publish_time": "2026-04-05",
       "category": "AI 综合",
       "summary": "装虾的时候，发现本地部署龙虾存储空间根本不够用，但为了抚慰自己的隐私焦虑又不太想云养虾 | 后来正儿八经养虾了，发现自己得和龙虾抢电脑用，偶尔还抢不过…… 有没有一种可能，我们需要一台专供小龙虾使用的Agent Computer | 他告诉",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     }
   ]
 }

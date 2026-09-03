@@ -10,7 +10,11 @@
       "publish_time": "2026-04-12",
       "category": "AI 综合",
       "summary": "仅凭一点线索，Claude就复活了一个30年前的传奇游戏 | 目前评论已经盖到了一百多楼，网友的共识是：这篇帖子堪称传奇 | 发帖人是游戏开发商Beamable的CEOJon Radoff，他用Claude复活了自己19岁时开发的MUD（多",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "3分钟，这个AI帮我手搓出带货视频！前钉钉副总裁创业：有人第一个月卖了10万美元",
@@ -19,7 +23,12 @@
       "publish_time": "2026-04-16",
       "category": "AI 技术",
       "summary": "原本要商家、运营、内容团队一起配合的活，现在被一个 AI 包揽了：从选品、写脚本、做视频，到发布、运营，甚至后台数据分析，一条链路基本全让 AI 干 | 对用户而言，你哪怕从 0 开始、没有任何带货经验，也能把卖货这件事跑起来，甚至能...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "国家发改委：今年将重点在“人工智能+”基础设施等领域，开展一系列扩大有效投资行动",
@@ -28,25 +37,41 @@
       "publish_time": "2026-04-17",
       "category": "AI 产业",
       "summary": "国新办4月17日上午举行“开局起步‘十五五’”系列主题新闻发布会，国家发展改革委副主任王昌林表示，今年将重点在“人工智能+”基础设施、城市更新、国家水网、新型能源体系等领域，开展一系列扩大有效投资行动，促进供给结构优化、市场需求扩容 | 体",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
-      "title": "72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道？",
+      "title": "72天，从0到千万小时产能，这个具身「新锐派」凭什么接管数据赛道",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/04/401741.html",
       "publish_time": "2026-04-16",
       "category": "AI 综合",
       "summary": "如果高质量的物理数据无法实现规模化供给，具身智能就永远只能留在实验室的“襁褓”里 | 另外还同步发布物理AI数据服务平台、MEgo Engine数据治理引擎，并联合权威机构启动蜂巢数据共创行动，与京东云、百度云、阿里云等多家头部企业达...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
-      "title": "刚刚，机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界！",
+      "title": "机器人练成了宁次的「白眼」：∞帧画面边看边3D重建我们的世界",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/04/401743.html",
       "publish_time": "2026-04-16",
       "category": "AI 综合",
       "summary": "因为现在，一个新模型已经实现了无尽流：看∞帧视频可以稳定实时3D重建 | ） 这，就是蚂蚁灵波最新开源的LingBot-Map，一个专为纯自回归的流式3D重建而打造的基础模型",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "具身智能"
+      ]
     },
     {
       "title": "扔掉你的Token账单吧，荣耀YOYO Claw技术把养虾成本打下来了",
@@ -55,7 +80,11 @@
       "publish_time": "2026-04-16",
       "category": "AI 综合",
       "summary": "荣耀YOYO Claw技术在配置上不仅实现开机即用，还通过独创的智能路由算法大大降低了Tokens成本，并且基于独有的设备级安全防护体系和独立安全虾，从根源保护隐私安全",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "PPIO上线PPHermes：云端沙箱一键部署Hermes Agent",
@@ -64,7 +93,12 @@
       "publish_time": "2026-04-16",
       "category": "AI 综合",
       "summary": "4月16日，PPIO 发布 PPHermes，这是首个专为国内用户设计的 Hermes Agent 云端沙箱部署方案",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "空间智能第一股，开盘暴涨171%！李飞飞押注的赛道，杭州六小龙之一跑通了",
@@ -73,7 +107,11 @@
       "publish_time": "2026-04-17",
       "category": "AI 综合",
       "summary": "对，也是「杭州六小龙」里率先冲线的那一家。 今日，群核科技（00068.HK）正式挂牌上市，报20.70港元，较发行价上涨171.65%。 昨天的暗盘也是热闹非凡，一度涨超195%。 15年前，群核科技以GPU上云为起点，秉持着「让每一个空",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "算力与芯片"
+      ]
     },
     {
       "title": "世界客商排队体验讯飞AI眼镜，科大讯飞把多语种AI能力带进广交会第一现场",
@@ -82,7 +120,11 @@
       "publish_time": "2026-04-16",
       "category": "AI 综合",
       "summary": "互动环节中，一位讲阿拉伯语的客商佩戴眼镜，与使用普通话的讯飞AI眼镜业务线负责人林会杰“面对面”实时畅聊，现场展示了产品的实时跨语言交流能力",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "打造全球领先“具身智能超级供应链”，京东发布行业首个具身数据全链路基础设施",
@@ -91,7 +133,13 @@
       "publish_time": "2026-04-16",
       "category": "AI 综合",
       "summary": "” 依托京东在算力基础设施、大模型技术及产业场景上的积累，京东云推出全球首个全链路具身智能数据基础设施，打通从数据采集到模型测试的全流程闭环，将原始杂乱数据精炼为驱动模型进化的高价值“数据燃料”",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "算力与芯片"
+      ]
     }
   ]
 }

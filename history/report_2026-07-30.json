@@ -10,7 +10,13 @@
       "publish_time": "2026-07-29",
       "category": "AI 综合",
       "summary": "7月29日，针对有关首次外部股权融资的报道，OceanBase回复表示，公司全力投入AI时代的数据技术与产品创新，将持续与资本市场保持开放沟通 | 对于融资规模、投资机构及具体进展，OceanBase未作进一步回应 | 此前，媒体报道...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "黄仁勋首推引爆开源论战：Anthropic 员工催 CUDA、Windows 开源，吴恩达反击：你可以不开源，但别阻止别人",
@@ -19,7 +25,12 @@
       "publish_time": "2026-07-29",
       "category": "AI 技术",
       "summary": "一天后，谷歌 CEO 皮查伊和谷歌 DeepMind 创始人哈萨比斯均表态支持开源 | 我们始终大力支持并深度参与开源与科学事业——从 Jax、Transformer 到 AlphaFold，再到 Gemma 开源模型，累计下载量已突...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "商务部新闻发言人就美国联邦通信委员会将外国电力逆变器和先进机器人设备列入“覆盖清单”事答记者问",
@@ -28,7 +39,12 @@
       "publish_time": "2026-07-30",
       "category": "AI 产业",
       "summary": "有记者问：美东时间7月28日，美国联邦通信委员会（FCC）宣布，将外国生产的电力逆变器和先进机器人设备列入“覆盖清单”，相关新型号产品将无法获得FCC认证授权，不得进入美市场销售",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "具身智能"
+      ]
     },
     {
       "title": "豆包搜索，走出了豆包",
@@ -37,7 +53,11 @@
       "publish_time": "2026-07-28",
       "category": "AI 综合",
       "summary": "每条结果还同时带回了信源名称、权威分级、发布时间、围绕当前问题生成的正文摘要，以及能够直接引用的原文Markdown节选",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "空中具身操作：让蜘蛛侠们安全落地",
@@ -46,7 +66,11 @@
       "publish_time": "2026-07-29",
       "category": "AI 综合",
       "summary": "2025年，中国工业级无人机市场规模约776亿元，其中巡检类无人机突破百亿",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "这这这…翁荔光速回OpenAI上班了",
@@ -55,7 +79,11 @@
       "publish_time": "2026-07-30",
       "category": "AI 综合",
       "summary": "刚刚，因健康离职Thinking Machines Lab的翁荔，光速重返了OpenAI | 据OpenAI内部人士透露，翁荔将领导一个「自进化」团队 | 该项目属于OpenAI内部优先级极高的研究方向，目标是让模型能够训练并改进自己的后继",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "100%开源！吴恩达做了个个人桌面Agent",
@@ -64,7 +92,11 @@
       "publish_time": "2026-07-25",
       "category": "AI 综合",
       "summary": "项目名为OpenWorker，现已在GitHub开源，采用MIT License | 吴恩达在推上表示，OpenWorker已经可以在Mac上运行，Windows版本也即将上线",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "Opus 5游戏提示词爆火！24小时复刻3A巨作",
@@ -73,7 +105,11 @@
       "publish_time": "2026-07-29",
       "category": "AI 综合",
       "summary": "百万人在线围观，秘籍在手，AI游戏直接无限繁殖…… 最牛的是，网友Anshu一个人，24小时，从零肝出了翻版《星际拓荒》",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "出海企业苦等的可信任AI营销产品，飞书深诺做出来了",
@@ -82,7 +118,13 @@
       "publish_time": "2026-07-27",
       "category": "AI 综合",
       "summary": "2025年6月，飞书深诺就推出了业内首款针对出海营销的Agentic AI产品Marvy 1",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "全球首个Agentic扩散模型来了：边行动边纠错，128K上下文追平自回归",
@@ -91,7 +133,12 @@
       "publish_time": "2026-07-28",
       "category": "AI 综合",
       "summary": "Agent赛道，不再是自回归（AR）模型一家独大 | 长期处于非主流位置的扩散模型，也开始有了一席之地",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent"
+      ]
     }
   ]
 }

@@ -10,7 +10,13 @@
       "publish_time": "2026-07-03",
       "category": "AI 综合",
       "summary": "然而，最近有一个叫「Uranus」的世界模型发布，不当具身大脑，却做机器人开发的基础设施，在市面上鲜有同类",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛",
@@ -19,16 +25,27 @@
       "publish_time": "2026-06-18",
       "category": "AI 技术",
       "summary": "去年刚成立的光象科技，近日发布了首个工业级自进化具身智能机器人 Phi-Bot X1",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
-      "title": "独家｜金山云加速GPU算力建设：小米百亿预算落地，阿里签五年数十亿长约",
+      "title": "｜金山云加速GPU算力建设：小米百亿预算落地，阿里签五年数十亿长约",
       "source": "界面新闻",
       "url": "https://www.jiemian.com/article/14686808.html",
       "publish_time": "2026-07-03",
       "category": "AI 产业",
       "summary": "小米与金山云的合作模式为：小米预付算力租赁租金，由金山云用于算力采购，小米出资金额占整体支出的20%-30%，剩余部分通过金融贷款或外部融资解决 | 按照小米当前百亿级别的投入测算，金山云理论采购资金规模将超过400亿元，未来两年整体...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "融资与投资",
+        "算力与芯片",
+        "AI × 金融"
+      ]
     },
     {
       "title": "OceanBase湖库一体，重新定义AI数据库",
@@ -37,7 +54,11 @@
       "publish_time": "2026-07-01",
       "category": "AI 综合",
       "summary": "AI时代苟日新，日日新，又日新，数据库也是如此 | 主流数据库的发展经历了几次重要演进：从最早的OLTP数据库，到OLAP从其中分离出来成为数据仓库，再到大数据系统 | 长期以来，数据库架构主要围绕人类应用、确定性交易和结构化数据分析设计",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "科大讯飞举办智能交互生态发布会，三大平台同步升级",
@@ -46,7 +67,11 @@
       "publish_time": "2026-07-02",
       "category": "AI 综合",
       "summary": "7月2日，2026科大讯飞智能交互生态发布会在深圳举行",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
@@ -55,7 +80,12 @@
       "publish_time": "2026-07-02",
       "category": "AI 综合",
       "summary": "成为首个在国产算力上实现全链路训推闭环的万亿参数模型",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "算力与芯片"
+      ]
     },
     {
       "title": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
@@ -64,16 +94,26 @@
       "publish_time": "2026-07-01",
       "category": "AI 综合",
       "summary": "名为AFAC2026金融智能创新大赛，总算不是单纯刷分的「乏味Benchmark」 | 四道赛题，全部从真实金融场景中生长出来： 很多人可能不知道，模型发展到今天，金融垂直任务依然没能被啃下来 | 以保险文档还原Markdown为例，一旦碰",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI × 金融"
+      ]
     },
     {
-      "title": "A社你解释下，啥叫Sonnet 5比Fable 5还贵？",
+      "title": "A社你解释下，啥叫Sonnet 5比Fable 5还贵",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/441001.html",
       "publish_time": "2026-07-01",
       "category": "AI 综合",
       "summary": "但这次不是旗舰，Anthropic推出了新版性价比模型Sonnet 5 | 6比一字不差，从发布会的口径上看，能力涨了，价格没涨",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "论坛预告｜夯！AI企业家论坛首发阵容公开，更有千亿级实业巨头突袭",
@@ -82,7 +122,11 @@
       "publish_time": "2026-07-02",
       "category": "AI 综合",
       "summary": "作为全球人工智能领域的顶级盛会，今年的WAIC将以 为主题，汇聚全球顶尖智慧，共同探讨人工智能技术的最新突破、产业应用及全球治理方案",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
@@ -91,7 +135,11 @@
       "publish_time": "2026-06-26",
       "category": "AI 综合",
       "summary": "苹果电脑iPad等多款产品一夕之间大涨价，悬着的心终于死了 | Mac价格上涨约15%-20%，iPad涨幅约15%-25% | 昨天还在犹豫要不要买MacBook Air/iPad Air，今天打开官网，发现同一款机型的统一配置，突然贵了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     }
   ]
 }

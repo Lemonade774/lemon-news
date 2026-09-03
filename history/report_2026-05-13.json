@@ -10,7 +10,11 @@
       "publish_time": "2026-05-12",
       "category": "AI 综合",
       "summary": "仅过去一周，英伟达就先后向玻璃制造商康宁和数据中心运营商IREN合计投了53亿美元（约合人民币360亿） | 这钱一砸下去，两家公司的股价很快便迎来大幅上涨，一时间也引来无数看客 | 看着看着，有机构就随手那么一盘，结果你猜怎么着",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
@@ -19,7 +23,12 @@
       "publish_time": "2026-05-13",
       "category": "AI 技术",
       "summary": "用 Thinking Machines 的话说，目前大多数 AI 模型都是通过“外挂式”的方式来实现交互，将不同组件拼接在一起以模拟打断、多模态或并发等能力 | 今天，Thinking Machines 宣布推出“交互模型”TML-I...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "A股开盘：三大指数集体低开，算力硬件、半导体芯片等板块走弱",
@@ -28,7 +37,11 @@
       "publish_time": "2026-05-13",
       "category": "AI 产业",
       "summary": "5月13日早间A股开盘，上证指数跌0.53%，深证成指跌0.70%，创业板指跌0.87%。算力硬件、半导体芯片等板块指数跌幅居前。",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "算力与芯片"
+      ]
     },
     {
       "title": "龙虾退烧后，荣耀给它造了一个宇宙",
@@ -37,7 +50,11 @@
       "publish_time": "2026-05-12",
       "category": "AI 综合",
       "summary": "OpenClaw 不缺掌声了，它缺的是一个能长期生长的硬件生态 | 每个技术浪潮都有一个相似的节奏：先是爆红、刷屏、被神化；然后热度退潮，留下少数还愿意继续打磨的人",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "浙大校友用AI突破32年拉姆齐数下界",
@@ -46,7 +63,12 @@
       "publish_time": "2026-05-10",
       "category": "AI 综合",
       "summary": "而且，这次世界级数学突破并没有依赖超级算力集群，仅用Claude Code、Codex+1台CPU服务器就完成全部攻坚，成果已全量开源 | 数学巨匠保罗・埃尔德什的这句调侃，直接说明了拉姆齐数有多难缠",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "算力与芯片"
+      ]
     },
     {
       "title": "原来Ilya还有70亿美元OpenAI股权",
@@ -55,7 +77,11 @@
       "publish_time": "2026-05-12",
       "category": "AI 综合",
       "summary": "马斯克 VS 奥特曼的世纪庭审，也太劲爆了—— 感觉自己像是瓜田里的猹，一瓜未平一瓜又起 | 吃不过来，根本吃不过来…… 这不，就在刚刚，OpenAI的造富神话被「一不小心」炸了出来 | 著名前员工Ilya当堂作证：「至今仍手握OpenAI",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "Markdown要凉…卡帕西也站HTML了",
@@ -64,7 +90,11 @@
       "publish_time": "2026-05-12",
       "category": "AI 综合",
       "summary": "这个暴论，出自今天Anthropic工程师Thariq发的一篇引爆全网的长文 | 是的，这个前不久风靡vibe coding的人机交流格式，正在被Claude的工程师们呼吁抛弃 | 我现在几乎不怎么亲手编辑这些文件了，更多是拿它们当规范、参",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "何恺明首个语言模型：105M参数，不走GPT自回归老路",
@@ -73,7 +103,11 @@
       "publish_time": "2026-05-13",
       "category": "AI 综合",
       "summary": "这里简单科普一下生成困惑度，它本质上是让一个强大的语言模型，给生成结果“检查作业”，看看这些文本到底像不像真实人类写出来的语料—— 值越低，说明生成质量越高、模型出来的东西也就越没AI味儿，越自然",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
@@ -82,7 +116,13 @@
       "publish_time": "2026-05-07",
       "category": "AI 综合",
       "summary": "例如，“把@图1的人物塞进@图2的场景，镜头运动和角色动作完全照搬@视频1”： 这些能力，来自国内最大ComfyUI平台RunningHub最新推出的原生AI智能体全能内容创作平台——RHTV | 界面简洁轻量化，底层却背靠Runni...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "商汤善惠烧卖购机器人小店上海“开业”，让机器人真正落地线下零售",
@@ -91,7 +131,13 @@
       "publish_time": "2026-05-12",
       "category": "AI 综合",
       "summary": "近日，商汤科技旗下商汤善惠正式推出SenseMartGo烧卖购机器人小店，并率先落地上海新洲大厦、宝山新业坊、宝山滨江景区 | 自2021年至今，商汤已先后完成静态图像感知、动态视频分析、数据融合、SKU大模型研发，以及零售全场景感知...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     }
   ]
 }

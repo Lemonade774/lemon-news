@@ -10,7 +10,12 @@
       "publish_time": "2026-04-13",
       "category": "AI 综合",
       "summary": "这款“强到不敢公开发布”的Mythos模型，确实刺激了人们对下一代LLM架构的想象",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决",
@@ -19,7 +24,13 @@
       "publish_time": "2026-04-03",
       "category": "AI 技术",
       "summary": "今天凌晨，谷歌正式发布 Gemma 4，称“这是其迄今为止最智能的开放模型系列”",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding",
@@ -28,7 +39,12 @@
       "publish_time": "2026-04-12",
       "category": "AI 综合",
       "summary": "5做的运势抽签小程序，直接就是一个大吉大利 | 扣子这次直接给Agent全套武装到了牙齿： 不光塞了云电脑、云手机让它自己能操作设备；还整了长期记忆、专属邮箱搞起了数字身份；视频创作、编程开发这些技能也一并解锁",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用"
+      ]
     },
     {
       "title": "别养龙虾了，硅谷Agent新潮流是「爱马仕」",
@@ -37,7 +53,11 @@
       "publish_time": "2026-04-13",
       "category": "AI 综合",
       "summary": "这不上线一个月，霸榜GitHub Trending不说，标星数已经来到了6",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "Claude复活30年前传奇游戏，仅用一个周末",
@@ -46,7 +66,11 @@
       "publish_time": "2026-04-12",
       "category": "AI 综合",
       "summary": "仅凭一点线索，Claude就复活了一个30年前的传奇游戏 | 目前评论已经盖到了一百多楼，网友的共识是：这篇帖子堪称传奇 | 发帖人是游戏开发商Beamable的CEOJon Radoff，他用Claude复活了自己19岁时开发的MUD（多",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "有人把巴菲特芒格炼化成Agent，然后开源了…",
@@ -55,7 +79,11 @@
       "publish_time": "2026-04-13",
       "category": "AI 综合",
       "summary": "目前，这个由独立开发者Virat Singh打造的项目，开源后迅速登上GitHub Trending榜单，斩获51",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "「Claude Code之父」其实是野路子来的……",
@@ -64,7 +92,11 @@
       "publish_time": "2026-04-12",
       "category": "AI 综合",
       "summary": "谁能想到，用Claude Code砸了程序员饭碗的人，还是个自学成才的野路子 | 这下真是端起碗吃饭，放下碗砸锅（bushi） 说起「Claude Code之父」Boris Cherny，职业生涯主打的就是浪～ 经济学专业出身，从零开始自学",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "超越人手！中国第一家脑机接口独角兽，要把仿生手带给机器人",
@@ -73,7 +105,11 @@
       "publish_time": "2026-04-12",
       "category": "AI 综合",
       "summary": "还能使用剪刀整齐地剪开纸张，双手配合拼魔方",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "滴滴自动驾驶张博：聚焦安全和体验 推动自动驾驶全球化落地",
@@ -82,7 +118,11 @@
       "publish_time": "2026-04-11",
       "category": "AI 综合",
       "summary": "张博介绍，滴滴自动驾驶以安全和体验为核心，经过十年积累，在AI核心技术、车规级硬件体系、海量真实场景三大层面实现了关键突破与深度融合 | 在技术研发上，滴滴自动驾驶已实现L4级全栈核心技术的自主可控，并持续强化AI技术攻关和创新投入",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "HTML-in-Canvas引爆前端！AI时代互联网视觉效果完全不一样了",
@@ -91,7 +131,11 @@
       "publish_time": "2026-04-12",
       "category": "AI 综合",
       "summary": "小手轻轻一指，被选中的区域就立马出现了碎片效果，炫酷感一整个扑面而来 | 渲染真人还不算，设计游戏更是一把好手，同款射击破碎效果这就上桌 | 还有高手，直接将网页设计成鱼眼效果，还是想怎么调就怎么调那种",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     }
   ]
 }

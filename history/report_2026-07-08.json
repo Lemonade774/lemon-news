@@ -10,7 +10,13 @@
       "publish_time": "2026-07-07",
       "category": "AI 综合",
       "summary": "7月7日，蚂蚁集团旗下具身智能公司灵波科技发布空间感知模型 LingBot-Depth 2 | 5 亿规模数据进行训练，在边缘清晰度、细小物体识别、远距离深度估计以及复杂场景鲁棒性等方面实现全面升级",
-      "importance_score": 10
+      "importance_score": 10,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "企业微信首款 AI 硬件：出门问问TicNote合作款正式发布",
@@ -19,7 +25,12 @@
       "publish_time": "2026-07-07",
       "category": "AI 技术",
       "summary": "HK）近日宣布，与企业微信联合首发 TicNote 企业微信合作款，这是 TicNote AI 录音产品首次与国内头部企业协作平台达成深度合作 | TicNote 企业微信合作款是出门问问针对企业高频使用场景专项升级的 便携式 AI 录音产",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "人工智能大会开幕在即，超300款产品将全球首发",
@@ -28,7 +39,12 @@
       "publish_time": "2026-07-08",
       "category": "AI 产业",
       "summary": "7月7日，上海市政府新闻办举行新闻发布会，上海市委常委、副市长陈杰介绍2026世界人工智能大会暨人工智能全球治理高级别会议筹备进展和人工智能产业发展等情况 | 多年以来，世界人工智能大会从技术展示、产业赋能到全球治理等多个层面引领AI...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "三个理想火枪手创业，打破具身最快百台交付纪录",
@@ -37,7 +53,12 @@
       "publish_time": "2026-07-08",
       "category": "AI 综合",
       "summary": "在这场「汇报」一年工作成果的发布会上，至简动力的生态合作伙伴、客户、开发者伙伴都来了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "DeepSeek招聘被「华为天才少年」公开吐槽，“面到最不专业的”",
@@ -46,7 +67,11 @@
       "publish_time": "2026-07-07",
       "category": "AI 综合",
       "summary": "难怪DeepSeek要着重强调招HR（doge） 前华为天才少年李博杰，公开「吐槽」DeepSeek，相信大家都刷到了 | 1、笔试通过后半个月不安排面试，反复催促才排上 | 3、质疑李博杰「作弊」，并威胁要「终止面试」",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "我宣布这是中国最神奇的造车新势力",
@@ -55,16 +80,26 @@
       "publish_time": "2026-07-07",
       "category": "AI 综合",
       "summary": "但就是在这种环境下，极石汽车只靠一款车、一次换代，销量保持逐步稳健爬坡，如今不仅没倒，今年反而实现了近乎翻倍的同比高增长",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
-      "title": "模型不是企业的护城河，那什么才是？",
+      "title": "模型不是企业的护城河，那什么才是",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/443842.html",
       "publish_time": "2026-07-06",
       "category": "AI 综合",
       "summary": "先给员工开通大模型账号，再上线 Copilot，再接入知识库，再做几个 Agent 试点",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "Claude的脑子里，也长出了一块「意识」",
@@ -73,16 +108,25 @@
       "publish_time": "2026-07-07",
       "category": "AI 综合",
       "summary": "在Claude模型里，还真的发现了类似人脑的结构 | Anthropic最新发表了一篇超长论文，研究了Claude的潜意识与意识",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
-      "title": "刚刚，首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
+      "title": "首个空间原生的具身视觉基模开源！机器人更会看我们的世界了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/445230.html",
       "publish_time": "2026-07-07",
       "category": "AI 综合",
       "summary": "而这，便是蚂蚁灵波刚刚发布LingBot-Vision和LingBot-Depth2",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
@@ -91,7 +135,11 @@
       "publish_time": "2026-06-26",
       "category": "AI 综合",
       "summary": "苹果电脑iPad等多款产品一夕之间大涨价，悬着的心终于死了 | Mac价格上涨约15%-20%，iPad涨幅约15%-25% | 昨天还在犹豫要不要买MacBook Air/iPad Air，今天打开官网，发现同一款机型的统一配置，突然贵了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     }
   ]
 }

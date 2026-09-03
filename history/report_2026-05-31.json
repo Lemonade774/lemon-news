@@ -10,7 +10,11 @@
       "publish_time": "2026-05-28",
       "category": "AI 综合",
       "summary": "刚拿了一个新的博士头衔，老黄又被曝「学术」新动向： 这个顾问委员会由库克担任主席，马斯克、纳德拉、扎克伯格…以及李彦宏、马化腾、马云等人，均是委员会一员 | 据《金融时报》爆料，黄仁勋已接受清华大学经济管理学院的邀请，将加入其顾问委员会 |",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI × 金融"
+      ]
     },
     {
       "title": "腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
@@ -19,7 +23,13 @@
       "publish_time": "2026-05-30",
       "category": "AI 技术",
       "summary": "测试智能体并不是单一模型能力的展示，而是由多模型协同、端侧工具编排、执行反馈、证据沉淀和治理机制共同组成的质量执行系统",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "AI 应用"
+      ]
     },
     {
       "title": "超越OpenAI！Anthropic估值逼近万亿美元，成全球最有价值AI创企",
@@ -28,7 +38,12 @@
       "publish_time": "2026-05-31",
       "category": "AI 产业",
       "summary": "当地时间5月28日，人工智能公司Anthropic宣布完成H轮650亿美元融资，投后估值达9650亿美元，一举超越OpenAI 8520亿美元的估值，成为全球估值最高的AI创企",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
@@ -37,7 +52,13 @@
       "publish_time": "2026-05-29",
       "category": "AI 综合",
       "summary": "以文字和视频为例，只需要单点突破大模型生成环节就成，但游戏不仅是内容，更是一个强工程化的复杂系统 | 而这件事，现在正在发生—— 前两天的腾讯游戏发布会上，AI浓度高到爆表",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "1400亿Agent入场，“流量”这条护城河要塌了",
@@ -46,7 +67,12 @@
       "publish_time": "2026-05-27",
       "category": "AI 综合",
       "summary": "昨天在支付宝AI生态大会现场，有别于大多数“技术改变一切”的开场白，蚂蚁集团CEO韩歆毅第一句话就点明了核心基调： AI会带来很多改变，但归根结底，AI服务于人，人掌握着最终决策权 | 他明确提出，Agent时代并非“AI推翻一切重来”，商",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI × 金融"
+      ]
     },
     {
       "title": "帮Gemini拿下IMO金牌的关键先生，差点成了职业钢琴家",
@@ -55,7 +81,13 @@
       "publish_time": "2026-05-30",
       "category": "AI 综合",
       "summary": "去年带着Gemini Deep Think，拿下了IMO国际数学奥林匹克金牌，今年2月Gemini 3 Deep Think的发布，他也是核心贡献者 | 这支视频发布在他的Instagram上，是他偶然发现的一条14年前的旧视频",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "AI正在重写软件行业？8岁孩子做操作系统，一人公司拿下千万订单",
@@ -64,7 +96,12 @@
       "publish_time": "2026-05-28",
       "category": "AI 综合",
       "summary": "“87%用户不懂代码，却用AI跑通了一人公司” 当AI将编程门槛从“写代码”降低至“聊天”，应用创作的权力正从专业开发者手中释放到每一个普通人—— 甚至连不懂代码的8岁小学生，都能通过跟AI聊天，打造出自己想象中的操作系统；OPC（一人公司",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
@@ -73,7 +110,12 @@
       "publish_time": "2026-05-29",
       "category": "AI 综合",
       "summary": "其实自研计算芯片，无论从比亚迪自身技术实力、技术发展趋势还是比亚迪一贯的垂直整合战略出发，发布会之就已经是一个“公开的秘密”——不做，才是出人意料的big news",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "算力与芯片"
+      ]
     },
     {
       "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
@@ -82,7 +124,12 @@
       "publish_time": "2026-05-29",
       "category": "AI 综合",
       "summary": "2026年，龙虾热、养马潮，AI真的从对话走向了执行，「超级个体」不再只是说说而已…… OPC（One Person Company，一人公司）这个群体，正以肉眼可见的速度批量涌现 | Agent用得越好，自动化运行时间就更长；而运行更长，",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "英伟达清华团队提出Gamma-World：世界模型从「一个人玩」到「多人共处」",
@@ -91,7 +138,12 @@
       "publish_time": "2026-05-30",
       "category": "AI 综合",
       "summary": "近日，NVIDIA联合清华大学、多伦多大学和Vector Institute发布Gamma-World（γ-World），从RoPE扩展和注意力拓扑两个底层组件入手，给出了一套系统性的答案",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     }
   ]
 }

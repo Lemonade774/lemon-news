@@ -4,13 +4,17 @@
   "total_items": 10,
   "top_items": [
     {
-      "title": "马斯克来抖音卖老干妈了？？",
+      "title": "马斯克来抖音卖老干妈了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/04/403308.html",
       "publish_time": "2026-04-19",
       "category": "AI 综合",
       "summary": "这还没完，一转眼，老马竟然又和预计年末发布的《GTA-6》有梦幻联动",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "3分钟，这个AI帮我手搓出带货视频！前钉钉副总裁创业：有人第一个月卖了10万美元",
@@ -19,16 +23,27 @@
       "publish_time": "2026-04-16",
       "category": "AI 技术",
       "summary": "原本要商家、运营、内容团队一起配合的活，现在被一个 AI 包揽了：从选品、写脚本、做视频，到发布、运营，甚至后台数据分析，一条链路基本全让 AI 干 | 对用户而言，你哪怕从 0 开始、没有任何带货经验，也能把卖货这件事跑起来，甚至能...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
-      "title": "彭志辉表示，具身智能体将成为AI时代最大的Token消费者，不仅是物理执行器，更是连接大模型与物理世界的核心流量入口。",
+      "title": "彭志辉表示，具身智能体将成为AI时代最大的Token消费者，不仅是物理执行器，更是连接大模型与物理世界的核心流量入口",
       "source": "界面新闻",
       "url": "https://www.jiemian.com/article/14273301.html",
       "publish_time": "2026-04-20",
       "category": "AI 产业",
       "summary": "智元创始人、董事长兼CEO邓泰华在日前举办的2026年智元合作伙伴大会（APC 2026）上披露，2025年智元营收突破10 | 5亿元，刷新国内机器人与AI公司实现十亿营收的最快纪录 | 与此相对比，根据优必选发布的2025年度业绩...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "黄仁勋都被问毛了：顶级AI厂商在去CUDA？“你的前提就是错的”",
@@ -37,7 +52,12 @@
       "publish_time": "2026-04-19",
       "category": "AI 综合",
       "summary": "视频发布半天，单在油管上的观看量已经超过10万+",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "大模型架构的下半场",
@@ -46,7 +66,11 @@
       "publish_time": "2026-04-19",
       "category": "AI 综合",
       "summary": "面向大模型深度扩展的Flash Depth Attention与混合深度注意力 研究者们花了十年去扩展层内的计算能力，却忘了扩展层间的通信能力 | 过去十年，深度学习领域取得进展的方式出奇地一致：什么都往大了整",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "Kimi新论文：把KVCache玩成新商业模式了",
@@ -55,7 +79,11 @@
       "publish_time": "2026-04-19",
       "category": "AI 综合",
       "summary": "其核心突破是让KV Cache可以跨数据中心传输，把Prefill和Decode彻底解耦到不同的异构集群 | 这项工作由月之暗面和清华大学清华大学郑纬民院士、武永卫教授团队联合推出",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "王濛代言的方盒子19万开卖，头顶激光雷达，底盘能“预瞄”路况",
@@ -64,7 +92,11 @@
       "publish_time": "2026-04-19",
       "category": "AI 综合",
       "summary": "长城20万级新能源越野SUV利器——哈弗猛龙，2025年夺得了新能源方盒子SUV市场销冠 | 毕竟，新能源越野SUV市场已从蓝海变为红海，还有方程豹、北京BJ40增程版这样的实力车型在“虎视眈眈” | 另外，早期方盒子用户更看重越野性能，但",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "横扫全球15项SOTA！高德首个面向AGI的全栈具身技术体系大公开",
@@ -73,7 +105,13 @@
       "publish_time": "2026-04-19",
       "category": "AI 综合",
       "summary": "大多数行业玩家还在卷单点突破的时候，高德却率先把数据、模型、Agent从下到上全打通了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "具身智能"
+      ]
     },
     {
       "title": "教龙虾玩手机！打通GUI智能体训练-评测-部署全流程，训练、真机、评测一站解决",
@@ -82,7 +120,11 @@
       "publish_time": "2026-04-19",
       "category": "AI 综合",
       "summary": "今天，来自ZJU-REAL的团队带来了ClawGUI，一个覆盖GUI智能体在线RL训练、标准化评测、真机部署完整生命周期的开源框架",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "20亿美金苏度科技具身首秀即大招！0真机数据，zero-shot，跑出98%首次抓取成功率",
@@ -91,7 +133,13 @@
       "publish_time": "2026-04-20",
       "category": "AI 综合",
       "summary": "今天上午，苏度官网发布首个技术Blog，正式介绍了软硬件全栈自研的机器人系统#Sudo R1 | 它采用世界模型与强化学习一体化设计，在不使用任何真机数据的前提下，实现了关键任务近100%的Zero-shot成功率，首次在业内达成这一...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     }
   ]
 }

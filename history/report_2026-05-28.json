@@ -10,7 +10,11 @@
       "publish_time": "2026-05-27",
       "category": "AI 综合",
       "summary": "过去两年，具身智能的资源与研究重心高度集中于视觉感知，聚焦于“让机器人看懂世界” | 但在真实精细化操作场景中，核心挑战往往不在视觉识别本身，而在物理接触后的交互环节 | 能够完成USB接口的视觉对准，却难以判断插入过程中的受力变化与合适力",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "马斯克要当“太空版黄仁勋”：Anthropic一年上交150亿美元，Cursor百亿分手费锁死，SpaceX成新算力庄家",
@@ -19,16 +23,26 @@
       "publish_time": "2026-05-21",
       "category": "AI 技术",
       "summary": "75 万亿至 2 万亿美元，融资规模最高可达 750 亿至 800 亿美元",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "融资与投资",
+        "算力与芯片"
+      ]
     },
     {
-      "title": "刚刚，国产AI自己造了AI，全球首例！",
+      "title": "国产AI自己造了AI，全球首例",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/05/425511.html",
       "publish_time": "2026-05-26",
       "category": "AI 综合",
       "summary": "不过这一次，中国大模型公司第一次把“AI制造AI”从概念，推进到了可展示、可评测、可复现的工程样本",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "OpenAI挖来了个F1级别车手搞公关",
@@ -37,7 +51,11 @@
       "publish_time": "2026-05-27",
       "category": "AI 综合",
       "summary": "你没听错，虽然CEO奥特曼天天活跃在各大社交媒体平台，但谁曾想： 光是找一个合适的CMO（首席营销官），他们就花了整整半年时间 | 直到现在，他们终于找到了那个男人——Colin Fleming | 插一则纽约时报打听来的小八卦，在定下Co",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "1400亿Agent入场，“流量”这条护城河要塌了",
@@ -46,7 +64,12 @@
       "publish_time": "2026-05-27",
       "category": "AI 综合",
       "summary": "昨天在支付宝AI生态大会现场，有别于大多数“技术改变一切”的开场白，蚂蚁集团CEO韩歆毅第一句话就点明了核心基调： AI会带来很多改变，但归根结底，AI服务于人，人掌握着最终决策权 | 他明确提出，Agent时代并非“AI推翻一切重来”，商",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI × 金融"
+      ]
     },
     {
       "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
@@ -55,7 +78,13 @@
       "publish_time": "2026-05-19",
       "category": "AI 综合",
       "summary": "但一家国产GPU厂商，却在一整场发布会的时间里，做了一件非常物理的事儿—— 在走到舞台中央后，只见屏幕里仿真世界的小飞侧空翻了一下，随即，物理世界的小飞便做出了一模一样的动作 | 正是由摩尔线程新鲜发布的MT Lambda | 这是首...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "算力与芯片",
+        "具身智能"
+      ]
     },
     {
       "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
@@ -64,7 +93,13 @@
       "publish_time": "2026-05-26",
       "category": "AI 综合",
       "summary": "在多模态大模型从“基础感知”向“深度推理”演进的浪潮中，快手团队始终在思考两个问题： 如何突破视频理解任务中超长视觉上下文带来的算力瓶颈",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "算力与芯片"
+      ]
     },
     {
       "title": "DeepSeek陈德里开发自动研究Skill，写一篇论文人类只动脑2小时",
@@ -73,7 +108,11 @@
       "publish_time": "2026-05-27",
       "category": "AI 综合",
       "summary": "” 梦晨 发自 凹非寺量子位 | 公众号 QbitAI DeepSeek研究员陈德里，在个人博客更新一篇研究综述论文 | 用的是他自己的技能DeliAutoResearch，DeepSeek-V4-Pro研究和写作，GPT-Image2画图",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "留给人类数学家的悬赏不多了！谷歌DeepMind一口气解决9道埃尔德什问题",
@@ -82,7 +121,11 @@
       "publish_time": "2026-05-26",
       "category": "AI 综合",
       "summary": "每道题几百美元，整套证明代码也全都开源放在了GitHub上",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "Codex自我蒸馏玩法火了！OpenAI员工亲授：复制粘贴就能让AI消灭重复劳动",
@@ -91,7 +134,11 @@
       "publish_time": "2026-05-27",
       "category": "AI 综合",
       "summary": "有意思的是，Brockman还同时转发了一条冷知识：Codex是开源的 | 我们来细品一下Vabihav（就叫他VB吧）发布的这两版提示词",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     }
   ]
 }

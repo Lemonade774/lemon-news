@@ -10,7 +10,11 @@
       "publish_time": "2026-08-19",
       "category": "AI 综合",
       "summary": "从技术研发到开发者沟通，长期活跃在开发者一线 近日有网友发现，MiniMax Agent工程部主管阿岛（缪宇航）的飞书状态目前已经显示离职，下一站暂未公开 | 目前，他在X上的个人认证信息还没有同步更新，简介里依旧写着Head of Eng",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "Claude Code没有“魔法”",
@@ -19,25 +23,40 @@
       "publish_time": "2026-08-14",
       "category": "AI 技术",
       "summary": "过去一年，编程 Agent 的能力大幅提升，软件工程师对它们的要求也比以往任何时候都高，但上下文窗口的大小却基本停滞不前——一年前，一百万个 token 大致就是最先进的水平，如今依然如此 | 随着我们逐渐进入 Agent 日常处理 Mon",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent"
+      ]
     },
     {
-      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "title": "谷歌：AI核心员工回硅谷坐班",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/468398.html",
       "publish_time": "2026-08-08",
       "category": "AI 综合",
       "summary": "眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
-      "title": "用DeepSeek网页版就能瓜分鹅厂600万？？！",
+      "title": "用DeepSeek网页版就能瓜分鹅厂600万",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/475764.html",
       "publish_time": "2026-08-19",
       "category": "AI 综合",
       "summary": "Jeff Dean等一众大佬接连现身，会场里随便转个弯，都可能碰到深耕数据挖掘领域的知名研究者 | 就在这一片火热交流里，一道困扰行业许久的推荐系统统一建模的问题，也终于等来了它的答案 | 三个月前，腾讯营销以KDD Cup 2026官方赛",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "人形机器人开始打国球了！两台机器人完整打完11分制比赛",
@@ -46,7 +65,12 @@
       "publish_time": "2026-08-17",
       "category": "AI 综合",
       "summary": "人类发球喂球，机器人守在半台回击，这类视频这两年已经不算稀奇 | 球台两边，你发我接、你攻我守，一直打到11分",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "具身智能"
+      ]
     },
     {
       "title": "具身数据底座开卖，首发5100元：机器人训练数据有了新解法",
@@ -55,7 +79,12 @@
       "publish_time": "2026-08-19",
       "category": "AI 综合",
       "summary": "8月18日，五一视界（51WORLD）“物理AI宏伟蓝图2030”发布会正式召开",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "全球首个人形机器人自主乒乓球完整对局亮相2026世界机器人大会",
@@ -64,7 +93,12 @@
       "publish_time": "2026-08-19",
       "category": "AI 综合",
       "summary": "此前，超维动力已正式发布全球首个人形机器人自主乒乓球完整对局，标志着高速动态场景下”感知—决策—控制”全链路自主能力的里程碑式突破 | 本届大会，超维动力在展台现场搭建标准乒乓球交互体验区，全面展示基于自主研发的新一代SMASH 2 ...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "写2000字提示词，不如先生成3D白模！AI视频创作进入“预演时代”",
@@ -73,7 +107,12 @@
       "publish_time": "2026-08-19",
       "category": "AI 综合",
       "summary": "衡宇 发自 凹非寺量子位 | 公众号 QbitAI 不是我说，随着模型能力越来越强，现在各大平台上优秀的AI视频早就超过普通人玩AI的范畴了 | 更多是有编导思维的科班/专业人士利用AI下放的门槛，把自己的专业能力放大，在这些赛道一通乱杀 ",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用"
+      ]
     },
     {
       "title": "IDC发布2026中国AI50强：360以“智能体+安全”双轮驱动入选",
@@ -82,7 +121,13 @@
       "publish_time": "2026-08-19",
       "category": "AI 综合",
       "summary": "近日，国际权威市场研究机构IDC正式发布《2026年IDC中国AI50强》榜单，360集团与阿里云智能、百度、腾讯云、小米等企业共同登榜 | 今年，360推出新一代企业级智能体办公平台纳米Work，被视为其推动AI从“回答问题”走向“...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "章鱼动力亮相WRC 2026，携“脑-手-数据”技术体系探索具身智能未来范式",
@@ -91,7 +136,13 @@
       "publish_time": "2026-08-19",
       "category": "AI 综合",
       "summary": "作为全球机器人领域极具影响力的产研盛会，大会以“人机共生，产需共融”为主题，集中展示机器人与AI行业技术创新、应用落地的最新突破性成果 | 其中，“脑”即 SYNWorld 通用世界基础模型，承担机器人的认知、推演与决策职能，让机器人...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "具身智能"
+      ]
     }
   ]
 }

@@ -10,16 +10,25 @@
       "publish_time": "2026-08-14",
       "category": "AI 综合",
       "summary": "就在离职前几天，Meta刚刚推出Muse Spark 1",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
-      "title": "从亚百毫秒级启动到生产级部署，腾讯云为何重构 Agent 沙箱？",
+      "title": "从亚百毫秒级启动到生产级部署，腾讯云为何重构 Agent 沙箱",
       "source": "InfoQ",
       "url": "https://www.infoq.cn/article/KwZX2bLcaHRjuLG95vHI",
       "publish_time": "2026-08-12",
       "category": "AI 技术",
       "summary": "2026 年初，OpenClaw 以一己之力掀起了本地终端 Agent 热潮，人们开始习惯把文件系统、浏览器、邮件、终端，以及各种账号权限交给 Agent | 但“养虾”的背后，潜藏着比模型幻觉更直接的风险",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent"
+      ]
     },
     {
       "title": "杭州95后小伙，5亿买走硅谷城堡",
@@ -28,25 +37,39 @@
       "publish_time": "2026-08-16",
       "category": "AI 综合",
       "summary": "反观吴宇怀（Tony Wu）相当务实、相当Chinese： 对，你没看错，就是去年Grok 3发布会上，和马斯克勾肩搭背一同亮相的那位杭州95后",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
-      "title": "李飞飞最新访谈：AI咋能代替人呢？",
+      "title": "李飞飞最新访谈：AI咋能代替人呢",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/474140.html",
       "publish_time": "2026-08-16",
       "category": "AI 综合",
       "summary": "在Huberman Lab最新一期访谈中，李飞飞还讨论了“为什么苏格拉底是人类历史上最顶尖的‘提示词工程师’”、“为什么不能一刀切地禁止学生们用AI”等非常有趣的话题，并给出了一个笃定的答案： 无论是在医疗、影视、还是教育等领域，AI都不是",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
-      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "title": "谷歌：AI核心员工回硅谷坐班",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/468398.html",
       "publish_time": "2026-08-08",
       "category": "AI 综合",
       "summary": "眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "“B站教AI”爆火后，北航90后副教授何静回应一切",
@@ -55,7 +78,12 @@
       "publish_time": "2026-08-16",
       "category": "AI 综合",
       "summary": "“北航90后副教授”、“在B站教AI”、“3岁小孩都能听懂”…… 何静，今年35岁，北航副教授，在b站开设账号分享AI应用，意外走红 | 她讲的内容，包括但不限于生成式AI原理、AIGC应用、OpenClaw部署、Agent开发、AI接入C",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用"
+      ]
     },
     {
       "title": "牛来！A社营收暴涨1400%，最新季度入账115亿美元",
@@ -64,7 +92,12 @@
       "publish_time": "2026-08-16",
       "category": "AI 综合",
       "summary": "将超越马斯克的SpaceX，成为史上上市估值最高的IPO | 就在这个周末，人们还在惊叹电影《牛来》的出圈、网友开始迅速炒“牛来概念股”时，AI资本市场里，可能也真的冲出了一头牛 | 据彭博社报道，Claude背后的Anthropic，第二",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资"
+      ]
     },
     {
       "title": "至知研究院提出大模型可解释性新路线：拆权重，数据成本不到1%",
@@ -73,16 +106,24 @@
       "publish_time": "2026-08-15",
       "category": "AI 综合",
       "summary": "大模型机制可解释性研究中，一直存在一个颇具反差的现实： 为了理解一个已经训练好的模型，研究者往往需要先训练一套新的稀疏表示 | Transcoder、稀疏特征模块等方法会学习一组新的内部单元，用它们近似原模型某一层或某个模块的计算，再通过保",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
-      "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭！",
+      "title": "高效低成本开发，商业增长回报高，鸿蒙元服务背后的“开发厨房”让开发者按时吃饭",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/08/473395.html",
       "publish_time": "2026-08-15",
       "category": "AI 综合",
       "summary": "对开发者而言，ASCF带来的不仅是“按时吃饭”的从容，更是低成本投入、高效率交付、高回报增长的完整商业闭环 | 过去几年，移动互联网的服务竞争，本质上是一场流量与入口竞争 | 过去我们获取服务是这样的：想买东西，点开电商App；要进停车场，",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "WorkSwarm：引领办公智能体新范式，让AI从一个助手，进化为一支与你并肩作战的团队",
@@ -91,7 +132,12 @@
       "publish_time": "2026-08-16",
       "category": "AI 综合",
       "summary": "两个看起来完全不同的任务，如何在一个智能体中实现 | 据了解openJiuwen是由华为2012实验室、华为云、终端、计算联合构建的开源Agent",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用"
+      ]
     }
   ]
 }

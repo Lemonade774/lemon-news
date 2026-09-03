@@ -10,7 +10,11 @@
       "publish_time": "2026-06-20",
       "category": "AI 综合",
       "summary": "12年前，陶哲轩在首届数学突破奖的台上抛出的一句预言，被视作天方夜谭： 将来有一天，我们或许不再用LaTeX撰写论文，而是使用计算机能理解的的形式化语言",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛",
@@ -19,7 +23,12 @@
       "publish_time": "2026-06-18",
       "category": "AI 技术",
       "summary": "去年刚成立的光象科技，近日发布了首个工业级自进化具身智能机器人 Phi-Bot X1",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "AI也唤不醒“乏力”的618",
@@ -28,7 +37,11 @@
       "publish_time": "2026-06-21",
       "category": "AI 产业",
       "summary": "AI创造了效率，却并没有创造出新的消费欲望 | 越接近618“正日子”，氛围就变得越平淡，只有各个App开屏广告的不停跳转提醒着你，大促还没完 | 五月中旬刚过，一位母婴品牌的电商从业者许灿就开始了她每天盯价格的日常",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 产业"
+      ]
     },
     {
       "title": "GPT发AI原创新成果了",
@@ -37,7 +50,11 @@
       "publish_time": "2026-06-19",
       "category": "AI 综合",
       "summary": "4在近乎自主的条件下，改进了药物合成里一个常用反应",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "AI转型最大的门槛，不是技术，是人",
@@ -46,7 +63,11 @@
       "publish_time": "2026-06-17",
       "category": "AI 综合",
       "summary": "这是浪潮信息董事长彭震，在人工智能+生态大会（AIEC2026）上抛出的判断 | 这场大会由清华大学全球产业研究院主办，聚集了数十家机构，主题就是探索AI走向产业实践的方法路径 | 值得注意的是，基础设施、算力、芯片，这些浪潮信息最擅长的领",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "算力与芯片"
+      ]
     },
     {
       "title": "英伟达开始搞机器人自己研究机器人那套了…",
@@ -55,16 +76,27 @@
       "publish_time": "2026-06-20",
       "category": "AI 综合",
       "summary": "为了让你烧token，英伟达已经卷到机器人身上了 好好好，又给英伟达这家伙，找到了新的烧token的方式（doge） 刚刚，英伟达、CMU和Berkeley联合推出具身智能Autoresearch框架—— 简单来说，ENPIRE就是让AI ",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
-      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把？！",
+      "title": "我把昨晚的梦输入AI，它居然直接把我拉进去玩儿了一把",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/436864.html",
       "publish_time": "2026-06-19",
       "category": "AI 综合",
       "summary": "0（快乐生蚝）实现的，阿里ATH推出的可实时构建和交互的开放式世界模型产品",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "AI看病成为医患新包袱？补上「多轮追问」，通用AI才迈得过医疗关",
@@ -73,7 +105,11 @@
       "publish_time": "2026-06-18",
       "category": "AI 综合",
       "summary": "应该不只是我家里的长辈天天抱着AI“看病”吧 | 这年头，大家是越来越习惯把症状、化验单、病历丢给AI了 | 正所谓春江水暖鸭先知，身处一线的医生们就对这个事情深有体会",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
@@ -82,7 +118,12 @@
       "publish_time": "2026-06-20",
       "category": "AI 综合",
       "summary": "时长可达30分钟以上，这也是业界首次实现这个长度",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用"
+      ]
     },
     {
       "title": "Meta员工士气跌至20年谷底！内部直播当众开骂，CTO承认AI重组糟糕透顶",
@@ -91,7 +132,11 @@
       "publish_time": "2026-06-20",
       "category": "AI 综合",
       "summary": "说这话的，是Meta CTOAndrew Bosworth（人称“Boz”）——扎克伯格最信任的副手之一，在Meta干了20年的技术灵魂人物 | 在内部会议“Tuesdays with Boz”上，他亲口承认了这一点，而且用了一个相当严重的",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     }
   ]
 }

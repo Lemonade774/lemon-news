@@ -10,7 +10,11 @@
       "publish_time": "2026-07-24",
       "category": "AI 综合",
       "summary": "毕竟，AI能帮一个人写代码、做设计、跑运营，却没法凭空变出第一批客户、融资机会和出海经验",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "融资与投资"
+      ]
     },
     {
       "title": "GKE 安全蓝图加入云厂商 AI 安全框架阵营",
@@ -19,7 +23,11 @@
       "publish_time": "2026-07-24",
       "category": "AI 技术",
       "summary": "谷歌云发布了一份新的安全蓝图，介绍企业应如何保护运行在 Google Kubernetes Engine（GKE） 上的人工智能工作负载 | ”该蓝图认为，实现这些目标不能仅依赖一个运行容器的平台，而需要一个能够“开箱即用地叠加多层安...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "北大「双菲」：天才们的鲜活人生",
@@ -28,7 +36,11 @@
       "publish_time": "2026-07-24",
       "category": "AI 综合",
       "summary": "就在刚刚，美国费城，ICM（国际数学家大会）现场，四年一度菲尔兹奖名单公布，中国双子星双双在列，创造中国数学领域新历史",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "菲尔兹奖得主王虹，也发过NeurIPS",
@@ -37,7 +49,11 @@
       "publish_time": "2026-07-24",
       "category": "AI 综合",
       "summary": "NeurIPS 2026出分在即，有网友扒出，王虹教授发过一篇NeurIPS 2019",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
@@ -46,7 +62,13 @@
       "publish_time": "2026-07-24",
       "category": "AI 综合",
       "summary": "这是这家多模态大模型公司在近三个月内完成的第三轮融资 | 三轮密集融资超21亿元后，智象未来估值超过10亿美金，正式跻身全球AI独角兽行列",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "10万字速记一口吞，金山办公新Agent开始直接交活了",
@@ -55,7 +77,12 @@
       "publish_time": "2026-07-24",
       "category": "AI 综合",
       "summary": "1场主论坛、6场主题论坛、3000㎡实景AI创新科技展 你一个靠可乐发家的，怎么用AI种土豆了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用"
+      ]
     },
     {
       "title": "领克07GT重磅上市，以越级驾趣+全场景拓展生态掀翻旅行车市场",
@@ -64,7 +91,11 @@
       "publish_time": "2026-07-24",
       "category": "AI 综合",
       "summary": "7月23日，领克07GT上市发布会正式举行，推出时间限量版、四驱性能Ultra、200超长续航Ultra、200超长续航Max四款版型，上市限时价14 | 本次发布会现场，领克07GT拉力赛车重磅登台亮相，吉利汽车集团CEO淦家阅宣布...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
@@ -73,7 +104,13 @@
       "publish_time": "2026-07-24",
       "category": "AI 综合",
       "summary": "登顶的是兔展智能团队联合北大、鹏城实验室研发的UniWorld-View（模型已适配国产昇腾算力）： 你随手拍一段视频，或者干脆只给一张图，它还你一段“相机轨迹任你指定”的新视角视频—— 推、拉、摇、移，甚至“绕着场景360°转一圈”都可以",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "算力与芯片"
+      ]
     },
     {
       "title": "长内容创作者苦AI失忆久矣，这个新Agent漂亮填坑！门槛低到只需要会用键盘打字",
@@ -82,7 +119,12 @@
       "publish_time": "2026-07-24",
       "category": "AI 综合",
       "summary": "后来跟一位计算机出身的网文太太吐槽的时候，我终于弄明白了，因为长任务的天花板≠模型上下文窗口长度 | 更长的上下文窗口意味着更大的内存，但内存大不等于会整理 | 把一大堆东西塞进去之后，怎么管、怎么用，现有大模型并不擅长",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent"
+      ]
     },
     {
       "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
@@ -91,7 +133,13 @@
       "publish_time": "2026-07-13",
       "category": "AI 综合",
       "summary": "同时发布CPU原生液冷整机柜、多模融合超节点 AI基础设施的核心任务，已经从支撑大模型推理，转向支撑海量智能体的规模化运行与高质量Token的持续生产",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     }
   ]
 }

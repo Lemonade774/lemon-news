@@ -10,7 +10,11 @@
       "publish_time": "2026-05-08",
       "category": "AI 综合",
       "summary": "中国AI研究员的性格、魅力和真诚……让人倍感亲切 | 这是艾伦研究所（Ai2）的研究员Nathan Lambert，在最近结束中国之行后，发自内心的一番感慨 | 在Nathan眼里，国内的LLM圈子简直是天堂，大家彼此尊重、即便立场不同也客",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "DeepSeek 被曝融资500亿，梁文锋自己掏了 200亿！阿里或无缘参投",
@@ -19,16 +23,26 @@
       "publish_time": "2026-05-09",
       "category": "AI 技术",
       "summary": "昨晚，据 The Information 报道，DeepSeek 正在筹备公司成立以来的首轮外部融资，规模可能高达 70 亿美元（约合人民币 500 亿元） | 如果交易完成，将会刷新中国 AI 创业公司单轮融资纪录 | 另据彭博社报...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
-      "title": "为什么豆包要尝试收费？",
+      "title": "为什么豆包要尝试收费",
       "source": "界面新闻",
       "url": "https://www.jiemian.com/article/14404064.html",
       "publish_time": "2026-05-10",
       "category": "AI 产业",
       "summary": "据界面新闻记者了解，具体的定价以及正式推出时间还没有最终敲定 | 另据豆包官方回应称，会始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "太初元碁携龙虾一体机亮相北京科博会",
@@ -37,7 +51,11 @@
       "publish_time": "2026-05-09",
       "category": "AI 综合",
       "summary": "5月8日至10日，第二十八届北京科博会盛大开启，800余家中外企业和机构参展，集中展示人工智能、智能制造、数字经济等领域前沿成果 | 智能计算系统解决方案提供商太初元碁于今年推出的太初龙虾一体机（TecoClaw）在北京经济技术开发区...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
@@ -46,7 +64,12 @@
       "publish_time": "2026-05-09",
       "category": "AI 综合",
       "summary": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地 5月8日，人工智能领域两项重要政策发布",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
@@ -55,16 +78,26 @@
       "publish_time": "2026-05-07",
       "category": "AI 综合",
       "summary": "例如，“把@图1的人物塞进@图2的场景，镜头运动和角色动作完全照搬@视频1”： 这些能力，来自国内最大ComfyUI平台RunningHub最新推出的原生AI智能体全能内容创作平台——RHTV | 界面简洁轻量化，底层却背靠Runni...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
-      "title": "离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片？",
+      "title": "离谱！一句话+百元预算，这只龙虾就给我搓出了一支百万级广告片",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/05/414006.html",
       "publish_time": "2026-05-07",
       "category": "AI 综合",
       "summary": "哪怕AI工具满天飞的今天，广告圈打工人也得说一句： 成本高得没边儿不说，做起来还得在七八个工具之间反复横跳 | 一支30秒的片子得做一礼拜，预算没准还烧穿一大截",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "美图RoboNeo全新升级：首创影像创作Agent Teams",
@@ -73,7 +106,13 @@
       "publish_time": "2026-05-09",
       "category": "AI 综合",
       "summary": "在AI短剧创作场景，能实现人设、脚本、分镜到成片的全输出；在自媒体创作场景，可同步生成封面、脚本及动画开头；在电商创作场景中，跨境电商卖家复刻爆款带货视频的时间已从半天压缩至5分钟以内 | 行业观察人士表示，RoboNeo推出的Age...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "空间智能的“具身化”跃迁，高德ABot体系模型夺冠AGIBot全球挑战赛",
@@ -82,7 +121,13 @@
       "publish_time": "2026-05-09",
       "category": "AI 综合",
       "summary": "上个月，高德正式对外发布ABot全栈具身技术体系，并在亦庄机器人马拉松上首秀了基于此架构所自研的全球首款开放环境全自主具身机器人“高德途途”，完整呈现其底层架构到终端产品的研发链路闭环",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "行业首创空间3D显示，还能主动提醒和帮忙叫车，千问AI眼镜这操作真把我看愣了",
@@ -91,7 +136,11 @@
       "publish_time": "2026-05-09",
       "category": "AI 综合",
       "summary": "而且本月还将上线打车、闪购、拍题答疑等一箩筐的生活AI能力，直接一口气把智能体验铺到N个日常高频场景里 | 通过增加眼镜信息展示的纵深感，让导航提示、信息卡片、内容展示这些信息也能「平面变3D」了～",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     }
   ]
 }

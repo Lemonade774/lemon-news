@@ -10,7 +10,12 @@
       "publish_time": "2026-04-16",
       "category": "AI 综合",
       "summary": "全程没写一行代码、不用配环境、不用买服务器、不用建数据库—— 只通过说话提需求，1分钟就直接拿到了这个可上线、可分享、可交互的完整应用",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "算力与芯片"
+      ]
     },
     {
       "title": "卖鞋厂转型做AI股价暴涨582%，华尔街最不缺这种荒诞闹剧",
@@ -19,7 +24,12 @@
       "publish_time": "2026-04-16",
       "category": "AI 技术",
       "summary": "4 月初，一家以“舒适、环保、极简”著称的鞋履品牌，还在认真发布新品——帆布巡航鞋，并宣布与色彩机构合作，试图在时尚与设计领域继续讲述自己的品牌故事；一周之后，这家公司却突然宣布，将“业务重心转向人工智能计算基础设施”，计划打造 GPU 即",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "算力与芯片"
+      ]
     },
     {
       "title": "继HappyHorse后，阿里又有一款模型登顶权威评测榜单",
@@ -28,7 +38,11 @@
       "publish_time": "2026-04-16",
       "category": "AI 综合",
       "summary": "阿里巴巴旗下一款名为ABot-PhysWorld的世界模型登顶世界模型领域的权威评测WorldArena | 不到半个月内，阿里巴巴已先后有两个全新模型登顶世界级评测榜单 | 4月初，来自阿里巴巴的HappyHorse横空出世，一举登顶权威",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "炸奥特曼的人被扒出来了",
@@ -37,7 +51,12 @@
       "publish_time": "2026-04-16",
       "category": "AI 综合",
       "summary": "手捏多位科技公司CEO及投资者“死亡名单” Daniel Moreno-Gama，一个号称要阻止AI灭绝人类的20岁青年 | 随着庭审进一步公开，人们知晓了更多事件细节和Daniel的个人画像 | 在科技媒体Futurism的描述中，他被视",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
       "title": "Claude复活30年前传奇游戏，仅用一个周末",
@@ -46,7 +65,11 @@
       "publish_time": "2026-04-12",
       "category": "AI 综合",
       "summary": "仅凭一点线索，Claude就复活了一个30年前的传奇游戏 | 目前评论已经盖到了一百多楼，网友的共识是：这篇帖子堪称传奇 | 发帖人是游戏开发商Beamable的CEOJon Radoff，他用Claude复活了自己19岁时开发的MUD（多",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "短短3个月，高德已拿下具身智能领域15项世界第一",
@@ -55,7 +78,13 @@
       "publish_time": "2026-04-16",
       "category": "AI 综合",
       "summary": "此外今年2月，高德发布两款ABot系列基座模型，分别是具身操作基座模型ABot-M0与具身导航基座模型ABot-N0",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "具身智能为什么还没真正落地？问题卡在这｜沙龙报名",
@@ -64,7 +93,11 @@
       "publish_time": "2026-04-16",
       "category": "AI 综合",
       "summary": "Aurelia 发自 凹非寺公众号｜量子位 QbitAI 当下，具身智能正在进入加速期，产业规模已突破万亿级 | 但从Demo走向真实世界的稳定运行，这条路径远比想象中更复杂 | 技术路线尚未收敛，真实世界高质量数据匮乏，依赖特定场景的小模",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "Claude实名认证引众怒！强制验证是为了更精准封号",
@@ -73,7 +106,11 @@
       "publish_time": "2026-04-16",
       "category": "AI 综合",
       "summary": "梦晨 发自 凹非寺量子位 | 公众号 QbitAI 用AI吃着火锅写着代码，突然被要求实名认证了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "全球首创16cm极致外扩超级机械臂，MOVA扫地机开启清洁新纪元",
@@ -82,7 +119,11 @@
       "publish_time": "2026-04-15",
       "category": "AI 综合",
       "summary": "都2026年了，当我们谈论起扫地机器人时，讨论的是什么 | 是扫得干净、不闲置、续航时间长的基础性能，还是接入AI、足够智能的交互体验 | 答案可能出乎意料：扫地机器人最重要的不是机器人，而是“扫地”这个基本功",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "扔掉你的Token账单吧，荣耀YOYO Claw技术把养虾成本打下来了",
@@ -91,7 +132,11 @@
       "publish_time": "2026-04-16",
       "category": "AI 综合",
       "summary": "荣耀YOYO Claw技术在配置上不仅实现开机即用，还通过独创的智能路由算法大大降低了Tokens成本，并且基于独有的设备级安全防护体系和独立安全虾，从根源保护隐私安全",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     }
   ]
 }

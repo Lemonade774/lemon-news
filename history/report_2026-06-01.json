@@ -10,7 +10,12 @@
       "publish_time": "2026-05-31",
       "category": "AI 综合",
       "summary": "DDIM之父宋佳铭（Jiaming Song），在领英上发布了自己从Luma AI离职的消息 | 2024年，文生视频成为行业新风口，OpenAI Sora问世带动全网视频AI竞赛，Luma AI顺势推出Dream Machine，凭...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践｜AICon上海",
@@ -19,7 +24,12 @@
       "publish_time": "2026-06-01",
       "category": "AI 技术",
       "summary": "阿里云高级产品专家贾珂确认出席 “企业智算架构弹性适配” 专题，发表题为《大模型云上训练工程突破：阿里云PAI在超大规模集群下的调度与容错实践》的主题分享",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用"
+      ]
     },
     {
       "title": "MiniMax启动A股IPO进程，冲刺“A+H”双上市",
@@ -28,7 +38,13 @@
       "publish_time": "2026-06-01",
       "category": "AI 产业",
       "summary": "HK）发布公告，宣布董事会已决议探究拟发行人民币股份并在上海证券交易所科创板上市的初步建议 | 今年1月9日，MiniMax以每股165港元的发行价在港交所主板挂牌，上市首日股价即大涨约109%，收盘报345港元，市值突破千亿港元，成...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资",
+        "AI × 金融"
+      ]
     },
     {
       "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
@@ -37,7 +53,13 @@
       "publish_time": "2026-05-29",
       "category": "AI 综合",
       "summary": "以文字和视频为例，只需要单点突破大模型生成环节就成，但游戏不仅是内容，更是一个强工程化的复杂系统 | 而这件事，现在正在发生—— 前两天的腾讯游戏发布会上，AI浓度高到爆表",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "τ0-WM：最大规模预训练的开源具身世界模型来了",
@@ -46,16 +68,26 @@
       "publish_time": "2026-05-31",
       "category": "AI 综合",
       "summary": "刚刚，上海创智学院副教授、智元机器人首席科学家罗剑岚带队，发布全球最大规模的开源预训练具身世界模型—— τ0-World Model（τ0-WM) | 而3万小时的预训练数据，是目前全球开源预训练具身世界模型中最大的",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
-      "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU！",
+      "title": "英伟达版「MacBook Pro」曝光：老黄自研了CPU",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/05/426991.html",
       "publish_time": "2026-05-31",
       "category": "AI 综合",
       "summary": "英伟达版Macbook Pro，真的要来了 | 一觉睡醒，发现英伟达官号昨天发了这么一条帖子： 但其实吧，这条帖子里藏了两条非常关键的信息 | 你把这串坐标扔进地图APP，会显示这么一个位置—— 下周Computex的GTC台北主会场",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "机器人原生世界动作模型问世！首创时空一体架构，复旦系团队出品",
@@ -64,7 +96,12 @@
       "publish_time": "2026-05-31",
       "category": "AI 综合",
       "summary": "眸深智能的技术突破，源于长期深耕的学术积淀与全栈工程能力",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "具身智能"
+      ]
     },
     {
       "title": "AI正在重写软件行业？8岁孩子做操作系统，一人公司拿下千万订单",
@@ -73,7 +110,12 @@
       "publish_time": "2026-05-28",
       "category": "AI 综合",
       "summary": "“87%用户不懂代码，却用AI跑通了一人公司” 当AI将编程门槛从“写代码”降低至“聊天”，应用创作的权力正从专业开发者手中释放到每一个普通人—— 甚至连不懂代码的8岁小学生，都能通过跟AI聊天，打造出自己想象中的操作系统；OPC（一人公司",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
     },
     {
       "title": "Token贵只因你喂给模型的垃圾太多了丨@亚马逊王晓野AIGC2026",
@@ -82,7 +124,12 @@
       "publish_time": "2026-05-31",
       "category": "AI 综合",
       "summary": "当全民都在“养龙虾”的时候，真正的问题才刚开始浮现 | 在刚刚结束的2026中国AIGC产业峰会上，亚马逊云科技产品技术部技术总监王晓野带来了一组直观数据： 87%的企业宣称已经大规模部署了AI，而真正从中获得价值的，只有10% | 很显然",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用"
+      ]
     },
     {
       "title": "5亿Tokens白送！全球首个商用AI主机发布，终于能放开烧Token了",
@@ -91,7 +138,12 @@
       "publish_time": "2026-05-29",
       "category": "AI 综合",
       "summary": "2026年，龙虾热、养马潮，AI真的从对话走向了执行，「超级个体」不再只是说说而已…… OPC（One Person Company，一人公司）这个群体，正以肉眼可见的速度批量涌现 | Agent用得越好，自动化运行时间就更长；而运行更长，",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "公司动态"
+      ]
     }
   ]
 }

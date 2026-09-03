@@ -10,7 +10,12 @@
       "publish_time": "2026-05-17",
       "category": "AI 综合",
       "summary": "这组数据，来自蔚蓝科技刚刚发布的BabyAlpha A3消费级四⾜机器⼈",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "算力与芯片"
+      ]
     },
     {
       "title": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
@@ -19,7 +24,12 @@
       "publish_time": "2026-05-13",
       "category": "AI 技术",
       "summary": "用 Thinking Machines 的话说，目前大多数 AI 模型都是通过“外挂式”的方式来实现交互，将不同组件拼接在一起以模拟打断、多模态或并发等能力 | 今天，Thinking Machines 宣布推出“交互模型”TML-I...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "奥特曼投的芯片涨疯了，今年最大科技IPO",
@@ -28,7 +38,12 @@
       "publish_time": "2026-05-16",
       "category": "AI 综合",
       "summary": "OpenAI「扶持」的AI芯片企业Cerebras Systems，正式在纳斯达克敲钟上市 | 股票代码为CBRS，发行价185美元，开盘价直接冲上350美元，盘中一度飙升到每股386美元（约合人民币2619元） | 收盘涨幅定格在68%，",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "融资与投资",
+        "算力与芯片"
+      ]
     },
     {
       "title": "不用再找了，AI落地最全的实战打法，都在亦庄这场大会里",
@@ -37,7 +52,11 @@
       "publish_time": "2026-05-16",
       "category": "AI 综合",
       "summary": "如果说过去两年，我们还在争论AI的能力边界，那么2026年的资本市场与产业端已经给出了最直接的回答：AI正经历着一场严苛的“前线压力测试”",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "SFT别急着接RL！你的多模态大模型可能一直在“带伤训练”",
@@ -46,16 +65,24 @@
       "publish_time": "2026-05-17",
       "category": "AI 综合",
       "summary": "小心，你做的可能不是“训练”，而是“还债” | 在多模态大模型（MLLM）的后训练中，行业内长期遵循着一个看似天经地义的范式：先SFT，再RL，两步到位 | 从DeepSeek到Qwen，从GRPO到DAPO，大家拼命优化RL算法的稳定性、",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
-      "title": "国产GPU组了个开源局，把SGLang等核心开发者都摇来了！",
+      "title": "国产GPU组了个开源局，把SGLang等核心开发者都摇来了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/05/417791.html",
       "publish_time": "2026-05-14",
       "category": "AI 综合",
       "summary": "没有大厂高管站台，一屋子却挤满了开源圈的熟面孔 | 随便往台下扫一眼，就能对上好几个GitHub上的明星ID： 这场看似是开源圈极客们的面基会，却着实是有点反差在身上的—— 活动的攒局者，是国产GPU玩家，摩尔线程 | 但这场SGLa...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "算力与芯片"
+      ]
     },
     {
       "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
@@ -64,7 +91,11 @@
       "publish_time": "2026-05-17",
       "category": "AI 综合",
       "summary": "龙虾之父Peter Steinberger，今天在上晒出了一张自己的CodexBar后台截图 | Bro，你最好拿出点儿价值百万美元的工程师都做不到的东西，不然这可能就是前沿实验室泡沫破裂的开端了 | 如果是其他人按实际成本调用这老些tok",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
       "title": "世界大学生超级计算机竞赛首设“英才对接”环节，搭建“赛场—职场”人才供需桥梁",
@@ -73,7 +104,11 @@
       "publish_time": "2026-05-17",
       "category": "AI 综合",
       "summary": "“通过文化融入、岗位实战、导师带教、技能培训、技术讨论等陪伴式成长计划，我们实现了对校招储备人才素质能力及岗位胜任力的赋能，助力高校引进人才快速成长，加速其职业化、专业化进程 | 近两年来，太初元碁已有超40名校招储备人才凭借出色的表...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "虾马之后又火一个！OpenHuman用20分钟了解你的一切，存成卡帕西式知识库",
@@ -82,7 +117,11 @@
       "publish_time": "2026-05-16",
       "category": "AI 综合",
       "summary": "虾在前，马当道，居然还有新物种能在Agent赛道突出重围 | OpenHuman连续霸榜GitHub Trending第一，狂揽9k+ Star，一天就涨千星 | 和虾马不一样，Human不用你花心思养，还能反过来主动了解你",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
@@ -91,7 +130,13 @@
       "publish_time": "2026-05-17",
       "category": "AI 综合",
       "summary": "AI创业、AI融资如火如荼，属于我的机会又在哪里",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "融资与投资"
+      ]
     }
   ]
 }

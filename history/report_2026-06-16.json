@@ -10,7 +10,12 @@
       "publish_time": "2026-06-15",
       "category": "AI 综合",
       "summary": "6月5日，华为云在上海举办INSPIRE创想者大会，会上密集发布了一批Agentic的「铲子」",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "腾讯撑场、60亿豪赌，“GPU四小龙”最后一龙刚刚过会",
@@ -19,7 +24,13 @@
       "publish_time": "2026-06-15",
       "category": "AI 技术",
       "summary": "今天下午，上交所官网发布审核结果，云端 AI 算力厂商燧原科技科创板 IPO 申请获上市委会议审议通过",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资",
+        "算力与芯片"
+      ]
     },
     {
       "title": "AI“踢”进世界杯",
@@ -28,7 +39,11 @@
       "publish_time": "2026-06-16",
       "category": "AI 产业",
       "summary": "当墨西哥城阿兹特克体育场吹响2026年世界杯揭幕战的哨声时，这项拥有近百年历史的运动，也迎来了一场技术革命 | 这是世界杯历史上第一次扩军至48支球队，共104场比赛，横跨美国、加拿大和墨西哥16座城市 | 对于国际足联(FIFA)而言，如",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "AI 产业"
+      ]
     },
     {
       "title": "89年哈工程校友，拿下全球海洋机器人领域最大单轮融资",
@@ -37,16 +52,26 @@
       "publish_time": "2026-06-15",
       "category": "AI 综合",
       "summary": "6月15日，海洋具身智能公司世航智能宣布完成A轮融资，融资金额超过10亿元 | 这也是目前全球海洋机器人领域规模最大的单轮融资 | 据世航智能方面透露，本轮融资将主要用于核心技术研发、全球化市场拓展及产业链生态建设，进一步推动海洋机器...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "融资与投资",
+        "具身智能"
+      ]
     },
     {
-      "title": "宇树机器人要登珠峰了！",
+      "title": "宇树机器人要登珠峰了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/435817.html",
       "publish_time": "2026-06-15",
       "category": "AI 综合",
       "summary": "按项目方的说法，在长达16小时的冲顶过程中，G1只在坡度小于30°的路段实现了自主行走",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "具身智能"
+      ]
     },
     {
       "title": "校企共推AI4S 上海交通大学与太初元碁签署合作协议",
@@ -55,7 +80,12 @@
       "publish_time": "2026-06-15",
       "category": "AI 综合",
       "summary": "上海交通大学通用人工智能研究所从事基础模型、多模态大模型的系统研究，开发发布世界首个脑电大模型，以强大的大模型研究实力在多学科AI4S领域不断创新",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "从ICRA到CVPR，机器人圈最近到底在聊什么？｜北京·周三晚",
@@ -64,7 +94,13 @@
       "publish_time": "2026-06-15",
       "category": "AI 综合",
       "summary": "从最新论文到现场Demo，从学术突破到产业落地，从具身智能的数据、模型与评测，到机器人真正走向现实世界的路径 | 推出全球首款SCA准直驱QDD柔性执行器，主持研发并推出XR1全球首款可量产人形机器人，登上IEEE Spectrum封面",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "沙利文权威认证：范式 Rise vGPU 获评 Tier 1 领先平台",
@@ -73,7 +109,12 @@
       "publish_time": "2026-06-16",
       "category": "AI 综合",
       "summary": "2026年6月15日，北京 一全球知名增长咨询公司弗若斯特沙利文（Frost & Sullivan）正式发布《2026年人工智能基础设施管理平台白皮书》，并把范式的Rise vGPU归入最高成熟度层级「Tier 1 领先平台」的 AI 基础",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "算力与芯片"
+      ]
     },
     {
       "title": "Agent终于长出了身体：Jiuwen Symbiosis背后的思考与实践",
@@ -82,7 +123,11 @@
       "publish_time": "2026-06-13",
       "category": "AI 综合",
       "summary": "今天，openJiuwen社区正式开源Jiuwen Symbiosis，一个专为更高阶的physical AI打造的Symbiosis（共生）架构",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent"
+      ]
     },
     {
       "title": "3D创作迎来ChatGPT时刻：Meshy发布全球首个3D AI Agent",
@@ -91,7 +136,13 @@
       "publish_time": "2026-06-11",
       "category": "AI 综合",
       "summary": "Meshy发布全球首个3D AI Agent 在3D创作这个圈子，一直有个心照不宣的扎心真相： 那就是最难的一步从来不是生成，而是让模型变为可用资产",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "Agent",
+        "公司动态"
+      ]
     }
   ]
 }

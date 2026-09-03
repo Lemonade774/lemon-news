@@ -10,7 +10,12 @@
       "publish_time": "2026-06-11",
       "category": "AI 综合",
       "summary": "6月10日，阿里千问发布了高考志愿填报Agent，免费为全国考生提供志愿填报咨询",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "Agent",
+        "公司动态"
+      ]
     },
     {
       "title": "Demo跑通了，然后呢？带你摸透AI创业的4个底层逻辑",
@@ -19,25 +24,41 @@
       "publish_time": "2026-06-09",
       "category": "AI 技术",
       "summary": "\" 然后你回到座位，打开一个新的文档，准备写下一步计划，却发现第一行不知道怎么写： 产品上线之后，服务器、存储、带宽、模型调用成本又该怎么配",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "算力与芯片"
+      ]
     },
     {
-      "title": "将与国内头部大模型厂商合作。",
+      "title": "将与国内头部大模型厂商合作",
       "source": "界面新闻",
       "url": "https://www.jiemian.com/article/14571516.html",
       "publish_time": "2026-06-12",
       "category": "AI 产业",
       "summary": "【独家】Eclix俞雷：即将推出一款没有APP的AI手机 6月10日，界面新闻独家获悉，Eclix团队已与国内头部大模型厂商达成深度合作，预计将于2026年9月发布第一代AI手机，双十一前上市 | Eclix同时对外开放融资，AI手机...",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态",
+        "融资与投资"
+      ]
     },
     {
-      "title": "Claude Fable 5首日实测，杀疯了…",
+      "title": "Claude Fable 5首日实测，…",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/433682.html",
       "publish_time": "2026-06-10",
       "category": "AI 综合",
       "summary": "Anthropic深夜突袭放出Claude Fable 5，直接迈入Mythos神话级新段位 | 这不，Fable 5开放首日，全网已经开始疯狂测测测了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "Mythos阴影里谷歌悄悄发模型，速度暴涨4倍",
@@ -46,7 +67,11 @@
       "publish_time": "2026-06-11",
       "category": "AI 综合",
       "summary": "0开源协议，权重可在Hugging Face直接下载",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "DeepSeek开招土木老哥：自建GW级数据中心",
@@ -55,16 +80,25 @@
       "publish_time": "2026-06-09",
       "category": "AI 综合",
       "summary": "DeepSeek官网最新上线了“IDC设计规划工程师”这个岗位 | 乍一看到岗位JD，我的脑子迅雷不及掩耳盗铃之势闪过一道机智的闪电—— 最近DeepSeek开放融资，估值据传已经飙到了3500亿元",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "融资与投资"
+      ]
     },
     {
-      "title": "SpaceX一上市，连食堂阿姨都要成百万富翁了。。。",
+      "title": "SpaceX一上市，连食堂阿姨都要成百万富翁了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/06/434733.html",
       "publish_time": "2026-06-12",
       "category": "AI 综合",
       "summary": "77万亿美元，直接爆杀2019年沙特阿美294亿美元的上市纪录，刷新史上最大IPO",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "融资与投资"
+      ]
     },
     {
       "title": "Fable 5自带反蒸馏机制！检测到就降智，误触率高到离谱",
@@ -73,7 +107,12 @@
       "publish_time": "2026-06-11",
       "category": "AI 综合",
       "summary": "Claude刚刚发布的新模型Fable 5，很多人可能压根就用不上 | Claude刚刚发布的新模型Fable 5，很多人可能压根就用不上 | 你以为自己在用Anthropic刚发布的最强模型，实际上聊着聊着，对面已经偷偷换人了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "公司动态"
+      ]
     },
     {
       "title": "抖音征召天下「AI视频英才」！创作者们，这次是真能吃上AI红利了…",
@@ -82,7 +121,11 @@
       "publish_time": "2026-06-10",
       "category": "AI 综合",
       "summary": "先说声恭喜——这400万元现金里，或许有你一份 | 抖音刚发起了个「AI创作大赛」，征召视频方向「AI创作者」 | 说实话，对绝大多数内容创作者来说，这可能是离AI红利最近的一次",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "Claude Fable 5省钱秘诀来了：调成Low档比Opus更便宜",
@@ -91,7 +134,11 @@
       "publish_time": "2026-06-11",
       "category": "AI 综合",
       "summary": "聪明人总能花最少的钱办最好的事，AI也一样 | 聪明人总能花最少的钱办最好的事，AI也一样 | 就在大伙还在为Claude Fable 5两倍于Opus 4",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     }
   ]
 }

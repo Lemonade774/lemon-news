@@ -4,13 +4,17 @@
   "total_items": 10,
   "top_items": [
     {
-      "title": "刚刚，OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
+      "title": "OpenAI首席未来学家离职！曾被马斯克骂蠢驴",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/446658.html",
       "publish_time": "2026-07-09",
       "category": "AI 综合",
       "summary": "刚刚，OpenAI首席未来学家Joshua Achiam在X上宣布离职 | 在OpenAI内部，首席未来学家这个职位夹在AI安全、政策和公司使命之间，负责研究AI继续变强之后，可能给世界带来的风险和机会 | 而Joshua Achiam，正",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "“300行代码写个Cursor，这是AI时代软件工程师的新底线。”Ralph Loop创造者、Claude Code核心技术设计者的暴论",
@@ -19,7 +23,11 @@
       "publish_time": "2026-07-08",
       "category": "AI 技术",
       "summary": "“软件开发已经死了，因为现在任何人都可以成为软件开发者 | 过去六个月的变化比过去三十年都多，而大多数工程师还在当 Jira 工单猴子，浑然不觉自己已经站在了悬崖边上 | ” 最近，Ralph Loop 的创造者 Geoffrey Hunt",
-      "importance_score": 8
+      "importance_score": 8,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "世界模型首次迎来“小时级”生成！蚂蚁灵波开源LingBot-World 2.0，支持AI原生多人交互",
@@ -28,7 +36,11 @@
       "publish_time": "2026-07-09",
       "category": "AI 综合",
       "summary": "7月9日，蚂蚁灵波科技开源新一代实时交互世界模型LingBot-World 2",
-      "importance_score": 10
+      "importance_score": 10,
+      "keywords": [],
+      "tags": [
+        "大模型"
+      ]
     },
     {
       "title": "第十一届中国航空创新创业大赛报名开启｜熵跃苍穹 无界新元",
@@ -37,16 +49,26 @@
       "publish_time": "2026-07-09",
       "category": "AI 综合",
       "summary": "大赛立足前瞻创新、开放权威，持续汇聚海内外空天创新力量，以赛聚链、以创赋能，为每一位空天科技创业者提供成长支撑与发展助力，携手共筑空天产业新生态，全力推动我国航空科技实现高水平自立自强",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 综合"
+      ]
     },
     {
-      "title": "刚刚，全球首个具身专属的MoE视频模型，开源了！",
+      "title": "全球首个具身专属的MoE视频模型，开源了",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/07/446568.html",
       "publish_time": "2026-07-09",
       "category": "AI 综合",
       "summary": "com/s/shwkij9ul5GpCBfNYMxU7Q 这就是蚂蚁灵波刚刚正式开源的LingBot-Video—— 全球首个面向具身智能的大规模MoE视频基础模型、视频物理引擎 | 但既然说了LingBot-Video是具身版的专属...",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "大模型",
+        "AI 应用",
+        "具身智能"
+      ]
     },
     {
       "title": "「没了李开复，零一万物还有什么？」一个敢问一个敢答",
@@ -55,7 +77,11 @@
       "publish_time": "2026-07-09",
       "category": "AI 综合",
       "summary": "这个问题，是在零一万物发布会上，被抛给零一万物CEO、一号位李开复的 | 但在上述回应之外，我觉得李开复之所以至今仍然亲力亲为，可能更跟他一直坚信的一个判断有关—— 发布会上，李开复再次强调了这句话",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     },
     {
       "title": "60000小时炼出新开源VLA！20多种机器人都能用",
@@ -64,7 +90,12 @@
       "publish_time": "2026-07-08",
       "category": "AI 综合",
       "summary": "一个新VLA（视觉-语言-动作），就这么水灵灵地被“喂”了出来，而且还是开源的那种 | 这就是蚂蚁灵波刚刚发布的LingBot-VLA 2 | 而距蚂蚁灵波1月发布LingBot-VLA 1",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态",
+        "具身智能"
+      ]
     },
     {
       "title": "2026年世界人工智能大会，7月17-7月20上海举办",
@@ -73,7 +104,11 @@
       "publish_time": "2026-07-09",
       "category": "AI 综合",
       "summary": "WAIC 2026将于7月17-20日在上海举行，分设世博、张江、西岸三大片区，以“智能伙伴，共创未来”为主题，设置论坛会议、展览展示、评奖赛事、应用体验、创新孵化、招才引智六大板块：计划举办140余场主题论坛，集聚1400余位国际嘉宾，展",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
@@ -82,7 +117,11 @@
       "publish_time": "2026-06-26",
       "category": "AI 综合",
       "summary": "苹果电脑iPad等多款产品一夕之间大涨价，悬着的心终于死了 | Mac价格上涨约15%-20%，iPad涨幅约15%-25% | 昨天还在犹豫要不要买MacBook Air/iPad Air，今天打开官网，发现同一款机型的统一配置，突然贵了",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "AI 应用"
+      ]
     },
     {
       "title": "获联合国机构点赞！天立启鸣“AI+教育”方案入选AI for Good",
@@ -91,7 +130,11 @@
       "publish_time": "2026-07-09",
       "category": "AI 综合",
       "summary": "北京时间7月7日，联合国机构国际电信联盟（ITU）2026年“人工智能向善”全球峰会（AI for Good Global Summit）在瑞士日内瓦举办，公布了年度“AI for Good创新影响力案例集” | 天立国际旗下智慧教育公司启",
-      "importance_score": 9
+      "importance_score": 9,
+      "keywords": [],
+      "tags": [
+        "公司动态"
+      ]
     }
   ]
 }

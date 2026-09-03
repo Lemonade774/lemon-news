@@ -1,0 +1,97 @@
+{
+  "date": "2026-03-31",
+  "update_time": "2026-03-31T09:00:48.256434",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "玻色量子完成10亿元B轮融资，“十五五”规划专用量子计算机赛道唯一代表！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/393856.html",
+      "publish_time": "2026-03-31",
+      "category": "AI 综合",
+      "summary": "2026年3月31日，“十五五”规划专用量子计算机赛道唯一代表企业——北京玻色量子科技有限公司（以下简称“玻色量子”）完成10亿元B轮融资 | 本轮融资由北京金控、工银资本、朝阳顺禧、招银国际、深投控和毅达资本联合领投，图灵资管、鼎兴...",
+      "importance_score": 9
+    },
+    {
+      "title": "阿里云CIO与40家企业对话数月，打捞出鲜少公开的AI落地真相",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/jUUq67MUlQYq0146lADD",
+      "publish_time": "2026-03-27",
+      "category": "AI 技术",
+      "summary": "AI 个人工具每天都在创造奇迹，企业 AI 落地却像陷入泥潭 | 阿里云 CIO 与十大行业 40 余家头部企业 CXO 深度碰撞数月，打捞出十个鲜少被公开讨论的真实之问 | 这不是一份标准答案，是企业“向内看”的一面镜子",
+      "importance_score": 8
+    },
+    {
+      "title": "DeepSeek崩溃近12小时后恢复正常，创单次服务中断最长纪录",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14182244.html",
+      "publish_time": "2026-03-31",
+      "category": "AI 产业",
+      "summary": "DeepSeek崩溃近12小时后恢复正常，创单次服务中断最长纪录 在过去的15个月内，DeepSeek已发生至少7次较为显著的服务中断 | 3月29日夜间至30日上午，AI大模型服务商DeepSeek突发大规模服务中断，其网页端、手机App",
+      "importance_score": 8
+    },
+    {
+      "title": "机器人线下真机对线打PK！这届黑客松可太会玩了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/393887.html",
+      "publish_time": "2026-03-31",
+      "category": "AI 综合",
+      "summary": "机器人Demo大家都见过，但具身智能真机同台PK、当场对线，谁看了不得瞪大眼 | jpg） 这场超燃的具身模型真机对决比赛，就发生在这两天在深圳举办的全球首届具身智能开发者大会（EAIDC 2026）——暨「具亮计划」黑客松·大湾区巅峰赛现",
+      "importance_score": 9
+    },
+    {
+      "title": "别再让AI只干零活了！AI工具正在接管投放全链路",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/393471.html",
+      "publish_time": "2026-03-31",
+      "category": "AI 综合",
+      "summary": "克雷西 发自 凹非寺量子位 | 公众号 QbitAI 艾瑞咨询报告显示，去年中国AI营销市场规模达669亿元，年复合增长率26 | 这个增速背后，是整个行业链条——从内容生产到投放决策——的集中押注",
+      "importance_score": 9
+    },
+    {
+      "title": "Meta华人实习生搞出超级智能体！自己写代码实现自我进化",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/393645.html",
+      "publish_time": "2026-03-31",
+      "category": "AI 综合",
+      "summary": "更关键的是，它可以不断优化“改进自身”的底层逻辑，实现“元学习（Meta-learning）” 这，便是论文定义的新一代超级智能体——Hyperagents | 论文更进一步提出：未来AI有望通过持续自我迭代，最终突破人类预设的初始算...",
+      "importance_score": 9
+    },
+    {
+      "title": "智能体收入暴增68%！这家港股AI公司靠「关系」驯服企业龙虾",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/393984.html",
+      "publish_time": "2026-03-31",
+      "category": "AI 综合",
+      "summary": "港股超额认购5065倍的AI公司，交出了上市后的首份答卷",
+      "importance_score": 9
+    },
+    {
+      "title": "瑞声科技公开人形机器人感知解决方案，释放机器人业务加速落地信号",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/393883.html",
+      "publish_time": "2026-03-31",
+      "category": "AI 综合",
+      "summary": "机器人产业链的竞争，正在从单点技术能力转向系统能力、工程能力和交付能力的综合比拼 3月27日，第二届焉知机器人大会在上海举行 | 会上，瑞声科技发言代表以《听见未来，感知世界》为题发表演讲，围绕环境噪声干扰、机器人头部形态差异带来的拾音挑战",
+      "importance_score": 9
+    },
+    {
+      "title": "2700GB高质量数据，训出空间智能SOTA，背后秘诀全栈开源",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/393864.html",
+      "publish_time": "2026-03-31",
+      "category": "AI 综合",
+      "summary": "因为就在刚刚，具身智能的基建玩家出手，对症下药，推出了一个开源数据基座 | 基于这个基座训练的模型，都已经实现SOTA了",
+      "importance_score": 9
+    },
+    {
+      "title": "整个公司一起吃虾！这个开源项目，让OpenClaw实现企业级部署",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/393382.html",
+      "publish_time": "2026-03-30",
+      "category": "AI 综合",
+      "summary": "刚好在GitHub上，出现了一个名为ClawManager的开源项目，专门为这个空白而来",
+      "importance_score": 9
+    }
+  ]
+}

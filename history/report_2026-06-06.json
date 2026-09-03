@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-06",
+  "update_time": "2026-06-06T02:40:08.573617",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "戴盟机器人完成亿元融资，阿里通义多模态大牛加盟攻关物理世界模型",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/428778.html",
+      "publish_time": "2026-06-04",
+      "category": "AI 综合",
+      "summary": "量子位获悉，具身智能公司戴盟机器人（Daimon Robotics）新近完成亿元A轮融资，本轮融资由汇川产投和中国电信联合投资 | 这笔融资值得留意，不单是具身智能又拿到了投资 | 戴盟方面表明，本轮融资到账后主要会投向三件事",
+      "importance_score": 9
+    },
+    {
+      "title": "阿里AAIG实验室AI红队负责人宋奇钊(胖錿)确认出席AICon上海站，分享REAL 智能体统一风险矩阵与自动化红队实践",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/VrBbVKeqPHjOi2rdH4Hc",
+      "publish_time": "2026-06-05",
+      "category": "AI 技术",
+      "summary": "过去一年，“Agent”这个词从实验室走进了生产环境 | 工程师们开始真正面对一个新的问题：不是“AI 能不能做到”，而是“我们能不能把它跑稳、跑对、跑出规模”",
+      "importance_score": 8
+    },
+    {
+      "title": "华为云发布Agentic AI系列新品 打造智能时代“硅基黑土地”",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/431027.html",
+      "publish_time": "2026-06-05",
+      "category": "AI 综合",
+      "summary": "大会还宣布正式上线“行业AI梦工厂”智慧医疗、具身智能、智能制造、科学计算四大专区，坚持用AI解行业难题，加速发展行业数智化生态 | Ÿ CCE Volcano Next通智一体化调度引擎通过“训推共池+碎片整合”实现通智混合算力负载...",
+      "importance_score": 9
+    },
+    {
+      "title": "国星宇航与腾讯云签署“星算”计划战略合作协议，携手领航AI云服务新生态",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/430757.html",
+      "publish_time": "2026-06-05",
+      "category": "AI 综合",
+      "summary": "2026年6月5日，成都国星宇航科技股份有限公司（以下简称“国星宇航”）与腾讯云计算（北京）有限责任公司（以下简称“腾讯云”）正式签署“星算”计划战略合作协议 | 双方将秉持“优势互补、协同发展、互利共赢”的原则，聚焦“星算”AI云服务领域",
+      "importance_score": 9
+    },
+    {
+      "title": "刚刚，Meta Skill来了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/428335.html",
+      "publish_time": "2026-06-03",
+      "category": "AI 综合",
+      "summary": "他们刚发布了个新功能，叫Meta Skill",
+      "importance_score": 9
+    },
+    {
+      "title": "刚刚，Anthropic提交了招股书！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/428407.html",
+      "publish_time": "2026-06-03",
+      "category": "AI 综合",
+      "summary": "保密S-1草案——也就是IPO招股说明书的前身",
+      "importance_score": 9
+    },
+    {
+      "title": "有人靠CPU把AI算力密度卷到了新高度",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/431045.html",
+      "publish_time": "2026-06-05",
+      "category": "AI 综合",
+      "summary": "Agentic AI的算力焦虑，英特尔给来了一剂「猛药」 中国IDC产业完成了从“互联网底座”到“数字引擎”的华丽蜕变",
+      "importance_score": 9
+    },
+    {
+      "title": "WPS笔记正式发布：AI贯穿记录、整理与复用全过程",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/431014.html",
+      "publish_time": "2026-06-05",
+      "category": "AI 综合",
+      "summary": "6月5日，金山办公正式发布AI笔记产品——WPS笔记 | 作为一款面向个人知识管理场景的AI原生多模态笔记产品，WPS笔记支持语音、图片、文字、网页等多种信息录入方式，并将 AI 能力贯穿从记录到复用的全过程，让笔记实现「随心记录，轻...",
+      "importance_score": 9
+    },
+    {
+      "title": "扣子3.0实测：手机就能远程遥控你电脑里的Agent",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/428648.html",
+      "publish_time": "2026-06-04",
+      "category": "AI 综合",
+      "summary": "即便Prompt如此之简单，但《我的世界》界面、操作和交互，都在短短几分钟之内被扣子实现了出来",
+      "importance_score": 9
+    },
+    {
+      "title": "CVPR 2026，英伟达特斯拉Waymo一块听中国公司讲物理AI",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/429130.html",
+      "publish_time": "2026-06-04",
+      "category": "AI 综合",
+      "summary": "自动驾驶公司在讲、车企在讲、大模型玩家在讲、投资人在讲…… 概念成为共识，真正的分水岭才开始浮现：率先拿出完整技术栈、论文、代码，以及已经在路上跑着、在量产实车上验证的，到底是谁 | 在今年的CVPR首次开设的“具身智能基座模型部署研讨会”",
+      "importance_score": 9
+    }
+  ]
+}

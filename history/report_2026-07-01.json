@@ -1,0 +1,97 @@
+{
+  "date": "2026-07-01",
+  "update_time": "2026-07-01T02:54:57.455915",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "Agent之间，有互联网了！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/440199.html",
+      "publish_time": "2026-06-30",
+      "category": "AI 综合",
+      "summary": "而这也正是明略科技这次开源发布Octo的切入点",
+      "importance_score": 9
+    },
+    {
+      "title": "创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/GYBZkeGxGry11oCu0c1A",
+      "publish_time": "2026-06-18",
+      "category": "AI 技术",
+      "summary": "去年刚成立的光象科技，近日发布了首个工业级自进化具身智能机器人 Phi-Bot X1",
+      "importance_score": 8
+    },
+    {
+      "title": "“最像人”的机器人来了，顶配售价99万",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14676084.html",
+      "publish_time": "2026-07-01",
+      "category": "AI 产业",
+      "summary": "目前U1系列机器人线上线下累计订单突破1万台 | 6月30日，优必选发布了全尺寸超仿生人形机器人“优世界U1”系列，首发线上线下订单累计突破13361台 | 优必选创始人、董事会主席兼CEO周剑在发布会上宣布，自6月2日开启预售后，U...",
+      "importance_score": 8
+    },
+    {
+      "title": "百亿估值只是起点，跨维智能的物理AGI之路",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/440949.html",
+      "publish_time": "2026-06-30",
+      "category": "AI 综合",
+      "summary": "近日，物理AI与具身智能头部企业跨维智能官宣完成B轮融资，融资金额 10 亿元人民币，投后估值超百亿，成为百亿估值具身智能独角兽企业，很快要IPO了 | 本次融资投资方阵容实力雄厚，国家级母基金、头部国资创投、实体龙头产业资本、地方科...",
+      "importance_score": 9
+    },
+    {
+      "title": "A社你解释下，啥叫Sonnet 5比Fable 5还贵？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/441001.html",
+      "publish_time": "2026-07-01",
+      "category": "AI 综合",
+      "summary": "但这次不是旗舰，Anthropic推出了新版性价比模型Sonnet 5 | 6比一字不差，从发布会的口径上看，能力涨了，价格没涨",
+      "importance_score": 9
+    },
+    {
+      "title": "顶刊生物实验难复现？统一操作话术来了！编译通过率98.6%",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/440630.html",
+      "publish_time": "2026-06-30",
+      "category": "AI 综合",
+      "summary": "AI进入生物制造，真正缺的不是更聪明的大脑，而是连接数字与物理世界的接口 | 田晏林 发自 凹非寺量子位 | 公众号 QbitAI 现在的AI，确实越来越像一个「全能研究员」 | 它甚至开始参与科学研究：阅读论文、提出假设、分析实验数据，甚",
+      "importance_score": 9
+    },
+    {
+      "title": "GLM-5.3你来定！智谱唐杰全球征集意见，评论区清一色：视觉",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/440478.html",
+      "publish_time": "2026-06-30",
+      "category": "AI 综合",
+      "summary": "彼时唐杰也问过这么一回，评论区纷纷热情支招，一条条需求后来陆陆续续都在GLM后续版本中有所实现",
+      "importance_score": 9
+    },
+    {
+      "title": "港股新贵押注物理AI，乐动机器人打造万亿市场空间的核心基础设施",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/440818.html",
+      "publish_time": "2026-06-30",
+      "category": "AI 综合",
+      "summary": "谁能把这个空间高质量地数字化，谁就掌握了下一阶段机器智能的入口 | 田晏林 发自 凹非寺量子位 | 公众号 QbitAI 物理AI发展到现在，所有玩家都奔着同一个方向使劲： 这不仅是具身智能玩家拉开身位的关键，也决定了机器人未来能否进入真实",
+      "importance_score": 9
+    },
+    {
+      "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/438690.html",
+      "publish_time": "2026-06-26",
+      "category": "AI 综合",
+      "summary": "苹果电脑iPad等多款产品一夕之间大涨价，悬着的心终于死了 | Mac价格上涨约15%-20%，iPad涨幅约15%-25% | 昨天还在犹豫要不要买MacBook Air/iPad Air，今天打开官网，发现同一款机型的统一配置，突然贵了",
+      "importance_score": 9
+    },
+    {
+      "title": "Claude Code之父版「职场MBTI」：AI洗牌后只剩5类人，你选哪种？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/440599.html",
+      "publish_time": "2026-06-30",
+      "category": "AI 综合",
+      "summary": "研发、产品、设计、数据科学家都会消失，未来是属于这5种职业的 | Claude Code之父，Boris Cherny的最新暴论，刷屏硅谷 | 直接把所有传统职能扔进了垃圾桶，提出了一套AI时代「职场MBTI」—— 崩溃了，继Claude ",
+      "importance_score": 9
+    }
+  ]
+}

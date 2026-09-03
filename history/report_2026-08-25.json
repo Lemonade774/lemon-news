@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-25",
+  "update_time": "2026-08-25T00:56:37.354728",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "单芯片到万卡集群体系化突破 中诚华隆HL200推理芯片及超节点集群重磅发布",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478469.html",
+      "publish_time": "2026-08-24",
+      "category": "AI 综合",
+      "summary": "面向万亿参数大模型商业化落地刚需，中诚华隆延续“一年一芯”迭代节奏，基于前代芯片技术积淀全面升级，推出二代HL200推理芯片，精准适配生成式AI与AI Agent高并发推理场景",
+      "importance_score": 10
+    },
+    {
+      "title": "DeepSeek 再度调价；英伟达AI服务器涨价超 15%；“AI红娘”承诺三年不结婚就退款，前 Kimi搜索负责人创业目标：拉高10%结婚率 | AI周报",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/ONGSA7k86LcxFyU64N2z",
+      "publish_time": "2026-08-24",
+      "category": "AI 技术",
+      "summary": "DeepSeek API 价格再调；GPT-5 | 6 Sol 模型价格下调， Codex 额度问题引争议；英伟达 AI 服务器涨价超 15%；宇树上市开盘涨超 6 倍后大跌 19%，有中签者说幸亏全卖了；“AI 红娘”承诺三年不结婚就退款",
+      "importance_score": 8
+    },
+    {
+      "title": "小米正在加速把自研芯片扩展为覆盖手机、AI计算和智能驾驶的完整算力体系。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14976672.html",
+      "publish_time": "2026-08-25",
+      "category": "AI 产业",
+      "summary": "小米正在加速把自研芯片扩展为覆盖手机、AI计算和智能驾驶的完整算力体系 | 8月24日，小米举行玄戒芯片技术沟通会，集中披露玄戒O3旗舰SoC、玄戒O100 AI加速芯片以及玄戒D100智驾芯片的技术规格和终端规划 | 这三款芯片分别对应消",
+      "importance_score": 8
+    },
+    {
+      "title": "阿里达摩院推出肝癌AI模型，精准识别1厘米微小肿瘤",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478473.html",
+      "publish_time": "2026-08-24",
+      "category": "AI 综合",
+      "summary": "8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON 8月24日消息，阿里巴巴达摩院联合中国医科大学附属盛京医院等机构研发出肝癌诊断AI模型DAMO LiON，可通过CT影像识别微小的肝脏",
+      "importance_score": 9
+    },
+    {
+      "title": "ResNet作者任少卿机器人创业！公司注册就独角兽了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478675.html",
+      "publish_time": "2026-08-25",
+      "category": "AI 综合",
+      "summary": "消息还称，任少卿新公司已经完成注册，估值达到独角兽级别（超10亿美元量级），但公司名称、具体融资细节仍在水下",
+      "importance_score": 9
+    },
+    {
+      "title": "00后清华博士生创业“神经接口”：把人类肌肉反应炼成Token",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/477094.html",
+      "publish_time": "2026-08-22",
+      "category": "AI 综合",
+      "summary": "正式介绍之前我们来做个小互动：抛开AI、不查资料，5秒内能说出现有的具身数据采集方式有哪些 | 真机遥操作采集、无本体便携采集（UMI/Ego）、仿真合成数据、互联网视频蒸馏是最主流的四种方式",
+      "importance_score": 9
+    },
+    {
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/468398.html",
+      "publish_time": "2026-08-08",
+      "category": "AI 综合",
+      "summary": "眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权",
+      "importance_score": 9
+    },
+    {
+      "title": "WRC唯一真「人机共生」展台，是家沉浸式机器人咖啡店",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478319.html",
+      "publish_time": "2026-08-23",
+      "category": "AI 综合",
+      "summary": "WRC百个机器人展台，大多数在展示“我能做这个动作”，而它展示的是“我能在这样一个真实环境里持续工作，不出意外”",
+      "importance_score": 9
+    },
+    {
+      "title": "全球首次！机器人迎战网球运动员，极限救球，摔倒光速弹起",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478093.html",
+      "publish_time": "2026-08-23",
+      "category": "AI 综合",
+      "summary": "2016年，AlphaGo战胜李世石，让人工智能第一次以一种近乎震撼的方式走进公众视野 | 这场被载入AI发展史的人机大战，不仅证明了机器能够在复杂博弈中挑战人类顶尖水平，更成为人工智能迈向新阶段的一个标志性时刻 | 十年之后，2026年，",
+      "importance_score": 9
+    },
+    {
+      "title": "一篇论文改写AI科研评价规则！中国公司拿出实践数据，双榜第一",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/478568.html",
+      "publish_time": "2026-08-24",
+      "category": "AI 综合",
+      "summary": "一旦AI能够实现自主闭环科研，AI就能从“卖软件”升级为新材料、新药物等万亿实体产业的生产力基座",
+      "importance_score": 9
+    }
+  ]
+}

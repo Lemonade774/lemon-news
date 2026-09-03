@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-09",
+  "update_time": "2026-06-09T02:39:04.519413",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "腾讯想让企业打开AI的方式只剩一个",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/432631.html",
+      "publish_time": "2026-06-09",
+      "category": "AI 综合",
+      "summary": "在这个企业Agent走向生产环境的残酷拐点上，腾讯选择不卖“散装AI全家桶”，而是直接砸下了全栈深度协同的战略底牌—— 正式发布WorkBuddy企业版，第一次完整定义了「企业AI办公统一入口」",
+      "importance_score": 9
+    },
+    {
+      "title": "云知声U2，重新计算通用大模型的商业价值",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/dXrSfgKc1E2Ck60IGYhT",
+      "publish_time": "2026-06-08",
+      "category": "AI 技术",
+      "summary": "它所面对的，并非标准、安静、线性的输入环境，而是一个极度复杂的真实场景：多组医患同时交谈，患者话没说完，家属已在插话补充；医生一边问诊，一边快速敲击键盘；方言、噪声、寒暄与关键病症信息混杂在一起 | 过去，这类场景面临的挑战通常被归为“语音",
+      "importance_score": 8
+    },
+    {
+      "title": "AI应用成为WWDC近三年最重要主题。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14554479.html",
+      "publish_time": "2026-06-09",
+      "category": "AI 产业",
+      "summary": "两年前，苹果高调推出Apple Intelligence（苹果智能），试图在生成式AI浪潮中重新定义个人智能助手",
+      "importance_score": 8
+    },
+    {
+      "title": "马斯克是SpaceX面子，她才是里子",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/431371.html",
+      "publish_time": "2026-06-06",
+      "category": "AI 综合",
+      "summary": "还有一周，6月12日，SpaceX正式启动世纪IPO，最新招股书一锤定音：每股定价135美元 | 好家伙，不算不知道，「造火箭的」正在批量「造巨富」—— 届时除了马斯克问鼎人类史上首位万亿富翁，连带着他那一水儿的高管都要集体身价暴涨 | 照",
+      "importance_score": 9
+    },
+    {
+      "title": "马斯克SpaceX路演PPT：60页，值1.77万亿美元",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/432084.html",
+      "publish_time": "2026-06-08",
+      "category": "AI 综合",
+      "summary": "马斯克一通折腾xAI和SpaceX合并，背后野心，现在明晃晃写在最新IPO路演PPT里了 | SpaceX不再把自己讲成一家火箭公司，而是横跨太空、通信、AI算力的“未来基础设施公司” | 60页PPT，把SpaceX、xAI、X、Tera",
+      "importance_score": 9
+    },
+    {
+      "title": "AI创业者集结！“2026新一代人工智能（深圳）创业创新大赛”正式启动",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/432581.html",
+      "publish_time": "2026-06-08",
+      "category": "AI 综合",
+      "summary": "多支参赛团队在赛后获得融资、客户增长与产业合作，成长为细分领域的重要力量 | 经过多年沉淀，大赛已成为AI创业者展示技术实力、链接资本资源、对接产业场景的首选平台之一 | 2026年，大赛将继续集结一线投资机构、高校科研机构、产业平台...",
+      "importance_score": 9
+    },
+    {
+      "title": "港股鞋王千百度，一夜完成AI数据公司转型",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/431056.html",
+      "publish_time": "2026-06-06",
+      "category": "AI 综合",
+      "summary": "一家港股鞋履公司，买下了一家给大模型“喂数据”的公司 | HK）6月5日宣布，将通过收购股权并认购新股，取得国内领先AI数据服务商本原智数的控股权益，并纳入合并报表，形成「鞋履+人工智能数据」双主业",
+      "importance_score": 9
+    },
+    {
+      "title": "5分钟AI长视频不翻车！国产开源框架杀到全球第一梯队",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/431401.html",
+      "publish_time": "2026-06-07",
+      "category": "AI 综合",
+      "summary": "在长视频生成集体卡壳的当下，刚刚，有团队给出了一套新解法—— 开源长音视频生成框架JoyAI-Echo，并杀入全球长视频生成领域全球「第一梯队」",
+      "importance_score": 9
+    },
+    {
+      "title": "难上热搜的高考数学，我拿ChatGPT和豆包PK了一把！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/432425.html",
+      "publish_time": "2026-06-08",
+      "category": "AI 综合",
+      "summary": "从考场出来后，很多考生的第一反应不是有几道题不会，而是怎么每一道都这么能算 | 于是乎，计算量大、题型新、区分度高，成了这张卷子被讨论最多的几个关键词 | 更有意思的是，另一个问题也被顺手推上了台面： 我们平时会看到有些网友吐槽，AI在计算",
+      "importance_score": 9
+    },
+    {
+      "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/432587.html",
+      "publish_time": "2026-06-08",
+      "category": "AI 综合",
+      "summary": "在大会上，支付宝宣布上线全球首个面向个人用户的AI钱包，完成AI支付能力的全域布局，构建起覆盖授权、支付、结算、安全与信任的全栈AI原生支付基础设施 | 解决AI智能体交易的支付难题 实现“一次构建，全球运营” 随着越来越多的人在日常...",
+      "importance_score": 9
+    }
+  ]
+}

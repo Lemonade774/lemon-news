@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-19",
+  "update_time": "2026-05-19T02:45:21.393119",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "华为“养”出半个具身智能创业圈",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/419414.html",
+      "publish_time": "2026-05-18",
+      "category": "AI 综合",
+      "summary": "前些日子，中国具身智能领域最大单轮融资纪录4 | 今年3月，华为云具身智能1号员工周顺波离职创业，新公司欧拉万象成立仅1个月，就拿到高瓴创投、五源资本数千万元种子轮融资，成为赛道里起势最快的新玩家之一",
+      "importance_score": 9
+    },
+    {
+      "title": "“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj",
+      "publish_time": "2026-05-15",
+      "category": "AI 技术",
+      "summary": "现在的 OPC 们都不怎么聊“大模型”、“参数”、“BenchMark”这些东西了，反而更关心的是谁能最快把 AI 塞进真实场景里，然后把闭环跑通 | 以上，是我们的极客部落在望京极客部落 OPC 路演现场，看完 16 个项目后最明显的感受",
+      "importance_score": 8
+    },
+    {
+      "title": "openJiuwen社区开源新招：重磅发布JiuwenSwarm，拉开群体智能“养蜂”序幕",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/419515.html",
+      "publish_time": "2026-05-18",
+      "category": "AI 综合",
+      "summary": "刚刚，华为支持的开源AI Agent平台社区openJiuwen发布并开源了蜂群智能体JiuwenSwarm",
+      "importance_score": 10
+    },
+    {
+      "title": "LeCun炮轰Hinton：他认可LLM就是想摆烂退休了！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/419272.html",
+      "publish_time": "2026-05-18",
+      "category": "AI 综合",
+      "summary": "结果2023年GPT-4出来，他突然跟顿悟了一样： “天哪，这些模型已经非常接近人类智能了，它们可能有主观体验……” 我感觉他就是想摆烂：“好了，这就是我们需要的，我可以宣布胜利了",
+      "importance_score": 9
+    },
+    {
+      "title": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/419528.html",
+      "publish_time": "2026-05-18",
+      "category": "AI 综合",
+      "summary": "后续投稿须先通过同行评审，才有资格重新踏入arXiv | 这是arXiv计算机科学版块主席Thomas Dietterich在X上刚刚公开的新规，语气干脆，不带商量 | 若论文中存在作者未核查LLM生成内容的确凿证据，所有署名作者一并受罚，",
+      "importance_score": 9
+    },
+    {
+      "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/419585.html",
+      "publish_time": "2026-05-18",
+      "category": "AI 综合",
+      "summary": "预计全球合作伙伴将陆续推出超过70款基于该平台的创新设计",
+      "importance_score": 9
+    },
+    {
+      "title": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/419597.html",
+      "publish_time": "2026-05-19",
+      "category": "AI 综合",
+      "summary": "全球27座城市，都能见到萝卜快跑的身影；部分国内核心城市，也已实现单车盈亏平衡",
+      "importance_score": 9
+    },
+    {
+      "title": "国产GPU组了个开源局，把SGLang等核心开发者都摇来了！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417791.html",
+      "publish_time": "2026-05-14",
+      "category": "AI 综合",
+      "summary": "没有大厂高管站台，一屋子却挤满了开源圈的熟面孔 | 随便往台下扫一眼，就能对上好几个GitHub上的明星ID： 这场看似是开源圈极客们的面基会，却着实是有点反差在身上的—— 活动的攒局者，是国产GPU玩家，摩尔线程 | 但这场SGLa...",
+      "importance_score": 9
+    },
+    {
+      "title": "龙虾之父月烧940万元的token！要不是入职OpenAI还真用不起",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/418822.html",
+      "publish_time": "2026-05-17",
+      "category": "AI 综合",
+      "summary": "龙虾之父Peter Steinberger，今天在上晒出了一张自己的CodexBar后台截图 | Bro，你最好拿出点儿价值百万美元的工程师都做不到的东西，不然这可能就是前沿实验室泡沫破裂的开端了 | 如果是其他人按实际成本调用这老些tok",
+      "importance_score": 9
+    },
+    {
+      "title": "上交x创智x瑞金联合发布CX-Mind：胸片诊断进入“可验证推理”时代",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/419396.html",
+      "publish_time": "2026-05-18",
+      "category": "AI 综合",
+      "summary": "上海交通大学、上海创智学院与瑞金医院联合发布的CX-Mind，是目前首个将胸片诊断推进为「可验证推理链」的多模态大模型—— 从看到异常，到解释为什么、排除了什么、结论怎么来的，每一步都有影像证据支撑",
+      "importance_score": 9
+    }
+  ]
+}

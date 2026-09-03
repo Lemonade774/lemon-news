@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-07",
+  "update_time": "2026-05-07T02:27:36.780303",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "陶哲轩在线安利Claude Code：审稿意见全给它，15分钟欧了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/413265.html",
+      "publish_time": "2026-05-06",
+      "category": "AI 综合",
+      "summary": "科研人论文投稿的痛，被陶哲轩用Claude Code一招解决 | 这事还得从几周前陶哲轩合作提交的一篇论文说起，谁能想到，即使是业界大神，也会被审稿人反复“折磨”…… 他把审稿报告反手喂给了Claude Code，结果15分钟全搞定，甚至还",
+      "importance_score": 9
+    },
+    {
+      "title": "京东 xLLM 的投机推理架构设计｜AICon上海",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/wAml9HDVF8HuaQEhFesM",
+      "publish_time": "2026-05-07",
+      "category": "AI 技术",
+      "summary": "本次演讲将聚焦于 xLLM 的投机推理架构设计，从一个核心问题出发：如何让大模型推理在保证生成质量的前提下，实现数量级的效率提升",
+      "importance_score": 8
+    },
+    {
+      "title": "马斯克22万张GPU全卖给Claude用：5小时限额翻倍，双方合作建太空算力",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/413569.html",
+      "publish_time": "2026-05-07",
+      "category": "AI 综合",
+      "summary": "Claude用户（仅限付费用户）一觉醒来，发现限额翻倍，速度还变快了 梦晨 发自 凹非寺量子位 | 公众号 QbitAI 活久见 | 马斯克和Anthropic联手了，签署算力合作协议大单 | 马斯克旗下的Colossus 1超算集群全部给",
+      "importance_score": 9
+    },
+    {
+      "title": "AI PPT，这次是真不用返工了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/413296.html",
+      "publish_time": "2026-05-06",
+      "category": "AI 综合",
+      "summary": "过去一两年，AI做PPT这事儿一直处在一个比较尴尬的位置 | 虽然速度是比手搓快，但细看全是“幻觉数据”和“拼凑式模板”，后续改起来比从头做还累 | 所以圈内有个心照不宣的判断：AI PPT不说是个伪需求，但至少是被高估的需求",
+      "importance_score": 9
+    },
+    {
+      "title": "不好！1930年的AI都来抢程序员饭碗了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/412896.html",
+      "publish_time": "2026-05-03",
+      "category": "AI 综合",
+      "summary": "劳动节，马上100岁的vintage大模型也得劳动 | 是的，有人给只有1930年知识的大模型，微调成软件工程师了…… 过程比想象中轻松，仅用250个训练样本，强悍的老头便解决了自己人生中的第一个编程问题—— 一个连电视机都没见过的AI，现",
+      "importance_score": 9
+    },
+    {
+      "title": "首日10w+！跨维智能赋能合作伙伴，商业服务小站“五一”多城齐开",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/413164.html",
+      "publish_time": "2026-05-06",
+      "category": "AI 综合",
+      "summary": "这标志着跨维智能以“生成式具身智能大脑”赋能商业零售与文旅消费场景迈入新阶段——通过助力运营商伙伴实现智慧化经营，用真实订单与规模化落地验证了具身智能技术的可用性、可靠性与极高的商业赋能价值 | 在跨维智能具身智能大脑和通用算法的技术...",
+      "importance_score": 9
+    },
+    {
+      "title": "“DeepSeek版Claude Code”，Github 2.3k星",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/412914.html",
+      "publish_time": "2026-05-04",
+      "category": "AI 综合",
+      "summary": "它在今年1月由美国独立开发者Hunter Bown发起，用Rust语言编写，MIT协议开源，但一直不温不火，直到DeepSeek-V4的发布和Hunter的中文宣传，这个项目在这个五一假期开始爆火",
+      "importance_score": 9
+    },
+    {
+      "title": "香蕉和GPT Image之外的第3条路：华人15人团队造出AI生图黑马",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/413264.html",
+      "publish_time": "2026-05-06",
+      "category": "AI 综合",
+      "summary": "ai发布的图像生成榜单，完成了最新一轮的“大洗牌”—— Luma凭UNI-1",
+      "importance_score": 9
+    },
+    {
+      "title": "AI“翻译”养殖经验智慧养猪提质增效  ——讯飞和光科技用大模型为传统产业升级注入新动能",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/413154.html",
+      "publish_time": "2026-05-06",
+      "category": "AI 综合",
+      "summary": "人工智能正加速走进田间地头、养殖场舍，以数字技术改造传统产业 | 在吉林长岭中粮家佳康百万头生猪养殖基地，讯飞和光科技依托大模型与多模态感知技术，将一线养殖人员的实践经验转化为智能算法，用AI破解规模化养殖痛点，实现降本、提质、增效，为我国",
+      "importance_score": 9
+    },
+    {
+      "title": "国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/406020.html",
+      "publish_time": "2026-04-23",
+      "category": "AI 综合",
+      "summary": "因为一家纯推理GPU公司，在分拆独立仅1年多时间里，竟已经完成了七轮融资，累计40亿元 | 而随着前几天最新一轮融资的曝光，还以10亿元拿下今年这个赛道里最大单笔融资，一举成为国内首家估值超百亿的纯推理GPU独角兽 | 今年英伟达GT...",
+      "importance_score": 9
+    }
+  ]
+}

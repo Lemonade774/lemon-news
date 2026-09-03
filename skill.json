@@ -1,0 +1,17 @@
+{
+  "name": "lemon-news",
+  "version": "1.0.0",
+  "description": "Lemon News：AI × 金融每日情报站",
+  "main": "skill.py",
+  "config": {
+    "sources": [
+      {"name": "量子位", "url": "https://www.qbitai.com", "category": "AI 产业", "selector": "a[href*='/2026/'], a[href*='/2025/']"},
+      {"name": "InfoQ", "url": "https://www.infoq.cn/topic/AI", "category": "AI 技术", "selector": "h2 a, h3 a, a[href*='/article/']"},
+      {"name": "界面新闻", "url": "https://www.jiemian.com/lists/53.html", "category": "AI 产业", "selector": "h2 a, h3 a, .article-title a"},
+      {"name": "虎嗅网", "url": "https://www.huxiu.com", "category": "科技商业", "selector": "h2 a, h3 a, .article-title a"}
+    ],
+    "keywords": ["人工智能", "大模型", "LLM", "生成式 AI", "AIGC", "机器学习", "深度学习", "自然语言处理", "计算机视觉", "AGI", "GPT", "Claude", "Gemini", "Agent", "智能体", "机器人", "算力"],
+    "output": {"daily_limit": 10, "min_importance_score": 5, "include_source_link": true, "include_publish_time": true}
+  },
+  "triggers": ["AI 日报", "新闻抓取", "AI 资讯", "技术简报", "daily report", "AI news"]
+}

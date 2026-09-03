@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-25",
+  "update_time": "2026-06-25T02:45:18.342059",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "AI转型最大的门槛，不是技术，是人",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/436435.html",
+      "publish_time": "2026-06-17",
+      "category": "AI 综合",
+      "summary": "这是浪潮信息董事长彭震，在人工智能+生态大会（AIEC2026）上抛出的判断 | 这场大会由清华大学全球产业研究院主办，聚集了数十家机构，主题就是探索AI走向产业实践的方法路径 | 值得注意的是，基础设施、算力、芯片，这些浪潮信息最擅长的领",
+      "importance_score": 9
+    },
+    {
+      "title": "创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/GYBZkeGxGry11oCu0c1A",
+      "publish_time": "2026-06-18",
+      "category": "AI 技术",
+      "summary": "去年刚成立的光象科技，近日发布了首个工业级自进化具身智能机器人 Phi-Bot X1",
+      "importance_score": 8
+    },
+    {
+      "title": "商业头条No.130｜AI短剧，谁是主角？",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14637378.html",
+      "publish_time": "2026-06-25",
+      "category": "AI 产业",
+      "summary": "6月的第一个周末，《天机入梦》在红果短剧正式上线",
+      "importance_score": 8
+    },
+    {
+      "title": "世界模型混战，Momenta率先冲刺IPO",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/438179.html",
+      "publish_time": "2026-06-25",
+      "category": "AI 综合",
+      "summary": "没想到如此之快，也没想到这“物理AI第一股”，不是出尽风头的具身智能创业公司，而是—— 之前以自动驾驶知名：智能辅助驾驶市占率No | 1、跨国巨头车企共同的选择、技术商业上有资格和华为“五五开”…… 现在，Momenta在IPO进程中曝光",
+      "importance_score": 9
+    },
+    {
+      "title": "云计算一哥，让小鹏、Kimi和猎豹都爽了一把",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437672.html",
+      "publish_time": "2026-06-23",
+      "category": "AI 综合",
+      "summary": "有这么一组数据，是真真儿地戳到了用Agent这件事的爽点 | 看完这些数字，想必大家脑海里已经是一堆Agent塞满一家公司的画面了，而且是井井有条的那种 | 这家率先尝到Agent“甜蜜点”的公司是谁",
+      "importance_score": 9
+    },
+    {
+      "title": "豆包收费版第一天，我：充值…又得充值？我要再充值！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/438204.html",
+      "publish_time": "2026-06-25",
+      "category": "AI 综合",
+      "summary": "是的，豆包全免费时代终结，现在有了付费模式 | 收费标准共有三档：标准版68元/月、加强版200元/月、高级版500元/月 | 学生还有专属优惠，38元/月，这价格也是美滋滋了",
+      "importance_score": 9
+    },
+    {
+      "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437198.html",
+      "publish_time": "2026-06-21",
+      "category": "AI 综合",
+      "summary": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑” | 量子位不完全统计，2026年上半年（截至6月12日），国内具身智能赛道共融资约438亿元 | 而2025年全年的融资金额约554亿元，2...",
+      "importance_score": 9
+    },
+    {
+      "title": "“AI填志愿”成高考后新现象，超1400万人在和千问聊高考",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/438198.html",
+      "publish_time": "2026-06-24",
+      "category": "AI 综合",
+      "summary": "至6月24日，上海、天津、内蒙古等地已陆续出分，千问数据显示，高考后至今，已有超过1400万用户使用千问AI高考志愿Agent，查大学查专业、咨询志愿填报、规划填报策略等 | 千问数据显示，自6月7日高考开考后至24日高考出分，千问上的高考",
+      "importance_score": 9
+    },
+    {
+      "title": "聚焦GW级Token工厂，解码下一代算力底座｜6月30日，深圳",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/438297.html",
+      "publish_time": "2026-06-25",
+      "category": "AI 综合",
+      "summary": "进入2026年，人工智能产业正迈入新的发展阶段",
+      "importance_score": 9
+    },
+    {
+      "title": "刚刚，豆包2.1发布！Agent自己跑18个小时搞定芯片设计代码",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437503.html",
+      "publish_time": "2026-06-23",
+      "category": "AI 综合",
+      "summary": "1-Turbo，并且API服务已全量上线火山方舟",
+      "importance_score": 9
+    }
+  ]
+}

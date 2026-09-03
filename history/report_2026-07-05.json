@@ -1,0 +1,97 @@
+{
+  "date": "2026-07-05",
+  "update_time": "2026-07-05T02:34:57.916620",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "光象科技累计完成数亿元天使轮融资，布局物理原生基座模型",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442958.html",
+      "publish_time": "2026-07-04",
+      "category": "AI 综合",
+      "summary": "当前，主流技术路线要实现物理交互的通用性，尚需突破根本性局限",
+      "importance_score": 9
+    },
+    {
+      "title": "被 AI 坑惨的福特，召回 350 名老工程师救场",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/TDVdahdBz82MSOry5B8p",
+      "publish_time": "2026-06-29",
+      "category": "AI 技术",
+      "summary": "“我们当时错误地以为，只要引入人工智能，再调整一下已有的设计要求，就能产出高质量产品 | ” 福特硬件工程副总裁 Charles Poon 在公司时隔 16 年重夺 J",
+      "importance_score": 8
+    },
+    {
+      "title": "奕境携手华为乾崑全球实测！央视《超凡一步》见证中国汽车“三大跨越”",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442531.html",
+      "publish_time": "2026-07-03",
+      "category": "AI 综合",
+      "summary": "例如，通过整车高强钢引用，结合合理的车身结构，实现极致的被动安全；对电池软硬结合防碰撞、防剐蹭、防起火，实现充分保护；AMS多模态感知系统，对车内人员主动关怀等 | 这背后，是东风与华为乾崑对产业链合作的新探索：不是简单的采购、包装，...",
+      "importance_score": 9
+    },
+    {
+      "title": "黄仁勋说的Physical AI，被这家中国跨界选手带进了生命科学实验室",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442311.html",
+      "publish_time": "2026-07-03",
+      "category": "AI 综合",
+      "summary": "第三方测评超越OpenAI最强旗舰GPT-5 | 6 Sol 当AI公司还在读论文，Bio公司已经让AI做完了实验 | 没错，又一热门AI赛道，被国产玩家率先跑通了—— 时至今日，这个赛道几乎挤满了最不缺算力的一批硅谷玩家： OpenAI发",
+      "importance_score": 9
+    },
+    {
+      "title": "比亚迪6月销量超40万，年内销量记录再度刷新",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442517.html",
+      "publish_time": "2026-07-03",
+      "category": "AI 综合",
+      "summary": "从轿车到SUV，从插混到纯电，王朝、海洋覆盖了最核心的家庭用车需求，也为比亚迪单月突破40万辆提供了坚实基础",
+      "importance_score": 9
+    },
+    {
+      "title": "比亚迪集中公布多起名誉维权胜诉案件 重拳打击“黑公关”",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442503.html",
+      "publish_time": "2026-07-03",
+      "category": "AI 综合",
+      "summary": "6月26日，比亚迪法务部发布公告，集中披露多起网络名誉维权胜诉案件，公示了一批恶意造谣、抹黑诋毁品牌的自媒体侵权判决，从严惩处恶意诋毁营造健康行业生态，以法律手段重拳打击汽车行业“黑公关”不良风气，守护企业合法权益与品牌口碑 | 随后，比亚",
+      "importance_score": 9
+    },
+    {
+      "title": "全球首个英伟达含量为0的万亿模型，成了海外开发者的抢手货",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442047.html",
+      "publish_time": "2026-07-02",
+      "category": "AI 综合",
+      "summary": "成为首个在国产算力上实现全链路训推闭环的万亿参数模型",
+      "importance_score": 9
+    },
+    {
+      "title": "从LLM到JEPA，中国团队正在把“世界模型”搬进细胞内部",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442746.html",
+      "publish_time": "2026-07-03",
+      "category": "AI 综合",
+      "summary": "最近，AI虚拟细胞（AIVC）赛道，迎来关键突破 | 作为全球最早布局该领域的企业之一，百曜科技正式发布全球首个基于LLM-JEPA架构的AI虚拟细胞世界模型——AURA CellOS",
+      "importance_score": 9
+    },
+    {
+      "title": "AI找出4种全新超导体，只用28个GPU时！人类此前完全未知",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442452.html",
+      "publish_time": "2026-07-03",
+      "category": "AI 综合",
+      "summary": "刚刚，阿里达摩院联合中国人民大学高瓴人工智能学院、中国科学院大学等机构，发布了首个专攻超导材料发现的AI智能体“ElementsClaw”（元素虾）",
+      "importance_score": 9
+    },
+    {
+      "title": "Fable 5回归24小时差评如潮！跑分大降，拒答问题，还偷偷骂用户",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/442567.html",
+      "publish_time": "2026-07-03",
+      "category": "AI 综合",
+      "summary": "Claude Fable 5才刚刚回归，就差点被网友的口水淹死 | A社官方账号发推庆祝回归，开发者Thariq也跟着喊「excited for guys to get access back」 | 网友们开始控诉，“回归版”Fable 5",
+      "importance_score": 9
+    }
+  ]
+}

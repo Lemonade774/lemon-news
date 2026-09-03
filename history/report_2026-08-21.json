@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-21",
+  "update_time": "2026-08-21T00:58:08.686416",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "Claude Code没有“魔法”",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/aVJlp0XApUkyu6CNLOkL",
+      "publish_time": "2026-08-14",
+      "category": "AI 技术",
+      "summary": "过去一年，编程 Agent 的能力大幅提升，软件工程师对它们的要求也比以往任何时候都高，但上下文窗口的大小却基本停滞不前——一年前，一百万个 token 大致就是最先进的水平，如今依然如此 | 随着我们逐渐进入 Agent 日常处理 Mon",
+      "importance_score": 8
+    },
+    {
+      "title": "DeepSeek Harness 怎么入门？这套极简教程用一个项目给你讲清楚",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/1EP0hwuqRzccrWArR7GJ",
+      "publish_time": "2026-08-18",
+      "category": "AI 技术",
+      "summary": "DeepSeek 于上周四发布了 DeepSeek Harness 开发者预览版，并开放了源代码 | InfoQ 对此做了专题报道：DeepSeek 把 Harness 开源了：模型、工具、Agent Loop 全是插件",
+      "importance_score": 8
+    },
+    {
+      "title": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/qaWyth5P4tZE1CQhhaGq",
+      "publish_time": "2026-08-20",
+      "category": "AI 技术",
+      "summary": "就在此前，CME Group 与 AI 算力市场基础设施公司 Silicon Data 已经宣布，计划推出以 NVIDIA H100 和 B200 GPU 租赁价格为基础的期货产品 | GPU → 算力商品 → 价格指数 → 期货合约...",
+      "importance_score": 8
+    },
+    {
+      "title": "AI Infra 正在诞生自己的石油期货？GPU 不够买之后，华尔街开始交易算力",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/qaWyth5P4tZE1CQhhaGq",
+      "publish_time": "2026-08-20",
+      "category": "AI 技术",
+      "summary": "就在此前，CME Group 与 AI 算力市场基础设施公司 Silicon Data 已经宣布，计划推出以 NVIDIA H100 和 B200 GPU 租赁价格为基础的期货产品 | GPU → 算力商品 → 价格指数 → 期货合约...",
+      "importance_score": 8
+    },
+    {
+      "title": "编程能力提高50%！GLM-5.3 满分通过了GPT-5.6给的Coding 测试",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/xWyWwu4ZNptlhpb15tia",
+      "publish_time": "2026-08-17",
+      "category": "AI 技术",
+      "summary": "北京时间 8 月 14 日，GLM-5.3 正式发布。GLM-5.3 围绕 GLM-5.2 已经搭建完成的长程强化学习技术栈持续扩大训练规模，包括增加更多任务环境、提高任务多样性，并投入更多计算资源进行强化学习训练。 当前，GLM-5.3 ",
+      "importance_score": 8
+    },
+    {
+      "title": "你的 Coding Agent 有多大价值，取决于它对你的数据了解多少 | 技术实践",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/CPidTC2YJ7AvlU7jUgiq",
+      "publish_time": "2026-08-20",
+      "category": "AI 技术",
+      "summary": "2026 年，智能体将在企业级应用中取得哪些实质性突破",
+      "importance_score": 8
+    },
+    {
+      "title": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo",
+      "publish_time": "2026-08-20",
+      "category": "AI 技术",
+      "summary": "KCD（Kubernetes Community Days，Kubernetes 社区日）是由社区组织的活动，汇聚开源和云原生领域的采用者和技术人员，旨在促进教育、协作和交流",
+      "importance_score": 8
+    },
+    {
+      "title": "CFP 开放 | KCD 杭州站邀您共议 Agent 时代的云原生、可观测与大模型推理",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/LpNjOA7au7WIhTBmVcJo",
+      "publish_time": "2026-08-20",
+      "category": "AI 技术",
+      "summary": "KCD（Kubernetes Community Days，Kubernetes 社区日）是由社区组织的活动，汇聚开源和云原生领域的采用者和技术人员，旨在促进教育、协作和交流",
+      "importance_score": 8
+    },
+    {
+      "title": "DeepSeek 把 Harness 开源了：模型、工具、Agent Loop 全是插件",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/de9AljWc4ejW2KAyW8dD",
+      "publish_time": "2026-08-14",
+      "category": "AI 技术",
+      "summary": "不过，这次发布已经回答了外界最关心的问题：DeepSeek 会怎样做自己的 Harness",
+      "importance_score": 8
+    },
+    {
+      "title": "将Pod作为worker而非智能体：在Kubernetes上重新思考AI智能体的部署单元",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/u2O9k3QiZkeIbqJ7GsPw",
+      "publish_time": "2026-08-20",
+      "category": "AI 技术",
+      "summary": "随着智能体数量的增长，会出现熟悉的问题，那就是，如何在智能体之间实现隔离、每个智能体如何获得身份标识、如何执行访问与网络策略、如何观察单个智能体在做什么，以及在多租户场景下确定谁拥有智能体 | kagent 随后又通过Kubernet...",
+      "importance_score": 8
+    }
+  ]
+}

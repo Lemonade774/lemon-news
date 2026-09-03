@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-30",
+  "update_time": "2026-04-30T02:30:39.190423",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "腾讯开源手机端离线翻译模型，仅0.4G，支持33种语言",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/411186.html",
+      "publish_time": "2026-04-29",
+      "category": "AI 综合",
+      "summary": "4月29日，腾讯混元推出并开源极致量化压缩版本翻译模型 Hy-MT1",
+      "importance_score": 9
+    },
+    {
+      "title": "DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF",
+      "publish_time": "2026-04-24",
+      "category": "AI 技术",
+      "summary": "DeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界知识和推理性能三大维度上均实现了国内与开源领域的领先 | 秉承 DeepSeek 一贯的开放精神，本次发布的模型按大小分为两个版本，欢迎开发者、研究者和企业用户前...",
+      "importance_score": 9
+    },
+    {
+      "title": "“电力与算力的融合，不是两个产业的简单叠加，而是数字文明新基座的奠基。”",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14230097.html",
+      "publish_time": "2026-04-30",
+      "category": "AI 产业",
+      "summary": "122｜从甘肃庆阳到上海临港：Token出海背后的中国能源革命 “电力与算力的融合，不是两个产业的简单叠加，而是数字文明新基座的奠基 | ” 远隔重洋的一间公寓里，一位设计师想对照片进行AI智能修图，他指尖轻触屏幕，发出的指令顺着光缆穿越大",
+      "importance_score": 8
+    },
+    {
+      "title": "“算电联合体”在闽成立 太初元碁成为首批成员单位之一",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/411184.html",
+      "publish_time": "2026-04-29",
+      "category": "AI 综合",
+      "summary": "据记者获悉，4月28日，在第九届数字中国建设峰会“数据发展理论与实践研究”主题交流活动上，由国家数据发展研究院倡议发起的“算电协同科技与产业融合创新联合体”（以下简称“算电联合体”）举行发布仪式 | “在具体实践中，我们基于自研AI芯...",
+      "importance_score": 9
+    },
+    {
+      "title": "全球瞩目！斑陌易行闪耀硅谷，T6 无人车开启商用新纪元",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/411205.html",
+      "publish_time": "2026-04-29",
+      "category": "AI 综合",
+      "summary": "作为无人配送科技新锐，斑陌易行总裁陈强受邀出席并发表主题演讲，面向全球发布乐高式模块化无人配送平台、SmartVLA 端到端大模型、AI 原生大脑 Brain2 | 0三大核心技术，并重磅展示旗舰产品T6 无人配送机器人，以全栈技术实...",
+      "importance_score": 9
+    },
+    {
+      "title": "刚刚，“云计算一哥”版龙虾发布，奥特曼打着官司也要云站台",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/410772.html",
+      "publish_time": "2026-04-29",
+      "category": "AI 综合",
+      "summary": "云计算一哥，亚马逊云科技的龙虾，刚刚也被端上桌了 | 它就是“活”在你电脑里的那种，直接连接你的本地文件、日历、邮件和各类应用，不需要任何上传文件的动作（需授权） | 但最重要的一点是，Amazon Quick已经做到了打通生态—— 无论你",
+      "importance_score": 9
+    },
+    {
+      "title": "我嘞个豆！中国企业牵头，ICLR这场Workshop被挤爆了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/410463.html",
+      "publish_time": "2026-04-28",
+      "category": "AI 综合",
+      "summary": "瓜多到一度吃不下的ICLR 2026，这几天终于在巴西开线下了 | 没去不要紧，最热闹最好玩的，咱都已经总结好了： 不过当你以为这就完了的时候，一场主会之外的Workshop，才刚刚登场",
+      "importance_score": 9
+    },
+    {
+      "title": "火速吃瓜：Kimi K2.6设计能力超越Claude Design",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/411133.html",
+      "publish_time": "2026-04-29",
+      "category": "AI 综合",
+      "summary": "你跟我说小克专门为设计推出的工具，竟然没打过Kimi最新通用旗舰模型",
+      "importance_score": 9
+    },
+    {
+      "title": "银河通用LDA定义全域数据利用范式，跨本体世界动作大模型开启具身GPT-2时刻",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/410653.html",
+      "publish_time": "2026-04-29",
+      "category": "AI 综合",
+      "summary": "面对行业僵局，具身智能头部企业银河通用创新推出1 | 目前，该工作成果成功登顶今年仅有210篇录用的机器人顶会RSS，项目成果代码已全面开源",
+      "importance_score": 9
+    },
+    {
+      "title": "生数科技认领神秘登顶模型：AI视频公司拿出工业级Demo，跨本体跑通复杂长程任务",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/411336.html",
+      "publish_time": "2026-04-30",
+      "category": "AI 综合",
+      "summary": "区别于传统的专用机器人大脑，这个“大脑”既具备世界模型的预测推演能力，又能输出行动指令，真正做到“知行合一” | 大脑模型名叫MotuBrain，4月中旬悄悄登顶两个国际benchmark，却无人知晓来历，让具身圈大佬们猜了三周 | 没错，",
+      "importance_score": 9
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2026-07-07",
+  "update_time": "2026-07-07T02:35:29.518130",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "华为更新韬定律论文！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/443186.html",
+      "publish_time": "2026-07-05",
+      "category": "AI 综合",
+      "summary": "论文在原有的理论框架上，加了不少工程细节、实测数据和产品规划 | 摘要里一句笼统的「性能提升41%」，换成了一张跟友商基线正面对照的实验数据表，电压、频率、功耗、面积摆在一起，谁高谁低一目了然 | 原来一句话带过的技术选型，也被拆开讲清楚，",
+      "importance_score": 9
+    },
+    {
+      "title": "GTLC 杭州站回顾｜AI 创业进入深水区，技术领导者都在关注什么？",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/MOVBghUgQrXWr9igbK2p",
+      "publish_time": "2026-07-06",
+      "category": "AI 技术",
+      "summary": "十一年里，TGO 鲲鹏会学员规模实现十余倍增长，帮助科技管理者在技术、管理及跨专业领域不断收获价值，助力企业突破研发、创新、管理等瓶颈，迈向更高质量发展",
+      "importance_score": 8
+    },
+    {
+      "title": "99万机器人“伴侣”续航撑不过一晚？优必选：属行业普遍情况",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14708034.html",
+      "publish_time": "2026-07-07",
+      "category": "AI 产业",
+      "summary": "” 6月30日，优必选推出“优世界U1系列”全尺寸仿生机器人",
+      "importance_score": 8
+    },
+    {
+      "title": "极简方案刷新扩散模型推理纪录，阿里清华论文入选ICML杰出论文",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/444721.html",
+      "publish_time": "2026-07-06",
+      "category": "AI 综合",
+      "summary": "7月5日，阿里巴巴与清华大学合作的论文The Flexibility Trap: Rethinking the Value of Arbitrary Order in Diffusion Language Models（灵活性陷阱：重新审视",
+      "importance_score": 9
+    },
+    {
+      "title": "字节、宇树、BAT等40+产品大咖齐聚，2026奇点智能产品大会最新最全日程来了！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/444043.html",
+      "publish_time": "2026-07-06",
+      "category": "AI 综合",
+      "summary": "现在，2026奇点智能产品大会最新最全日程正式发布",
+      "importance_score": 9
+    },
+    {
+      "title": "模型不是企业的护城河，那什么才是？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/443842.html",
+      "publish_time": "2026-07-06",
+      "category": "AI 综合",
+      "summary": "先给员工开通大模型账号，再上线 Copilot，再接入知识库，再做几个 Agent 试点",
+      "importance_score": 9
+    },
+    {
+      "title": "Claude的脑子里，也长出了一块「意识」",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/444741.html",
+      "publish_time": "2026-07-07",
+      "category": "AI 综合",
+      "summary": "在Claude模型里，还真的发现了类似人脑的结构 | Anthropic最新发表了一篇超长论文，研究了Claude的潜意识与意识",
+      "importance_score": 9
+    },
+    {
+      "title": "蔚来世界模型OTA，70万用户没人被留在旧版本",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/443868.html",
+      "publish_time": "2026-07-06",
+      "category": "AI 综合",
+      "summary": "贾浩楠 发自 凹非寺量子位 | 公众号 QbitAI “我自己就是ET7车主，四年多了还能用上最好的软件”—— 说这话的人是任少卿，“21世纪被引次数最多的AI论文”（Nature统计结果）ResNet核心作者，也是现在蔚来汽车的智能驾驶研",
+      "importance_score": 9
+    },
+    {
+      "title": "Meta也来卖铲子了！小扎：模型可以慢，GPU必须赚",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/443339.html",
+      "publish_time": "2026-07-05",
+      "category": "AI 综合",
+      "summary": "据彭博社报道，Meta正考虑推出Meta Compute，把庞大的AI基建开放给外部客户",
+      "importance_score": 9
+    },
+    {
+      "title": "2026新青年创投大会在沪举行：00后登场，创投新周期开启",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/444049.html",
+      "publish_time": "2026-07-06",
+      "category": "AI 综合",
+      "summary": "“新青年”不只是年龄标签，而是敢于探索、勇于突破、率先出发的创业姿态",
+      "importance_score": 9
+    }
+  ]
+}

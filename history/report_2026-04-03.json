@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-03",
+  "update_time": "2026-04-03T16:19:15.052502",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "小米MiMo大模型首次推出Token Plan，单次订阅可满足全模态Agent任务需求",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395210.html",
+      "publish_time": "2026-04-03",
+      "category": "AI 综合",
+      "summary": "从刚接触 AI 开发的探索者，到全天候高强度使用的开发者，实现全覆盖 | 此前，MiMo-V2-Pro在OpenRouter平台周token消耗量连创新高，连续突破3万亿、4万亿大关，上线不到半月时间，成功登顶日榜、周榜、月榜第一",
+      "importance_score": 10
+    },
+    {
+      "title": "警惕 AI 写作：别让思考与信任在指尖溜走",
+      "source": "InfoQ",
+      "url": "https://xie.infoq.cn/article/017dcadf6aa893c09c7028d4c",
+      "publish_time": "2026-04-03",
+      "category": "AI 技术",
+      "summary": "在技术与创作的交织领域，当我们着手撰写一份技术方案或设计文档时，实则开启了一场提问与解答的思维旅程 | 就像产品需求文档（PRD）致力于阐明 “我们要做什么",
+      "importance_score": 8
+    },
+    {
+      "title": "英伟达、微软、Meta 都在抢的 AI 人才，到底有多贵？",
+      "source": "虎嗅网",
+      "url": "https://www.huxiu.com/article/3.html",
+      "publish_time": "2026-04-03",
+      "category": "AI 产业",
+      "summary": "AI 人才争夺战白热化",
+      "importance_score": 8
+    },
+    {
+      "title": "1220亿美元！OpenAI创下史上最大单笔融资纪录",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/394169.html",
+      "publish_time": "2026-04-01",
+      "category": "AI 综合",
+      "summary": "本轮融资过后，市场对OpenAI的IPO期待值，越来越高了 | 本次融资的投资方包括亚马逊、英伟达、软银等机构联合领投 | 此外相较于此前几轮的融资，这次融资还有亿点点新变动，那就是OpenAI第一次向个人投资者开放窗口，额外吸纳了超...",
+      "importance_score": 9
+    },
+    {
+      "title": "全球权威大模型盲测榜单公布，阿里千问3.6登顶中国最强编程模型",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395206.html",
+      "publish_time": "2026-04-03",
+      "category": "AI 综合",
+      "summary": "6-Plus是阿里于4月2日最新发布的新一代大语言模型，拥有原生多模态理解、推理能力，并在代码生成与Agent能力上表现突出",
+      "importance_score": 9
+    },
+    {
+      "title": "中国最强编程模型来了！ 阿里Qwen3.6-Plus性能直逼Claude，国产大模型杀入决赛圈",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/394704.html",
+      "publish_time": "2026-04-02",
+      "category": "AI 综合",
+      "summary": "什么这code那code，先别code了，因为—— 就在刚刚，阿里突袭发布Qwen3",
+      "importance_score": 9
+    },
+    {
+      "title": "我的天！豆包每天烧120万亿Tokens啊！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395202.html",
+      "publish_time": "2026-04-02",
+      "category": "AI 综合",
+      "summary": "刚刚人在火山引擎武汉站的活动上，看到的几个消息还是想跟大家拿出来分享分享 | 1️⃣豆包大模型日均Token使用量已突破120万亿❗️ 这个Tokens的使用量应该是国内第一的level了，但最需要关注的是它的增速 | 因为相比三个月前的6",
+      "importance_score": 9
+    },
+    {
+      "title": "AI原生时代来临，商汤大装置如何重塑算力集群架构",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395194.html",
+      "publish_time": "2026-04-02",
+      "category": "AI 综合",
+      "summary": "近日，作为2026中关村论坛核心组成部分，由趋境科技与九源智能计算系统生态联合体共同主办的“全栈智能 全域推理：Token爆发元年的全场景大规模推理服务”专题研讨会成功举办 | 商汤大装置首席架构师项铁尧受邀出席研讨会，并发表《商汤大装置A",
+      "importance_score": 9
+    },
+    {
+      "title": "《自然通讯》重磅：分子之心AI技术解锁蛋白质设计新范式",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395198.html",
+      "publish_time": "2026-04-02",
+      "category": "AI 综合",
+      "summary": "该研究深度融合AI蛋白质设计技术和分子作用机制解析，实现蝎毒素LqhαIT的杀虫效力翻倍",
+      "importance_score": 9
+    },
+    {
+      "title": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395279.html",
+      "publish_time": "2026-04-03",
+      "category": "AI 综合",
+      "summary": "Anthropic最新研究发现，Claude内部存在多种“情绪表征”，包括“快乐”“爱”“悲伤”“愤怒”“恐惧”“绝望”等等 | 这些情绪会在与之关联的情境中被激活，并且与人类的心理结构和情绪空间相似 | 更重要的是，这些情绪表征真的会因果",
+      "importance_score": 9
+    }
+  ]
+}

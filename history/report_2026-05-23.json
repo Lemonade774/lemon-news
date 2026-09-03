@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-23",
+  "update_time": "2026-05-23T02:34:23.813589",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "美团外卖前负责人入局餐饮具身模型，元节智能获千万级种子轮融资",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/423153.html",
+      "publish_time": "2026-05-23",
+      "category": "AI 综合",
+      "summary": "AI）」已于近期完成千万级种子轮融资，由英诺科创基金领投，水木清华校友种子基金及知名投资人个人跟投 | 这家公司今年3月31日才刚刚注册成立，融资速度之快，在具身赛道里也算头一档了",
+      "importance_score": 9
+    },
+    {
+      "title": "华为鸿蒙突击队编程框架首席技术专家谢国确认出席AICon上海站，并以鸿蒙为例分享AI 时代的跨平台框架演进",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/SS6HIq6yvrJaV4PJMHG1",
+      "publish_time": "2026-05-23",
+      "category": "AI 技术",
+      "summary": "当前，以 Agent 为核心的新一轮技术浪潮正在席卷产业 | Agent 从 Demo 到工程化还差什么",
+      "importance_score": 8
+    },
+    {
+      "title": "融资700亿！DeepSeek Code真要来了，ACM金牌大神崔添翼挂帅",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/422624.html",
+      "publish_time": "2026-05-22",
+      "category": "AI 综合",
+      "summary": "DeepSeek Code is Coming DeepSeek融资额已飙升至700亿元，管理层向潜在投资者表示，优先考虑突破性的AI研究，而不是短期商业化",
+      "importance_score": 9
+    },
+    {
+      "title": "狂揽F轮融资+拿下4100万用户！深圳玩家出手，把企业旧系统变成AI能力库",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/422615.html",
+      "publish_time": "2026-05-22",
+      "category": "AI 综合",
+      "summary": "这是2026年，中国企业AI落地最尴尬、也最具产业价值的一个真相 | 就以某家年营收过百亿的零售企业为例，其最近做了一份不算光彩的内部统计 | 他们的员工，平均每天要在11个系统之间切换",
+      "importance_score": 9
+    },
+    {
+      "title": "顶流里最快！智谱，你是在「喷」代码吧",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/422511.html",
+      "publish_time": "2026-05-22",
+      "category": "AI 综合",
+      "summary": "视频地址：https://mp.weixin.qq.com/s/Wn1-SzjpEkQLTyZnJKDRwg 这么多的代码，直接就是“啪的一下”喷出来的感觉。 之前AI写代码像CPU渲图一样，是一点一点打出来；但这个AI写代码，更像GPU：",
+      "importance_score": 9
+    },
+    {
+      "title": "李飞飞再出手，空间智能的ImageNet来了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/422738.html",
+      "publish_time": "2026-05-22",
+      "category": "AI 综合",
+      "summary": "李飞飞团队最新发布ESI-Bench——一个专门用来评测具身空间智能的新基准 | ESI-Bench发布的背景，是由于目前的空间智能benchmark，测的都是「被动感知」",
+      "importance_score": 9
+    },
+    {
+      "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/420084.html",
+      "publish_time": "2026-05-19",
+      "category": "AI 综合",
+      "summary": "但一家国产GPU厂商，却在一整场发布会的时间里，做了一件非常物理的事儿—— 在走到舞台中央后，只见屏幕里仿真世界的小飞侧空翻了一下，随即，物理世界的小飞便做出了一模一样的动作 | 正是由摩尔线程新鲜发布的MT Lambda | 这是首...",
+      "importance_score": 9
+    },
+    {
+      "title": "龙虾养不动了？周鸿祎给虾搭了个云端办公室，专业私教在线炼虾",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/422811.html",
+      "publish_time": "2026-05-22",
+      "category": "AI 综合",
+      "summary": "2026年的Agent赛道，画风真有点反差 | 虾（OpenClaw）、马（HERMES）、人（OpenHuman）……各路Harness框架狂卷迭代，热得发烫",
+      "importance_score": 9
+    },
+    {
+      "title": "2026中国AIGC最值得关注的企业&产品图鉴来了！谁在造浪，谁在落地？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/420656.html",
+      "publish_time": "2026-05-20",
+      "category": "AI 综合",
+      "summary": "在这样的背景下，第四届中国AIGC产业峰会正式发布： 市场需要经过验证的引领者，行业需要经得起审视的标杆答案 | 这些入选者，或在技术纵深上持续突破，或在商业化落地上跑通了闭环，或在垂直场景里扎下了深根",
+      "importance_score": 9
+    },
+    {
+      "title": "520当天400万AI人，都在量子位听这近20场演讲&对谈｜第四届中国AIGC产业峰会",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/421691.html",
+      "publish_time": "2026-05-21",
+      "category": "AI 综合",
+      "summary": "龙虾、Harness……爆款一个接一个，Agent成了人人挂在嘴边的突围密码 | 2026年的AI，在狂飙、在分化、在落地，正从“工具”蜕变为“生产力系统”，从“生成内容”走向“完成任务” | 近20位AI领军人物齐聚第四届中国AIGC产业",
+      "importance_score": 9
+    }
+  ]
+}

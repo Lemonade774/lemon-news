@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-14",
+  "update_time": "2026-08-14T01:24:05.934852",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "具身数据来了实战派！40天2轮融资数千万，瞄准物理AI基础设施",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/472060.html",
+      "publish_time": "2026-08-13",
+      "category": "AI 综合",
+      "summary": "近日，具身智能数据基础设施公司元点科技（SCALEFORCE）完成数千万元人民币融资，投资者包含国内顶级具身智能产业方、恒旭资本和凯联资本 | 本轮融资将主要用于元点科技物理AI操作系统MatrixOS技术迭代、大规模数据生产网络建设...",
+      "importance_score": 9
+    },
+    {
+      "title": "Jeff Dean离职前最后一次对话：我低估了AI，也看清了创业者的唯一生路",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/x5sIQ2lED2h6G2Uvyu48",
+      "publish_time": "2026-08-06",
+      "category": "AI 技术",
+      "summary": "一年前，Google 首席科学家 Jeff Dean 在 AI Ascent 2025 峰会上预测：到 2026 年，可能出现能够全天候工作、能力接近初级软件工程师的 AI 系统 | 一年后，也就是 6 天前，他在一期 YC 访谈中承认，自",
+      "importance_score": 8
+    },
+    {
+      "title": "DeepSeek Harness开发者预览版开放测试",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14919740.html",
+      "publish_time": "2026-08-14",
+      "category": "AI 产业",
+      "summary": "8月13日，DeepSeek Harness的开发者预览版（v0 | 1版本）面向全球Harness开发者开放测试，并同步以MIT协议开放源代码 | DeepSeek Harness采取“一切皆插件”的设计思路，模型、工具、技能、会话、沙箱",
+      "importance_score": 8
+    },
+    {
+      "title": "马斯克Grok 4.6重回一梯队！更低价格反超Fable 5，这Cursor是真没白收购",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/472067.html",
+      "publish_time": "2026-08-13",
+      "category": "AI 综合",
+      "summary": "就在前一天，SpaceXAI还发布了另一款产品Grok Bot，一队能自己登录各种工具、24小时连轴转的智能体",
+      "importance_score": 9
+    },
+    {
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/468398.html",
+      "publish_time": "2026-08-08",
+      "category": "AI 综合",
+      "summary": "眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权",
+      "importance_score": 9
+    },
+    {
+      "title": "倒计时｜2026世界机器人大会主论坛议程发布！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/471668.html",
+      "publish_time": "2026-08-13",
+      "category": "AI 综合",
+      "summary": "2026世界机器人大会开幕8月19-8月3日 | 2026 世界机器人大会主论坛全部议程今日揭晓",
+      "importance_score": 9
+    },
+    {
+      "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/470621.html",
+      "publish_time": "2026-08-11",
+      "category": "AI 综合",
+      "summary": "8月6日，远景科技集团在这里宣布「远景乌兰察布星河基地」正式投产，园区内全球最大的AI算力超级单体同步亮相 | 这座超级单体建筑面积超过12万平方米，相当于20个标准足球场，其所在的星河基地总规划容量达到2GW，规划支持百万卡并行和百万P级",
+      "importance_score": 9
+    },
+    {
+      "title": "PDF当死，ARA该立！论文是时候Agent原生了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/469721.html",
+      "publish_time": "2026-08-10",
+      "category": "AI 综合",
+      "summary": "统治科研圈几十年的PDF格式，都需要因AI而“退休”… 因为以后论文的第一读者不是人，而是AI",
+      "importance_score": 9
+    },
+    {
+      "title": "4.8亿美元砸向端侧算力！Agent芯片新贵冲出重围",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/472059.html",
+      "publish_time": "2026-08-13",
+      "category": "AI 综合",
+      "summary": "据DealStreetAsia报道，这家总部位于新加坡的AI计算基础设施公司近日完成B轮融资，Vertex Growth等机构参与投资 | 完成本轮融资后，Acrab累计融资已经超过4 | 不到一个月前，该公司刚刚发布第一代端侧AI芯...",
+      "importance_score": 9
+    },
+    {
+      "title": "深度体验DeepSeek Harness，我原谅它涨价了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/472208.html",
+      "publish_time": "2026-08-14",
+      "category": "AI 综合",
+      "summary": "DeepSeek Harness，终于发布，并且将源代码开源了",
+      "importance_score": 9
+    }
+  ]
+}

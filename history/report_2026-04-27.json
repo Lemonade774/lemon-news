@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-27",
+  "update_time": "2026-04-27T02:14:07.059352",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "华为发布ADS 5！强化世界模型路线，今年投入180亿",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/407363.html",
+      "publish_time": "2026-04-25",
+      "category": "AI 综合",
+      "summary": "这并不只是一次简单的技术发布会，华为同时还透露了，自己在自动驾驶时代的生态布局",
+      "importance_score": 9
+    },
+    {
+      "title": "DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF",
+      "publish_time": "2026-04-24",
+      "category": "AI 技术",
+      "summary": "DeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界知识和推理性能三大维度上均实现了国内与开源领域的领先 | 秉承 DeepSeek 一贯的开放精神，本次发布的模型按大小分为两个版本，欢迎开发者、研究者和企业用户前...",
+      "importance_score": 9
+    },
+    {
+      "title": "DeepSeek V4终于出场，为大模型国产算力时代做准备",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14315357.html",
+      "publish_time": "2026-04-27",
+      "category": "AI 产业",
+      "summary": "4月24日，DeepSeek-V4的预览版本正式上线并同步开源，官方给出的节点定义是“迈入百万上下文普惠时代”，没有脱离DeepSeek自出圈以来最强势的价格叙事 | 6T（Pro）和284B（Flash）两个版本，拥有百万字超长上下...",
+      "importance_score": 8
+    },
+    {
+      "title": "燃油SUV车主熬出头了！华为乾崑智驾加持，全新奥迪Q5L率先实现智能化",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/406960.html",
+      "publish_time": "2026-04-25",
+      "category": "AI 综合",
+      "summary": "据主办方统计，今天和昨天一共安排了200余场发布会，车企在发新车，科技公司在秀技术，其中有的展台人流汹涌，走都走不动 | 时间的厚度，不仅说明了双方对辅助驾驶上车燃油、落地城区的谨慎态度，也意味着后来者追赶的难度 | 燃油车上线辅助驾...",
+      "importance_score": 9
+    },
+    {
+      "title": "真有人做AI小猫啊？！生产力和情绪价值都拉满了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/406560.html",
+      "publish_time": "2026-04-24",
+      "category": "AI 综合",
+      "summary": "上班累了就找她摸摸鱼，真的感觉心都化了…… 这个抱着AI小猫的女孩叫SUSU，她们都来自AI初创公司SentiPulse思维光谱自主研发的AI Agent产品——SentiCat | SentiCat拥有三大核心能力：办公自动化、深度研究、",
+      "importance_score": 9
+    },
+    {
+      "title": "自动驾驶赛道DeepSeek，轻舟智航率先进军物理AI",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/407026.html",
+      "publish_time": "2026-04-25",
+      "category": "AI 综合",
+      "summary": "车子像老司机一样，提前预判鬼探头的轨迹，丝滑避开了违停车的“开门杀”： 这一切对环境、目标行为的预判、推演，并不是在研发端的超级计算机上，就实时发生在你的智能汽车车载“大脑”中： 那……得需要多大算力才能这么“秀” | 说出来你可能不信：5",
+      "importance_score": 9
+    },
+    {
+      "title": "DeepSeek V4报告太详尽了！484天换代之路全公开",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/406809.html",
+      "publish_time": "2026-04-25",
+      "category": "AI 综合",
+      "summary": "DeepSeek V4“迟到”半年，但发布后的好评如潮还在如潮 | 大家惊叹于DeepSeek在有限条件下作出重大突破的创造力，也佩服其在2026年，还能坚定选择开源路线的决心 | 第一条，百万token上下文全面开源，KVcache...",
+      "importance_score": 9
+    },
+    {
+      "title": "Claude终于认了！降智坐实，越聊越傻，3个bug全曝光",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/407502.html",
+      "publish_time": "2026-04-26",
+      "category": "AI 综合",
+      "summary": "暂无详细内容，请点击阅读原文查看。",
+      "importance_score": 9
+    },
+    {
+      "title": "DeepSeek阮翀加盟元戎首秀，详解基座VLA，研发提效10倍",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/407465.html",
+      "publish_time": "2026-04-26",
+      "category": "AI 综合",
+      "summary": "阮翀(chōng），本硕均毕业于北京大学，早年从事NLP研发，2023年加入DeepSeek，参与了DeepSeek VL、V3和R1等工作，是VL2的通讯作者，也是最新发布的V4的作者之一 | 比如，同样是在自动驾驶行业，小马智行最...",
+      "importance_score": 9
+    },
+    {
+      "title": "Momenta曹旭东：规模L4要百亿美元投入，现金流业务是物理AI门票",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/407485.html",
+      "publish_time": "2026-04-26",
+      "category": "AI 综合",
+      "summary": "曹旭东认为，实现通用机器人，可能要上升到几百亿甚至千亿美金 | 所以物理AI公司不能只靠融资活着，必须先有一个能产生现金流、能形成数据闭环和商业闭环的业务",
+      "importance_score": 9
+    }
+  ]
+}

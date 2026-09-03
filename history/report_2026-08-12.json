@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-12",
+  "update_time": "2026-08-12T01:23:06.810043",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "GPU开始金融化！黄仁勋拉上华尔街搞5000亿美元融资",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/470254.html",
+      "publish_time": "2026-08-11",
+      "category": "AI 综合",
+      "summary": "而这个第三方资本，还真就把GPU当理财产品了～ 2、老黄推出新概念AI工厂，一整套GPU、网络、系统软件、AI 框架和 CUDA 组成的计算平台，输入能源和数据，输出智能",
+      "importance_score": 9
+    },
+    {
+      "title": "Jeff Dean离职前最后一次对话：我低估了AI，也看清了创业者的唯一生路",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/x5sIQ2lED2h6G2Uvyu48",
+      "publish_time": "2026-08-06",
+      "category": "AI 技术",
+      "summary": "一年前，Google 首席科学家 Jeff Dean 在 AI Ascent 2025 峰会上预测：到 2026 年，可能出现能够全天候工作、能力接近初级软件工程师的 AI 系统 | 一年后，也就是 6 天前，他在一期 YC 访谈中承认，自",
+      "importance_score": 8
+    },
+    {
+      "title": "AI改写游戏行业剧本，广州如何切换产业叙事？",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14884072.html",
+      "publish_time": "2026-08-12",
+      "category": "AI 产业",
+      "summary": "ThinkingAI就在今年发布了全球首创企业级AI Agent平台Agentic Engine，可用于完成英雄策划、关卡策划、游戏客服、用户运营、投放优化师、短剧运营等工作",
+      "importance_score": 8
+    },
+    {
+      "title": "蚂蚁首次投向机器人“指尖”！数亿元押注，全球首个物理交互脑发布",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/470674.html",
+      "publish_time": "2026-08-11",
+      "category": "AI 综合",
+      "summary": "今天（8月11日），戴盟机器人宣布完成数亿元战略轮融资，蚂蚁集团领投，老股东超额跟投加注 | 戴盟的融资节奏并非孤例，巨头入场背后，资本正集体从具身本体涌向触觉感知层，单轮亿元融资频发，资本卡位战已经进入按周加码的高频节奏",
+      "importance_score": 10
+    },
+    {
+      "title": "宇树会破发吗？王兴兴回应了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/470307.html",
+      "publish_time": "2026-08-11",
+      "category": "AI 综合",
+      "summary": "但甭管中没中，咱也先别急，因为就在刚刚结束的宇树科技IPO路演里，宇树科技董事长、CEO、CTO王兴兴，来了一场超级版“回应一切”",
+      "importance_score": 9
+    },
+    {
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/468398.html",
+      "publish_time": "2026-08-08",
+      "category": "AI 综合",
+      "summary": "眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权",
+      "importance_score": 9
+    },
+    {
+      "title": "爆料：哈萨比斯原本要和Jeff Dean一起走！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/468715.html",
+      "publish_time": "2026-08-09",
+      "category": "AI 综合",
+      "summary": "据Pathfounders援引行业消息人士称，哈萨比斯原本计划和Jeff Dean等人同期离开谷歌 | 但是谷歌管理层担心自己股价跌得太惨…于是苦苦挽留哈萨比斯，最终把他劝了下来 | 哈萨比斯卸任Google DeepMind CEO，升任",
+      "importance_score": 9
+    },
+    {
+      "title": "一家新能源大厂，如何撑起全球最大AI算力超级单体？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/470621.html",
+      "publish_time": "2026-08-11",
+      "category": "AI 综合",
+      "summary": "8月6日，远景科技集团在这里宣布「远景乌兰察布星河基地」正式投产，园区内全球最大的AI算力超级单体同步亮相 | 这座超级单体建筑面积超过12万平方米，相当于20个标准足球场，其所在的星河基地总规划容量达到2GW，规划支持百万卡并行和百万P级",
+      "importance_score": 9
+    },
+    {
+      "title": "PDF当死，ARA该立！论文是时候Agent原生了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/469721.html",
+      "publish_time": "2026-08-10",
+      "category": "AI 综合",
+      "summary": "统治科研圈几十年的PDF格式，都需要因AI而“退休”… 因为以后论文的第一读者不是人，而是AI",
+      "importance_score": 9
+    },
+    {
+      "title": "百年黎曼猜想被Claude破了新纪录！是个未公开新模型",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/470485.html",
+      "publish_time": "2026-08-11",
+      "category": "AI 综合",
+      "summary": "刚刚，A社官宣自家一个尚未公开的Claude研究模型，在黎曼猜想上取得了重大进展 | 它将满足黎曼猜想的黎曼ζ函数零点比例的下界，从41",
+      "importance_score": 9
+    }
+  ]
+}

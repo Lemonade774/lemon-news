@@ -1,0 +1,19 @@
+name: Lemon News Health Check
+
+on:
+  schedule:
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check today report
+        shell: bash
+        run: |
+          today=$(date -u +%Y-%m-%d)
+          test -f "history/report_${today}.html"
+          test -f "history/report_${today}.json"
+          echo "Lemon News report exists for ${today}"

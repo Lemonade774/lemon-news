@@ -1,0 +1,19 @@
+# Netlify 配置文件
+
+[build]
+  # 无需构建命令（纯静态文件）
+  command = "echo 'No build needed'"
+  # 发布目录（当前目录）
+  publish = "."
+
+[[redirects]]
+  # 将所有请求重定向到 index.html
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    # 启用缓存
+    Cache-Control = "public, max-age=300"

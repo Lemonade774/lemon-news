@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-29",
+  "update_time": "2026-05-29T02:43:51.521258",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "清华有了新老师：黄仁勋",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/425948.html",
+      "publish_time": "2026-05-28",
+      "category": "AI 综合",
+      "summary": "刚拿了一个新的博士头衔，老黄又被曝「学术」新动向： 这个顾问委员会由库克担任主席，马斯克、纳德拉、扎克伯格…以及李彦宏、马化腾、马云等人，均是委员会一员 | 据《金融时报》爆料，黄仁勋已接受清华大学经济管理学院的邀请，将加入其顾问委员会 |",
+      "importance_score": 9
+    },
+    {
+      "title": "Zod 作者推出 Pullfrog：一个跑在 GitHub Actions 里的开源 AI 编程 Agent",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/vk2wb5zk9sFHhP7fx5NO",
+      "publish_time": "2026-05-28",
+      "category": "AI 技术",
+      "summary": "Pullfrog是由Colin McDonnell创建的一款开源 AI 驱动的 GitHub bot，目前处于 beta 阶段 | 他于 2026 年 5 月 12 日发布了 Pullfrog",
+      "importance_score": 9
+    },
+    {
+      "title": "香港高校创业潮起，卡位AI基建底层",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14483344.html",
+      "publish_time": "2026-05-29",
+      "category": "AI 产业",
+      "summary": "4月公司宣布完成近亿元港币融资，叠加近来AI基建板块大火，让卢怡君格外忙碌",
+      "importance_score": 8
+    },
+    {
+      "title": "5篇AI生成的数学论文被接收！00后创始人洪乐潼融资14个亿",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/426198.html",
+      "publish_time": "2026-05-28",
+      "category": "AI 综合",
+      "summary": "56亿元人民币）融资，估值16亿美元（约108",
+      "importance_score": 9
+    },
+    {
+      "title": "1400亿Agent入场，“流量”这条护城河要塌了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/425881.html",
+      "publish_time": "2026-05-27",
+      "category": "AI 综合",
+      "summary": "昨天在支付宝AI生态大会现场，有别于大多数“技术改变一切”的开场白，蚂蚁集团CEO韩歆毅第一句话就点明了核心基调： AI会带来很多改变，但归根结底，AI服务于人，人掌握着最终决策权 | 他明确提出，Agent时代并非“AI推翻一切重来”，商",
+      "importance_score": 9
+    },
+    {
+      "title": "沙钢签约钉钉，让悟空成为每一位“钢铁人”的生产力工具",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/426223.html",
+      "publish_time": "2026-05-28",
+      "category": "AI 综合",
+      "summary": "本次战略合作的核心，是双方以专属钉钉底座为基础，以悟空AI为智能引擎，围绕钢铁行业的实际业务痛点，共同打造全集团的协同办公平台，并推进落地七大AI创新智能场景，实现AI技术从“能力”到“价值”的转化 | 在协同办公底座层面，沙钢将基于...",
+      "importance_score": 9
+    },
+    {
+      "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/420084.html",
+      "publish_time": "2026-05-19",
+      "category": "AI 综合",
+      "summary": "但一家国产GPU厂商，却在一整场发布会的时间里，做了一件非常物理的事儿—— 在走到舞台中央后，只见屏幕里仿真世界的小飞侧空翻了一下，随即，物理世界的小飞便做出了一模一样的动作 | 正是由摩尔线程新鲜发布的MT Lambda | 这是首...",
+      "importance_score": 9
+    },
+    {
+      "title": "DeepSeek V4芯模协同背后，国产算力生态开始飞轮加速",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/426293.html",
+      "publish_time": "2026-05-28",
+      "category": "AI 综合",
+      "summary": "DeepSeek V4发布，比模型本身更受关注的，是一个根本性的转变： 国产算力生态正在从过去“芯片被动适配模型”的单向奔赴，迈向“芯模协同”的新阶段 | 之前，昇腾与不少模型进行过协同探索，但V4是第一次在大规模、高强度、工程化的尺度上，",
+      "importance_score": 9
+    },
+    {
+      "title": "AI正在重写软件行业？8岁孩子做操作系统，一人公司拿下千万订单",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/426069.html",
+      "publish_time": "2026-05-28",
+      "category": "AI 综合",
+      "summary": "“87%用户不懂代码，却用AI跑通了一人公司” 当AI将编程门槛从“写代码”降低至“聊天”，应用创作的权力正从专业开发者手中释放到每一个普通人—— 甚至连不懂代码的8岁小学生，都能通过跟AI聊天，打造出自己想象中的操作系统；OPC（一人公司",
+      "importance_score": 9
+    },
+    {
+      "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/425600.html",
+      "publish_time": "2026-05-26",
+      "category": "AI 综合",
+      "summary": "在多模态大模型从“基础感知”向“深度推理”演进的浪潮中，快手团队始终在思考两个问题： 如何突破视频理解任务中超长视觉上下文带来的算力瓶颈",
+      "importance_score": 9
+    }
+  ]
+}

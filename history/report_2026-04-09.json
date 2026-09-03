@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-09",
+  "update_time": "2026-04-09T06:01:44.702873",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "马斯克死磕奥特曼：赔款我不要，但他必须离开OpenAI董事会",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/398071.html",
+      "publish_time": "2026-04-09",
+      "category": "AI 综合",
+      "summary": "Greg Brockman也被要求交出所有股权收益 马斯克连赔偿款都不要了，现在状告OpenAI只有一个核心诉求： 把奥特曼从OpenAI非营利母公司董事会除名 | 老马刚刚对OpenAI诉讼作出修订，提出如果胜诉，所有赔偿一分不要，全部捐",
+      "importance_score": 9
+    },
+    {
+      "title": "AI 资本大转向：OpenAI 凉、Anthropic 火、马斯克赢",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/jTBOKdUUCdR86YYD1cBF",
+      "publish_time": "2026-04-02",
+      "category": "AI 技术",
+      "summary": "“SpaceX IPO，意味着资本正在押注一种由实体基础设施护城河构成的优势；OpenAI 的二级份额开始流向 Anthropic，说明市场其实在用真金白银下注：前沿实验室里，开发者到底真正信谁",
+      "importance_score": 8
+    },
+    {
+      "title": "又一家“理想系”具身智能公司创办，理想汽车参投",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14220562.html",
+      "publish_time": "2026-04-09",
+      "category": "AI 产业",
+      "summary": "公司成立于2026年2月，首轮融资由元璟资本和理想汽车共同投资，近期会完成工商变更",
+      "importance_score": 8
+    },
+    {
+      "title": "智谱GLM-5.1“Day0”上线华为云，可通过多款产品体验",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/397942.html",
+      "publish_time": "2026-04-08",
+      "category": "AI 综合",
+      "summary": "4月8日，智谱正式发布新一代旗舰模型GLM-5 | 1，发布当天已上线华为云，并成功对接华为云多款产品 | 1“Day0”上线华为云，可通过多款产品体验 智谱GLM-5",
+      "importance_score": 9
+    },
+    {
+      "title": "Claude爆火研究漏引华人团队成果，已挨打立正道歉",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/397576.html",
+      "publish_time": "2026-04-07",
+      "category": "AI 综合",
+      "summary": "MBZUAI研究生Chenxi Wang发现，这篇论文的引用列表里，是不是忘了些什么…… 4月2日，Anthropic发布了一篇新论文，研究了Claude内部的“情绪机制”，在Sonnet 4",
+      "importance_score": 9
+    },
+    {
+      "title": "国产免费2B开源语音模型征服《莽撞人》！复刻郭德纲最难贯口",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/397881.html",
+      "publish_time": "2026-04-08",
+      "category": "AI 综合",
+      "summary": "刚融资数亿元的面壁又发新模型，让歪果仁直呼Amazing 终于，郭德纲最难的贯口——《莽撞人》，被免费的2B国产AI给复刻出来了",
+      "importance_score": 9
+    },
+    {
+      "title": "爆火GitHub！《生化危机》女主打造免费“AI记忆系统”",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/398090.html",
+      "publish_time": "2026-04-09",
+      "category": "AI 综合",
+      "summary": "而且发布即开源，所有人免费可用（注意还是本地可跑）",
+      "importance_score": 9
+    },
+    {
+      "title": "Generalist最新长文定调：具身原生才是正道，原力灵机已交卷",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/397951.html",
+      "publish_time": "2026-04-08",
+      "category": "AI 综合",
+      "summary": "Generalist AI的GEN-1热度，仍在发酵 | 自节前那场引爆全网的Demo之后，昨日，创始人Pete Florence与团队，正式释出了GEN-1的技术博客 | 与其说这是一篇技术分享，不如说这是一篇「教同行做事」的檄文",
+      "importance_score": 9
+    },
+    {
+      "title": "Linux内核维护者崩溃了！AI每天狂塞10份漏洞报告，想摸会鱼都难",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/396358.html",
+      "publish_time": "2026-04-05",
+      "category": "AI 综合",
+      "summary": "现在AI找Bug的速度，比他们修Bug还快 | 从今年开始，每天雷打不动收到5到10份报告，周二周五尤其多 | 最搞心态的是，这些AI生成的报告，竟然大部分都还是对的，想摸鱼都没借口，何况这提交者还是一个不用睡觉的“赛博监工”",
+      "importance_score": 9
+    },
+    {
+      "title": "武大文科教授硬核跨界AI：半年项目量猛涨4000%，重构AI图表生产力",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/398001.html",
+      "publish_time": "2026-04-08",
+      "category": "AI 综合",
+      "summary": "把一份Excel表格丢给大模型，然后对着一张配色诡异、甚至连坐标轴都标注错误的不可编辑图片，你开始陷入沉思 | 在这个万物皆可AIGC的时代，最大的谎言就是“把一切交给AI就够了” | 大多数AI图表工具，本质上都是“盲盒机”：人类被动接受",
+      "importance_score": 9
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-04",
+  "update_time": "2026-05-04T02:26:39.347054",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/412447.html",
+      "publish_time": "2026-05-01",
+      "category": "AI 综合",
+      "summary": "马斯克这边，公开承认xAI蒸馏了OpenAI的模型来训练Grok | 律师Savitt追问捐款：承诺10亿，到账3800万，兑现不足4%",
+      "importance_score": 9
+    },
+    {
+      "title": "微软警告称，AI 正在掏空初级开发者的培养渠道",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/w3Oek9aKw8lfpRZ7QBo4",
+      "publish_time": "2026-05-03",
+      "category": "AI 技术",
+      "summary": "该论文援引哈佛大学的一项研究发现，在 GPT-4 发布后，尽管高级职位的数量有所增长，但在涉及 AI 的岗位（包括软件开发）中，22 至 25 岁人群的就业率下降了约 13%",
+      "importance_score": 8
+    },
+    {
+      "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/412080.html",
+      "publish_time": "2026-05-03",
+      "category": "AI 综合",
+      "summary": "马斯克这边，公开承认xAI蒸馏了OpenAI的模型来训练Grok | 律师Savitt追问捐款：承诺10亿，到账3800万，兑现不足4%",
+      "importance_score": 9
+    },
+    {
+      "title": "突破视觉仿真算力瓶颈！新一代具身智能仿真框架开源：高吞吐并行高保真渲染助力规模化训练",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/412870.html",
+      "publish_time": "2026-05-03",
+      "category": "AI 综合",
+      "summary": "作为机器人感知世界时信息密度最高、与自然人机交互最契合的模态，视觉是解锁通用机器人智能、实现仿真到真实无缝迁移的核心密钥",
+      "importance_score": 10
+    },
+    {
+      "title": "华为携手中科大发布灵境造物，openJiuwen首发Coordination Engineering全栈支撑",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/412696.html",
+      "publish_time": "2026-05-01",
+      "category": "AI 综合",
+      "summary": "4月25日，中国科学技术大学正式发布“灵境造物”智能科研云平台，该平台面向全球开放使用，这标志着“人工智能驱动的科学研究”正走向工程化、平台化和开放共享",
+      "importance_score": 9
+    },
+    {
+      "title": "DeepSeek V4最大的遗憾",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/412737.html",
+      "publish_time": "2026-05-03",
+      "category": "AI 综合",
+      "summary": "DeepSeekV4的技术报告里有mHC，有CSA，有HCA，有Muon，有FP4…… Engram在今年1月由DeepSeek和北大联合开源，主要研究大模型的记忆与效率问题",
+      "importance_score": 9
+    },
+    {
+      "title": "他用AI办了个音乐节，主题：别读博",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/412597.html",
+      "publish_time": "2026-05-01",
+      "category": "AI 综合",
+      "summary": "一个博士生连续做了6小时实验后，凌晨3点才吃上晚饭—— 听着歌词里的“被抢一作”“延毕”“审稿不通过”“创新点都没有”“科研理想”，他又哭又笑，眼泪止不住地往下流 | 那些他在组会上咽下去、在导师面前没敢说出口的话，无奈、恐惧、焦虑、疲惫…",
+      "importance_score": 9
+    },
+    {
+      "title": "不好！1930年的AI都来抢程序员饭碗了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/412896.html",
+      "publish_time": "2026-05-03",
+      "category": "AI 综合",
+      "summary": "劳动节，马上100岁的vintage大模型也得劳动 | 是的，有人给只有1930年知识的大模型，微调成软件工程师了…… 过程比想象中轻松，仅用250个训练样本，强悍的老头便解决了自己人生中的第一个编程问题—— 一个连电视机都没见过的AI，现",
+      "importance_score": 9
+    },
+    {
+      "title": "智谱公布“降智”的秘密：Scaling不可避免的痛",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/412585.html",
+      "publish_time": "2026-05-01",
+      "category": "AI 综合",
+      "summary": "智谱最新发布的一篇技术博客，画风稍微有点不一样： 没有过去的硬核技术输出，反而大倒苦水从GLM-5以来的各种花式踩坑，官方称之为「Scaling Pain」",
+      "importance_score": 9
+    },
+    {
+      "title": "苹果官方App误打包了Claude.md，这么大的公司也Vibe Coding啊？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/412713.html",
+      "publish_time": "2026-05-02",
+      "category": "AI 综合",
+      "summary": "这和Claude Code源码泄露时把source map打包进发布版怎么一样一样的",
+      "importance_score": 9
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-24",
+  "update_time": "2026-04-24T06:29:33.858287",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "印奇站上AI+车浪潮之巅：7个月，千里科技和华为「五五开」",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/406036.html",
+      "publish_time": "2026-04-23",
+      "category": "AI 综合",
+      "summary": "7个月，足够一个自动驾驶公司初步组建团队、完成早期融资，甚至拿出一个相当惊艳的Demo；也够一个大模型AI玩家刷几个榜单、发数篇顶会论文",
+      "importance_score": 9
+    },
+    {
+      "title": "xAI落后太多，马斯克“开大”重金求购Cursor，100亿美金“分手费”都敢签！",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/1kS9ZTikmEsCTJFMBpN9",
+      "publish_time": "2026-04-24",
+      "category": "AI 技术",
+      "summary": "与 OpenAI、Anthropic 一样，Cursor 是硅谷多家利用 AI 实现代码自动化的初创企业之一，吸引了大量开发者，AI 企业在这一领域已取得早期商业突破",
+      "importance_score": 8
+    },
+    {
+      "title": "DeepSeek V4终于发布！打破最强闭源垄断，明确携手华为芯片",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/406359.html",
+      "publish_time": "2026-04-24",
+      "category": "AI 综合",
+      "summary": "在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先 | 官方原话是：在Agent能力、世界知识和推理性能上均实现国内与开源领域的领先",
+      "importance_score": 9
+    },
+    {
+      "title": "大厂AI抢人大战，从实习生开始",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/404470.html",
+      "publish_time": "2026-04-22",
+      "category": "AI 综合",
+      "summary": "量子位了解到，即便是实习生，国内头部厂开出的年薪也已突破百万大关 | 但这一次，我们在京东前不久开源的240亿参数图像编辑模型JoyAI-Image-Edit的贡献者名单中发现，除了技术大咖，还出现了许多新名字 | 量子位辗转联系到其...",
+      "importance_score": 9
+    },
+    {
+      "title": "Nature封面：机器人乒乓球干翻人类职业选手",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/405370.html",
+      "publish_time": "2026-04-23",
+      "category": "AI 综合",
+      "summary": "要说也真够逗的，索尼的机器人又开始找画面了 | 一台8自由度的机械臂，对战日本elite级选手5场3胜2负 | 后面半年，陆续打赢了几位日本职业选手，包括2019年美国公开赛女单亚军平真由香（GPT说相当于国内省队主力），以及WTT世界排名",
+      "importance_score": 9
+    },
+    {
+      "title": "河南师傅，左手扳手，右手飞书，竟然能搞数据分析！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/406191.html",
+      "publish_time": "2026-04-23",
+      "category": "AI 综合",
+      "summary": "然后往这个扳手上贴上一张飞书生成的二维码，再用手机上的飞书去扫它，就能实现在点巡检现场直接上传数据： 更有意思的来了，一位河南工友，甚至可以把点巡检结果，通过说方言的形式，直接录入结果",
+      "importance_score": 9
+    },
+    {
+      "title": "刚刚，GPT-5.5发布！内测英伟达工程师：失去它像被截肢",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/406221.html",
+      "publish_time": "2026-04-24",
+      "category": "AI 综合",
+      "summary": "4相比，新模型在代码、知识工作、科学研究三个领域全部拉开身位 梦晨 发自 凹非寺量子位 | 公众号 QbitAI 官方定位，“一种面向实际工作和智能体的新型智能 | 这次奥特曼没有自己站出来说“初体验被吓到眩晕瘫坐，那一刻就像看到原子弹爆炸",
+      "importance_score": 9
+    },
+    {
+      "title": "飞书项目开放平台焕新升级，全面迈向“AI Friendly”",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/406026.html",
+      "publish_time": "2026-04-23",
+      "category": "AI 综合",
+      "summary": "飞书项目开放平台负责人杨澍在主发布中回顾了开放平台发布一年来的生态增量：活跃插件数量翻倍，日均接口调用量从5百万+增长到2300万次 | 基于“读写安全、触手可用、按需配置”的原则，飞书项目集中发布了一批面向AI的连接与开放能力",
+      "importance_score": 9
+    },
+    {
+      "title": "神秘模型「大象」：仅100B拿下SOTA，Token效率超高！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/404645.html",
+      "publish_time": "2026-04-22",
+      "category": "AI 综合",
+      "summary": "神秘模型Elephant的面纱，终于被揭开了 | 前一阵子OpenRouters在自家官方上提到了一个神秘模型Elephant Alpha，并且给到的评价是这样的： 仅100B大小，在同规模模型里是SOTA，还巨省Token | 话题一出，",
+      "importance_score": 9
+    },
+    {
+      "title": "半壁华人！GPT Image 2团队曝光：无锡才俊带队，13人4个月封神",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/405391.html",
+      "publish_time": "2026-04-23",
+      "category": "AI 综合",
+      "summary": "梦晨 发自 凹非寺量子位 | 公众号 QbitAI GPT Image2全网刷屏，但效果究竟为什么这么好 | 但他又拒绝回答是否采用扩散模型或自回归技术，只是神秘的将其描述为“通用模型”或“图像领域的GPT”",
+      "importance_score": 9
+    }
+  ]
+}

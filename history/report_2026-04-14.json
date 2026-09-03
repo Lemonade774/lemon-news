@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-14",
+  "update_time": "2026-04-14T06:19:23.813608",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "养虾人看哭了！字节扣子2.5出生即满级，手机对话就能Vibe Coding",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/400197.html",
+      "publish_time": "2026-04-12",
+      "category": "AI 综合",
+      "summary": "5做的运势抽签小程序，直接就是一个大吉大利 | 扣子这次直接给Agent全套武装到了牙齿： 不光塞了云电脑、云手机让它自己能操作设备；还整了长期记忆、专属邮箱搞起了数字身份；视频创作、编程开发这些技能也一并解锁",
+      "importance_score": 9
+    },
+    {
+      "title": "谷歌重磅开源Gemma 4！手机离线跑 Agent、还降内存，Qwen 被拉进正面对决",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/X1c6ZllztrQhGEIoYrBR",
+      "publish_time": "2026-04-03",
+      "category": "AI 技术",
+      "summary": "今天凌晨，谷歌正式发布 Gemma 4，称“这是其迄今为止最智能的开放模型系列”",
+      "importance_score": 9
+    },
+    {
+      "title": "HappyHorse上线在即，阿里云开抢火山AI视频客户",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14246865.html",
+      "publish_time": "2026-04-14",
+      "category": "AI 产业",
+      "summary": "HappyHorse上线在即，阿里云开抢火山AI视频客户 当前阿里云的一线销售已经开始主动出击，开挖火山引擎的AI视频客户",
+      "importance_score": 8
+    },
+    {
+      "title": "李开复陆奇重仓同一家Harness智能体公司，李笛带队，4个月2轮融资3-5年粮草",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/401065.html",
+      "publish_time": "2026-04-14",
+      "category": "AI 综合",
+      "summary": "刚刚，成立仅四个多月的AI初创公司明日新程（Nextie），宣布连续完成两轮融资",
+      "importance_score": 9
+    },
+    {
+      "title": "斯坦福年度结论：中美大模型已没差距",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/401094.html",
+      "publish_time": "2026-04-14",
+      "category": "AI 综合",
+      "summary": "仔细一看才知道，这竟然还是斯坦福HAI最新发布的《2026年AI指数报告》给出的结论",
+      "importance_score": 9
+    },
+    {
+      "title": "今年最火的AI产品，不止龙虾｜榜单申报中",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/401011.html",
+      "publish_time": "2026-04-13",
+      "category": "AI 综合",
+      "summary": "组委会 发自 凹非寺量子位｜公众号 QbitAI 但AI产品总是面临的问题是，爆火的很多，真正能留下的很少 | 这正是我们希望回答的：今年最值得关注的AI企业&产品是什么 | 不只是龙虾，我们也想找到那些真正跑通场景、开始被用户验证的AI产",
+      "importance_score": 9
+    },
+    {
+      "title": "Claude复活30年前传奇游戏，仅用一个周末",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/399903.html",
+      "publish_time": "2026-04-12",
+      "category": "AI 综合",
+      "summary": "仅凭一点线索，Claude就复活了一个30年前的传奇游戏 | 目前评论已经盖到了一百多楼，网友的共识是：这篇帖子堪称传奇 | 发帖人是游戏开发商Beamable的CEOJon Radoff，他用Claude复活了自己19岁时开发的MUD（多",
+      "importance_score": 9
+    },
+    {
+      "title": "不只是卖服务器，中兴通讯想做AI时代的基础设施商",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/401047.html",
+      "publish_time": "2026-04-14",
+      "category": "AI 综合",
+      "summary": "一方面，Co-Claw AI一体机等全栈新品正式发布，把技术能力落地成可用的场景化产品",
+      "importance_score": 9
+    },
+    {
+      "title": "「Claude Code之父」其实是野路子来的……",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/400306.html",
+      "publish_time": "2026-04-12",
+      "category": "AI 综合",
+      "summary": "谁能想到，用Claude Code砸了程序员饭碗的人，还是个自学成才的野路子 | 这下真是端起碗吃饭，放下碗砸锅（bushi） 说起「Claude Code之父」Boris Cherny，职业生涯主打的就是浪～ 经济学专业出身，从零开始自学",
+      "importance_score": 9
+    },
+    {
+      "title": "AI开始直接交付Excel，千问用Agent重构做表流程",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/401041.html",
+      "publish_time": "2026-04-14",
+      "category": "AI 综合",
+      "summary": "4月14日，千问上线“表格Agent”，支持在对话中直接生成、编辑Excel文件 | 在技术实现上，千问将表格生成拆解为一条完整的Agent执行链路：从用户输入需求开始，系统会先进行任务规划，如需不需要写代码、需不需要查资料等，然后再...",
+      "importance_score": 9
+    }
+  ]
+}

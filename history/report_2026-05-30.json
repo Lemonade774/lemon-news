@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-30",
+  "update_time": "2026-05-30T02:37:53.723928",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "清华有了新老师：黄仁勋",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/425948.html",
+      "publish_time": "2026-05-28",
+      "category": "AI 综合",
+      "summary": "刚拿了一个新的博士头衔，老黄又被曝「学术」新动向： 这个顾问委员会由库克担任主席，马斯克、纳德拉、扎克伯格…以及李彦宏、马化腾、马云等人，均是委员会一员 | 据《金融时报》爆料，黄仁勋已接受清华大学经济管理学院的邀请，将加入其顾问委员会 |",
+      "importance_score": 9
+    },
+    {
+      "title": "腾讯PCG 质效团队技术负责人张晔确认出席AICon上海站，分享测试智能体驱动质量工程新范式",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/u6lPG0uJcGuF1aSxrumc",
+      "publish_time": "2026-05-30",
+      "category": "AI 技术",
+      "summary": "测试智能体并不是单一模型能力的展示，而是由多模型协同、端侧工具编排、执行反馈、证据沉淀和治理机制共同组成的质量执行系统",
+      "importance_score": 8
+    },
+    {
+      "title": "MiniMax启动A股上市辅导",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14508645.html",
+      "publish_time": "2026-05-30",
+      "category": "AI 产业",
+      "summary": "暂无详细内容，请点击阅读原文查看。",
+      "importance_score": 8
+    },
+    {
+      "title": "光帆科技与腾讯出行服务达成战略合作 开启新一轮预售",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/426552.html",
+      "publish_time": "2026-05-29",
+      "category": "AI 综合",
+      "summary": "5月29日，光帆科技宣布与腾讯出行服务达成合作，腾讯出行服务将接入光帆AI全感穿戴设备出行服务能力 | 作为聚合型出行服务平台，腾讯出行服务具备出色的服务整合和场景覆盖能力 | 依托腾讯出行服务在用户连接、服务触达和生活场景方面的优势，光帆",
+      "importance_score": 9
+    },
+    {
+      "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/426447.html",
+      "publish_time": "2026-05-29",
+      "category": "AI 综合",
+      "summary": "以文字和视频为例，只需要单点突破大模型生成环节就成，但游戏不仅是内容，更是一个强工程化的复杂系统 | 而这件事，现在正在发生—— 前两天的腾讯游戏发布会上，AI浓度高到爆表",
+      "importance_score": 9
+    },
+    {
+      "title": "创意设计版WorkBuddy来了！腾讯发布智能体创意工作室Miora",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/426400.html",
+      "publish_time": "2026-05-29",
+      "category": "AI 综合",
+      "summary": "用户可以在Miora通过一句话或一份需求描述生成图片、品牌视觉全案、完整视频、UI/UX设计稿等复杂创意产出，并提供局部修改等全流程创作能力，同时即将上线多人协作能力",
+      "importance_score": 9
+    },
+    {
+      "title": "1400亿Agent入场，“流量”这条护城河要塌了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/425881.html",
+      "publish_time": "2026-05-27",
+      "category": "AI 综合",
+      "summary": "昨天在支付宝AI生态大会现场，有别于大多数“技术改变一切”的开场白，蚂蚁集团CEO韩歆毅第一句话就点明了核心基调： AI会带来很多改变，但归根结底，AI服务于人，人掌握着最终决策权 | 他明确提出，Agent时代并非“AI推翻一切重来”，商",
+      "importance_score": 9
+    },
+    {
+      "title": "面壁智能「开源周」：一场定义端侧 AI 终局的系统性「亮剑」",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/426542.html",
+      "publish_time": "2026-05-29",
+      "category": "AI 综合",
+      "summary": "5 月 25 日至 29 日，面壁智能联合 OpenBMB 开源社区，以每日发布一项关键技术成果的节奏，举办了一场「端侧大模型开源周」 | 翻开过去三年的历史，也仅有以「效率美学」著称的 DeepSeek 在 2024 年（6月24日...",
+      "importance_score": 9
+    },
+    {
+      "title": "AI正在重写软件行业？8岁孩子做操作系统，一人公司拿下千万订单",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/426069.html",
+      "publish_time": "2026-05-28",
+      "category": "AI 综合",
+      "summary": "“87%用户不懂代码，却用AI跑通了一人公司” 当AI将编程门槛从“写代码”降低至“聊天”，应用创作的权力正从专业开发者手中释放到每一个普通人—— 甚至连不懂代码的8岁小学生，都能通过跟AI聊天，打造出自己想象中的操作系统；OPC（一人公司",
+      "importance_score": 9
+    },
+    {
+      "title": "4nm！比亚迪自研AI芯片来了：制程对齐英伟达，算力拉爆特斯拉",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/426557.html",
+      "publish_time": "2026-05-29",
+      "category": "AI 综合",
+      "summary": "其实自研计算芯片，无论从比亚迪自身技术实力、技术发展趋势还是比亚迪一贯的垂直整合战略出发，发布会之就已经是一个“公开的秘密”——不做，才是出人意料的big news",
+      "importance_score": 9
+    }
+  ]
+}

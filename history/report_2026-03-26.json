@@ -1,0 +1,97 @@
+{
+  "date": "2026-03-26",
+  "update_time": "2026-03-26T15:46:44.813484",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "LeCun的世界模型单GPU就能跑了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/391698.html",
+      "publish_time": "2026-03-24",
+      "category": "AI 综合",
+      "summary": "LeCun世界模型最新进展，开源了一套极简训练方案，单GPU就能跑 | 这套方案叫LeWorldModel，它基于JEPA架构，实现像素输入直接预测未来，速度快到离谱，完整规划仅需1秒",
+      "importance_score": 9
+    },
+    {
+      "title": "神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5",
+      "publish_time": "2026-03-19",
+      "category": "AI 技术",
+      "summary": "今天，小米正式发布 MiMo-V2 家族三款新模型：MiMo-V2-Pro、MiMo-V2-Omni 和 MiMo-V2-TTS | “一周前，代号为 Hunter Alpha 的匿名模型上线全球最大的 API 聚合平台 OpenRo...",
+      "importance_score": 8
+    },
+    {
+      "title": "人形机器人何时能从表演炫技走向规模化应用？| 博鳌亚洲论坛",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14163913.html",
+      "publish_time": "2026-03-26",
+      "category": "AI 产业",
+      "summary": "” 所谓“ChatGPT时刻”，是指人形机器人领域迎来类似ChatGPT那样的颠覆性突破与爆发拐点",
+      "importance_score": 8
+    },
+    {
+      "title": "马斯克xAI联创11跑10！仅剩特斯拉嫡系独苗留守",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/392245.html",
+      "publish_time": "2026-03-26",
+      "category": "AI 综合",
+      "summary": "据知情人士透露，Manuel Kroiss已告知他将离开公司 | 只剩一根坚守到最后的独苗，是特斯拉嫡系Ross Nordeen",
+      "importance_score": 9
+    },
+    {
+      "title": "第一批“首席龙虾官”，月薪6万",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/392128.html",
+      "publish_time": "2026-03-25",
+      "category": "AI 综合",
+      "summary": "当你以为还是大家伙业余养养的新鲜玩具，已经有公司正经在招「龙虾官」了 | （doge） 随便打开一个招聘网站一搜，你别说，你还真别说，「OpenClaw」标签下的在招岗位真是不少： 不仅「龙虾」已成正式职位名称，还有不少猎头直接打出「养虾你",
+      "importance_score": 9
+    },
+    {
+      "title": "中国AI音乐，悄悄把全球第一拿走了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/391839.html",
+      "publish_time": "2026-03-25",
+      "category": "AI 综合",
+      "summary": "昆仑万维Mureka V8，最新登顶Artificial Analysis音乐模型榜，一举超越Suno V4",
+      "importance_score": 9
+    },
+    {
+      "title": "睿尔曼“茶艺机器人”亮相2026中关村论坛",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/392121.html",
+      "publish_time": "2026-03-25",
+      "category": "AI 综合",
+      "summary": "操作员在北京人形机器人数据训练中心远程遥操，RealBOT轮式人形机器人在论坛现场实时作业，让非遗大师的制茶技艺得以突破时空限制，在论坛现场为更多人呈现一杯好茶",
+      "importance_score": 9
+    },
+    {
+      "title": "WorkBuddy杀疯了？一群AI专家帮我打工，我在微信里当赛博虾工头！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/391894.html",
+      "publish_time": "2026-03-25",
+      "category": "AI 综合",
+      "summary": "梦瑶 发自 凹非寺量子位 | 公众号 QbitAI 到底是谁说，给老板打工自己就当不成老板的 | 毕竟现在的我，已经转头当起了「虾工头」，指挥N个龙虾专家，跑起一整套自媒体内容生产流水线了 | 起号我确实一窍不通，但架不住我随身带运营策略军",
+      "importance_score": 9
+    },
+    {
+      "title": "它石智航用“吉尼斯纪录”交卷真干活的具身大脑，丁文超：从来没有Plan B",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/392137.html",
+      "publish_time": "2026-03-26",
+      "category": "AI 综合",
+      "summary": "天使轮融资额刷新纪录，明星创始团队，让它石自创立之初，便一跃成为具身智能赛道炙手可热的名字 | 然而接下来的一年里，它石智航选择了一条截然不同的路：没有参加各种行业大会，没有频繁对外发声，没有出现在春晚或各类展示活动中，一直踏实干活",
+      "importance_score": 9
+    },
+    {
+      "title": "从“被动感知”到“理解接触”，它石智航联合六大机构发布OmniVTA视触觉世界模型",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/392105.html",
+      "publish_time": "2026-03-25",
+      "category": "AI 综合",
+      "summary": "想象这样一个场景：你正在擦桌子、削水果，或者插拔一个精密零件 | 这些动作对人类来说轻而易举，然而对于机器人来说，这些看似简单的操作却是一道难以跨越的技术鸿沟 | 近期，它石智航联合新加坡国立大学、复旦大学、中科院自动化所、清华大学、中关村",
+      "importance_score": 9
+    }
+  ]
+}

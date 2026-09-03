@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-16",
+  "update_time": "2026-05-16T02:30:28.300551",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "坐到马斯克和库克中间的湖南女人",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417965.html",
+      "publish_time": "2026-05-15",
+      "category": "AI 综合",
+      "summary": "2025年，蓝思科技发布的一份的半年报，露出了其长期战略合作伙伴名单",
+      "importance_score": 9
+    },
+    {
+      "title": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/ch60MR1deJECc2dP9dhf",
+      "publish_time": "2026-05-13",
+      "category": "AI 技术",
+      "summary": "用 Thinking Machines 的话说，目前大多数 AI 模型都是通过“外挂式”的方式来实现交互，将不同组件拼接在一起以模拟打断、多模态或并发等能力 | 今天，Thinking Machines 宣布推出“交互模型”TML-I...",
+      "importance_score": 8
+    },
+    {
+      "title": "阿里发布Qoder 1.0，可全面接管代码生成、验证和交付流程",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/418027.html",
+      "publish_time": "2026-05-15",
+      "category": "AI 综合",
+      "summary": "0围绕Agent全面升级了交互体验，推出全新的Quest独立视窗，它集成了任务管理、状态追踪、产物审查和知识调用能力，用户输入需求后，执行、验证和交付均可由Agent自主在工作台内完成",
+      "importance_score": 9
+    },
+    {
+      "title": "华为云创想者大会主题论坛议程公布：释放Agentic AI新布局",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/418135.html",
+      "publish_time": "2026-05-15",
+      "category": "AI 综合",
+      "summary": "在基础设施层面，华为云围绕“硅基黑土地”战略，或将发布Agentic AI Infra新品 | 在智能体层面，华为云将推出企业级智能体平台AgentArts | 据悉，该平台将支撑企业智能体开发全流程，并实现从实验性应用走向生产级运行...",
+      "importance_score": 9
+    },
+    {
+      "title": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417935.html",
+      "publish_time": "2026-05-15",
+      "category": "AI 综合",
+      "summary": "成立仅一年，公司已累计完成数亿元融资，吸引了包括重量级国资平台、头部财务机构及产业资本在内的十余家知名投资机构深度参与，老股东持续跟投",
+      "importance_score": 9
+    },
+    {
+      "title": "手机的智能体AI，正在因为天玑全面跃升",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417968.html",
+      "publish_time": "2026-05-15",
+      "category": "AI 综合",
+      "summary": "联发科正在成为智能体化体验落地的全栈赋能者 智能体化，正在成为AI行业最密集爆发的方向 | 开发者社区里，OpenClaw、Hermes这类能跨session持续记忆、自我学习的智能体框架，今年甫一出现便以惊人速度扩张 | Hermes A",
+      "importance_score": 9
+    },
+    {
+      "title": "重生之我在AI时代当老板：让一群Agent互相PUA",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417816.html",
+      "publish_time": "2026-05-14",
+      "category": "AI 综合",
+      "summary": "正好最近不是流行用AI做HTML吗，我就给它丢了这么一个任务： 基于Mavis的blog，做一个能放进文章展示的HTML专题页",
+      "importance_score": 9
+    },
+    {
+      "title": "国产GPU组了个开源局，把SGLang等核心开发者都摇来了！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417791.html",
+      "publish_time": "2026-05-14",
+      "category": "AI 综合",
+      "summary": "没有大厂高管站台，一屋子却挤满了开源圈的熟面孔 | 随便往台下扫一眼，就能对上好几个GitHub上的明星ID： 这场看似是开源圈极客们的面基会，却着实是有点反差在身上的—— 活动的攒局者，是国产GPU玩家，摩尔线程 | 但这场SGLa...",
+      "importance_score": 9
+    },
+    {
+      "title": "容联云发布“数字员工”级 Al Agent 平台，重塑大模型联络中心",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/418140.html",
+      "publish_time": "2026-05-15",
+      "category": "AI 综合",
+      "summary": "在 2026 中国客户服务节上，容联云正式发布新一代「AI Agent 智慧联络平台」 | 而容联云此次发布的平台，通过 Agent 能力重构联络中心业务流程，让其真正具备业务理解、任务规划与执行能力，成为可独立承担任务的「数字员工」",
+      "importance_score": 9
+    },
+    {
+      "title": "蚂蚁百灵 Ring-2.6-1T 开源 Agent 执行能力全面增强",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417961.html",
+      "publish_time": "2026-05-15",
+      "category": "AI 综合",
+      "summary": "6-1T 正式开源，权重文件同步上线 Hugging Face、ModelScope 平台 | 此前，该模型上线 OpenRouter，并开放限时免费 API 体验",
+      "importance_score": 9
+    }
+  ]
+}

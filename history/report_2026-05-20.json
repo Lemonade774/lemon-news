@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-20",
+  "update_time": "2026-05-20T02:45:53.552041",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "AI水论文封一年，署名连坐！arXiv最严新规来了，陶哲轩附议",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/419528.html",
+      "publish_time": "2026-05-18",
+      "category": "AI 综合",
+      "summary": "后续投稿须先通过同行评审，才有资格重新踏入arXiv | 这是arXiv计算机科学版块主席Thomas Dietterich在X上刚刚公开的新规，语气干脆，不带商量 | 若论文中存在作者未核查LLM生成内容的确凿证据，所有署名作者一并受罚，",
+      "importance_score": 9
+    },
+    {
+      "title": "“一人公司”正在重做AI创业？极客部落首场16个OPC项目路演：AI 创业已从“卷模型”转向“卷闭环”",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/7m4Os8IANbmWbDOc4wDj",
+      "publish_time": "2026-05-15",
+      "category": "AI 技术",
+      "summary": "现在的 OPC 们都不怎么聊“大模型”、“参数”、“BenchMark”这些东西了，反而更关心的是谁能最快把 AI 塞进真实场景里，然后把闭环跑通 | 以上，是我们的极客部落在望京极客部落 OPC 路演现场，看完 16 个项目后最明显的感受",
+      "importance_score": 8
+    },
+    {
+      "title": "今年的发布不仅强调技术，更强调智能体、实用场景和价值。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14452555.html",
+      "publish_time": "2026-05-20",
+      "category": "AI 产业",
+      "summary": "Google I/O大会释放竞争决心：搜索迎来历史性更新，AI进入一切 今年的发布不仅强调技术，更强调智能体、实用场景和价值 | 美东时间5月19日，谷歌公司在年度开发者大会Google I/O 2026上发布了多项AI更新，涉及Ge...",
+      "importance_score": 8
+    },
+    {
+      "title": "Cursor新模型，你怎么还在套Kimi？马斯克你怎么还吆喝上了？？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/419990.html",
+      "publish_time": "2026-05-19",
+      "category": "AI 综合",
+      "summary": "Cursor模型更新，最新版本已来到Composer 2 | 稍微一翻Cursor公告，两件事挺有意思： 一是Cursor这回学老实了，新模型“套”了Kimi不再藏着掖着，连具体用了多少都标的清清楚楚",
+      "importance_score": 9
+    },
+    {
+      "title": "苏姿丰上海开讲：AI正在重新定义计算的每一层",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/420531.html",
+      "publish_time": "2026-05-20",
+      "category": "AI 综合",
+      "summary": "这是AMD AI开发者大会今天首次落地上海时，AMD董事会主席、首席执行官苏姿丰针对AI行业给出的最新判断 | 这次应AMD邀请，量子位来到了这场大会现场观摩学习 | 参加完这一天的活动后可以感受到，从苏姿丰的判断，到整场大会的选题和阵容，",
+      "importance_score": 9
+    },
+    {
+      "title": "抢先李飞飞！世界模型能多人联机玩FPS游戏了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/420083.html",
+      "publish_time": "2026-05-19",
+      "category": "AI 综合",
+      "summary": "审美很独特的一家公司，拍个发布视频跟拍《黑镜》一样",
+      "importance_score": 9
+    },
+    {
+      "title": "重塑主流PC，第三代英特尔酷睿开启全民AI轻薄本时代",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/419585.html",
+      "publish_time": "2026-05-18",
+      "category": "AI 综合",
+      "summary": "预计全球合作伙伴将陆续推出超过70款基于该平台的创新设计",
+      "importance_score": 9
+    },
+    {
+      "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/420084.html",
+      "publish_time": "2026-05-19",
+      "category": "AI 综合",
+      "summary": "但一家国产GPU厂商，却在一整场发布会的时间里，做了一件非常物理的事儿—— 在走到舞台中央后，只见屏幕里仿真世界的小飞侧空翻了一下，随即，物理世界的小飞便做出了一模一样的动作 | 正是由摩尔线程新鲜发布的MT Lambda | 这是首...",
+      "importance_score": 9
+    },
+    {
+      "title": "5.20 明天见！拿好这份参会指南｜AIGC2026峰会",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/419901.html",
+      "publish_time": "2026-05-19",
+      "category": "AI 综合",
+      "summary": "下午场：从模型开源到场景落地，从国产算力到全球投资，Agent产品的非共识答案，一线AI玩家现场碰撞",
+      "importance_score": 9
+    },
+    {
+      "title": "百度无人车新纪录：周订单破35万！李彦宏：开始单城盈利了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/419597.html",
+      "publish_time": "2026-05-19",
+      "category": "AI 综合",
+      "summary": "全球27座城市，都能见到萝卜快跑的身影；部分国内核心城市，也已实现单车盈亏平衡",
+      "importance_score": 9
+    }
+  ]
+}

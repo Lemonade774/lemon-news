@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-30",
+  "update_time": "2026-08-30T03:07:51.456560",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "Coding不再是程序员专属！阿里Qoder这波有点绝",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/480940.html",
+      "publish_time": "2026-08-29",
+      "category": "AI 综合",
+      "summary": "全新的桌面端一上线，它直接在桌面上养起了宠物 | 现在有个什么想法，不一定非得先打开工程、创建项目，再琢磨该怎么实现了，直接和桌宠唠就行—— Qoder, beyond coding，所以这回到底Beyond到哪儿去了",
+      "importance_score": 9
+    },
+    {
+      "title": "曝英伟达129 亿美元收购Hugging Face！黄仁勋：我只后悔没有更早、更多投资OpenAI、Anthropic",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/Z9bIWfsMCIA9yiLUSDvJ",
+      "publish_time": "2026-08-28",
+      "category": "AI 技术",
+      "summary": "Hugging Face 是一个备受欢迎的、用于分享开源模型以及基于开源模型进行开发的 AI 平台 | 而就在该消息曝出前数小时，英伟达发布了最新的季度财报 | 在最新的 2027 财年第二季度财报电话会上，黄仁勋判断，客户对英伟达算...",
+      "importance_score": 8
+    },
+    {
+      "title": "OpenClaw：红过，爱过，散了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/480855.html",
+      "publish_time": "2026-08-29",
+      "category": "AI 综合",
+      "summary": "这才过去多久啊，咋感觉OpenClaw像没来过一样啊",
+      "importance_score": 9
+    },
+    {
+      "title": "去年归国的徐梦迪，成了清华姚班班主任",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481318.html",
+      "publish_time": "2026-08-29",
+      "category": "AI 综合",
+      "summary": "据公众号「水木TsinghuaCent」统计，2026级姚班共录取约90人，其中约66人通过竞赛保送等渠道提前进入，另有24人从清华新生中经过笔试、面试脱颖而出 | 这批学生中，国家集训队成员占据相当比例，约有27名信息学竞赛顶尖选手；还有",
+      "importance_score": 9
+    },
+    {
+      "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/480700.html",
+      "publish_time": "2026-08-28",
+      "category": "AI 综合",
+      "summary": "不得不说，这真是我参加过最「全自动」的产品发布会…… 新闻稿、产品长图、嘉宾金句海报、现场高光视频……一个接一个往外冒，简直是「实时转录」 | 完成这一切的，正是发布会的主角——百度搭子 | 从资料检索、信息分析到生成最终成果，整个过...",
+      "importance_score": 9
+    },
+    {
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/468398.html",
+      "publish_time": "2026-08-08",
+      "category": "AI 综合",
+      "summary": "眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权",
+      "importance_score": 9
+    },
+    {
+      "title": "32GB大显存加持，英特尔锐炫Pro B70搞定AI漫剧创作",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/480787.html",
+      "publish_time": "2026-08-29",
+      "category": "AI 综合",
+      "summary": "今日，英特尔在广州举办以“智算于芯，创想无垠”为主题的AIGC创作研讨会 | 继日前实现对开源模型MiniMax H3的Day 0首发适配支持后，英特尔在现场联合MiniMax、数字折叠展示了基于英特尔锐炫™ Pro B70专业级显卡打造的",
+      "importance_score": 9
+    },
+    {
+      "title": "AI本地部署不如官方版的元凶找到了：734个依赖包，每一个都可能坑",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481372.html",
+      "publish_time": "2026-08-29",
+      "category": "AI 综合",
+      "summary": "推理软件栈的微小差异，就能改变输出token 丸辣 | 辛辛苦苦本地部署的大模型，怎么就是比官方版更笨",
+      "importance_score": 9
+    },
+    {
+      "title": "20ms把PDF变成Markdown！开源OCR神器快了近300倍",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481075.html",
+      "publish_time": "2026-08-29",
+      "category": "AI 综合",
+      "summary": "曾经只能手动摘取PDF文字、结果乱码一堆、LLM还看不懂的苦逼日子—— Y Combinator孵化的明星项目Firecrawl团队最近放了个大招： 其联合创始人兼CTO Nicolas Camara宣布，他们最新开发的OCR It可以在2",
+      "importance_score": 9
+    },
+    {
+      "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/480666.html",
+      "publish_time": "2026-08-28",
+      "category": "AI 综合",
+      "summary": "时代周刊刚刚公布了2026年度全球百名AI人物名单—— 奥特曼、马斯克、Ilya、李飞飞、LeCun、Dario等全球AI行业的Big Name悉数入选 | 国内的熟悉面孔同样不少，字节跳动梁汝波、阿里巴巴吴泳铭、月之暗面杨植麟、智谱张鹏、",
+      "importance_score": 9
+    }
+  ]
+}

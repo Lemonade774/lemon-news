@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-01",
+  "update_time": "2026-09-01T03:08:25.835693",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "VC疯了！200万现金冠军奖，又花4000万造了一座AI「创业乌托邦」",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481928.html",
+      "publish_time": "2026-08-31",
+      "category": "AI 综合",
+      "summary": "划重点：这次不是你挨家敲门，是VC排队来看你 | 在AI创业这件事上，真正稀缺的不只是钱，还有被看见、被理解的机会 | 早期团队既要做产品、找客户、招人，又要发BP、约VC",
+      "importance_score": 9
+    },
+    {
+      "title": "智能体适应度函数：将演进式架构扩展至确定性规则之外",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/8iWWrov7bkk1hz5CcFft",
+      "publish_time": "2026-08-31",
+      "category": "AI 技术",
+      "summary": "通过一个个看似合理的变更——它们虽然能通过所有既定规则的检验，但其实现却在悄无声息地偏离团队原本认为已经加以保护的设计意图 | 它是一种方法，旨在使某些原本需要人工进行的架构判断具备足够的可重复性以实现持续运行，并具备足够的透明度以供审计",
+      "importance_score": 8
+    },
+    {
+      "title": "范式与华为达成重磅算力战略合作，成为首批拥抱国产最高端算力底座的AI企业",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481919.html",
+      "publish_time": "2026-08-31",
+      "category": "AI 综合",
+      "summary": "近日，范式正式举办 PhanthyMotus 生态社区共建计划发布会，宣布其首个通用具身Agent底座从“开源”迈入“多方共建”新阶段",
+      "importance_score": 9
+    },
+    {
+      "title": "去年归国的徐梦迪，成了清华姚班班主任",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481318.html",
+      "publish_time": "2026-08-29",
+      "category": "AI 综合",
+      "summary": "据公众号「水木TsinghuaCent」统计，2026级姚班共录取约90人，其中约66人通过竞赛保送等渠道提前进入，另有24人从清华新生中经过笔试、面试脱颖而出 | 这批学生中，国家集训队成员占据相当比例，约有27名信息学竞赛顶尖选手；还有",
+      "importance_score": 9
+    },
+    {
+      "title": "滴滴自动驾驶新一代车型开启载客测试服务",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481923.html",
+      "publish_time": "2026-08-31",
+      "category": "AI 综合",
+      "summary": "车外屏交互、提前设置车内空调温度与氛围灯颜色，以及鸣笛寻车、语音寻车等便捷找车功能，将陆续上线",
+      "importance_score": 9
+    },
+    {
+      "title": "我的自媒体搭子太能卷，一顿饭功夫17份成品",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/480700.html",
+      "publish_time": "2026-08-28",
+      "category": "AI 综合",
+      "summary": "不得不说，这真是我参加过最「全自动」的产品发布会…… 新闻稿、产品长图、嘉宾金句海报、现场高光视频……一个接一个往外冒，简直是「实时转录」 | 完成这一切的，正是发布会的主角——百度搭子 | 从资料检索、信息分析到生成最终成果，整个过...",
+      "importance_score": 9
+    },
+    {
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/468398.html",
+      "publish_time": "2026-08-08",
+      "category": "AI 综合",
+      "summary": "眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权",
+      "importance_score": 9
+    },
+    {
+      "title": "「GPT-6」灰测demo刷屏！周四发布在即",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481893.html",
+      "publish_time": "2026-08-31",
+      "category": "AI 综合",
+      "summary": "Astra好猛啊，还没出笼就已经在X杀疯了 | 过去几天，一批自称拿到OpenAI内部检查点权限的开发者，放出了一个神秘模型的实测demo | 效果巨离谱，虽然还是代号，但大家认为这就是OpenAI憋了整整一个月的大招—— 这个最强旗舰模型",
+      "importance_score": 9
+    },
+    {
+      "title": "OpenAI买几万台Mac搞强化训练！英伟达的活被苹果抢了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481759.html",
+      "publish_time": "2026-08-31",
+      "category": "AI 综合",
+      "summary": "什么样的AI业务，英伟达GPU和谷歌TPU搞不定，非得用Mac 梦晨 发自 凹非寺量子位 | 公众号 QbitAI OpenAI被曝疯狂扫货Mac，一买就是几万台 | Macbook笔记本不要，专买没有屏幕、没有键盘的Mac mini和Ma",
+      "importance_score": 9
+    },
+    {
+      "title": "《时代》周刊全球AI 100放榜，精准捕获稚晖君最“想低调”的幕后老板",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/480666.html",
+      "publish_time": "2026-08-28",
+      "category": "AI 综合",
+      "summary": "时代周刊刚刚公布了2026年度全球百名AI人物名单—— 奥特曼、马斯克、Ilya、李飞飞、LeCun、Dario等全球AI行业的Big Name悉数入选 | 国内的熟悉面孔同样不少，字节跳动梁汝波、阿里巴巴吴泳铭、月之暗面杨植麟、智谱张鹏、",
+      "importance_score": 9
+    }
+  ]
+}

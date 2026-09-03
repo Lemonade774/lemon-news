@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-15",
+  "update_time": "2026-05-15T02:41:08.918971",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "阿里 AI 应用新进展：悟空开始逐步规模化放量",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417748.html",
+      "publish_time": "2026-05-14",
+      "category": "AI 综合",
+      "summary": "5月13日，阿里巴巴集团发布2026财年Q4及全年财报 | 在财年第四季度，阿里 AI 在模型、云基础设施和应用各层实现加速突破",
+      "importance_score": 9
+    },
+    {
+      "title": "ChatGPT那一套要过时了？翁荔实测创业首个模型，回合制AI被“原生实时交互”秒了",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/ch60MR1deJECc2dP9dhf",
+      "publish_time": "2026-05-13",
+      "category": "AI 技术",
+      "summary": "用 Thinking Machines 的话说，目前大多数 AI 模型都是通过“外挂式”的方式来实现交互，将不同组件拼接在一起以模拟打断、多模态或并发等能力 | 今天，Thinking Machines 宣布推出“交互模型”TML-I...",
+      "importance_score": 8
+    },
+    {
+      "title": "亚历山大王回应一切：LeCun、Manus，“我的父母都是中国人”",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417488.html",
+      "publish_time": "2026-05-14",
+      "category": "AI 综合",
+      "summary": "直到上个月 Meta发布新模型Muse Spark，这也是他加入Meta以来交出的第一份答卷",
+      "importance_score": 9
+    },
+    {
+      "title": "腾讯开源 Agent 记忆技术方案，Token 消耗最高降低 61%",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417753.html",
+      "publish_time": "2026-05-14",
+      "category": "AI 综合",
+      "summary": "腾讯云数据库团队开源的TencentDB Agent Memory ，提出了一套新的记忆压缩方案：将完整信息卸载到外部存储，同时保留任务执行过程中的关键状态与结构关系",
+      "importance_score": 9
+    },
+    {
+      "title": "挑战扩散自回归统治！字节提出视觉生成第三种路线，让模型像人类一样边画边改",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/416978.html",
+      "publish_time": "2026-05-416978",
+      "category": "AI 综合",
+      "summary": "暂无详细内容，请点击阅读原文查看。",
+      "importance_score": 9
+    },
+    {
+      "title": "数亿元融资落地！国内最早布局“人类学习”路线的具身公司，用人类视角重做具身智能",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417935.html",
+      "publish_time": "2026-05-15",
+      "category": "AI 综合",
+      "summary": "成立仅一年，公司已累计完成数亿元融资，吸引了包括重量级国资平台、头部财务机构及产业资本在内的十余家知名投资机构深度参与，老股东持续跟投",
+      "importance_score": 9
+    },
+    {
+      "title": "Robotaxi第一股又涨疯了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417754.html",
+      "publish_time": "2026-05-14",
+      "category": "AI 综合",
+      "summary": "文远知行最近宣布，要在5年内部署20万台Robotaxi——在各玩家的Robotaxi公开部署计划中，这是目前数量最庞大的一个 | 这家L4公司的底气，很可能来自当前的业绩在背后支撑： Q1总营收增长58%，产品收入暴涨116%；经营亏损收",
+      "importance_score": 9
+    },
+    {
+      "title": "重生之我在AI时代当老板：让一群Agent互相PUA",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417816.html",
+      "publish_time": "2026-05-14",
+      "category": "AI 综合",
+      "summary": "正好最近不是流行用AI做HTML吗，我就给它丢了这么一个任务： 基于Mavis的blog，做一个能放进文章展示的HTML专题页",
+      "importance_score": 9
+    },
+    {
+      "title": "人手一个数据库，Kimi背后这套AI基建到底有多能扛？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417731.html",
+      "publish_time": "2026-05-14",
+      "category": "AI 综合",
+      "summary": "那么Kimi究竟是如何在成本、规模与性能的“不可能三角”中，实现这种“人手一个数据库”的奢侈配置",
+      "importance_score": 9
+    },
+    {
+      "title": "国产GPU组了个开源局，把SGLang等核心开发者都摇来了！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/417791.html",
+      "publish_time": "2026-05-14",
+      "category": "AI 综合",
+      "summary": "没有大厂高管站台，一屋子却挤满了开源圈的熟面孔 | 随便往台下扫一眼，就能对上好几个GitHub上的明星ID： 这场看似是开源圈极客们的面基会，却着实是有点反差在身上的—— 活动的攒局者，是国产GPU玩家，摩尔线程 | 但这场SGLa...",
+      "importance_score": 9
+    }
+  ]
+}

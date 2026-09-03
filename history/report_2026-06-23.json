@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-23",
+  "update_time": "2026-06-23T02:44:23.583775",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437023.html",
+      "publish_time": "2026-06-20",
+      "category": "AI 综合",
+      "summary": "12年前，陶哲轩在首届数学突破奖的台上抛出的一句预言，被视作天方夜谭： 将来有一天，我们或许不再用LaTeX撰写论文，而是使用计算机能理解的的形式化语言",
+      "importance_score": 9
+    },
+    {
+      "title": "2026下半年中美AI创业机会：从技术红利到商业验证｜AICon上海",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/gk0VlPy3hufsH4zKTh2X",
+      "publish_time": "2026-06-23",
+      "category": "AI 技术",
+      "summary": "6 月 26 日-27 日，AICon全球人工智能开发与应用大会即将在上海举行 | 本次大会将以“构建可信赖、可规模化、可商业化的 Agentic 操作系统”为核心命题，集结清华、复旦等知名高校教授，以及来自阿里、腾讯、蚂蚁、字节、快手、小",
+      "importance_score": 8
+    },
+    {
+      "title": "阿里发布视频生成模型HappyHorse 1.1：五大维度全面升级",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437317.html",
+      "publish_time": "2026-06-22",
+      "category": "AI 综合",
+      "summary": "6月22日，阿里巴巴发布视频生成模型HappyHorse 1",
+      "importance_score": 9
+    },
+    {
+      "title": "AI转型最大的门槛，不是技术，是人",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/436435.html",
+      "publish_time": "2026-06-17",
+      "category": "AI 综合",
+      "summary": "这是浪潮信息董事长彭震，在人工智能+生态大会（AIEC2026）上抛出的判断 | 这场大会由清华大学全球产业研究院主办，聚集了数十家机构，主题就是探索AI走向产业实践的方法路径 | 值得注意的是，基础设施、算力、芯片，这些浪潮信息最擅长的领",
+      "importance_score": 9
+    },
+    {
+      "title": "小扎「蒸馏员工」计划紧急喊停！私聊数据都泄露了…",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437330.html",
+      "publish_time": "2026-06-23",
+      "category": "AI 综合",
+      "summary": "难怪Meta CTO都不得不承认“内部士气快跌到历史谷底”了",
+      "importance_score": 9
+    },
+    {
+      "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437198.html",
+      "publish_time": "2026-06-21",
+      "category": "AI 综合",
+      "summary": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑” | 量子位不完全统计，2026年上半年（截至6月12日），国内具身智能赛道共融资约438亿元 | 而2025年全年的融资金额约554亿元，2...",
+      "importance_score": 9
+    },
+    {
+      "title": "AI硬件席卷618，钉钉A1包揽天猫、抖音、京东销量冠军",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437308.html",
+      "publish_time": "2026-06-22",
+      "category": "AI 综合",
+      "summary": "钉钉 A1 是钉钉于 2025 年十周年发布会上推出的首款 AI 硬件",
+      "importance_score": 9
+    },
+    {
+      "title": "DeepSeek缺Agent人才缺疯了！负责人各种贴广告",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437249.html",
+      "publish_time": "2026-06-22",
+      "category": "AI 综合",
+      "summary": "刚刚，Harness部门负责人崔添翼再次在线直聘：Harness部门空缺较大，速来 | 缺人缺疯了，崔添翼说：自己每天都在面试，以及各种地方贴小广告 | 执行力MAX的网友们，已经在评论区毛遂自荐了",
+      "importance_score": 9
+    },
+    {
+      "title": "撸猫撸出SOTA！3个00后2个月，造出史上最快流式音视频社交模型",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/436996.html",
+      "publish_time": "2026-06-20",
+      "category": "AI 综合",
+      "summary": "时长可达30分钟以上，这也是业界首次实现这个长度",
+      "importance_score": 9
+    },
+    {
+      "title": "诺奖得主、AlphaFold之父投奔Anthropic！谷歌48小时连跑俩大将",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/436980.html",
+      "publish_time": "2026-06-20",
+      "category": "AI 综合",
+      "summary": "Google DeepMind的诺奖得主、AlphaFold之父John Jumper，跳槽Anthropic了 | 本人已亲自在X上官宣：将近九年后，他决定离开Google DeepMind，加入Anthropic——也就是DeepMin",
+      "importance_score": 9
+    }
+  ]
+}

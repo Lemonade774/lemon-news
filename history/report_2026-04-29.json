@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-29",
+  "update_time": "2026-04-29T02:29:54.985104",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "阿里视频模型 HappyHorse 开启灰测，悟空已率先接入",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/410314.html",
+      "publish_time": "2026-04-28",
+      "category": "AI 综合",
+      "summary": "现在通过悟空，运营人员只需用一句话描述产品卖点和风格，即可快速生成产品展示视频和推广图片，从创意到成品的周期大幅缩短",
+      "importance_score": 9
+    },
+    {
+      "title": "DeepSeek V4 重磅开源！首次打通华为Ascend，也没丢掉英伟达，百万上下文夺回国产模型话语权",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/wUUPEzvNajcaVN0k7HPF",
+      "publish_time": "2026-04-24",
+      "category": "AI 技术",
+      "summary": "DeepSeek-V4 拥有百万字超长上下文，在 Agent 能力、世界知识和推理性能三大维度上均实现了国内与开源领域的领先 | 秉承 DeepSeek 一贯的开放精神，本次发布的模型按大小分为两个版本，欢迎开发者、研究者和企业用户前...",
+      "importance_score": 9
+    },
+    {
+      "title": "Cursor 9秒删库搞崩公司，然后…写了份检讨",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/410317.html",
+      "publish_time": "2026-04-28",
+      "category": "AI 综合",
+      "summary": "Cursor啊Cursor，你怎么又出事了…… 就在即将被马斯克收购的节骨眼上，又出了大问题，直接干到48小时内X帖子浏览量450万、HN评论900条的程度",
+      "importance_score": 9
+    },
+    {
+      "title": "AI真能搞钱了！这家公司把大模型玩成闭环赚钱机器",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/410294.html",
+      "publish_time": "2026-04-28",
+      "category": "AI 综合",
+      "summary": "跑通AI盈利正循环，还教你躺着用Agent赚钱 | 当全行业还在卷大模型参数、烧算力、拼Token消耗时，已经有企业实打实地在用大模型帮客户赚到真金白银 | 这些年，天下苦SaaS久矣，更苦“AI好看不好用”",
+      "importance_score": 9
+    },
+    {
+      "title": "支付宝正式发布“支付宝AI收”，个人开发者0费率使用",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/410450.html",
+      "publish_time": "2026-04-28",
+      "category": "AI 综合",
+      "summary": "4月28日，支付宝正式上线“支付宝AI收”，帮助商家和个人开发者通过OpenClaw（俗称“龙虾”）这类AI Agent提供商业化服务，实现按调用即时收款 | 这是继推出“AI付”之后，支付宝在智能体支付领域的进一步布局 | com/...",
+      "importance_score": 9
+    },
+    {
+      "title": "我嘞个豆！中国企业牵头，ICLR这场Workshop被挤爆了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/410463.html",
+      "publish_time": "2026-04-28",
+      "category": "AI 综合",
+      "summary": "瓜多到一度吃不下的ICLR 2026，这几天终于在巴西开线下了 | 没去不要紧，最热闹最好玩的，咱都已经总结好了： 不过当你以为这就完了的时候，一场主会之外的Workshop，才刚刚登场",
+      "importance_score": 9
+    },
+    {
+      "title": "消费级显卡可以快速上手跑！面壁智能MiniCPM-o 4.5发技术报告",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/410506.html",
+      "publish_time": "2026-04-28",
+      "category": "AI 综合",
+      "summary": "面壁智能公开了自己在全双工全模态交互领域的核心技术—— 今天，面壁智能联合OpenBMB开源社区、清华大学THUNLP实验室和THUMAI实验室，正式发布MiniCPM-o 4 | 5是面壁智能今年2月发布的全双工全模态模型，也是业界...",
+      "importance_score": 9
+    },
+    {
+      "title": "量子位专访楼天城：AI是匹脱缰野马，Harness是这个时代最关键的能力",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/408578.html",
+      "publish_time": "2026-04-27",
+      "category": "AI 综合",
+      "summary": "这也是小马智行发布PonyWorld世界模型2",
+      "importance_score": 9
+    },
+    {
+      "title": "3个月手搓Gamma架构，这个团队打造出了场景白盒化推理的“下一代内容OS”",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/409561.html",
+      "publish_time": "2026-04-28",
+      "category": "AI 综合",
+      "summary": "通过AI驱动的可编辑内容系统「Pi」（Presentation Intelligence），这个团队把AI的生成能力和人的编辑能力，真正装进了同一个系统，让内容设计真正实现白盒化",
+      "importance_score": 9
+    },
+    {
+      "title": "国内首家百亿估值纯推理GPU独角兽诞生！专访曦望联席CEO王湛：谁的推理成本更低谁就是赢家",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/406020.html",
+      "publish_time": "2026-04-23",
+      "category": "AI 综合",
+      "summary": "因为一家纯推理GPU公司，在分拆独立仅1年多时间里，竟已经完成了七轮融资，累计40亿元 | 而随着前几天最新一轮融资的曝光，还以10亿元拿下今年这个赛道里最大单笔融资，一举成为国内首家估值超百亿的纯推理GPU独角兽 | 今年英伟达GT...",
+      "importance_score": 9
+    }
+  ]
+}

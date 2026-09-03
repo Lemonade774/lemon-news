@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-24",
+  "update_time": "2026-06-24T02:44:54.244719",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "陶哲轩12年前的预言，现在AI帮他兑现了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437023.html",
+      "publish_time": "2026-06-20",
+      "category": "AI 综合",
+      "summary": "12年前，陶哲轩在首届数学突破奖的台上抛出的一句预言，被视作天方夜谭： 将来有一天，我们或许不再用LaTeX撰写论文，而是使用计算机能理解的的形式化语言",
+      "importance_score": 9
+    },
+    {
+      "title": "创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/GYBZkeGxGry11oCu0c1A",
+      "publish_time": "2026-06-18",
+      "category": "AI 技术",
+      "summary": "去年刚成立的光象科技，近日发布了首个工业级自进化具身智能机器人 Phi-Bot X1",
+      "importance_score": 8
+    },
+    {
+      "title": "实测微信AI助手，微信迎来史上最大更新",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14628205.html",
+      "publish_time": "2026-06-24",
+      "category": "AI 产业",
+      "summary": "6月20日，微信原生AI助手“小微”开启小范围内测，获得内测资格的用户，可在微信更新至最新版本（8 | 75）后，点击微信主界面左上角的“小微”标志使用AI功能",
+      "importance_score": 8
+    },
+    {
+      "title": "正行创新完成近亿美元天使轮融资，正大集团、华勤技术等多家上市企业联合加持",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437694.html",
+      "publish_time": "2026-06-23",
+      "category": "AI 综合",
+      "summary": "以“数据—模型—基础设施”系统性协同通往物理智能 6月23日，面向物理智能的具身智能企业正行创新（Striding AI）已完成近亿美元天使轮系列融资 | 在正行创新看来，物理智能的长期竞争力，不只来自某个单点的技术突破，更来自将算法...",
+      "importance_score": 9
+    },
+    {
+      "title": "AI转型最大的门槛，不是技术，是人",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/436435.html",
+      "publish_time": "2026-06-17",
+      "category": "AI 综合",
+      "summary": "这是浪潮信息董事长彭震，在人工智能+生态大会（AIEC2026）上抛出的判断 | 这场大会由清华大学全球产业研究院主办，聚集了数十家机构，主题就是探索AI走向产业实践的方法路径 | 值得注意的是，基础设施、算力、芯片，这些浪潮信息最擅长的领",
+      "importance_score": 9
+    },
+    {
+      "title": "云计算一哥，让小鹏、Kimi和猎豹都爽了一把",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437672.html",
+      "publish_time": "2026-06-23",
+      "category": "AI 综合",
+      "summary": "有这么一组数据，是真真儿地戳到了用Agent这件事的爽点 | 看完这些数字，想必大家脑海里已经是一堆Agent塞满一家公司的画面了，而且是井井有条的那种 | 这家率先尝到Agent“甜蜜点”的公司是谁",
+      "importance_score": 9
+    },
+    {
+      "title": "智能座舱之王「转身」物理AI，高通需要被重估了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/432494.html",
+      "publish_time": "2026-06-24",
+      "category": "AI 综合",
+      "summary": "贾浩楠 发自 副驾寺智能车参考 | 公众号 AI4Auto AI算力一哥英伟达，开源了Cosmos3最新推理模型，车企自研AI最强的小鹏，也公布了世界模型全栈技术…… 同样在2026年6月举行的高通汽车技术与合作峰会期间，智能座舱头部阵营中",
+      "importance_score": 9
+    },
+    {
+      "title": "机器人全栈操作系统！老黄率先抛出“具身版安卓”",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437382.html",
+      "publish_time": "2026-06-23",
+      "category": "AI 综合",
+      "summary": "更关键的是，Halos的核心安全框架已经开源，向行业开放",
+      "importance_score": 9
+    },
+    {
+      "title": "可口可乐的世界杯TVC，居然是prompt生成的",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437381.html",
+      "publish_time": "2026-06-23",
+      "category": "AI 综合",
+      "summary": "开幕式前，一支以范志毅为主角的10秒宣传视频上线；整个世界杯周期，可口可乐还有一支限定版TVC，5人5城、导演级运镜，全部由AI生成",
+      "importance_score": 9
+    },
+    {
+      "title": "具身赛道现状素描：脑子灵，模型好，不是百亿，就是独角",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/437198.html",
+      "publish_time": "2026-06-21",
+      "category": "AI 综合",
+      "summary": "2026年还没过半，具身智能的融资就快要超过去年全年了，超过一半的钱都流入了机器人的“大脑” | 量子位不完全统计，2026年上半年（截至6月12日），国内具身智能赛道共融资约438亿元 | 而2025年全年的融资金额约554亿元，2...",
+      "importance_score": 9
+    }
+  ]
+}

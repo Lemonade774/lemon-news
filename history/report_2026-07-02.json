@@ -1,0 +1,97 @@
+{
+  "date": "2026-07-02",
+  "update_time": "2026-07-02T02:45:07.146194",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "OpenSquilla 发布 0.4.0：AI 写代码首次能“自我验证”",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/441240.html",
+      "publish_time": "2026-07-01",
+      "category": "AI 综合",
+      "summary": "OpenSquilla 上线后数周内 GitHub star 增至数千量级 开源 AI Agent 项目 OpenSquilla 近日发布 0",
+      "importance_score": 10
+    },
+    {
+      "title": "创业一年，把机器人送进头部车企“打工”｜对话光象科技CEO张涛",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/GYBZkeGxGry11oCu0c1A",
+      "publish_time": "2026-06-18",
+      "category": "AI 技术",
+      "summary": "去年刚成立的光象科技，近日发布了首个工业级自进化具身智能机器人 Phi-Bot X1",
+      "importance_score": 8
+    },
+    {
+      "title": "“最像人”的机器人来了，顶配售价99万",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14676084.html",
+      "publish_time": "2026-07-02",
+      "category": "AI 产业",
+      "summary": "目前U1系列机器人线上线下累计订单突破1万台 | 6月30日，优必选发布了全尺寸超仿生人形机器人“优世界U1”系列，首发线上线下订单累计突破13361台 | 优必选创始人、董事会主席兼CEO周剑在发布会上宣布，自6月2日开启预售后，U...",
+      "importance_score": 8
+    },
+    {
+      "title": "OceanBase湖库一体，重新定义AI数据库",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/441386.html",
+      "publish_time": "2026-07-01",
+      "category": "AI 综合",
+      "summary": "AI时代苟日新，日日新，又日新，数据库也是如此 | 主流数据库的发展经历了几次重要演进：从最早的OLTP数据库，到OLAP从其中分离出来成为数据仓库，再到大数据系统 | 长期以来，数据库架构主要围绕人类应用、确定性交易和结构化数据分析设计",
+      "importance_score": 9
+    },
+    {
+      "title": "金融AI武道大会开赛！四道业务真题，出题人：猜不到最优解",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/441246.html",
+      "publish_time": "2026-07-01",
+      "category": "AI 综合",
+      "summary": "名为AFAC2026金融智能创新大赛，总算不是单纯刷分的「乏味Benchmark」 | 四道赛题，全部从真实金融场景中生长出来： 很多人可能不知道，模型发展到今天，金融垂直任务依然没能被啃下来 | 以保险文档还原Markdown为例，一旦碰",
+      "importance_score": 9
+    },
+    {
+      "title": "A社你解释下，啥叫Sonnet 5比Fable 5还贵？",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/441001.html",
+      "publish_time": "2026-07-01",
+      "category": "AI 综合",
+      "summary": "但这次不是旗舰，Anthropic推出了新版性价比模型Sonnet 5 | 6比一字不差，从发布会的口径上看，能力涨了，价格没涨",
+      "importance_score": 9
+    },
+    {
+      "title": "GLM-5.3你来定！智谱唐杰全球征集意见，评论区清一色：视觉",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/440478.html",
+      "publish_time": "2026-06-30",
+      "category": "AI 综合",
+      "summary": "彼时唐杰也问过这么一回，评论区纷纷热情支招，一条条需求后来陆陆续续都在GLM后续版本中有所实现",
+      "importance_score": 9
+    },
+    {
+      "title": "库克临走给苹果涨价！电脑iPad全线上调，iPhone 18也跑不了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/438690.html",
+      "publish_time": "2026-06-26",
+      "category": "AI 综合",
+      "summary": "苹果电脑iPad等多款产品一夕之间大涨价，悬着的心终于死了 | Mac价格上涨约15%-20%，iPad涨幅约15%-25% | 昨天还在犹豫要不要买MacBook Air/iPad Air，今天打开官网，发现同一款机型的统一配置，突然贵了",
+      "importance_score": 9
+    },
+    {
+      "title": "具身智能Skill时刻！英伟达开源机器人技能库，Jim Fan：范式变了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/441396.html",
+      "publish_time": "2026-07-01",
+      "category": "AI 综合",
+      "summary": "刚刚，英伟达放出了一套能让机器人持续成长的技能库—— 简单理解，ASPIRE有点像一个机器人版Coding Agent | 就跟GPT能把你的prompt、工作记录炼成可复用的skill一样，它也会把机器人的一次次失败和修复，沉淀成之后能继",
+      "importance_score": 9
+    },
+    {
+      "title": "群核科技三项成果入选ECCV 2026，联手英伟达等探索物理AI仿真平台",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/441237.html",
+      "publish_time": "2026-07-01",
+      "category": "AI 综合",
+      "summary": "群核科技此次入选ECCV的三篇论文，恰好对应物理AI从感知、学习到行动训练的关键环节，系统性展示其在物理 AI「数据 — 仿真 — 测评」的全链路成果",
+      "importance_score": 9
+    }
+  ]
+}

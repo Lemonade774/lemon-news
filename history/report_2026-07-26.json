@@ -1,0 +1,97 @@
+{
+  "date": "2026-07-26",
+  "update_time": "2026-07-26T02:12:50.825171",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "菲尔兹奖得主王虹，也发过NeurIPS",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460042.html",
+      "publish_time": "2026-07-24",
+      "category": "AI 综合",
+      "summary": "NeurIPS 2026出分在即，有网友扒出，王虹教授发过一篇NeurIPS 2019",
+      "importance_score": 9
+    },
+    {
+      "title": "GKE 安全蓝图加入云厂商 AI 安全框架阵营",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/DXKamMhJKJeV7CkeExzo",
+      "publish_time": "2026-07-24",
+      "category": "AI 技术",
+      "summary": "谷歌云发布了一份新的安全蓝图，介绍企业应如何保护运行在 Google Kubernetes Engine（GKE） 上的人工智能工作负载 | ”该蓝图认为，实现这些目标不能仅依赖一个运行容器的平台，而需要一个能够“开箱即用地叠加多层安...",
+      "importance_score": 8
+    },
+    {
+      "title": "100%开源！吴恩达做了个个人桌面Agent",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460892.html",
+      "publish_time": "2026-07-25",
+      "category": "AI 综合",
+      "summary": "项目名为OpenWorker，现已在GitHub开源，采用MIT License | 吴恩达在推上表示，OpenWorker已经可以在Mac上运行，Windows版本也即将上线",
+      "importance_score": 9
+    },
+    {
+      "title": "合肥又押中AI独角兽：多模态赛道，3个月融了21亿",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460154.html",
+      "publish_time": "2026-07-24",
+      "category": "AI 综合",
+      "summary": "这是这家多模态大模型公司在近三个月内完成的第三轮融资 | 三轮密集融资超21亿元后，智象未来估值超过10亿美金，正式跻身全球AI独角兽行列",
+      "importance_score": 9
+    },
+    {
+      "title": "北京说Agent已经能造世界，杭州却说它是刚发明的电灯泡",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460186.html",
+      "publish_time": "2026-07-25",
+      "category": "AI 综合",
+      "summary": "你敢相信么，现在的AI，已经把“横店”给直接搞到了线上了 | 以后啊，人要进横店拍戏，可能就会出现两种方式了 | 一种是像以前一样，本人肉身进剧组；另一种，则变成了坐在电脑前，进入线上虚拟片场，在数字化的影棚中调度人物、道具和摄像机，完成影",
+      "importance_score": 9
+    },
+    {
+      "title": "全新统一流式架构，Vivix灵动时刻正式发布首个实时互动模型",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460174.html",
+      "publish_time": "2026-07-25",
+      "category": "AI 综合",
+      "summary": "而这只小猫背后，就是Vivix最新发布的实时交互多模态模型A1",
+      "importance_score": 9
+    },
+    {
+      "title": "具身智能的「ChatGPT时刻」还没到，科沃斯先把机器人拆开了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460234.html",
+      "publish_time": "2026-07-25",
+      "category": "AI 综合",
+      "summary": "做扫地机器人的科沃斯，把旗下一款具身智能机器人整个开源了 | 2012年，它推出了全球首款家庭服务机器人「亲宝」，是最早一批入局家庭服务机器人赛道的公司 | 现在，它在苏州挂牌成立了「八界开源智创空间」，面向开发者、高校师生和科研人员...",
+      "importance_score": 9
+    },
+    {
+      "title": "国产世界模型登顶李飞飞团队榜单！适配国产昇腾算力、代码权重全开源",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460041.html",
+      "publish_time": "2026-07-24",
+      "category": "AI 综合",
+      "summary": "登顶的是兔展智能团队联合北大、鹏城实验室研发的UniWorld-View（模型已适配国产昇腾算力）： 你随手拍一段视频，或者干脆只给一张图，它还你一段“相机轨迹任你指定”的新视角视频—— 推、拉、摇、移，甚至“绕着场景360°转一圈”都可以",
+      "importance_score": 9
+    },
+    {
+      "title": "半价干翻Fable 5？Opus 5实测炸场，网友：差点从椅子上摔下来",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460253.html",
+      "publish_time": "2026-07-25",
+      "category": "AI 综合",
+      "summary": "模型变强，Claude Code系统提示词都精简了 泄露了一路的Opus 5，刚正式登场就被网友玩疯了 | 今天凌晨，Anthropic正式把这款新模型放了出来 | 多项硬核评测上，它追平甚至反超了Fable 5，价格却只有一半",
+      "importance_score": 9
+    },
+    {
+      "title": "美国具身也没成熟！PI：中国公司何必总当“中国版XX”｜RSS 2026",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460542.html",
+      "publish_time": "2026-07-25",
+      "category": "AI 综合",
+      "summary": "“包括Physical Intelligence在内，如今的北美头部具身智能公司离成熟都还有不短的距离",
+      "importance_score": 9
+    }
+  ]
+}

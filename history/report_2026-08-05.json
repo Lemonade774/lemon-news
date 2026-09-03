@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-05",
+  "update_time": "2026-08-05T01:58:40.605403",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "腾讯混元Hy ASR 3.0 preview：让语音识别理解上下文",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/465973.html",
+      "publish_time": "2026-08-04",
+      "category": "AI 综合",
+      "summary": "8 月 4 日，腾讯混元正式发布新一代语音识别模型 Hy ASR 3 | 0 preview 在多个开源评测集和自建评测集上整体表现领先",
+      "importance_score": 9
+    },
+    {
+      "title": "Agent 记忆，不能只靠聊天记录",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/qm3RHL133SESFZJGrmeA",
+      "publish_time": "2026-08-04",
+      "category": "AI 技术",
+      "summary": "围绕这个命题，TencentDB Agent Memory 给出的答案可以拆成四层来看：什么内容值得被记住，团队经验怎么拆成资产，资产如何被治理，开源和评测如何验证这套能力",
+      "importance_score": 8
+    },
+    {
+      "title": "获奖之后，王虹最想感谢的人",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/464761.html",
+      "publish_time": "2026-08-01",
+      "category": "AI 综合",
+      "summary": "2026年菲尔兹奖得主王虹教授正在做报告讲解挂谷猜想，而她的博导Larry Guth（拉里·古斯）正在报告厅门外兴高采烈地探头张望",
+      "importance_score": 9
+    },
+    {
+      "title": "OpenAI天价网红公关活动，捅马蜂窝了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/466032.html",
+      "publish_time": "2026-08-04",
+      "category": "AI 综合",
+      "summary": "没有在玩文字梗，不是物理意义上奥特曼被蜂蛰，事情还得从这么一些帖子说起—— 田园风光、长桌聚餐，长桌尽头，还有OpenAI的大Logo闪闪发光 | 照片中的地点，是纽约哈德逊河谷的豪华度假村",
+      "importance_score": 9
+    },
+    {
+      "title": "100%开源！吴恩达做了个个人桌面Agent",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460892.html",
+      "publish_time": "2026-07-25",
+      "category": "AI 综合",
+      "summary": "项目名为OpenWorker，现已在GitHub开源，采用MIT License | 吴恩达在推上表示，OpenWorker已经可以在Mac上运行，Windows版本也即将上线",
+      "importance_score": 9
+    },
+    {
+      "title": "这个新生图模型有点夯：4K直出的，国产的，开源的！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/465673.html",
+      "publish_time": "2026-08-03",
+      "category": "AI 综合",
+      "summary": "5 Lite 刚刚，新出的一个生图模型，着实是有点东西在身上的： 国产的，4K直出的，开源的，轻量的，还是可以指哪儿改哪儿的 | 再如这组充满艺术感的视觉大片，这个AI也是不在话下： 它，便是商汤刚刚面向社区开源的SenseNova U1",
+      "importance_score": 9
+    },
+    {
+      "title": "开发者苦 “造轮子” 久矣，HarmonyOS 7 正在抹平系统能力的接入鸿沟",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/466262.html",
+      "publish_time": "2026-08-04",
+      "category": "AI 综合",
+      "summary": "亲手带火Vibe Coding的AI大神卡帕西，前阵子忍不住在网上放声吐槽： 自己的Agent会把代码写得一团糟，没美感还喜欢到处copy粘贴，最主要的是压根不听自己的指令 | AI是真的会写代码了，但自己加班最多的那部分，代码生成根本救不",
+      "importance_score": 9
+    },
+    {
+      "title": "数学家24小时驳回OpenAI攻破的猜想！“AI证对了每句话，但已跟原猜想无关”",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/465792.html",
+      "publish_time": "2026-08-04",
+      "category": "AI 综合",
+      "summary": "但通过这件事，说明人类对AI科研结果的审查仍然很关键",
+      "importance_score": 9
+    },
+    {
+      "title": "亿级日活App的“算力生死劫”：推理成本倒挂，他们靠跨云架构砍掉75% GPU集群",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/465732.html",
+      "publish_time": "2026-08-04",
+      "category": "AI 综合",
+      "summary": "DAU破亿，本该是所有应用开发者开香槟庆祝的荣耀时刻 | 翻开全球亿级App的名册——微信、TikTok、Instagram——绝大多数产品只能望其项背 | 现在，一家主打“AI穿搭 + 购物推荐”的出海应用真的跻身进了这个顶流俱乐部",
+      "importance_score": 9
+    },
+    {
+      "title": "李飞飞World Labs收购SceniX，物理AI训练正从“采数据”走向“造世界”",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/464532.html",
+      "publish_time": "2026-08-01",
+      "category": "AI 综合",
+      "summary": "一笔收购，揭示了世界模型开始从“生成空间”走向“模拟行动后果” | 李飞飞把世界模型的下一站，押在了机器人身上 | 7月21日，World Labs宣布收购机器人仿真公司SceniX",
+      "importance_score": 9
+    }
+  ]
+}

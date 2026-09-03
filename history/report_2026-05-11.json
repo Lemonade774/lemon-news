@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-11",
+  "update_time": "2026-05-11T02:40:07.005344",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/414141.html",
+      "publish_time": "2026-05-08",
+      "category": "AI 综合",
+      "summary": "中国AI研究员的性格、魅力和真诚……让人倍感亲切 | 这是艾伦研究所（Ai2）的研究员Nathan Lambert，在最近结束中国之行后，发自内心的一番感慨 | 在Nathan眼里，国内的LLM圈子简直是天堂，大家彼此尊重、即便立场不同也客",
+      "importance_score": 9
+    },
+    {
+      "title": "马斯克22万张GPU救场后，Claude勉强恢复“三个月前体验”，Gary Marcus却警告：GPU将严重过剩，很快不值钱",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/HMObXFJYS8ay2pNZWDJG",
+      "publish_time": "2026-05-07",
+      "category": "AI 技术",
+      "summary": "Anthropic 时不时限制用户使用速率的问题终于迎来一次大的改善 | 当地时间 5 月 6 日，Anthropic 宣布，将使用马斯克旗下 SpaceX 的计算资源 | 根据协议，Anthropic 将使用 SpaceX 位于田纳西州孟",
+      "importance_score": 8
+    },
+    {
+      "title": "为什么豆包要尝试收费？",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14404064.html",
+      "publish_time": "2026-05-11",
+      "category": "AI 产业",
+      "summary": "据界面新闻记者了解，具体的定价以及正式推出时间还没有最终敲定 | 另据豆包官方回应称，会始终提供免费服务，在免费服务的基础上，豆包也在探索推出更多增值服务，相关方案细节目前还在测试阶段",
+      "importance_score": 8
+    },
+    {
+      "title": "太初元碁携龙虾一体机亮相北京科博会",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/415027.html",
+      "publish_time": "2026-05-09",
+      "category": "AI 综合",
+      "summary": "5月8日至10日，第二十八届北京科博会盛大开启，800余家中外企业和机构参展，集中展示人工智能、智能制造、数字经济等领域前沿成果 | 智能计算系统解决方案提供商太初元碁于今年推出的太初龙虾一体机（TecoClaw）在北京经济技术开发区...",
+      "importance_score": 9
+    },
+    {
+      "title": "浙大校友用AI突破32年拉姆齐数下界",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/415031.html",
+      "publish_time": "2026-05-10",
+      "category": "AI 综合",
+      "summary": "而且，这次世界级数学突破并没有依赖超级算力集群，仅用Claude Code、Codex+1台CPU服务器就完成全部攻坚，成果已全量开源 | 数学巨匠保罗・埃尔德什的这句调侃，直接说明了拉姆齐数有多难缠",
+      "importance_score": 9
+    },
+    {
+      "title": "两项AI政策发布，范式智能战略布局与产业方向高度契合",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/415019.html",
+      "publish_time": "2026-05-09",
+      "category": "AI 综合",
+      "summary": "围绕电力交易、能源调度、智能预测与决策等场景探索AI应用落地 5月8日，人工智能领域两项重要政策发布",
+      "importance_score": 9
+    },
+    {
+      "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/413912.html",
+      "publish_time": "2026-05-07",
+      "category": "AI 综合",
+      "summary": "例如，“把@图1的人物塞进@图2的场景，镜头运动和角色动作完全照搬@视频1”： 这些能力，来自国内最大ComfyUI平台RunningHub最新推出的原生AI智能体全能内容创作平台——RHTV | 界面简洁轻量化，底层却背靠Runni...",
+      "importance_score": 9
+    },
+    {
+      "title": "浙大推出让AI会「导演」的角色扮演框架！四通道消息沉浸式交互",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/415048.html",
+      "publish_time": "2026-05-11",
+      "category": "AI 综合",
+      "summary": "大语言模型在角色扮演任务上进展迅速，但现有系统往往缺乏沉浸感和适应性： 环境信息未被充分建模，场景与角色也多为静态，难以支撑多角色调度、场景切换、动态引入新人等复杂叙事需求 | 现在，浙江大学联合腾讯优图实验室提出AdaMARP（Adapt",
+      "importance_score": 9
+    },
+    {
+      "title": "具身大模型R1时刻：LIBERO终结者，99.9%背后的物理推理新范式",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/415065.html",
+      "publish_time": "2026-05-11",
+      "category": "AI 综合",
+      "summary": "5，具身大模型已经能让机器人把指令和动作连得有模有样 | 但一旦包的位置挪了几厘米，或者光照暗了一点，它们往往就会“大脑宕机”",
+      "importance_score": 9
+    },
+    {
+      "title": "行业首创空间3D显示，还能主动提醒和帮忙叫车，千问AI眼镜这操作真把我看愣了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/414501.html",
+      "publish_time": "2026-05-09",
+      "category": "AI 综合",
+      "summary": "而且本月还将上线打车、闪购、拍题答疑等一箩筐的生活AI能力，直接一口气把智能体验铺到N个日常高频场景里 | 通过增加眼镜信息展示的纵深感，让导航提示、信息卡片、内容展示这些信息也能「平面变3D」了～",
+      "importance_score": 9
+    }
+  ]
+}

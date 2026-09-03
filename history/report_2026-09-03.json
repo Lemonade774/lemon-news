@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-03",
+  "update_time": "2026-09-03T02:34:35.141778",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "去年归国的徐梦迪，成了清华姚班班主任",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/481318.html",
+      "publish_time": "2026-08-29",
+      "category": "AI 综合",
+      "summary": "据公众号「水木TsinghuaCent」统计，2026级姚班共录取约90人，其中约66人通过竞赛保送等渠道提前进入，另有24人从清华新生中经过笔试、面试脱颖而出 | 这批学生中，国家集训队成员占据相当比例，约有27名信息学竞赛顶尖选手；还有",
+      "importance_score": 9
+    },
+    {
+      "title": "机器人的下一站，或许是乐高化",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/UtCRvV8lbVcxda606JVq",
+      "publish_time": "2026-09-01",
+      "category": "AI 技术",
+      "summary": "摩根士丹利研报勾勒出的全球图景显示，2026 年上半年，全球机器人出货量中约有 65%流向娱乐展示、前台接待、教育研发及数据采集等领域",
+      "importance_score": 8
+    },
+    {
+      "title": "谷歌急了：AI核心员工全给我搬回硅谷坐班！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/468398.html",
+      "publish_time": "2026-08-08",
+      "category": "AI 综合",
+      "summary": "眼瞅着自家Gemini迟迟难产，技术问题短期解决不了，那就索性先解决物理问题—— 什么研发、什么产品、什么商业化，都甭给我隔着八个时区远程协作了，核心负责人们直接来加州《坐班》哈～ 这不嘛，脑瓜子贼灵光的谷歌，把原本分散在伦敦与硅谷的核心权",
+      "importance_score": 9
+    },
+    {
+      "title": "今年最难的机器人Demo，“机器人含量”为0",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483351.html",
+      "publish_time": "2026-09-03",
+      "category": "AI 综合",
+      "summary": "刚刚，自变量发布全新灵巧操作系统TwinDex",
+      "importance_score": 9
+    },
+    {
+      "title": "50万！李想宣布MPV进入iPhone时刻！外观没改配置拉满",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483462.html",
+      "publish_time": "2026-09-03",
+      "category": "AI 综合",
+      "summary": "且理想也还是坚持“单一主力配置打天下”，只推出了一个MEGA Home版本，本周开启交付，价格比上一代直降5万元",
+      "importance_score": 9
+    },
+    {
+      "title": "企业级Agent落地样板间！百融硅基员工批量上岗，按结果领工资",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482967.html",
+      "publish_time": "2026-09-02",
+      "category": "AI 综合",
+      "summary": "其物流项目日处理量，已从上线初期不足1000通提升至超过1",
+      "importance_score": 9
+    },
+    {
+      "title": "3秒出片比播放还快，MiniMax打开了AI视频的实时商业化路径",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/482512.html",
+      "publish_time": "2026-09-01",
+      "category": "AI 综合",
+      "summary": "你没听错，就在昨天，真的出现了一个全程由AI实时生成素材的直播间 | 不是那种「半AI化」的数字人直播，这个直播间根本没有主播，也没有脚本，内容由观众现场点播",
+      "importance_score": 9
+    },
+    {
+      "title": "神秘具身团队又放出一连串很炸的Demo视频…自进化模型，技术路线曝光",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483552.html",
+      "publish_time": "2026-09-03",
+      "category": "AI 综合",
+      "summary": "还记得上周具身圈流传的那个神秘10分钟一镜到底视频吗 | 视频一出，网友们表示：不敢相信，仿佛天外来物…… 同行跑来打听到底是哪家的，听说有头部公司专门开会研究……我们的后台都被各路网友问爆了 | 看完这个十分钟的一镜到底视频，大家说具身智",
+      "importance_score": 9
+    },
+    {
+      "title": "SkyProduction天工工作台：从剧本到成片，一套工作台把精品短剧创作真正跑起来",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483274.html",
+      "publish_time": "2026-09-02",
+      "category": "AI 综合",
+      "summary": "SkyProduction（天工工作台）全新版本于8月31日正式上线 SkyProduction（天工工作台）全新版本于8月31日正式上线，它把剧本、资产、分镜、视频和后期放到一条生产线上，让创作者少一点搬运和重做，多一点时间打磨创意 | ",
+      "importance_score": 9
+    },
+    {
+      "title": "还在为大模型洗数据熬夜？蚂蚁拿下VLDB工业最佳论文，一套宽表搞定35PB语料，效率狂飙5.6倍",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/483104.html",
+      "publish_time": "2026-09-02",
+      "category": "AI 综合",
+      "summary": "蚂蚁集团推出统一宽表系统OmniTable，论文获评VLDB 2026工业赛道最佳论文 训练一个大模型之前，语料要经过解析、清洗、去重、质量评分、Token 化和样本组装",
+      "importance_score": 9
+    }
+  ]
+}

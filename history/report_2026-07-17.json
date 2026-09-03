@@ -1,0 +1,97 @@
+{
+  "date": "2026-07-17",
+  "update_time": "2026-07-17T02:08:10.462490",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "估值4800亿，DeepSeek火速开启新一轮融资！最快明年IPO",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/450101.html",
+      "publish_time": "2026-07-15",
+      "category": "AI 综合",
+      "summary": "刚完成第一轮融资后，DeepSeek被曝第二轮融资已经启动 | 据《金融时报》消息，目前DeepSeek正在与新投资者接触，希望开启新一轮融资，融资前估值约710亿美元（折合人民币4800亿元），相比首轮融资后估值520亿美元，上涨3...",
+      "importance_score": 9
+    },
+    {
+      "title": "押注智能体时代，灵睿智芯完成数亿元融资，RISC-V 迎算力新机遇",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/AlwgmgVxh7Q25NxgGrEI",
+      "publish_time": "2026-07-16",
+      "category": "AI 技术",
+      "summary": "近日，上海灵睿智芯计算技术有限公司（以下简称“灵睿智芯”）宣布完成新一轮数亿元融资 | 本轮融资由张江高科、中科创星、东方富海、成为资本、石溪资本、壁仞科技、上海天使会及行业合作伙伴等多家产业投资机构参与，老股东元禾璞华、上国投孚腾资...",
+      "importance_score": 8
+    },
+    {
+      "title": "WAIC开幕前夕，上海人工智能产业热议自主创新与AI治理",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14769694.html",
+      "publish_time": "2026-07-17",
+      "category": "AI 产业",
+      "summary": "上海市人工智能行业协会副秘书长徐琦回顾道，前年围绕具身智能产业，WAIC还是以“十八罗汉”静态展示具身智能机器人为主，去年升级为“技能大舞台“，机器人开始展示具体技能，但规模和成熟度仍有局限",
+      "importance_score": 8
+    },
+    {
+      "title": "2026年世界人工智能大会，7月17-7月20上海举办",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/436498.html",
+      "publish_time": "2026-07-15",
+      "category": "AI 综合",
+      "summary": "WAIC 2026将于7月17-20日在上海举行，分设世博、张江、西岸三大片区，以“智能伙伴，共创未来”为主题，设置论坛会议、展览展示、评奖赛事、应用体验、创新孵化、招才引智六大板块：计划举办140余场主题论坛，集聚1400余位国际嘉宾，展",
+      "importance_score": 9
+    },
+    {
+      "title": "刚刚，逐际动力放出一段Demo，Figure：睡不着啊",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/451084.html",
+      "publish_time": "2026-07-16",
+      "category": "AI 综合",
+      "summary": "这是全尺寸人形机器人长程移动操作能力的一次重大突破，也是全球屈指可数的完整实录",
+      "importance_score": 9
+    },
+    {
+      "title": "全球首个！银河通用新框架仅需人类视频即可部署，特斯拉蚌埠住了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/451403.html",
+      "publish_time": "2026-07-16",
+      "category": "AI 综合",
+      "summary": "要说这两年，大模型最重要的变化之一，就是越来越不依赖预训练一锤定音，部分能力开始留到推理时刻再兑现 | OpenAI o1如此，DeepSeek-R1也是如此 | 模型推理能力提升，靠的是在应用过程中的持续自我提升",
+      "importance_score": 9
+    },
+    {
+      "title": "手握英伟达宁德时代相同剧本，具身智能的第一个「基建商」出现了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/451327.html",
+      "publish_time": "2026-07-16",
+      "category": "AI 综合",
+      "summary": "2026年中，一家看似处于AI产业链“中游”的公司——景烁科技，在独立运营后，引发了行业热议 | 它的背景足够硬核：文远知行内部孵化，CEO是文远001号员工",
+      "importance_score": 9
+    },
+    {
+      "title": "用世界模型给VLA当教练，原力灵机发布DW0.5，把RL搬进虚拟世界",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/450896.html",
+      "publish_time": "2026-07-16",
+      "category": "AI 综合",
+      "summary": "代码Agent这两年为何进步飞快，成为AI界的宗门大师兄 | 代码Agent可以自动执行、自动验证、自动反馈 | 写了代码跑一下就知道对不对，奖励信号非常清晰明确",
+      "importance_score": 9
+    },
+    {
+      "title": "工业母机进入“计算化时刻”：中国移动投资友机技术，押注工业AI下一代基础设施",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/451371.html",
+      "publish_time": "2026-07-16",
+      "category": "AI 综合",
+      "summary": "近日，工业智能企业友机技术连续完成B轮、C轮融资，金浦投资、九派资本相继入场，中国移动链长基金战略投资友机技术，成为其重要产业投资方 | 但如果仅仅将这次投资理解为一次工业AI企业融资事件，可能低估了其产业意义 | 第一阶段是信息化，...",
+      "importance_score": 9
+    },
+    {
+      "title": "Agent要数量也要脑子！浪潮信息一边单柜养4万Agent，一边让大模型组队答题",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/449311.html",
+      "publish_time": "2026-07-13",
+      "category": "AI 综合",
+      "summary": "同时发布CPU原生液冷整机柜、多模融合超节点 AI基础设施的核心任务，已经从支撑大模型推理，转向支撑海量智能体的规模化运行与高质量Token的持续生产",
+      "importance_score": 9
+    }
+  ]
+}

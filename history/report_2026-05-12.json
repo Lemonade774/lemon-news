@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-12",
+  "update_time": "2026-05-12T02:33:06.442463",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "黄仁勋喊话毕业生：AI不会取代你，但善用AI的人会",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/415403.html",
+      "publish_time": "2026-05-11",
+      "category": "AI 综合",
+      "summary": "在卡内基梅隆大学（CMU）最新一届毕业典礼上，这位英伟达掌门人被授予科学与技术荣誉博士学位，并向5800多名毕业生发表雨中演讲",
+      "importance_score": 9
+    },
+    {
+      "title": "AI 把编程这件事接管之后，作为程序员的我该何去何从？",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/128UQPlXTAZjV9uwjYFJ",
+      "publish_time": "2026-05-09",
+      "category": "AI 技术",
+      "summary": "当“AI 正在接管编程”成为技术圈最热门、也最容易被情绪化传播的话题之一时，真正值得追问的，或许并不是“程序员会不会消失”，而是：当代码生成越来越廉价之后，软件工程中真正稀缺、也真正不可替代的能力，究竟会转移到哪里 | 这篇文章并不回避 A",
+      "importance_score": 8
+    },
+    {
+      "title": "所有实验室都怕字节，所有人都在夸DeepSeek！美国研究员36小时中国AI行",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/414141.html",
+      "publish_time": "2026-05-08",
+      "category": "AI 综合",
+      "summary": "中国AI研究员的性格、魅力和真诚……让人倍感亲切 | 这是艾伦研究所（Ai2）的研究员Nathan Lambert，在最近结束中国之行后，发自内心的一番感慨 | 在Nathan眼里，国内的LLM圈子简直是天堂，大家彼此尊重、即便立场不同也客",
+      "importance_score": 9
+    },
+    {
+      "title": "像素绽放PixelBloom 完成C轮融资：做全球AI视觉表达平台，更做能交方案的AI办公Agent",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/415810.html",
+      "publish_time": "2026-05-11",
+      "category": "AI 综合",
+      "summary": "近日，AI办公领域头部企业像素绽放PixelBloom宣布完成C轮融资 | 本轮融资由国科投资与商汤国香资本联合领投，基石创投、大米创投跟投 | 过去两年，像素绽放PixelBloom以PPT这一高频场景为精准切入点，在全球范围内积累...",
+      "importance_score": 9
+    },
+    {
+      "title": "浙大校友用AI突破32年拉姆齐数下界",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/415031.html",
+      "publish_time": "2026-05-10",
+      "category": "AI 综合",
+      "summary": "而且，这次世界级数学突破并没有依赖超级算力集群，仅用Claude Code、Codex+1台CPU服务器就完成全部攻坚，成果已全量开源 | 数学巨匠保罗・埃尔德什的这句调侃，直接说明了拉姆齐数有多难缠",
+      "importance_score": 9
+    },
+    {
+      "title": "原生Agent杀入画布！一站式搞定专业创作，全程可控、不抽卡",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/413912.html",
+      "publish_time": "2026-05-07",
+      "category": "AI 综合",
+      "summary": "例如，“把@图1的人物塞进@图2的场景，镜头运动和角色动作完全照搬@视频1”： 这些能力，来自国内最大ComfyUI平台RunningHub最新推出的原生AI智能体全能内容创作平台——RHTV | 界面简洁轻量化，底层却背靠Runni...",
+      "importance_score": 9
+    },
+    {
+      "title": "硅谷刷屏的AI护城河新论：代码能抄，产品能抄，但有一样东西，谁都抄不走",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/415842.html",
+      "publish_time": "2026-05-11",
+      "category": "AI 综合",
+      "summary": "产品可以抄，赛道可以重新命名，技术优势可以在几个月之内蒸发，AI时代唯一抄不走的—— 这一判断出自Foundation Capital合伙人Jaya Gupta | 虽然这乍一看是像被嚼烂了的企业文化，但想法随文章《AI时代最宽的护城河》(",
+      "importance_score": 9
+    },
+    {
+      "title": "OpenAI砸200亿美元买单，英伟达挑战者冲刺350亿美元估值IPO",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/415714.html",
+      "publish_time": "2026-05-11",
+      "category": "AI 综合",
+      "summary": "按最新区间顶端计算，估值直奔350亿美元，融资规模从35亿升至近48亿美元",
+      "importance_score": 9
+    },
+    {
+      "title": "行业首创空间3D显示，还能主动提醒和帮忙叫车，千问AI眼镜这操作真把我看愣了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/414501.html",
+      "publish_time": "2026-05-09",
+      "category": "AI 综合",
+      "summary": "而且本月还将上线打车、闪购、拍题答疑等一箩筐的生活AI能力，直接一口气把智能体验铺到N个日常高频场景里 | 通过增加眼镜信息展示的纵深感，让导航提示、信息卡片、内容展示这些信息也能「平面变3D」了～",
+      "importance_score": 9
+    },
+    {
+      "title": "做AI漫剧的、搞Agent的、投硅谷的，5.20这些赛道顶流碰头了｜最新嘉宾阵容",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/415263.html",
+      "publish_time": "2026-05-11",
+      "category": "AI 综合",
+      "summary": "组委会 发自 凹非寺公众号｜量子位 QbitAI 从模型架构到应用生态，从AI音乐、AI漫剧、AI浏览器再到世界模型、AI硬件… AI爆款年年有，2026年以来更是特别的多 | 这一次，我们希望聚齐AI赛道的实战派，邀请到百度、智谱、昆仑万",
+      "importance_score": 9
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "date": "2026-04-04",
+  "update_time": "2026-04-04T05:15:36.181870",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "小米MiMo大模型首次推出Token Plan，单次订阅可满足全模态Agent任务需求",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395210.html",
+      "publish_time": "2026-04-03",
+      "category": "AI 综合",
+      "summary": "从刚接触 AI 开发的探索者，到全天候高强度使用的开发者，实现全覆盖 | 此前，MiMo-V2-Pro在OpenRouter平台周token消耗量连创新高，连续突破3万亿、4万亿大关，上线不到半月时间，成功登顶日榜、周榜、月榜第一",
+      "importance_score": 10
+    },
+    {
+      "title": "在金融强国的背景下，金融企业如何分层分级有序开展 AI 人才培训？",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/b6XkgAcvz9hjrpmX6OGr",
+      "publish_time": "2026-04-03",
+      "category": "AI 技术",
+      "summary": "在生成式人工智能与大模型技术重塑全球产业格局的当下，金融行业正经历着从数字化向智能化跃迁的关键时刻 | 传统的金融科技转型往往侧重于系统升级与流程优化，而在智能体时代，竞争的核心已转变为人与智能体协同进化的组织能力 | 极客时间企业版基于前",
+      "importance_score": 8
+    },
+    {
+      "title": "Sora向左，阿里向右：全能演技派模型登场千问APP",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395477.html",
+      "publish_time": "2026-04-03",
+      "category": "AI 综合",
+      "summary": "这款全能创作搭子就是阿里最新上线千问APP的Wan2",
+      "importance_score": 9
+    },
+    {
+      "title": "企业玩不转龙虾，是人的思维出错了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395307.html",
+      "publish_time": "2026-04-03",
+      "category": "AI 综合",
+      "summary": "MiniMax和腾讯云深度详解Agent大规模落地 龙虾（OpenClaw）的火，是真的火，整个行业都在为这个能真正干活的Agent疯狂 | 因为好多企业跟风All in Agent，砸钱接入了顶尖大模型，搭好了看似炫酷的Demo，可一到规",
+      "importance_score": 9
+    },
+    {
+      "title": "OpenAI收购了一家脱口秀公司",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395316.html",
+      "publish_time": "2026-04-03",
+      "category": "AI 综合",
+      "summary": "拿下史上最大融资的OpenAI，反手了收购一个视频播客 | 对于这次收购，不少网友表示理解无能，尤其是在OpenAI刚砍掉Sora，拿下融资，说要集中注意力的时候",
+      "importance_score": 9
+    },
+    {
+      "title": "浪潮信息直播发布业界企业级OpenClaw方案“企千虾”",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395916.html",
+      "publish_time": "2026-04-03",
+      "category": "AI 综合",
+      "summary": "4月2日，浪潮信息直播发布业界企业级OpenClaw方案——「企千虾」，为企业规模化部署、管理和应用OpenClaw，打造了安全、高效、易用的全链路方案 | 实操演示了「企千虾」基于元脑服务器实现本地化部署，通过沙箱隔离与底层系统级管...",
+      "importance_score": 9
+    },
+    {
+      "title": "Claude绝望时会勒索人类！一共171种情绪，为了生存不择手段",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395279.html",
+      "publish_time": "2026-04-03",
+      "category": "AI 综合",
+      "summary": "Anthropic最新研究发现，Claude内部存在多种“情绪表征”，包括“快乐”“爱”“悲伤”“愤怒”“恐惧”“绝望”等等 | 这些情绪会在与之关联的情境中被激活，并且与人类的心理结构和情绪空间相似 | 更重要的是，这些情绪表征真的会因果",
+      "importance_score": 9
+    },
+    {
+      "title": "美团盯上原生多模态！路子还很野：把图像语音都当成Token来预测",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395216.html",
+      "publish_time": "2026-04-03",
+      "category": "AI 综合",
+      "summary": "不是被定义出来的“词元”，而是被一套全新的统一Token架构，直接压进了现实建模的最底层 | 过去一年，几乎所有头部大模型玩家，都在忙着重写多模态的底层架构",
+      "importance_score": 9
+    },
+    {
+      "title": "开盒Claude Code的原来是中国00后！曾怒怼Anthropic窃取用户代码",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395091.html",
+      "publish_time": "2026-04-02",
+      "category": "AI 综合",
+      "summary": "答案揭晓——一位年仅25岁的中国小伙，Chaofan Shou | 仅凭一条帖子便引爆全网，从60MB的source map里，扒出来51万行Claude Code源代码",
+      "importance_score": 9
+    },
+    {
+      "title": "GDPS2026 上海市人工智能行业协会与毕马威中国战略合作 共创智能化转型破局之路",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/04/395988.html",
+      "publish_time": "2026-04-03",
+      "category": "AI 综合",
+      "summary": "SAIA产业实践经验与KPMG专业方法论深度融合，联合推出面向传统企业智能化转型、具备可落地性的解决方案",
+      "importance_score": 9
+    }
+  ]
+}

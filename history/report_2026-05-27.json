@@ -1,0 +1,97 @@
+{
+  "date": "2026-05-27",
+  "update_time": "2026-05-27T02:52:58.135488",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "华为发布AI DC数据基础设施全栈方案，加速行业智能化跃升",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/425296.html",
+      "publish_time": "2026-05-26",
+      "category": "AI 综合",
+      "summary": "华为公司副总裁、数据存储产品线总裁袁远发表主题演讲，正式发布AI DC数据基础设施全栈方案，加速行业智能化跃升 | 基于此，华为正式发布AI DC数据基础设施全栈方案，旨在助力企业加速推进AI数据中心建设，实现AI规模化落地",
+      "importance_score": 9
+    },
+    {
+      "title": "蚂蚁重磅领投，光轮智能完成新一轮融资！物理AI的价值中心，已经变了",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/bdsq4OUrTNJdvCLaxo0u",
+      "publish_time": "2026-05-26",
+      "category": "AI 技术",
+      "summary": "据介绍，本轮融资将主要用于物理 AI 的数据与评测基础设施相关核心技术投入，持续加强规模化交付能力建设，并加快全球市场开拓与生态合作 | 本轮融资，既是资本市场对光轮智能技术路线与商业进展的认可，也体现出产业界对物理 AI 基础设施长...",
+      "importance_score": 9
+    },
+    {
+      "title": "最高法：研究制定涉AI案件和数据产权司法保护规范性文件",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14490301.html",
+      "publish_time": "2026-05-27",
+      "category": "AI 产业",
+      "summary": "今天，国务院新闻办公室举行“开局起步‘十五五’”系列主题新闻发布会，介绍“推进全面依法治国”有关情况 | 发布会上，最高人民法院审判委员会副部级专职委员、二级大法官刘贵祥表示，人民法院将坚持“两个毫不动摇”，贯彻落实民营经济促进法，依...",
+      "importance_score": 8
+    },
+    {
+      "title": "马斯克要当“太空版黄仁勋”：Anthropic一年上交150亿美元，Cursor百亿分手费锁死，SpaceX成新算力庄家",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/fS0QHZiYGmZJZZNwk5V3",
+      "publish_time": "2026-05-21",
+      "category": "AI 技术",
+      "summary": "75 万亿至 2 万亿美元，融资规模最高可达 750 亿至 800 亿美元",
+      "importance_score": 8
+    },
+    {
+      "title": "“卡车界特斯拉”，刚刚又融了2亿美元",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/425058.html",
+      "publish_time": "2026-05-26",
+      "category": "AI 综合",
+      "summary": "来自苏州的零一汽车，刚刚官宣融资2亿美元，顶级产业资本与国际资本在其背后加码 | 本轮融资阵容强大，汇聚了产业资本紫金矿业、山东能源集团旗下兖矿资本、三花控股、国内消费品龙头企业 | 算上3月的融资，这已经是零一汽车今年第二次融资，近...",
+      "importance_score": 9
+    },
+    {
+      "title": "刚刚，国产AI自己造了AI，全球首例！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/425511.html",
+      "publish_time": "2026-05-26",
+      "category": "AI 综合",
+      "summary": "不过这一次，中国大模型公司第一次把“AI制造AI”从概念，推进到了可展示、可评测、可复现的工程样本",
+      "importance_score": 9
+    },
+    {
+      "title": "刚刚，国产Agent模型闯入全球第一梯队！限时免费",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/424851.html",
+      "publish_time": "2026-05-26",
+      "category": "AI 综合",
+      "summary": "其新发布的Agent模型，性能已经站到全球第一梯队——甭管对面是开源还是闭源，凡是你能叫得上名字的顶尖选手，它都能与之掰一掰手腕",
+      "importance_score": 9
+    },
+    {
+      "title": "卡帕西Anthropic最新头衔：技术员工（MTS）",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/425304.html",
+      "publish_time": "2026-05-26",
+      "category": "AI 综合",
+      "summary": "卡帕西在Anthropic只是个「技术员工」",
+      "importance_score": 9
+    },
+    {
+      "title": "国产GPU开始造世界！国内首个全栈具身智能仿真平台来了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/420084.html",
+      "publish_time": "2026-05-19",
+      "category": "AI 综合",
+      "summary": "但一家国产GPU厂商，却在一整场发布会的时间里，做了一件非常物理的事儿—— 在走到舞台中央后，只见屏幕里仿真世界的小飞侧空翻了一下，随即，物理世界的小飞便做出了一模一样的动作 | 正是由摩尔线程新鲜发布的MT Lambda | 这是首...",
+      "importance_score": 9
+    },
+    {
+      "title": "将DSA注意力引入多模态，快手Keye2.0开启强化推理新范式",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/425600.html",
+      "publish_time": "2026-05-26",
+      "category": "AI 综合",
+      "summary": "在多模态大模型从“基础感知”向“深度推理”演进的浪潮中，快手团队始终在思考两个问题： 如何突破视频理解任务中超长视觉上下文带来的算力瓶颈",
+      "importance_score": 9
+    }
+  ]
+}

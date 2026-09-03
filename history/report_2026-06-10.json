@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-10",
+  "update_time": "2026-06-10T02:52:46.187143",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "理想智驾一号位创业，落户北京亦庄了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/433560.html",
+      "publish_time": "2026-06-09",
+      "category": "AI 综合",
+      "summary": "前理想智驾“一号位”的具身创业项目，正式浮出水面了 | 他和前阿里集团副总裁任庚联手创立的昆仑行，正式落地北京亦庄经开区 | 对标特斯拉人形机器人，主要瞄准通用具身智能赛道，兼顾本体与大脑",
+      "importance_score": 9
+    },
+    {
+      "title": "汤道生对谈姚顺雨：AI下半场，腾讯比什么？",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/xpNN4PdosoOVt5FtQUJw",
+      "publish_time": "2026-06-08",
+      "category": "AI 技术",
+      "summary": "今日，在 2026 年腾讯云 AI 产业应用大会上，腾讯集团高级执行副总裁、云与智慧产业事业群 CEO 汤道生与腾讯首席 AI 科学家姚顺雨进行了一场深度对谈 | 他们对谈的主题是“腾讯 AI 下半场”，两个人相互提问，共同解读了腾讯在 A",
+      "importance_score": 8
+    },
+    {
+      "title": "AI应用成为WWDC近三年最重要主题。",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14554479.html",
+      "publish_time": "2026-06-10",
+      "category": "AI 产业",
+      "summary": "两年前，苹果高调推出Apple Intelligence（苹果智能），试图在生成式AI浪潮中重新定义个人智能助手",
+      "importance_score": 8
+    },
+    {
+      "title": "腾讯想让企业打开AI的方式只剩一个",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/432631.html",
+      "publish_time": "2026-06-09",
+      "category": "AI 综合",
+      "summary": "在这个企业Agent走向生产环境的残酷拐点上，腾讯选择不卖“散装AI全家桶”，而是直接砸下了全栈深度协同的战略底牌—— 正式发布WorkBuddy企业版，第一次完整定义了「企业AI办公统一入口」",
+      "importance_score": 9
+    },
+    {
+      "title": "与爱为舞亮相腾讯云AI产业应用大会，深耕教育大模型，打造下一代学习Agent",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/433508.html",
+      "publish_time": "2026-06-09",
+      "category": "AI 综合",
+      "summary": "图注：与爱为舞联合创始人、技术负责人王琳主题演讲 当前通用大模型能力快速迭代，但落地教育场景存在明显短板：仅掌握海量知识却不懂教学逻辑、名师教学经验难以数据化复用；短期交付无法实现长期提升",
+      "importance_score": 9
+    },
+    {
+      "title": "内蒙跑通AI逆袭新解法",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/433565.html",
+      "publish_time": "2026-06-09",
+      "category": "AI 综合",
+      "summary": "6月5日，北京国家会议中心，原本能容纳上千人的会场被挤得水泄不通 | 这场爆满的对谈，主角是腾讯集团高级执行副总裁汤道生、腾讯首席AI科学家姚顺雨 | 这是姚顺雨加入腾讯半年多以来的首次线下公开亮相，这位明星AI科学家在会上抛出了一个关键判",
+      "importance_score": 9
+    },
+    {
+      "title": "你天天刷的小红书，正在长出一个GitHub",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/433066.html",
+      "publish_time": "2026-06-09",
+      "category": "AI 综合",
+      "summary": "比如归藏的PPT Skill，瑞士风高级感，支持4种颜色、20多个版式，在GitHub上突破了1万star",
+      "importance_score": 9
+    },
+    {
+      "title": "DeepSeek开招土木老哥：自建GW级数据中心",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/432735.html",
+      "publish_time": "2026-06-09",
+      "category": "AI 综合",
+      "summary": "DeepSeek官网最新上线了“IDC设计规划工程师”这个岗位 | 乍一看到岗位JD，我的脑子迅雷不及掩耳盗铃之势闪过一道机智的闪电—— 最近DeepSeek开放融资，估值据传已经飙到了3500亿元",
+      "importance_score": 9
+    },
+    {
+      "title": "蚂蚁集团推出海外AI支付解决方案 商户可实现全球智能体运营",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/432587.html",
+      "publish_time": "2026-06-08",
+      "category": "AI 综合",
+      "summary": "在大会上，支付宝宣布上线全球首个面向个人用户的AI钱包，完成AI支付能力的全域布局，构建起覆盖授权、支付、结算、安全与信任的全栈AI原生支付基础设施 | 解决AI智能体交易的支付难题 实现“一次构建，全球运营” 随着越来越多的人在日常...",
+      "importance_score": 9
+    },
+    {
+      "title": "仅4B大小可端侧部署！卡帕西预言的「认知模型」被国产做出来了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/433478.html",
+      "publish_time": "2026-06-09",
+      "category": "AI 综合",
+      "summary": "小冰之父李笛集结微软小冰原班人马，带着仅成立半年的AI初创公司Nextie（明日新程），刚刚推出了行业首个认知模型「新程Alpha」",
+      "importance_score": 9
+    }
+  ]
+}

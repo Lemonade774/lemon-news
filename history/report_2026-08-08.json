@@ -1,0 +1,97 @@
+{
+  "date": "2026-08-08",
+  "update_time": "2026-08-08T01:10:12.545678",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "阿里视频大模型Wan3.0开启公测：文档、ppt也能变视频",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/467877.html",
+      "publish_time": "2026-08-07",
+      "category": "AI 综合",
+      "summary": "8月6日，阿里巴巴视频生成大模型Wan 3 | 0开启公测 8月6日，阿里巴巴视频生成大模型Wan 3 | 0开启公测，在生成时长、万能创作、全能参考以及真实世界还原等维度全面升级：单次可生成30秒视频，完整表达创作意图；在文本、图片、音频",
+      "importance_score": 9
+    },
+    {
+      "title": "Jeff Dean离职前最后一次对话：我低估了AI，也看清了创业者的唯一生路",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/x5sIQ2lED2h6G2Uvyu48",
+      "publish_time": "2026-08-06",
+      "category": "AI 技术",
+      "summary": "一年前，Google 首席科学家 Jeff Dean 在 AI Ascent 2025 峰会上预测：到 2026 年，可能出现能够全天候工作、能力接近初级软件工程师的 AI 系统 | 一年后，也就是 6 天前，他在一期 YC 访谈中承认，自",
+      "importance_score": 8
+    },
+    {
+      "title": "倒卖英伟达GPU算力比火箭卫星来钱快！马斯克交出SpaceX首份财报",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/466454.html",
+      "publish_time": "2026-08-05",
+      "category": "AI 综合",
+      "summary": "马斯克旗下靠火箭声名赫赫的SpaceX，交出首份上市后财报时，最抢镜的已经不是火箭了 | 14亿美元，同比增长92%，高于市场约69亿美元的预期；其中，AI业务收入25",
+      "importance_score": 9
+    },
+    {
+      "title": "阿里推出国内首个AI语音平台CosyVoice Studio，将语义理解融入语音能力",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/468324.html",
+      "publish_time": "2026-08-07",
+      "category": "AI 综合",
+      "summary": "允中 发自 凹非寺量子位 | 公众号 QbitAI 8月7日，阿里巴巴正式推出国内首个一站式AI语音生产力平台CosyVoice Studio | 该平台基于阿里推出的自研语音模型Qwen-Audio打造，在全球权威AI评测平台Artifi",
+      "importance_score": 9
+    },
+    {
+      "title": "100%开源！吴恩达做了个个人桌面Agent",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/07/460892.html",
+      "publish_time": "2026-07-25",
+      "category": "AI 综合",
+      "summary": "项目名为OpenWorker，现已在GitHub开源，采用MIT License | 吴恩达在推上表示，OpenWorker已经可以在Mac上运行，Windows版本也即将上线",
+      "importance_score": 9
+    },
+    {
+      "title": "AI批量轰炸苹果bug赏金计划，审核团队已下线",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/466738.html",
+      "publish_time": "2026-08-07",
+      "category": "AI 综合",
+      "summary": "2025年9月，苹果在iPhone 17发布会上同步公布了一项名为“内存完整执行”（MIE）的安全功能",
+      "importance_score": 9
+    },
+    {
+      "title": "AI圈功能狂卷，付费寥寥，Keep正在试一条新路",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/467878.html",
+      "publish_time": "2026-08-07",
+      "category": "AI 综合",
+      "summary": "AI卷向运动赛道，Keep的新答卷能否跑通 | 如今在一众「AI+」里，最让我停不下来的，居然是「AI+运动」",
+      "importance_score": 9
+    },
+    {
+      "title": "冲刺全球首个100万小时具身数据！国产公司联手了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/467486.html",
+      "publish_time": "2026-08-07",
+      "category": "AI 综合",
+      "summary": "到2026年底，完成100万小时机器人训练数据采集，力争成为全球首个突破这一规模的企业",
+      "importance_score": 9
+    },
+    {
+      "title": "刚刚，ChatGPT免费版史诗升级！GPT-5.6可以无限白嫖了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/467879.html",
+      "publish_time": "2026-08-07",
+      "category": "AI 综合",
+      "summary": "刚刚，ChatGPT免费用户迎来一波史诗升级，默认模型现在换成了5 | 关键是，Chat模式再无次数限制，可以随便薅",
+      "importance_score": 9
+    },
+    {
+      "title": "114B参数、6B激活，Sand.ai刚刚开源全球首个千亿MoE视频生成模型",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/08/466847.html",
+      "publish_time": "2026-08-05",
+      "category": "AI 综合",
+      "summary": "再牛的大模型，也要放到行业面前公开露个面，才算真交卷 | 现下，就有这样一支清华系团队再展锋芒，规模不大、实力却不小—— 抢先用MoE架构把视频生成模型卷上千亿参数，代码权重还全",
+      "importance_score": 9
+    }
+  ]
+}

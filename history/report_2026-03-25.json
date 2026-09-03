@@ -1,0 +1,97 @@
+{
+  "date": "2026-03-25",
+  "update_time": "2026-03-25T17:49:19.937167",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "又一华为天才少年入局具身创业！用视频生成数据训家用机器人，首个模型登顶具身基模榜单",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/391668.html",
+      "publish_time": "2026-03-24",
+      "category": "AI 综合",
+      "summary": "最新模型在Embodied Arena登顶 6G冲浪的量子位最新发现，去年从华为诺亚方舟实验室转入学界的周凯文，在入职港中文不到半年后，悄然更新了个人主页 | 他已加入具身创企诺因智能，担任合伙人兼算法主管 | 顺着周凯文人事变动这条线往下",
+      "importance_score": 9
+    },
+    {
+      "title": "神秘爆款模型被小米认领！雷军直言超过马斯克 xAI Grok，罗福莉透露MiMo-V2-Pro将开源",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/RrUxZpVIe44S0slaHvr5",
+      "publish_time": "2026-03-19",
+      "category": "AI 技术",
+      "summary": "今天，小米正式发布 MiMo-V2 家族三款新模型：MiMo-V2-Pro、MiMo-V2-Omni 和 MiMo-V2-TTS | “一周前，代号为 Hunter Alpha 的匿名模型上线全球最大的 API 聚合平台 OpenRo...",
+      "importance_score": 8
+    },
+    {
+      "title": "A股收评：创业板指放量上涨逾2%，全市场超4800只个股上涨，福建国资、CPO、电力等概念走强",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14161832.html",
+      "publish_time": "2026-03-25",
+      "category": "AI 产业",
+      "summary": "3月25日，A股三大指数集体上涨，截至收盘，上证指数涨1",
+      "importance_score": 8
+    },
+    {
+      "title": "LeCun的世界模型单GPU就能跑了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/391698.html",
+      "publish_time": "2026-03-24",
+      "category": "AI 综合",
+      "summary": "LeCun世界模型最新进展，开源了一套极简训练方案，单GPU就能跑 | 这套方案叫LeWorldModel，它基于JEPA架构，实现像素输入直接预测未来，速度快到离谱，完整规划仅需1秒",
+      "importance_score": 9
+    },
+    {
+      "title": "阿里云JVS Claw 全面开放 新增语音输入、skill开关等实用功能",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/391830.html",
+      "publish_time": "2026-03-25",
+      "category": "AI 综合",
+      "summary": "在保留7天免费体验的同时，JVS Claw还推出最低39元首月的“匠心版”套餐等，满足不同用户需求 | 同步发布的《JVS养虾宝典》也列举了20多种高阶使用场景，方便用户一键复制，快速获得结果",
+      "importance_score": 9
+    },
+    {
+      "title": "中国AI音乐，悄悄把全球第一拿走了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/391839.html",
+      "publish_time": "2026-03-25",
+      "category": "AI 综合",
+      "summary": "昆仑万维Mureka V8，最新登顶Artificial Analysis音乐模型榜，一举超越Suno V4",
+      "importance_score": 9
+    },
+    {
+      "title": "OpenAI关停Sora！25个月从封神到退场",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/391799.html",
+      "publish_time": "2026-03-25",
+      "category": "AI 综合",
+      "summary": "消息一出，X上直接炸开了锅，网友一整个大无语： 如果OpenAI推出的面向公众的产品，短短数月后就惨遭叫停，那我们凭什么要信任或投资这类产品",
+      "importance_score": 9
+    },
+    {
+      "title": "WorkBuddy杀疯了？一群AI专家帮我打工，我在微信里当赛博虾工头！",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/391894.html",
+      "publish_time": "2026-03-25",
+      "category": "AI 综合",
+      "summary": "梦瑶 发自 凹非寺量子位 | 公众号 QbitAI 到底是谁说，给老板打工自己就当不成老板的 | 毕竟现在的我，已经转头当起了「虾工头」，指挥N个龙虾专家，跑起一整套自媒体内容生产流水线了 | 起号我确实一窍不通，但架不住我随身带运营策略军",
+      "importance_score": 9
+    },
+    {
+      "title": "首个全品类旅行skill来了！飞猪“flyai”上线ClawHub、GitHub",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/391890.html",
+      "publish_time": "2026-03-25",
+      "category": "AI 综合",
+      "summary": "“flyai”还正陆续接入华为、小米、OPPO、荣耀等手机厂商 3月24日，飞猪发布首个全品类出行旅游技能插件（skill）“flyai”，该技能插件已上线ClawHub、GitHub等平台 | （图：“flyai”技能插件已登录主流...",
+      "importance_score": 9
+    },
+    {
+      "title": "从“被动感知”到“理解接触”，它石智航联合六大机构发布OmniVTA视触觉世界模型",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/03/392105.html",
+      "publish_time": "2026-03-25",
+      "category": "AI 综合",
+      "summary": "想象这样一个场景：你正在擦桌子、削水果，或者插拔一个精密零件 | 这些动作对人类来说轻而易举，然而对于机器人来说，这些看似简单的操作却是一道难以跨越的技术鸿沟 | 近期，它石智航联合新加坡国立大学、复旦大学、中科院自动化所、清华大学、中关村",
+      "importance_score": 9
+    }
+  ]
+}

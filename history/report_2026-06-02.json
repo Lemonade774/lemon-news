@@ -1,0 +1,97 @@
+{
+  "date": "2026-06-02",
+  "update_time": "2026-06-02T03:28:11.554214",
+  "total_items": 10,
+  "top_items": [
+    {
+      "title": "近2亿美元！VAST完成新一轮融资，正式披露世界模型路线",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/427516.html",
+      "publish_time": "2026-06-01",
+      "category": "AI 综合",
+      "summary": "通用人工智能公司VAST，带来两个新消息： 一，完成近2亿美元的新一轮融资；二，终于正式对外披露自己的世界模型路线 | VAST近期完成合计近2亿美元的A+及A++轮融资，领投方为渶策资本、国寿长三角科创基金 | 这也是VAST继今年...",
+      "importance_score": 9
+    },
+    {
+      "title": "微软将弃用Claude：太贵了还是薅明白了？",
+      "source": "InfoQ",
+      "url": "https://www.infoq.cn/article/qdvNe5mRkvPkPS2JGMx2",
+      "publish_time": "2026-05-26",
+      "category": "AI 技术",
+      "summary": "谁敢想，微软——那个曾经给 OpenAI 累计投了 100 多亿美元的科技巨头，最近也因为 Claude“太贵了，用不起”而在内部叫停 | 事情是这样的：近日，微软内部传出一个消息，从 6 月 30 日起，数千名负责 Windows、Mic",
+      "importance_score": 8
+    },
+    {
+      "title": "A股开盘：三大指数集体高开，制冷剂、有色·锑、AIPC等概念走强",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14518044.html",
+      "publish_time": "2026-06-02",
+      "category": "AI 产业",
+      "summary": "6月2日早间A股开盘，上证指数涨0.09%，深证成指涨0.46%，创业板指涨0.92%，北证50涨0.05%。制冷剂、智元机器人、有色·锑、生态园林、AIPC概念走强，玻纤、电力改革、绿色电力、民航、电力概念走弱。",
+      "importance_score": 8
+    },
+    {
+      "title": "下限零基础，上限肝大作！腾讯这个AI游戏创作平台，太野了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/426447.html",
+      "publish_time": "2026-05-29",
+      "category": "AI 综合",
+      "summary": "以文字和视频为例，只需要单点突破大模型生成环节就成，但游戏不仅是内容，更是一个强工程化的复杂系统 | 而这件事，现在正在发生—— 前两天的腾讯游戏发布会上，AI浓度高到爆表",
+      "importance_score": 9
+    },
+    {
+      "title": "τ0-WM：最大规模预训练的开源具身世界模型来了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/05/426832.html",
+      "publish_time": "2026-05-31",
+      "category": "AI 综合",
+      "summary": "刚刚，上海创智学院副教授、智元机器人首席科学家罗剑岚带队，发布全球最大规模的开源预训练具身世界模型—— τ0-World Model（τ0-WM) | 而3万小时的预训练数据，是目前全球开源预训练具身世界模型中最大的",
+      "importance_score": 9
+    },
+    {
+      "title": "老黄的Token经济学翻车了！微软亚马逊通通跳车",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/427541.html",
+      "publish_time": "2026-06-02",
+      "category": "AI 综合",
+      "summary": "最近，Axios爆出一个挺逆天的事儿：一家企业，一个月就烧掉了5亿美元的Claude账单，合人民币34亿元 | 原因嘛，就是老板给员工开通了Anthropic的企业授权之后，忘了设置用量上限，然后token就一直烧烧烧…… 烧了一个月，34",
+      "importance_score": 9
+    },
+    {
+      "title": "德系精工邂逅中国智慧 全新奥迪Q5L现已登陆全国门店",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/427231.html",
+      "publish_time": "2026-06-01",
+      "category": "AI 综合",
+      "summary": "2电子电气架构，实现高集成化、高扩展性的数据传输，为辅助驾驶功能落地提供稳固硬件基底 | 同时标配VMM车辆运动管理系统，打通驱动、制动、转向三大核心系统控制链路，实现软硬解耦高效协同 | 华为乾崑智驾负责路况感知与决策思考，奥迪VM...",
+      "importance_score": 9
+    },
+    {
+      "title": "清智系企业亮相 BEYOND Expo 2026 并斩获多项大奖",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/427530.html",
+      "publish_time": "2026-06-01",
+      "category": "AI 综合",
+      "summary": "依托澳门、新加坡两大国际窗口，清智持续搭建跨境创新桥梁，推动企业参与国际路演、产业对接与技术合作，已有多家被投企业实现海外市场落地、达成商务合作与订单签约",
+      "importance_score": 9
+    },
+    {
+      "title": "Qwen3.7-Plus上线！多模态智能体新基座，一键复刻桌面端专业软件",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/427730.html",
+      "publish_time": "2026-06-02",
+      "category": "AI 综合",
+      "summary": "7-Plus已上线阿里云百炼，对外提供API服务",
+      "importance_score": 9
+    },
+    {
+      "title": "今天起，无限期免费！全球首个全模态API开放，Top 10 AI Lab出手",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/06/427332.html",
+      "publish_time": "2026-06-01",
+      "category": "AI 综合",
+      "summary": "好好好，终于有人把文本、图片、视频全模态的API，统统给免费开放出来了 | 从今天起，正式面向全球开发者与创作者，无限期免费开放旗下核心模型API",
+      "importance_score": 9
+    }
+  ]
+}

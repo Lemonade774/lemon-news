@@ -7,6 +7,7 @@ import asyncio
 import hashlib
 import html
 import json
+import os
 import re
 from dataclasses import asdict, dataclass, field
 from datetime import datetime
@@ -71,10 +72,13 @@ class NewsItem:
     keywords: list[str] = field(default_factory=list)
     tags: list[str] = field(default_factory=list)
     track: str = "industry"
+    companies: list[str] = field(default_factory=list)
+    products: list[str] = field(default_factory=list)
+    financing: str = ""
 
     @classmethod
     def from_dict(cls, data: dict[str, Any]) -> "NewsItem":
-        values = {key: data[key] for key in ("title", "source", "url", "publish_time", "category", "track", "summary", "importance_score", "keywords", "tags") if key in data}
+        values = {key: data[key] for key in ("title", "source", "url", "publish_time", "category", "track", "summary", "importance_score", "keywords", "tags", "companies", "products", "financing") if key in data}
         values.setdefault("title", "")
         values.setdefault("source", "未知来源")
         values.setdefault("url", "")
@@ -84,6 +88,9 @@ class NewsItem:
         values.setdefault("summary", "")
         values.setdefault("importance_score", 5)
         values.setdefault("keywords", [])
+        values.setdefault("companies", [])
+        values.setdefault("products", [])
+        values.setdefault("financing", "")
         values["title"] = normalize_title(values["title"])
         values.setdefault("tags", classify_news(values["title"], values["summary"], values["category"], values["track"]))
         if not values["tags"]:
@@ -240,11 +247,132 @@ def summarize_content(content: str, max_len: int = 160) -> str:
     return result[:max_len - 3] + "..." if len(result) > max_len else result
 
 
+KNOWN_COMPANIES = (
+    "OpenAI", "Anthropic", "Google", "谷歌", "微软", "Meta", "阿里巴巴", "阿里", "腾讯", "字节跳动",
+    "华为", "蚂蚁集团", "蚂蚁", "百度", "DeepSeek", "MiniMax", "百融", "理想汽车", "英伟达", "商汤",
+)
+KNOWN_PRODUCTS = ("ChatGPT", "Gemini", "Claude", "DeepSeek", "Copilot", "文心一言", "通义千问", "TwinDex", "SkyProduction")
+FINANCING_PATTERN = re.compile(r"(?:融资|募资|投资|估值)[^。；;，,]{0,30}?(\d+(?:\.\d+)?\s*(?:亿|千万|百万|万)?(?:美元|人民币|元)?)?[^。；;]{0,18}?((?:Pre[- ]?[A-Z]|[A-Z]轮|天使轮|种子轮|战略投资))?", re.I)
+
+
+def extract_rule_metadata(item: NewsItem) -> NewsItem:
+    """Extract conservative entities before optionally asking an LLM to enrich them."""
+    text = f"{item.title} {item.summary}"
+    companies = [name for name in KNOWN_COMPANIES if name.lower() in text.lower()]
+    products = [name for name in KNOWN_PRODUCTS if name.lower() in text.lower()]
+    financing = ""
+    match = FINANCING_PATTERN.search(text)
+    if match and (match.group(1) or match.group(2)):
+        financing = " ".join(part for part in match.groups() if part).strip()
+    item.companies = list(dict.fromkeys(companies))[:5]
+    item.products = list(dict.fromkeys(products))[:5]
+    item.financing = financing[:80]
+    return item
+
+
+def parse_llm_json(content: str) -> dict[str, Any] | None:
+    """Parse strict JSON or a fenced JSON object returned by a chat model."""
+    candidate = content.strip()
+    candidate = re.sub(r"^```(?:json)?\s*|\s*```$", "", candidate, flags=re.I)
+    try:
+        parsed = json.loads(candidate)
+    except json.JSONDecodeError:
+        match = re.search(r"\{[\s\S]*\}", candidate)
+        if not match:
+            return None
+        try:
+            parsed = json.loads(match.group(0))
+        except json.JSONDecodeError:
+            return None
+    return parsed if isinstance(parsed, dict) else None
+
+
+def apply_llm_enrichment(item: NewsItem, payload: dict[str, Any]) -> NewsItem:
+    summary = payload.get("summary")
+    if isinstance(summary, str) and 12 <= len(summary.strip()) <= 240:
+        item.summary = summary.strip()
+    title = payload.get("title")
+    if isinstance(title, str) and 8 <= len(title.strip()) <= 68:
+        item.title = normalize_title(title.strip())
+    category = payload.get("category")
+    if isinstance(category, str) and 2 <= len(category.strip()) <= 24:
+        item.category = category.strip()
+    tags = payload.get("tags")
+    if isinstance(tags, list):
+        clean_tags = [str(tag).strip() for tag in tags if isinstance(tag, str) and 1 <= len(tag.strip()) <= 16]
+        if clean_tags:
+            item.tags = clean_tags[:3]
+    for key in ("companies", "products"):
+        values = payload.get(key)
+        if isinstance(values, list):
+            clean_values = [str(value).strip() for value in values if isinstance(value, str) and value.strip()]
+            setattr(item, key, list(dict.fromkeys(clean_values))[:5])
+    financing = payload.get("financing")
+    if isinstance(financing, str):
+        item.financing = financing.strip()[:80]
+    if item.track == "finance" and "AI × 金融" not in item.tags:
+        item.tags = ["AI × 金融", *item.tags][:3]
+    return item
+
+
+class DashScopeEnricher:
+    """Optional DashScope-compatible enrichment with deterministic fallback."""
+
+    def __init__(self) -> None:
+        self.api_key = os.getenv("DASHSCOPE_API_KEY", "").strip()
+        self.base_url = os.getenv("DASHSCOPE_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1").rstrip("/")
+        self.model = os.getenv("DASHSCOPE_MODEL", "qwen-turbo")
+        try:
+            self.timeout_seconds = max(3, int(os.getenv("DASHSCOPE_TIMEOUT", "12")))
+        except ValueError:
+            self.timeout_seconds = 12
+
+    async def enrich(self, item: NewsItem, session: aiohttp.ClientSession) -> NewsItem:
+        item = extract_rule_metadata(item)
+        if not self.api_key or session is None:
+            return item
+        prompt = {
+            "title": item.title,
+            "summary": item.summary,
+            "category": item.category,
+            "track": item.track,
+            "instruction": "用中文提炼主题、事情和结果。只返回 JSON，不要营销措辞。字段为 title, summary, category, tags, companies, products, financing。tags 最多 3 个。",
+        }
+        body = {
+            "model": self.model,
+            "temperature": 0.1,
+            "response_format": {"type": "json_object"},
+            "messages": [
+                {"role": "system", "content": "你是新闻编辑，输出客观、短、可核验的结构化摘要。"},
+                {"role": "user", "content": json.dumps(prompt, ensure_ascii=False)},
+            ],
+        }
+        headers = {"Authorization": f"Bearer {self.api_key}", "Content-Type": "application/json"}
+        timeout = aiohttp.ClientTimeout(total=self.timeout_seconds)
+        for attempt in range(2):
+            try:
+                async with session.post(f"{self.base_url}/chat/completions", json=body, headers=headers, timeout=timeout) as response:
+                    if response.status >= 400:
+                        if attempt == 0:
+                            await asyncio.sleep(0.5)
+                            continue
+                        return item
+                    data = await response.json(content_type=None)
+                    content = data.get("choices", [{}])[0].get("message", {}).get("content", "")
+                    parsed = parse_llm_json(content) if isinstance(content, str) else None
+                    return apply_llm_enrichment(item, parsed) if parsed else item
+            except (aiohttp.ClientError, asyncio.TimeoutError, ValueError, KeyError, IndexError, TypeError):
+                if attempt == 0:
+                    await asyncio.sleep(0.5)
+        return item
+
+
 class AIDailyScraper:
     def __init__(self, config_path: Path | None = None) -> None:
         config_path = config_path or ROOT / "skill.json"
         self.config = json.loads(config_path.read_text(encoding="utf-8"))
         self.sources = self.config.get("config", {}).get("sources", [])
+        self.enricher = DashScopeEnricher()
         self.session: aiohttp.ClientSession | None = None
 
     async def __aenter__(self) -> "AIDailyScraper":
@@ -310,7 +438,9 @@ class AIDailyScraper:
             summary = summarize_content(content)
             score, _ = calc_score(raw_title, name, track, summary)
             matched_keywords = [keyword for keyword in (*AI_KEYWORDS, *FINANCE_KEYWORDS) if keyword.lower() in f"{title} {summary}".lower()][:8]
-            items.append(NewsItem(title=title, source=name, url=article_url or source.get("url", ""), publish_time=publish_time or datetime.now().strftime("%Y-%m-%d"), category=category, track=track, summary=summary, importance_score=score, keywords=matched_keywords, tags=classify_news(title, summary, category, track)))
+            item = NewsItem(title=title, source=name, url=article_url or source.get("url", ""), publish_time=publish_time or datetime.now().strftime("%Y-%m-%d"), category=category, track=track, summary=summary, importance_score=score, keywords=matched_keywords, tags=classify_news(title, summary, category, track))
+            item = extract_rule_metadata(item)
+            items.append(item)
         print(f"  [OK] {name}: {len(items)} 条")
         return items
 
@@ -360,6 +490,14 @@ def generate_html(items: Iterable[NewsItem], output_path: Path, updated_at: str 
     tag_names = sorted({tag for item in items for tag in (item.tags or classify_news(item.title, item.summary, item.category, item.track))})
     tag_filters = '<div class="tag-filters" aria-label="按标签筛选"><button class="tag-filter is-active" type="button" data-tag="*">全部</button>' + ''.join(f'<button class="tag-filter tone-{tag_tone(tag)}" type="button" data-tag="{html.escape(tag, quote=True)}">{html.escape(tag)}</button>' for tag in tag_names) + '</div>'
     track_filters = '<div class="track-filters" role="tablist" aria-label="内容轨道"><button class="track-filter is-active" type="button" data-track="*" role="tab" aria-selected="true">全部</button><button class="track-filter tone-industry" type="button" data-track="industry" role="tab" aria-selected="false">AI 产业要闻</button><button class="track-filter tone-finance" type="button" data-track="finance" role="tab" aria-selected="false">AI × 金融</button></div>'
+    source_names = sorted({item.source for item in items})
+    date_names = sorted({item.publish_time for item in items if item.publish_time})
+    source_options = ''.join(f'<option value="{html.escape(source, quote=True)}">{html.escape(source)}</option>' for source in source_names)
+    date_options = ''.join(f'<option value="{html.escape(date, quote=True)}">{html.escape(date)}</option>' for date in date_names)
+    control_html = f'''<div class="content-controls" aria-label="日报筛选"><label class="search-control"><span>搜索</span><input id="news-search" type="search" placeholder="搜索标题或摘要" autocomplete="off"></label><label><span>来源</span><select id="source-filter"><option value="*">全部来源</option>{source_options}</select></label><label><span>热度</span><select id="score-filter"><option value="*">全部热度</option><option value="9">9 分及以上</option><option value="8">8 分及以上</option><option value="6">6 分及以上</option></select></label><label><span>日期</span><select id="date-filter"><option value="*">全部日期</option>{date_options}</select></label></div>'''
+    data_json_href = "news_data.json" if not in_history else f"{output_path.stem}.json"
+    insight_html = '<section class="insight-panel" aria-label="数据洞察"><div class="insight-heading"><h3>关键词热度</h3><span class="muted">来自当前日报</span></div><div id="keyword-chart" class="keyword-chart"><span class="muted">正在加载图表...</span></div><div class="market-card"><div><h3>AI 概念股行情</h3><p class="muted">暂无行情数据，等待公开行情源接入。</p></div><span class="market-status">未接入</span></div></section>'
+    theme_toggle = '<button id="theme-toggle" class="theme-toggle" type="button" title="切换主题" aria-label="切换主题">◐</button>'
     document = f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Lemon News · {html.escape(date_label)}</title><style>
 :root{{--navy:#18324b;--blue:#2d5a87;--lemon:#f4d35e;--paper:#f7f9fc;--ink:#172333;--muted:#6b7c8f;--line:#dce5ed}}*{{box-sizing:border-box}}body{{margin:0;background:var(--paper);color:var(--ink);font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}}a{{color:inherit}}button{{font:inherit}}.nav{{background:var(--navy);color:#fff}}.nav-inner{{max-width:1180px;margin:auto;padding:16px 24px;display:flex;align-items:center;gap:28px}}.brand{{font-size:21px;font-weight:750;text-decoration:none;display:inline-flex;align-items:center}}.brand-mark{{position:relative;display:inline-block;width:30px;height:23px;margin:0 9px 0 1px;background:var(--lemon);border-radius:54% 46% 50% 48%;transform:rotate(-18deg);box-shadow:inset -4px -3px 0 rgba(190,145,0,.16)}}.brand-mark::before{{content:"";position:absolute;left:7px;top:4px;width:7px;height:4px;border-radius:50%;background:rgba(255,255,255,.52);transform:rotate(-18deg)}}.brand-mark::after{{content:"";position:absolute;right:-3px;top:-7px;width:10px;height:6px;border-radius:90% 10% 90% 10%;background:#79a83b;transform:rotate(24deg)}}.nav-note{{color:#b9cada;font-size:13px}}.layout{{max-width:1180px;margin:30px auto;padding:0 24px;display:grid;grid-template-columns:minmax(0,1fr) 250px;gap:24px}}.hero{{margin-bottom:20px;text-align:center}}.eyebrow{{color:var(--blue);font-size:12px;font-weight:700;letter-spacing:.12em}}h1{{font-size:32px;line-height:1.2;margin:7px 0;color:var(--navy)}}.date{{color:var(--muted);margin:0}}.news-item{{position:relative;display:flex;gap:18px;padding:20px 0;border-top:1px solid var(--line)}}.news-number{{flex:none;width:42px;height:42px;border-radius:50%;background:var(--lemon);color:var(--navy);display:grid;place-items:center;font-weight:800;font-size:15px}}.news-content{{min-width:0;flex:1}}.news-title-row{{position:relative;text-align:center}}h2{{font-size:19px;line-height:1.4;margin:0;padding:0 96px;text-align:center}}h2 a{{text-decoration:none}}h2 a:hover{{color:var(--blue)}}.news-meta{{display:flex;justify-content:space-between;gap:12px;align-items:center;margin:10px 0 5px;color:var(--muted);font-size:12px;white-space:nowrap}}.meta-primary{{display:flex;align-items:center;gap:8px;min-width:0}}.news-meta time{{margin-left:auto}}.news-actions{{display:flex;flex-direction:column;align-items:flex-end;gap:2px;min-height:48px}}.read-more{{position:absolute;right:0;top:0;display:inline-block;color:var(--blue);font-size:13px;white-space:nowrap;text-decoration:none}}.score,.source,.tag{{padding:2px 8px;border-radius:999px;font-weight:700}}.score-high{{background:#ffe6df;color:#b34124}}.score-mid{{background:#fff1c2;color:#886a00}}.score-low{{background:#e5eef7;color:var(--blue)}}.source{{background:#e9eef3;color:var(--blue);font-weight:600}}.tag-row{{position:relative;min-height:30px;display:flex;align-items:center;justify-content:center}}.tags{{display:flex;justify-content:center;gap:6px;flex-wrap:nowrap;overflow-x:auto;margin:0 auto}}.tag-row .archive-btn{{position:absolute;right:0;top:0}}.news-item[hidden],.news-item.is-filtered-out{{display:none}}.track-filters,.tag-filters{{display:flex;justify-content:center;gap:7px;flex-wrap:wrap;margin-top:16px}}.track-filter,.tag-filter{{border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--blue);cursor:pointer;padding:5px 11px;font-size:12px}}.track-filter.is-active,.tag-filter.is-active{{box-shadow:inset 0 0 0 2px currentColor}}.track-filter:hover,.tag-filter:hover{{filter:brightness(.97)}}.tag{{font-size:11px;font-weight:650}}.tone-general{{background:#edf5d0;color:#56701d;border-color:#d8e8a6}}.tone-industry{{background:#edf1f8;color:#48627d;border-color:#d5deea}}.tone-model{{background:#e4efff;color:#2e5e94;border-color:#c5daf5}}.tone-agent{{background:#f1e8ff;color:#6c4b9a;border-color:#ddccf5}}.tone-app{{background:#e7f7ef;color:#2e7657;border-color:#c5e9d5}}.tone-company{{background:#fff0df;color:#99602f;border-color:#f2d4b2}}.tone-finance{{background:#e9ebff;color:#515c9e;border-color:#d0d5f6}}.tone-compute{{background:#e4f5f5;color:#2f7779;border-color:#c6e6e6}}.tone-embodied{{background:#ffe8ec;color:#a24e68;border-color:#f5cbd5}}.archive-btn{{border:0;background:transparent;color:#8ca0b3;font-size:22px;line-height:1;cursor:pointer;padding:0 2px}}.archive-btn.is-archived{{color:#d69c00}}.news-content p{{margin:0;color:#526273}}aside{{position:sticky;top:20px;height:max-content;background:#fff;border:1px solid var(--line);border-radius:10px;padding:18px;text-align:center}}aside h3{{margin:0 0 12px;color:var(--navy);font-size:15px}}aside a{{display:block;padding:7px 0;color:var(--blue);text-decoration:none;border-top:1px solid #edf1f5;font-size:13px}}.archive-panel{{border-top:1px solid var(--line);margin-top:18px;padding-top:16px}}.archive-panel h3{{margin-bottom:9px}}.archive-controls{{display:flex;gap:6px;margin-bottom:10px}}.archive-controls input,.archive-controls select{{min-width:0;flex:1;border:1px solid var(--line);border-radius:6px;padding:6px 7px;color:var(--ink);background:#fff}}.archive-controls button,.archive-remove{{border:1px solid var(--line);border-radius:6px;background:#fff;color:var(--blue);cursor:pointer;padding:5px 8px;white-space:nowrap}}.archive-group{{border-top:1px solid #edf1f5;text-align:left}}.archive-group summary{{display:flex;justify-content:space-between;align-items:center;padding:9px 2px;cursor:pointer;color:var(--navy);font-weight:700;list-style:none}}.archive-group summary::-webkit-details-marker{{display:none}}.archive-group summary::after{{content:"+";color:var(--muted);font-size:16px}}.archive-group[open] summary::after{{content:"−"}}.archive-group summary small{{color:var(--muted);font-weight:500;margin-left:auto;margin-right:8px}}.archive-group-items{{padding:0 0 8px}}dialog{{width:min(340px,calc(100vw - 36px));border:1px solid var(--line);border-radius:10px;padding:18px;color:var(--ink)}}dialog::backdrop{{background:rgba(24,50,75,.32)}}dialog h4{{margin:0 0 12px;color:var(--navy)}}dialog input{{width:100%;border:1px solid var(--line);border-radius:6px;padding:8px}}.dialog-actions{{display:flex;justify-content:flex-end;gap:8px;margin-top:14px}}.dialog-actions button{{border:1px solid var(--line);border-radius:6px;background:#fff;color:var(--blue);cursor:pointer;padding:6px 12px}}.dialog-actions button[type=submit]{{background:var(--navy);border-color:var(--navy);color:#fff}}.archive-list{{display:grid;gap:8px}}.archive-entry{{padding:8px;background:var(--paper);border-radius:7px;font-size:12px;text-align:left}}.archive-entry a{{border:0;padding:0;font-weight:650}}.archive-entry small{{display:block;color:var(--muted);margin:3px 0 5px}}.archive-entry-row{{display:flex;gap:5px}}.archive-entry select{{min-width:0;flex:1;border:1px solid var(--line);border-radius:5px;font-size:11px}}.archive-remove{{color:#a34b3d;font-size:11px}}.muted{{color:var(--muted);font-size:13px}}footer{{max-width:1180px;margin:12px auto 36px;padding:0 24px;color:var(--muted);font-size:12px;display:flex;justify-content:space-between;gap:20px;align-items:center}}footer .footer-note{{text-align:left}}footer .footer-brand{{text-align:right;white-space:nowrap}}@media(max-width:800px){{.layout{{display:block;margin-top:22px}}aside{{position:static;margin-top:28px}}.nav-inner{{padding:14px 18px;flex-wrap:wrap;gap:8px 18px}}.news-meta{{overflow-x:auto;justify-content:flex-start}}.tag-row .archive-btn{{right:0}}.tags{{justify-content:center}}h2{{padding:0 72px}}.read-more{{top:0}}.tag-filters,.track-filters{{justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap;padding-bottom:3px}}.layout,footer{{padding-left:18px;padding-right:18px}}h1{{font-size:27px}}.news-title-row{{display:block}}.read-more{{top:0;display:inline-block;margin:0}}footer{{display:block}}footer .footer-brand{{display:block;margin-top:4px;text-align:left}}}}
 </style></head><body><nav class="nav"><div class="nav-inner"><a class="brand" href="{home_href}"><span class="brand-mark" aria-hidden="true"></span>Lemon News</a><span class="nav-note">AI × 金融 · 每日情报站</span></div></nav><main class="layout"><section><header class="hero"><div class="eyebrow">DAILY INTELLIGENCE</div><h1>今日 AI 情报</h1><p class="date">{html.escape(date_label)}</p>{tag_filters}</header>{''.join(cards) or '<p class="muted">今日暂无可用新闻。</p>'}</section><aside><h3>历史日报</h3>{links}<section class="archive-panel" id="archive-panel"><h3>我的归档</h3><div class="archive-controls"><select id="archive-filter" aria-label="归档分组"><option value="*">全部分组</option></select><button id="archive-add-group" type="button" title="新建分组">+ 新建</button></div><dialog id="archive-group-dialog"><form method="dialog" id="archive-group-form"><h4>新建归档分组</h4><input id="archive-group-input" maxlength="24" placeholder="分组名称" aria-label="分组名称" required><div class="dialog-actions"><button type="button" id="archive-group-cancel">取消</button><button type="submit">创建</button></div></form></dialog><div class="archive-list" id="archive-list"><span class="muted">暂无归档新闻</span></div></section></aside></main><footer><span class="footer-note">内容来自公开媒体，仅作信息整理与产品研究；请点击原文核验。</span><span class="footer-brand">Lemon News · AI × 金融每日情报站</span></footer><script>
@@ -398,11 +536,20 @@ def generate_html(items: Iterable[NewsItem], output_path: Path, updated_at: str 
   filter.addEventListener('change', render);
   let activeTrack = '*';
   let activeTag = '*';
+  let activeSearch = '';
+  let activeSource = '*';
+  let activeScore = '*';
+  let activeDate = '*';
   const applyFilters = () => {{
     document.querySelectorAll('.news-item').forEach(item => {{
       const trackMatches = activeTrack === '*' || item.dataset.track === activeTrack;
       const tagMatches = activeTag === '*' || Array.from(item.querySelectorAll('.tag')).some(node => node.textContent.trim() === activeTag);
-      const matches = trackMatches && tagMatches;
+      const textMatches = !activeSearch || item.textContent.toLowerCase().includes(activeSearch);
+      const sourceMatches = activeSource === '*' || item.querySelector('.source')?.textContent.trim() === activeSource;
+      const score = Number((item.querySelector('.score')?.textContent.match(/\\d+/) || [0])[0]);
+      const scoreMatches = activeScore === '*' || score >= Number(activeScore);
+      const dateMatches = activeDate === '*' || item.querySelector('time')?.textContent.trim() === activeDate;
+      const matches = trackMatches && tagMatches && textMatches && sourceMatches && scoreMatches && dateMatches;
       item.hidden = !matches;
       item.classList.toggle('is-filtered-out', !matches);
     }});
@@ -415,6 +562,14 @@ def generate_html(items: Iterable[NewsItem], output_path: Path, updated_at: str 
   }};
   document.querySelectorAll('.track-filter').forEach(button => button.addEventListener('click', () => {{ activeTrack = button.dataset.track; applyFilters(); }}));
   document.querySelectorAll('.tag-filter').forEach(button => button.addEventListener('click', () => {{ activeTag = button.dataset.tag; applyFilters(); }}));
+  const searchInput = document.getElementById('news-search');
+  const sourceFilter = document.getElementById('source-filter');
+  const scoreFilter = document.getElementById('score-filter');
+  const dateFilter = document.getElementById('date-filter');
+  searchInput?.addEventListener('input', () => {{ activeSearch = searchInput.value.trim().toLowerCase(); applyFilters(); }});
+  sourceFilter?.addEventListener('change', () => {{ activeSource = sourceFilter.value; applyFilters(); }});
+  scoreFilter?.addEventListener('change', () => {{ activeScore = scoreFilter.value; applyFilters(); }});
+  dateFilter?.addEventListener('change', () => {{ activeDate = dateFilter.value; applyFilters(); }});
   document.getElementById('archive-add-group').addEventListener('click', () => {{ groupInput.value = ''; if (dialog.showModal) dialog.showModal(); else dialog.setAttribute('open', ''); groupInput.focus(); }});
   document.getElementById('archive-group-cancel').addEventListener('click', () => {{ if (dialog.close) dialog.close(); else dialog.removeAttribute('open'); }});
   document.getElementById('archive-group-form').addEventListener('submit', event => {{ event.preventDefault(); const group = groupInput.value.trim(); if (group && !state.groups.includes(group)) {{ state.groups.push(group); persist(); render(); }} if (dialog.close) dialog.close(); else dialog.removeAttribute('open'); }});
@@ -422,7 +577,52 @@ def generate_html(items: Iterable[NewsItem], output_path: Path, updated_at: str 
   applyFilters();
 }})();
 </script></body></html>'''
-    document = document.replace('<div class="tag-filters"', f'{track_filters}<div class="tag-filters"', 1)
+    extra_css = """
+body[data-theme="dark"] { --paper:#101923; --ink:#e6edf3; --muted:#9cafc0; --line:#2a3b4c; --blue:#9cc7ed; --navy:#0b1724; }
+body[data-theme="dark"] .tag-filter, body[data-theme="dark"] .track-filter, body[data-theme="dark"] .archive-controls select, body[data-theme="dark"] .archive-controls button { background:#172636; color:var(--blue); border-color:var(--line); }
+body[data-theme="dark"] aside, body[data-theme="dark"] dialog { background:#142230; }
+.theme-toggle { margin-left:auto; border:1px solid rgba(255,255,255,.25); border-radius:999px; background:transparent; color:#fff; cursor:pointer; width:34px; height:30px; }
+.content-controls { display:flex; flex-wrap:wrap; gap:8px; align-items:end; justify-content:center; margin:16px 0 4px; }
+.content-controls label { display:flex; flex-direction:column; gap:3px; color:var(--muted); font-size:11px; text-align:left; }
+.content-controls label span { padding-left:2px; }
+.content-controls input, .content-controls select { border:1px solid var(--line); border-radius:6px; background:#fff; color:var(--ink); padding:6px 8px; min-width:112px; }
+.content-controls .search-control { min-width:min(300px,100%); flex:1 1 240px; }
+.content-controls .search-control input { width:100%; }
+.insight-panel { border-top:1px solid var(--line); margin-top:18px; padding-top:16px; text-align:left; }
+.insight-heading { display:flex; justify-content:space-between; align-items:baseline; }
+.insight-panel h3 { margin:0 0 8px; }
+.keyword-chart { height:180px; display:grid; place-items:center; }
+.market-card { display:flex; justify-content:space-between; gap:10px; align-items:center; border-top:1px solid var(--line); padding-top:12px; margin-top:8px; }
+.market-card p { margin:0; }
+.market-status { color:var(--muted); font-size:11px; white-space:nowrap; }
+@media(max-width:800px) { .content-controls { justify-content:stretch; } .content-controls label { flex:1 1 calc(50% - 8px); } .content-controls .search-control { flex-basis:100%; } }
+"""
+    enhancement_js = f"""
+(() => {{
+  const themeKey = 'lemon-news-theme-v1';
+  const themeButton = document.getElementById('theme-toggle');
+  const applyTheme = theme => {{ document.body.dataset.theme = theme; if (themeButton) themeButton.textContent = theme === 'dark' ? '☀' : '◐'; }};
+  applyTheme(localStorage.getItem(themeKey) || 'light');
+  themeButton?.addEventListener('click', () => {{ const next = document.body.dataset.theme === 'dark' ? 'light' : 'dark'; localStorage.setItem(themeKey, next); applyTheme(next); }});
+  const chartRoot = document.getElementById('keyword-chart');
+  const jsonHref = {json.dumps(data_json_href, ensure_ascii=False)};
+  fetch(jsonHref).then(response => {{ if (!response.ok) throw new Error('data unavailable'); return response.json(); }}).then(data => {{
+    const counts = {{}};
+    (data.top_items || []).forEach(item => (item.tags || []).forEach(tag => {{ counts[tag] = (counts[tag] || 0) + 1; }}));
+    const entries = Object.entries(counts).sort((a, b) => b[1] - a[1]).slice(0, 8);
+    if (!entries.length || !window.echarts) {{ chartRoot.textContent = '暂无足够数据生成关键词图表'; return; }}
+    const chart = window.echarts.init(chartRoot);
+    chart.setOption({{ grid: {{ left: 8, right: 8, top: 8, bottom: 24, containLabel: true }}, xAxis: {{ type: 'category', data: entries.map(entry => entry[0]), axisLabel: {{ color: getComputedStyle(document.body).getPropertyValue('--muted'), interval: 0, rotate: entries.length > 5 ? 24 : 0 }} }}, yAxis: {{ type: 'value', minInterval: 1, axisLabel: {{ color: getComputedStyle(document.body).getPropertyValue('--muted') }} }}, series: [{{ type: 'bar', data: entries.map(entry => entry[1]), barMaxWidth: 24, itemStyle: {{ color: '#f4d35e', borderRadius: [4, 4, 0, 0] }} }}] }});
+    window.addEventListener('resize', () => chart.resize());
+  }}).catch(() => {{ chartRoot.textContent = '关键词数据暂不可用'; }});
+}})();
+"""
+    document = document.replace("</style>", extra_css + "</style>", 1)
+    document = document.replace('<div class="tag-filters"', f'{control_html}{track_filters}<div class="tag-filters"', 1)
+    document = document.replace('</div></nav>', f'{theme_toggle}</div></nav>', 1)
+    document = document.replace('<section class="archive-panel"', f'{insight_html}<section class="archive-panel"', 1)
+    document = document.replace('</head>', '<script src="https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js"></script></head>', 1)
+    document = document.replace('</body>', f'<script>{enhancement_js}</script></body>', 1)
     output_path.write_text(document, encoding="utf-8")
 
 
@@ -437,22 +637,25 @@ def render_history() -> int:
 
 async def run() -> None:
     HISTORY_DIR.mkdir(parents=True, exist_ok=True)
-    async with AIDailyScraper() as scraper:
+    scraper = AIDailyScraper()
+    async with scraper:
         items = await scraper.scrape_all()
-    if not items:
-        existing_path = ROOT / "news_data.json"
-        if existing_path.exists():
-            existing = json.loads(existing_path.read_text(encoding="utf-8"))
-            items = [NewsItem.from_dict(item) for item in existing.get("top_items", [])]
-            print("  [WARN] 所有来源暂不可用，沿用最近一次日报，避免生成空日报")
+        if not items:
+            existing_path = ROOT / "news_data.json"
+            if existing_path.exists():
+                existing = json.loads(existing_path.read_text(encoding="utf-8"))
+                items = [NewsItem.from_dict(item) for item in existing.get("top_items", [])]
+                print("  [WARN] 所有来源暂不可用，沿用最近一次日报，避免生成空日报")
+        output_config = scraper.config.get("config", {}).get("output", {})
+        top_items = select_top_items(
+            items,
+            limit=int(output_config.get("daily_limit", 10)),
+            industry_target=int(output_config.get("industry_target", 6)),
+            finance_target=int(output_config.get("finance_target", 4)),
+        )
+        if top_items and scraper.enricher.api_key and scraper.session:
+            top_items = await asyncio.gather(*(scraper.enricher.enrich(item, scraper.session) for item in top_items))
     today = datetime.now().strftime("%Y-%m-%d")
-    output_config = AIDailyScraper().config.get("config", {}).get("output", {})
-    top_items = select_top_items(
-        items,
-        limit=int(output_config.get("daily_limit", 10)),
-        industry_target=int(output_config.get("industry_target", 6)),
-        finance_target=int(output_config.get("finance_target", 4)),
-    )
     now = datetime.now().isoformat()
     save_json(ROOT / "news_data.json", {"update_time": now, "total_items": len(items), "top_items": [item.to_dict() for item in top_items]})
     save_json(HISTORY_DIR / f"report_{today}.json", {"date": today, "update_time": now, "total_items": len(top_items), "top_items": [item.to_dict() for item in top_items]})

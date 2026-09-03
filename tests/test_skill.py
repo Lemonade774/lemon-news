@@ -1,8 +1,10 @@
 import asyncio
+import os
+import subprocess
 import tempfile
 import unittest
 from pathlib import Path
-from unittest.mock import AsyncMock
+from unittest.mock import AsyncMock, patch
 
 import skill
 
@@ -51,6 +53,14 @@ class SkillTests(unittest.TestCase):
             self.assertIn('data-track="finance"', html)
             self.assertIn("AI × 金融", html)
             self.assertIn("const applyFilters", html)
+            self.assertIn('id="news-search"', html)
+            self.assertIn('id="source-filter"', html)
+            self.assertIn('id="score-filter"', html)
+            self.assertIn('id="date-filter"', html)
+            self.assertIn('id="theme-toggle"', html)
+            self.assertIn('cdn.jsdelivr.net/npm/echarts@5', html)
+            self.assertIn('id="keyword-chart"', html)
+            subprocess.run(["node", "-e", "const fs=require('fs'); const t=fs.readFileSync(process.argv[1],'utf8'); for (const s of t.matchAll(/<script>([\\s\\S]*?)<\\/script>/g)) new Function(s[1]);", str(output)], check=True)
 
     def test_finance_source_failure_is_empty_and_non_fatal(self):
         scraper = skill.AIDailyScraper.__new__(skill.AIDailyScraper)
@@ -73,6 +83,24 @@ class SkillTests(unittest.TestCase):
         restored = skill.NewsItem.from_dict({"title": "AI 产品发布", "source": "InfoQ", "url": "https://example.com"})
         self.assertEqual(restored.track, "industry")
         self.assertTrue(restored.tags)
+
+    def test_dashscope_without_key_uses_rule_metadata(self):
+        news = item("OpenAI 投资方公布新产品", "量子位", "industry")
+        with patch.dict(os.environ, {}, clear=True):
+            enricher = skill.DashScopeEnricher()
+            enriched = asyncio.run(enricher.enrich(news, None))
+        self.assertEqual(enriched.companies, ["OpenAI"])
+        self.assertEqual(enriched.products, [])
+
+    def test_parse_llm_json_accepts_fenced_response(self):
+        parsed = skill.parse_llm_json('```json\n{"summary":"客观摘要","tags":["大模型"]}\n```')
+        self.assertEqual(parsed["summary"], "客观摘要")
+        self.assertEqual(parsed["tags"], ["大模型"])
+
+    def test_llm_enrichment_keeps_finance_track_tag(self):
+        news = item("AI 投研平台", "财联社", "finance")
+        enriched = skill.apply_llm_enrichment(news, {"summary": "机构接入量化风控平台", "tags": ["产品动态"]})
+        self.assertIn("AI × 金融", enriched.tags)
 
 
 if __name__ == "__main__":

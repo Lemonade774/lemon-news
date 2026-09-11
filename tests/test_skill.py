@@ -77,6 +77,12 @@ class SkillTests(unittest.TestCase):
         self.assertTrue(all(news.selection_reason == "previous_day_top" for news in selected[3:]))
         self.assertEqual([news.importance_score for news in selected[3:]], sorted((news.importance_score for news in selected[3:]), reverse=True))
 
+    def test_daily_selection_rejects_stale_items_from_previous_report(self):
+        stale = item("一个月前的 AI 新闻", "InfoQ", "industry", 10)
+        stale.publish_time = "2026-08-08"
+        selected = skill.select_daily_items([], date(2026, 9, 10), previous_day_items=[stale], limit=10)
+        self.assertEqual(selected, [])
+
     def test_english_headline_is_localized_but_model_name_is_preserved(self):
         title = skill.normalize_title("How GPT-5.6 Sol helps run quantum computing experiments")
         self.assertEqual(title, "GPT-5.6 Sol 如何辅助量子计算实验")
@@ -124,7 +130,31 @@ class SkillTests(unittest.TestCase):
             (root / "report_2026-09-10.json").write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
             (root / "report_2026-09-02.json").write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
             loaded = skill.load_recent_history(date(2026, 9, 10), history_dir=root)
-            self.assertEqual(len(loaded), 1)
+        self.assertEqual(len(loaded), 1)
+
+    def test_previous_day_loader_does_not_fall_back_to_older_report(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            stale = item("旧日报里的 AI 新闻", "InfoQ", "industry")
+            stale.publish_time = "2026-08-08"
+            (root / "report_2026-09-03.json").write_text(
+                json.dumps({"top_items": [stale.to_dict()]}, ensure_ascii=False), encoding="utf-8"
+            )
+            self.assertEqual(skill.load_previous_day_items(date(2026, 9, 10), root), [])
+
+    def test_previous_day_loader_keeps_recent_publications_from_previous_report(self):
+        with tempfile.TemporaryDirectory() as directory:
+            root = Path(directory)
+            yesterday = item("昨天发布的 AI 新闻", "InfoQ", "industry")
+            yesterday.publish_time = "2026-09-09"
+            delayed = item("前日报延迟的 AI 新闻", "量子位", "industry")
+            delayed.publish_time = "2026-09-08"
+            stale = item("日报中的更早新闻", "InfoQ", "industry")
+            stale.publish_time = "2026-08-08"
+            (root / "report_2026-09-09.json").write_text(
+                json.dumps({"top_items": [stale.to_dict(), yesterday.to_dict(), delayed.to_dict()]}, ensure_ascii=False), encoding="utf-8"
+            )
+            self.assertEqual(skill.load_previous_day_items(date(2026, 9, 10), root), [yesterday, delayed])
 
     def test_aihub_parser_attributes_external_original_source(self):
         page = '''<article class="news-item"><h2><a href="/news/123">OpenAI 发布新模型</a></h2><p>模型能力和 API 同步开放，开发者可立即使用。</p><span class="source">OpenAI</span><time datetime="2026-09-10"></time><a class="original" href="https://openai.com/news/model">原文</a></article>'''
@@ -188,7 +218,7 @@ class SkillTests(unittest.TestCase):
             self.assertIn('data-track="industry"', html)
             self.assertIn('data-track="finance"', html)
             self.assertIn("AI × 金融", html)
-            self.assertIn("const applyFilters", html)
+            self.assertIn("const runGlobalFilters", html)
             self.assertIn('id="news-search"', html)
             self.assertIn('id="source-filter"', html)
             self.assertIn('id="score-filter"', html)
@@ -204,6 +234,9 @@ class SkillTests(unittest.TestCase):
             self.assertIn("搜索全部历史日报", html)
             self.assertIn('id="history-search-results"', html)
             self.assertIn("searchIndexHref", html)
+            self.assertIn("populateGlobalControls", html)
+            self.assertIn("body[data-theme=\"dark\"] .news-content p", html)
+            self.assertIn("body[data-theme=\"dark\"] h1", html)
             subprocess.run(["node", "-e", "const fs=require('fs'); const t=fs.readFileSync(process.argv[1],'utf8'); for (const s of t.matchAll(/<script>([\\s\\S]*?)<\\/script>/g)) new Function(s[1]);", str(output)], check=True)
 
     def test_search_index_covers_all_reports_and_deduplicates_urls(self):

@@ -433,23 +433,31 @@ def load_recent_history(report_date: date, days: int = 7, history_dir: Path = HI
     return previous
 
 
-def load_previous_day_items(report_date: date, history_dir: Path = HISTORY_DIR) -> list[NewsItem]:
-    """Load the prior report for hard-fill fallback, preferring the closest date."""
+def load_previous_day_items(
+    report_date: date,
+    history_dir: Path = HISTORY_DIR,
+    max_age_days: int = 3,
+) -> list[NewsItem]:
+    """Load recent items from the immediately preceding report for backfill.
+
+    A report can contain articles published one or two days before its report
+    date when an upstream feed is delayed. Restricting the fallback to the
+    previous report and a short age window avoids resurrecting month-old news.
+    """
     exact = history_dir / f"report_{(report_date - timedelta(days=1)).isoformat()}.json"
-    paths = [exact] if exact.exists() else sorted(history_dir.glob("report_*.json"), reverse=True)
-    for path in paths:
-        try:
-            report = date.fromisoformat(path.stem.removeprefix("report_"))
-        except ValueError:
-            continue
-        if report >= report_date:
-            continue
-        try:
-            data = json.loads(path.read_text(encoding="utf-8"))
-            return [NewsItem.from_dict(item) for item in data.get("top_items", [])]
-        except (OSError, json.JSONDecodeError, TypeError):
-            print(f"  [WARN] 前日报无法读取，已跳过：{path.name}")
-    return []
+    if not exact.exists():
+        return []
+    try:
+        data = json.loads(exact.read_text(encoding="utf-8"))
+        items = [NewsItem.from_dict(item) for item in data.get("top_items", [])]
+        return [
+            item for item in items
+            if (age := publish_age(item, report_date)) is not None
+            and 1 <= age <= max_age_days
+        ]
+    except (OSError, json.JSONDecodeError, TypeError):
+        print(f"  [WARN] 前日报无法读取，已跳过：{exact.name}")
+        return []
 
 
 def select_top_items(
@@ -588,7 +596,15 @@ def select_daily_items(
     # A daily report is intentionally full. If fresh candidates are scarce,
     # append the previous report's highest-value items as an explicit fallback.
     if len(selected) < limit:
-        fallback = sorted(previous_day_items, key=lambda item: item.importance_score, reverse=True)
+        fallback = sorted(
+            (
+                item for item in previous_day_items
+                if (age := publish_age(item, report_date)) is not None
+                and 1 <= age <= max_backfill_days
+            ),
+            key=lambda item: item.importance_score,
+            reverse=True,
+        )
         for item in fallback:
             if len(selected) >= limit:
                 break
@@ -938,7 +954,7 @@ def generate_html(items: Iterable[NewsItem], output_path: Path, updated_at: str 
             source_context.append('<span class="source-context">近期补位</span>')
         source_context_html = "".join(source_context)
         item_id = archive_id(item)
-        cards.append(f'''<article class="news-item" data-news-id="{item_id}" data-track="{html.escape(item.track, quote=True)}" data-topic="{html.escape(item.topic, quote=True)}"><div class="news-number">{number:02d}</div><div class="news-content"><div class="news-title-row"><h2><a href="{safe_url}" target="_blank" rel="noopener">{html.escape(item.title)}</a></h2><a class="read-more" href="{safe_url}" target="_blank" rel="noopener">阅读原文 ↗</a></div><div class="news-meta"><div class="meta-primary"><span class="score {score_class}">热度 {item.importance_score}</span><span class="source">{html.escape(item.source)}</span>{source_context_html}</div><time>{html.escape(item.publish_time)}</time></div><div class="tag-row"><div class="tags">{tag_html}</div><button class="archive-btn" type="button" data-archive-id="{item_id}" data-title="{html.escape(item.title, quote=True)}" data-url="{safe_url}" data-source="{html.escape(item.source, quote=True)}" title="归档新闻" aria-label="归档新闻">☆</button></div><p>{html.escape(item.summary or "暂无摘要")}</p></div></article>''')
+        cards.append(f'''<article class="news-item daily-item" data-news-id="{item_id}" data-track="{html.escape(item.track, quote=True)}" data-topic="{html.escape(item.topic, quote=True)}"><div class="news-number">{number:02d}</div><div class="news-content"><div class="news-title-row"><h2><a href="{safe_url}" target="_blank" rel="noopener">{html.escape(item.title)}</a></h2><a class="read-more" href="{safe_url}" target="_blank" rel="noopener">阅读原文 ↗</a></div><div class="news-meta"><div class="meta-primary"><span class="score {score_class}">热度 {item.importance_score}</span><span class="source">{html.escape(item.source)}</span>{source_context_html}</div><time>{html.escape(item.publish_time)}</time></div><div class="tag-row"><div class="tags">{tag_html}</div><button class="archive-btn" type="button" data-archive-id="{item_id}" data-title="{html.escape(item.title, quote=True)}" data-url="{safe_url}" data-source="{html.escape(item.source, quote=True)}" title="归档新闻" aria-label="归档新闻">☆</button></div><p>{html.escape(item.summary or "暂无摘要")}</p></div></article>''')
     links = "".join(f'<a href="{history_href}{html.escape(date)}.html">{html.escape(date)}</a>' for date in history_dates()[:15]) or '<span class="muted">暂无历史日报</span>'
     tag_names = sorted({tag for item in items for tag in (item.tags or classify_news(item.title, item.summary, item.category, item.track))})
     tag_filters = '<div class="tag-filters" aria-label="按标签筛选"><button class="tag-filter is-active" type="button" data-tag="*">全部</button>' + ''.join(f'<button class="tag-filter tone-{tag_tone(tag)}" type="button" data-tag="{html.escape(tag, quote=True)}">{html.escape(tag)}</button>' for tag in tag_names) + '</div>'
@@ -956,11 +972,14 @@ def generate_html(items: Iterable[NewsItem], output_path: Path, updated_at: str 
     today_count = int(selection_summary.get("today_count", 0))
     backfill_count = int(selection_summary.get("backfill_count", 0))
     previous_day_top_count = int(selection_summary.get("previous_day_top_count", 0))
+    selected_count = int(selection_summary.get("selected_count", today_count + backfill_count + previous_day_top_count))
     summary_parts = [f"今日新增 {today_count} 条"]
     if backfill_count:
         summary_parts.append(f"近 72 小时补位 {backfill_count} 条")
     if previous_day_top_count:
         summary_parts.append(f"前日精选 {previous_day_top_count} 条")
+    if selection_summary and selected_count < 10:
+        summary_parts.append(f"有效内容共 {selected_count} 条")
     selection_summary_html = f'<p class="selection-summary">{" · ".join(summary_parts)}</p>' if selection_summary else ""
     document = f'''<!doctype html><html lang="zh-CN"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Lemon News · {html.escape(date_label)}</title><style>
 :root{{--navy:#18324b;--blue:#2d5a87;--lemon:#f4d35e;--paper:#f7f9fc;--ink:#172333;--muted:#6b7c8f;--line:#dce5ed}}*{{box-sizing:border-box}}body{{margin:0;background:var(--paper);color:var(--ink);font:15px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif}}a{{color:inherit}}button{{font:inherit}}.nav{{background:var(--navy);color:#fff}}.nav-inner{{max-width:1180px;margin:auto;padding:16px 24px;display:flex;align-items:center;gap:28px}}.brand{{font-size:21px;font-weight:750;text-decoration:none;display:inline-flex;align-items:center}}.brand-mark{{position:relative;display:inline-block;width:30px;height:23px;margin:0 9px 0 1px;background:var(--lemon);border-radius:54% 46% 50% 48%;transform:rotate(-18deg);box-shadow:inset -4px -3px 0 rgba(190,145,0,.16)}}.brand-mark::before{{content:"";position:absolute;left:7px;top:4px;width:7px;height:4px;border-radius:50%;background:rgba(255,255,255,.52);transform:rotate(-18deg)}}.brand-mark::after{{content:"";position:absolute;right:-3px;top:-7px;width:10px;height:6px;border-radius:90% 10% 90% 10%;background:#79a83b;transform:rotate(24deg)}}.nav-note{{color:#b9cada;font-size:13px}}.layout{{max-width:1180px;margin:30px auto;padding:0 24px;display:grid;grid-template-columns:minmax(0,1fr) 250px;gap:24px}}.hero{{margin-bottom:20px;text-align:center}}.eyebrow{{color:var(--blue);font-size:12px;font-weight:700;letter-spacing:.12em}}h1{{font-size:32px;line-height:1.2;margin:7px 0;color:var(--navy)}}.date{{color:var(--muted);margin:0}}.news-item{{position:relative;display:flex;gap:18px;padding:20px 0;border-top:1px solid var(--line)}}.news-number{{flex:none;width:42px;height:42px;border-radius:50%;background:var(--lemon);color:var(--navy);display:grid;place-items:center;font-weight:800;font-size:15px}}.news-content{{min-width:0;flex:1}}.news-title-row{{position:relative;text-align:center}}h2{{font-size:19px;line-height:1.4;margin:0;padding:0 96px;text-align:center}}h2 a{{text-decoration:none}}h2 a:hover{{color:var(--blue)}}.news-meta{{display:flex;justify-content:space-between;gap:12px;align-items:center;margin:10px 0 5px;color:var(--muted);font-size:12px;white-space:nowrap}}.meta-primary{{display:flex;align-items:center;gap:8px;min-width:0}}.news-meta time{{margin-left:auto}}.news-actions{{display:flex;flex-direction:column;align-items:flex-end;gap:2px;min-height:48px}}.read-more{{position:absolute;right:0;top:0;display:inline-block;color:var(--blue);font-size:13px;white-space:nowrap;text-decoration:none}}.score,.source,.tag{{padding:2px 8px;border-radius:999px;font-weight:700}}.score-high{{background:#ffe6df;color:#b34124}}.score-mid{{background:#fff1c2;color:#886a00}}.score-low{{background:#e5eef7;color:var(--blue)}}.source{{background:#e9eef3;color:var(--blue);font-weight:600}}.tag-row{{position:relative;min-height:30px;display:flex;align-items:center;justify-content:center}}.tags{{display:flex;justify-content:center;gap:6px;flex-wrap:nowrap;overflow-x:auto;margin:0 auto}}.tag-row .archive-btn{{position:absolute;right:0;top:0}}.news-item[hidden],.news-item.is-filtered-out{{display:none}}.track-filters,.tag-filters{{display:flex;justify-content:center;gap:7px;flex-wrap:wrap;margin-top:16px}}.track-filter,.tag-filter{{border:1px solid var(--line);border-radius:999px;background:#fff;color:var(--blue);cursor:pointer;padding:5px 11px;font-size:12px}}.track-filter.is-active,.tag-filter.is-active{{box-shadow:inset 0 0 0 2px currentColor}}.track-filter:hover,.tag-filter:hover{{filter:brightness(.97)}}.tag{{font-size:11px;font-weight:650}}.tone-general{{background:#edf5d0;color:#56701d;border-color:#d8e8a6}}.tone-industry{{background:#edf1f8;color:#48627d;border-color:#d5deea}}.tone-model{{background:#e4efff;color:#2e5e94;border-color:#c5daf5}}.tone-agent{{background:#f1e8ff;color:#6c4b9a;border-color:#ddccf5}}.tone-app{{background:#e7f7ef;color:#2e7657;border-color:#c5e9d5}}.tone-company{{background:#fff0df;color:#99602f;border-color:#f2d4b2}}.tone-finance{{background:#e9ebff;color:#515c9e;border-color:#d0d5f6}}.tone-compute{{background:#e4f5f5;color:#2f7779;border-color:#c6e6e6}}.tone-embodied{{background:#ffe8ec;color:#a24e68;border-color:#f5cbd5}}.archive-btn{{border:0;background:transparent;color:#8ca0b3;font-size:22px;line-height:1;cursor:pointer;padding:0 2px}}.archive-btn.is-archived{{color:#d69c00}}.news-content p{{margin:0;color:#526273}}aside{{position:sticky;top:20px;height:max-content;background:#fff;border:1px solid var(--line);border-radius:10px;padding:18px;text-align:center}}aside h3{{margin:0 0 12px;color:var(--navy);font-size:15px}}aside a{{display:block;padding:7px 0;color:var(--blue);text-decoration:none;border-top:1px solid #edf1f5;font-size:13px}}.archive-panel{{border-top:1px solid var(--line);margin-top:18px;padding-top:16px}}.archive-panel h3{{margin-bottom:9px}}.archive-controls{{display:flex;gap:6px;margin-bottom:10px}}.archive-controls input,.archive-controls select{{min-width:0;flex:1;border:1px solid var(--line);border-radius:6px;padding:6px 7px;color:var(--ink);background:#fff}}.archive-controls button,.archive-remove{{border:1px solid var(--line);border-radius:6px;background:#fff;color:var(--blue);cursor:pointer;padding:5px 8px;white-space:nowrap}}.archive-group{{border-top:1px solid #edf1f5;text-align:left}}.archive-group summary{{display:flex;justify-content:space-between;align-items:center;padding:9px 2px;cursor:pointer;color:var(--navy);font-weight:700;list-style:none}}.archive-group summary::-webkit-details-marker{{display:none}}.archive-group summary::after{{content:"+";color:var(--muted);font-size:16px}}.archive-group[open] summary::after{{content:"−"}}.archive-group summary small{{color:var(--muted);font-weight:500;margin-left:auto;margin-right:8px}}.archive-group-items{{padding:0 0 8px}}dialog{{width:min(340px,calc(100vw - 36px));border:1px solid var(--line);border-radius:10px;padding:18px;color:var(--ink)}}dialog::backdrop{{background:rgba(24,50,75,.32)}}dialog h4{{margin:0 0 12px;color:var(--navy)}}dialog input{{width:100%;border:1px solid var(--line);border-radius:6px;padding:8px}}.dialog-actions{{display:flex;justify-content:flex-end;gap:8px;margin-top:14px}}.dialog-actions button{{border:1px solid var(--line);border-radius:6px;background:#fff;color:var(--blue);cursor:pointer;padding:6px 12px}}.dialog-actions button[type=submit]{{background:var(--navy);border-color:var(--navy);color:#fff}}.archive-list{{display:grid;gap:8px}}.archive-entry{{padding:8px;background:var(--paper);border-radius:7px;font-size:12px;text-align:left}}.archive-entry a{{border:0;padding:0;font-weight:650}}.archive-entry small{{display:block;color:var(--muted);margin:3px 0 5px}}.archive-entry-row{{display:flex;gap:5px}}.archive-entry select{{min-width:0;flex:1;border:1px solid var(--line);border-radius:5px;font-size:11px}}.archive-remove{{color:#a34b3d;font-size:11px}}.muted{{color:var(--muted);font-size:13px}}footer{{max-width:1180px;margin:12px auto 36px;padding:0 24px;color:var(--muted);font-size:12px;display:flex;justify-content:space-between;gap:20px;align-items:center}}footer .footer-note{{text-align:left}}footer .footer-brand{{text-align:right;white-space:nowrap}}@media(max-width:800px){{.layout{{display:block;margin-top:22px}}aside{{position:static;margin-top:28px}}.nav-inner{{padding:14px 18px;flex-wrap:wrap;gap:8px 18px}}.news-meta{{overflow-x:auto;justify-content:flex-start}}.tag-row .archive-btn{{right:0}}.tags{{justify-content:center}}h2{{padding:0 72px}}.read-more{{top:0}}.tag-filters,.track-filters{{justify-content:flex-start;overflow-x:auto;flex-wrap:nowrap;padding-bottom:3px}}.layout,footer{{padding-left:18px;padding-right:18px}}h1{{font-size:27px}}.news-title-row{{display:block}}.read-more{{top:0;display:inline-block;margin:0}}footer{{display:block}}footer .footer-brand{{display:block;margin-top:4px;text-align:left}}}}
@@ -1004,20 +1023,7 @@ def generate_html(items: Iterable[NewsItem], output_path: Path, updated_at: str 
   let activeSource = '*';
   let activeScore = '*';
   let activeDate = '*';
-  const applyFilters = () => {{
-    document.querySelectorAll('.news-item').forEach(item => {{
-      const scopeMatches = !activeSearch || item.classList.contains('search-result');
-      const trackMatches = activeTrack === '*' || item.dataset.track === activeTrack;
-      const tagMatches = activeTag === '*' || Array.from(item.querySelectorAll('.tag')).some(node => node.textContent.trim() === activeTag);
-      const textMatches = !activeSearch || item.textContent.toLowerCase().includes(activeSearch);
-      const sourceMatches = activeSource === '*' || item.querySelector('.source')?.textContent.trim() === activeSource;
-      const score = Number((item.querySelector('.score')?.textContent.match(/\\d+/) || [0])[0]);
-      const scoreMatches = activeScore === '*' || score >= Number(activeScore);
-      const dateMatches = activeDate === '*' || item.querySelector('time')?.textContent.trim() === activeDate;
-      const matches = scopeMatches && trackMatches && tagMatches && textMatches && sourceMatches && scoreMatches && dateMatches;
-      item.hidden = !matches;
-      item.classList.toggle('is-filtered-out', !matches);
-    }});
+  const syncActiveControls = () => {{
     document.querySelectorAll('.track-filter').forEach(button => {{
       const active = button.dataset.track === activeTrack;
       button.classList.toggle('is-active', active);
@@ -1025,52 +1031,104 @@ def generate_html(items: Iterable[NewsItem], output_path: Path, updated_at: str 
     }});
     document.querySelectorAll('.tag-filter').forEach(button => button.classList.toggle('is-active', button.dataset.tag === activeTag));
   }};
-  document.querySelectorAll('.track-filter').forEach(button => button.addEventListener('click', () => {{ activeTrack = button.dataset.track; applyFilters(); }}));
-  document.querySelectorAll('.tag-filter').forEach(button => button.addEventListener('click', () => {{ activeTag = button.dataset.tag; applyFilters(); }}));
   const searchInput = document.getElementById('news-search');
   const sourceFilter = document.getElementById('source-filter');
   const scoreFilter = document.getElementById('score-filter');
   const dateFilter = document.getElementById('date-filter');
+  const tagFilterRoot = document.querySelector('.tag-filters');
   const searchResults = document.getElementById('history-search-results');
   const searchStatus = document.getElementById('search-status');
   const searchIndexHref = {json.dumps(search_index_href, ensure_ascii=False)};
   let searchIndex = null;
   let searchTimer = 0;
   const tagTone = tag => ({{'模型发布':'model','模型更新':'model','大模型':'model','Agent':'agent','AI 应用':'app','公司动态':'company','融资与投资':'finance','算力与芯片':'compute','具身智能':'embodied','AI × 金融':'finance','AI 综合':'general'}}[tag] || 'general');
+  const setOptions = (select, values, allLabel) => {{
+    const selected = select.value || '*';
+    select.innerHTML = `<option value="*">${{allLabel}}</option>` + values.map(value => `<option value="${{escapeHtml(value)}}">${{escapeHtml(value)}}</option>`).join('');
+    select.value = values.includes(selected) ? selected : '*';
+  }};
+  const populateGlobalControls = records => {{
+    const sources = [...new Set(records.map(item => item.source).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'zh-CN'));
+    const dates = [...new Set(records.map(item => item.publish_time || item.report_date).filter(Boolean))].sort().reverse();
+    const tags = [...new Set(records.flatMap(item => item.tags || []).filter(Boolean))].sort((a, b) => a.localeCompare(b, 'zh-CN'));
+    setOptions(sourceFilter, sources, '全部来源');
+    setOptions(dateFilter, dates, '全部日期');
+    tagFilterRoot.innerHTML = '<button class="tag-filter is-active" type="button" data-tag="*">全部</button>' + tags.map(tag => `<button class="tag-filter tone-${{tagTone(tag)}}" type="button" data-tag="${{escapeHtml(tag)}}">${{escapeHtml(tag)}}</button>`).join('');
+    syncActiveControls();
+  }};
+  const loadSearchIndex = async () => {{
+    if (searchIndex) return searchIndex;
+    const response = await fetch(searchIndexHref);
+    if (!response.ok) throw new Error('search index unavailable');
+    searchIndex = (await response.json()).items || [];
+    populateGlobalControls(searchIndex);
+    return searchIndex;
+  }};
   const renderHistoryResults = records => {{
-    searchResults.innerHTML = records.map((item, index) => {{
+    const visibleRecords = records.slice(0, 200);
+    searchResults.innerHTML = visibleRecords.map((item, index) => {{
       const tags = (item.tags || []).map(tag => `<span class="tag tone-${{tagTone(tag)}}">${{escapeHtml(tag)}}</span>`).join('');
-      return `<article class="news-item search-result" data-track="${{escapeHtml(item.track || 'industry')}}"><div class="news-number">${{String(index + 1).padStart(2, '0')}}</div><div class="news-content"><div class="news-title-row"><h2><a href="${{escapeHtml(safeUrl(item.url))}}" target="_blank" rel="noopener">${{escapeHtml(item.title)}}</a></h2><a class="read-more" href="${{escapeHtml(safeUrl(item.url))}}" target="_blank" rel="noopener">阅读原文 ↗</a></div><div class="news-meta"><div class="meta-primary"><span class="score">热度 ${{Number(item.importance_score || 0)}}</span><span class="source">${{escapeHtml(item.source)}}</span><span class="source-context">历史日报 ${{escapeHtml(item.report_date)}}</span></div><time>${{escapeHtml(item.publish_time || item.report_date)}}</time></div><div class="tags">${{tags}}</div><p>${{escapeHtml(item.summary || '暂无摘要')}}</p></div></article>`;
+      const score = Number(item.importance_score || 0);
+      const scoreClass = score >= 8 ? 'score-high' : score >= 6 ? 'score-mid' : 'score-low';
+      return `<article class="news-item search-result" data-track="${{escapeHtml(item.track || 'industry')}}"><div class="news-number">${{String(index + 1).padStart(2, '0')}}</div><div class="news-content"><div class="news-title-row"><h2><a href="${{escapeHtml(safeUrl(item.url))}}" target="_blank" rel="noopener">${{escapeHtml(item.title)}}</a></h2><a class="read-more" href="${{escapeHtml(safeUrl(item.url))}}" target="_blank" rel="noopener">阅读原文 ↗</a></div><div class="news-meta"><div class="meta-primary"><span class="score ${{scoreClass}}">热度 ${{score}}</span><span class="source">${{escapeHtml(item.source)}}</span><span class="source-context">历史日报 ${{escapeHtml(item.report_date)}}</span></div><time>${{escapeHtml(item.publish_time || item.report_date)}}</time></div><div class="tags">${{tags}}</div><p>${{escapeHtml(item.summary || '暂无摘要')}}</p></div></article>`;
     }}).join('');
     searchResults.hidden = false;
-    searchStatus.textContent = `在全部历史日报中找到 ${{records.length}} 条结果`;
+    searchStatus.textContent = records.length > visibleRecords.length ? `在全部历史日报中找到 ${{records.length}} 条结果，显示前 ${{visibleRecords.length}} 条` : `在全部历史日报中找到 ${{records.length}} 条结果`;
   }};
-  const runHistorySearch = async () => {{
+  const hasGlobalFilters = () => Boolean(activeSearch || activeTrack !== '*' || activeTag !== '*' || activeSource !== '*' || activeScore !== '*' || activeDate !== '*');
+  const showDailyReport = () => {{
+    document.querySelectorAll('.daily-item').forEach(item => {{ item.hidden = false; item.classList.remove('is-filtered-out'); }});
+    searchResults.hidden = true;
+    searchResults.innerHTML = '';
+    searchStatus.textContent = '';
+    syncActiveControls();
+  }};
+  const runGlobalFilters = async () => {{
     activeSearch = searchInput.value.trim().toLowerCase();
-    if (!activeSearch) {{ searchResults.hidden = true; searchResults.innerHTML = ''; searchStatus.textContent = ''; applyFilters(); return; }}
-    searchStatus.textContent = '正在搜索全部历史日报...';
+    if (!hasGlobalFilters()) {{ showDailyReport(); return; }}
+    searchStatus.textContent = '正在筛选全部历史日报...';
     try {{
-      if (!searchIndex) {{ const response = await fetch(searchIndexHref); if (!response.ok) throw new Error('search index unavailable'); searchIndex = (await response.json()).items || []; }}
-      const records = searchIndex.filter(item => [item.title, item.summary, item.source, ...(item.tags || [])].join(' ').toLowerCase().includes(activeSearch)).slice(0, 100);
+      const records = (await loadSearchIndex()).filter(item => {{
+        const textMatches = !activeSearch || [item.title, item.summary, item.source, ...(item.tags || [])].join(' ').toLowerCase().includes(activeSearch);
+        const trackMatches = activeTrack === '*' || item.track === activeTrack;
+        const tagMatches = activeTag === '*' || (item.tags || []).includes(activeTag);
+        const sourceMatches = activeSource === '*' || item.source === activeSource;
+        const scoreMatches = activeScore === '*' || Number(item.importance_score || 0) >= Number(activeScore);
+        const itemDate = item.publish_time || item.report_date;
+        const dateMatches = activeDate === '*' || itemDate === activeDate;
+        return textMatches && trackMatches && tagMatches && sourceMatches && scoreMatches && dateMatches;
+      }});
+      document.querySelectorAll('.daily-item').forEach(item => {{ item.hidden = true; item.classList.add('is-filtered-out'); }});
       renderHistoryResults(records);
-      applyFilters();
-    }} catch (_) {{ searchStatus.textContent = '历史搜索索引暂不可用'; searchResults.hidden = true; applyFilters(); }}
+      syncActiveControls();
+    }} catch (_) {{ searchStatus.textContent = '历史筛选索引暂不可用'; searchResults.hidden = true; }}
   }};
-  searchInput?.addEventListener('input', () => {{ window.clearTimeout(searchTimer); searchTimer = window.setTimeout(runHistorySearch, 180); }});
-  sourceFilter?.addEventListener('change', () => {{ activeSource = sourceFilter.value; applyFilters(); }});
-  scoreFilter?.addEventListener('change', () => {{ activeScore = scoreFilter.value; applyFilters(); }});
-  dateFilter?.addEventListener('change', () => {{ activeDate = dateFilter.value; applyFilters(); }});
+  document.querySelectorAll('.track-filter').forEach(button => button.addEventListener('click', () => {{ activeTrack = button.dataset.track; runGlobalFilters(); }}));
+  tagFilterRoot?.addEventListener('click', event => {{ const button = event.target.closest('.tag-filter'); if (!button) return; activeTag = button.dataset.tag; runGlobalFilters(); }});
+  searchInput?.addEventListener('input', () => {{ window.clearTimeout(searchTimer); searchTimer = window.setTimeout(runGlobalFilters, 180); }});
+  sourceFilter?.addEventListener('change', () => {{ activeSource = sourceFilter.value; runGlobalFilters(); }});
+  scoreFilter?.addEventListener('change', () => {{ activeScore = scoreFilter.value; runGlobalFilters(); }});
+  dateFilter?.addEventListener('change', () => {{ activeDate = dateFilter.value; runGlobalFilters(); }});
   document.getElementById('archive-add-group').addEventListener('click', () => {{ groupInput.value = ''; if (dialog.showModal) dialog.showModal(); else dialog.setAttribute('open', ''); groupInput.focus(); }});
   document.getElementById('archive-group-cancel').addEventListener('click', () => {{ if (dialog.close) dialog.close(); else dialog.removeAttribute('open'); }});
   document.getElementById('archive-group-form').addEventListener('submit', event => {{ event.preventDefault(); const group = groupInput.value.trim(); if (group && !state.groups.includes(group)) {{ state.groups.push(group); persist(); render(); }} if (dialog.close) dialog.close(); else dialog.removeAttribute('open'); }});
   render();
-  applyFilters();
+  showDailyReport();
+  loadSearchIndex().catch(() => {{ searchStatus.textContent = '历史筛选索引暂不可用'; }});
 }})();
 </script></body></html>'''
     extra_css = """
 body[data-theme="dark"] { --paper:#101923; --ink:#e6edf3; --muted:#9cafc0; --line:#2a3b4c; --blue:#9cc7ed; --navy:#0b1724; }
 body[data-theme="dark"] .tag-filter, body[data-theme="dark"] .track-filter, body[data-theme="dark"] .archive-controls select, body[data-theme="dark"] .archive-controls button { background:#172636; color:var(--blue); border-color:var(--line); }
 body[data-theme="dark"] aside, body[data-theme="dark"] dialog { background:#142230; }
+body[data-theme="dark"] h1, body[data-theme="dark"] h2, body[data-theme="dark"] h2 a, body[data-theme="dark"] aside h3, body[data-theme="dark"] dialog h4, body[data-theme="dark"] .archive-group summary, body[data-theme="dark"] .insight-panel h3, body[data-theme="dark"] .market-card h3 { color:var(--ink); }
+body[data-theme="dark"] .news-content p { color:#c3cfda; }
+body[data-theme="dark"] .content-controls input, body[data-theme="dark"] .content-controls select, body[data-theme="dark"] .archive-controls input, body[data-theme="dark"] .archive-controls select, body[data-theme="dark"] dialog input, body[data-theme="dark"] .archive-entry select, body[data-theme="dark"] .dialog-actions button { background:#172636; color:var(--ink); border-color:var(--line); }
+body[data-theme="dark"] option { background:#172636; color:var(--ink); }
+body[data-theme="dark"] .source { background:#223548; color:#b8d9f5; }
+body[data-theme="dark"] .source-context { background:#172636; color:#b7c7d5; }
+body[data-theme="dark"] .archive-entry { background:#101923; }
+body[data-theme="dark"] .archive-entry a, body[data-theme="dark"] .archive-entry small, body[data-theme="dark"] footer { color:var(--muted); }
 .theme-toggle { margin-left:auto; border:1px solid rgba(255,255,255,.25); border-radius:999px; background:transparent; color:#fff; cursor:pointer; width:34px; height:30px; }
 .content-controls { display:flex; flex-wrap:wrap; gap:8px; align-items:end; justify-content:center; margin:16px 0 4px; }
 .content-controls label { display:flex; flex-direction:column; gap:3px; color:var(--muted); font-size:11px; text-align:left; }

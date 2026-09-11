@@ -16,4 +16,15 @@ jobs:
           today=$(date -u +%Y-%m-%d)
           test -f "history/report_${today}.html"
           test -f "history/report_${today}.json"
+          python - <<PY
+          import json
+          from pathlib import Path
+
+          path = Path("history/report_${today}.json")
+          payload = json.loads(path.read_text(encoding="utf-8"))
+          count = len(payload.get("top_items", []))
+          if count != 10:
+              raise SystemExit(f"日报条数异常：{count}，期望 10 条")
+          print(f"validated {count} items for ${today}")
+          PY
           echo "Lemon News report exists for ${today}"

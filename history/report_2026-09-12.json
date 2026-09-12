@@ -1,17 +1,109 @@
 {
   "date": "2026-09-12",
-  "update_time": "2026-09-12T00:08:56.842809+08:00",
+  "update_time": "2026-09-12T08:22:22.779146+08:00",
   "total_items": 55,
   "selection_summary": {
     "today_count": 0,
-    "backfill_count": 6,
-    "previous_day_top_count": 4,
+    "backfill_count": 10,
+    "previous_day_top_count": 0,
     "selected_count": 10,
     "candidate_count": 55,
     "dedupe_window_days": 7,
     "max_backfill_days": 3
   },
   "top_items": [
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "publish_time": "2026-09-11",
+      "category": "模型动态",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Cognition helps Devin test its own 工作 with GPT‑6 Astra",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "publish_time": "2026-09-11",
+      "category": "模型动态",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more",
+      "importance_score": 7,
+      "keywords": [
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "DeepSeek V4.1 Flash正式发布：原生支持多模态，API 成本进一步降低",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/deepseek-v4-1-flash-released",
+      "publish_time": "2026-09-10",
+      "category": "AI 资讯",
+      "summary": "2026年09月10日，DeepSeek 正式发布 DeepSeek V4 | 这是 DeepSeek 全新模型结构系列中尺寸最小的模型，定位是在提高能力上限的同时，兼顾推理速度、服务吞吐量与使用成本，并为未来扩展至更大参数模型验证新的技术架构 | 1 Flash 是一款总参数量为 552B 的 MoE 模型，采...",
+      "importance_score": 7,
+      "keywords": [
+        "DeepSeek"
+      ],
+      "tags": [
+        "模型发布",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "model_release",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "DeepSeek"
+      ],
+      "products": [
+        "DeepSeek"
+      ],
+      "financing": ""
+    },
     {
       "title": "OpenAI发布GPT-Image-2.5：双型号上线，强化图像生成与精准编辑",
       "source": "AIHub",
@@ -189,125 +281,29 @@
       "financing": ""
     },
     {
-      "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/486625.html",
-      "publish_time": "2026-09-10",
-      "category": "AI 产业",
-      "summary": "过去一年，具身智能行业的新闻雷声大、雨点也大 | 根据量子位不完全统计，截至2026年6月12日，国内具身智能赛道共融资约438亿元，已经达到了2025年全年的近八成 | 这些demo和融资，覆盖的场景五花八门，家用陪伴、商业导览、工业产线，每个细分领域都有公司在做",
-      "importance_score": 10,
-      "keywords": [
-        "具身智能",
-        "融资"
-      ],
-      "tags": [
-        "大模型",
-        "公司动态",
-        "融资与投资"
-      ],
-      "track": "industry",
-      "topic": "embodied_ai",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "legacy",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "打造10万卡国产算力集群推出JoyAI世界模型，京东发布物理AI建设最新成果",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/486436.html",
-      "publish_time": "2026-09-10",
-      "category": "AI 产业",
-      "summary": "大会上，京东全面展示建设“全球最大物理世界运营中心”的战略理念和最新成果，启动“物理AI加速计划”，将在具身智能领域实现六项“全球第一” | 京东正将算力、数据、模型能力与供应链深度融合，应用到零售、物流、科技、健康、工业、产发、金融、外卖、家政等海量场景中，并向行业和社会开放，推动AI从数字世界走向物理世界，在...",
-      "importance_score": 10,
-      "keywords": [
-        "AI",
-        "具身智能",
-        "算力"
-      ],
-      "tags": [
-        "大模型",
-        "AI 应用",
-        "公司动态"
-      ],
-      "track": "industry",
-      "topic": "compute",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "legacy",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "蚂蚁百灵发布首个金融增强模型，AI开始进入真实投研工作流",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/486288.html",
+      "title": "AI 政策窗口开启，亟需行动",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ai-policy-window",
       "publish_time": "2026-09-09",
-      "category": "AI 产业",
-      "summary": "蚂蚁集团百灵首个金融增强开放模型 Ling-3 | 外滩大会前夕，记者获悉，蚂蚁集团百灵首个金融增强开放模型 Ling-3 | 与传统金融大模型主要解决问答、摘要等单点任务不同，Ling-3",
-      "importance_score": 10,
+      "category": "模型动态",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remai...",
+      "importance_score": 7,
       "keywords": [
-        "大模型",
-        "AI",
-        "投研",
-        "金融大模型"
-      ],
-      "tags": [
-        "大模型",
-        "Agent",
-        "公司动态"
-      ],
-      "track": "industry",
-      "topic": "agent",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "legacy",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "蚂蚁集团",
-        "蚂蚁"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "ECCV上，顶尖学者们开始研究如何让AI做生意了",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/486934.html",
-      "publish_time": "2026-09-10",
-      "category": "AI 产业",
-      "summary": "多模态AI大牛轮番登台，全球64支团队组团解题 AI下一步往哪儿走，顶会往往最先露出风声 | 9月8日至12日，ECCV 2026正在瑞典马尔默举行 | 大会由欧洲计算机视觉协会主办，汇聚了Google、Meta、Apple、Amazon等全球科技巨头作为主要赞助商",
-      "importance_score": 9,
-      "keywords": [
-        "计算机视觉",
         "AI"
       ],
       "tags": [
-        "AI 产业"
+        "AI 应用",
+        "大模型"
       ],
       "track": "industry",
       "topic": "ai_application",
-      "source_type": "media",
+      "source_type": "official",
       "discovery_source": "",
       "corroboration_count": 1,
-      "publish_time_source": "legacy",
-      "selection_reason": "previous_day_top",
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
       "is_backfill": true,
-      "companies": [
-        "Google",
-        "Meta"
-      ],
+      "companies": [],
       "products": [],
       "financing": ""
     }

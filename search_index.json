@@ -1,7 +1,53 @@
 {
-  "generated_at": "2026-09-12T00:08:57.168661+08:00",
-  "total_items": 1040,
+  "generated_at": "2026-09-12T08:22:22.930320+08:00",
+  "total_items": 1041,
   "items": [
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
+      "publish_time": "2026-09-11",
+      "report_date": "2026-09-12",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Cognition helps Devin test its own 工作 with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cognition-devin-testing-with-astra",
+      "publish_time": "2026-09-11",
+      "report_date": "2026-09-12",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "DeepSeek V4.1 Flash正式发布：原生支持多模态，API 成本进一步降低",
+      "summary": "2026年09月10日，DeepSeek 正式发布 DeepSeek V4 | 这是 DeepSeek 全新模型结构系列中尺寸最小的模型，定位是在提高能力上限的同时，兼顾推理速度、服务吞吐量与使用成本，并为未来扩展至更大参数模型验证新的技术架构 | 1 Flash 是一款总参数量为 552B 的 MoE 模型，采...",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/deepseek-v4-1-flash-released",
+      "publish_time": "2026-09-10",
+      "report_date": "2026-09-12",
+      "track": "industry",
+      "topic": "model_release",
+      "importance_score": 7,
+      "tags": [
+        "模型发布",
+        "大模型",
+        "公司动态"
+      ]
+    },
     {
       "title": "OpenAI发布GPT-Image-2.5：双型号上线，强化图像生成与精准编辑",
       "summary": "2026年09月09日，OpenAI 正式发布 ChatGPT Images 2 | 5 ，并向开发者推出 GPT-Image-2 | 5 Flare 和 GPT-Image-2",
@@ -94,12 +140,27 @@
       ]
     },
     {
+      "title": "AI 政策窗口开启，亟需行动",
+      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remai...",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ai-policy-window",
+      "publish_time": "2026-09-09",
+      "report_date": "2026-09-12",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
       "title": "一周连发6个模型！这家公司把具身智能的闭环跑通了",
       "summary": "过去一年，具身智能行业的新闻雷声大、雨点也大 | 根据量子位不完全统计，截至2026年6月12日，国内具身智能赛道共融资约438亿元，已经达到了2025年全年的近八成 | 这些demo和融资，覆盖的场景五花八门，家用陪伴、商业导览、工业产线，每个细分领域都有公司在做",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/486625.html",
       "publish_time": "2026-09-10",
-      "report_date": "2026-09-12",
+      "report_date": "2026-09-11",
       "track": "industry",
       "topic": "embodied_ai",
       "importance_score": 10,
@@ -115,7 +176,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/486436.html",
       "publish_time": "2026-09-10",
-      "report_date": "2026-09-12",
+      "report_date": "2026-09-11",
       "track": "industry",
       "topic": "compute",
       "importance_score": 10,
@@ -131,7 +192,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/486288.html",
       "publish_time": "2026-09-09",
-      "report_date": "2026-09-12",
+      "report_date": "2026-09-11",
       "track": "industry",
       "topic": "agent",
       "importance_score": 10,
@@ -147,7 +208,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/486934.html",
       "publish_time": "2026-09-10",
-      "report_date": "2026-09-12",
+      "report_date": "2026-09-11",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 9,
@@ -245,88 +306,12 @@
       ]
     },
     {
-      "title": "DeepSeek V4.1 Flash正式发布：原生支持多模态，API 成本进一步降低",
-      "summary": "2026年09月10日，DeepSeek 正式发布 DeepSeek V4 | 这是 DeepSeek 全新模型结构系列中尺寸最小的模型，定位是在提高能力上限的同时，兼顾推理速度、服务吞吐量与使用成本，并为未来扩展至更大参数模型验证新的技术架构 | 1 Flash 是一款总参数量为 552B 的 MoE 模型，采...",
-      "source": "AIHub",
-      "url": "https://www.aihub.cn/news/deepseek-v4-1-flash-released",
-      "publish_time": "2026-09-10",
-      "report_date": "2026-09-10",
-      "track": "industry",
-      "topic": "model_release",
-      "importance_score": 7,
-      "tags": [
-        "模型发布",
-        "大模型",
-        "公司动态"
-      ]
-    },
-    {
-      "title": "AI 政策窗口开启，亟需行动",
-      "summary": "Chris Lehane argues that stronger AI capabilities require stronger safety evidence, shared standards, and durable policy action while the policy window remai...",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/ai-policy-window",
-      "publish_time": "2026-09-09",
-      "report_date": "2026-09-10",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 10,
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ]
-    },
-    {
-      "title": "GPT-6 Astra：面向工作的新一代智能模型",
-      "summary": "Meet GPT-6 Astra, OpenAI’s most capable model for business, with advanced reasoning, computer use, and stronger writing and design judgment",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-6-astra-next-generation-work",
-      "publish_time": "2026-09-09",
-      "report_date": "2026-09-10",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 10,
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ]
-    },
-    {
-      "title": "Paul Christiano 加入 OpenAI 基金会董事会",
-      "summary": "Paul Christiano joins the OpenAI Foundation Board and its Safety and Security Committee, bringing experience in AI alignment, safety, and standards",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/paul-christiano-joins-openai-foundation-board",
-      "publish_time": "2026-09-09",
-      "report_date": "2026-09-10",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 10,
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ]
-    },
-    {
-      "title": "GPT-5.6 Sol 如何辅助量子计算实验",
-      "summary": "See how an MIT researcher uses GPT-5 | 6 Sol with Codex to autonomously run quantum computing experiments, analyze results, and calibrate qubits",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/codex-quantum-computing-experiments",
-      "publish_time": "2026-09-08",
-      "report_date": "2026-09-10",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 10,
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ]
-    },
-    {
       "title": "深度智控获宁德时代、沙特阿美战投等重磅加码，加速打造物理AI时代算力与能源底座",
       "summary": "近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资 | 近日，物理AI企业深度智控（DeepCtrls）完成新一轮B+轮数亿元融资 | 本轮融资由宁德时代领投，阿美投资(Aramco Ventures)、太平创新投资、广发信德、复星创富跟投，源码资本、光远资本等老股东持续追加",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/485784.html",
       "publish_time": "2026-09-08",
-      "report_date": "2026-09-09",
+      "report_date": "2026-09-10",
       "track": "industry",
       "topic": "compute",
       "importance_score": 10,
@@ -341,7 +326,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/485794.html",
       "publish_time": "2026-09-08",
-      "report_date": "2026-09-09",
+      "report_date": "2026-09-10",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 9,
@@ -355,7 +340,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/485108.html",
       "publish_time": "2026-09-07",
-      "report_date": "2026-09-09",
+      "report_date": "2026-09-10",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 9,
@@ -369,13 +354,56 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/484726.html",
       "publish_time": "2026-09-05",
-      "report_date": "2026-09-09",
+      "report_date": "2026-09-10",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 9,
       "tags": [
         "大模型",
         "公司动态"
+      ]
+    },
+    {
+      "title": "国产AI4S计算平台登场亮相2026外滩大会 算力技术与人才布局双向发力",
+      "summary": "以“共创AI新经济”为主题的2026 Inclusion・外滩大会于9月9日在上海黄浦世博园区举办，汇聚全球科创力量，搭建科技、产业、资本协同融合的国际化平台 | 太初（杭州）集成电路有限公司（简称 “太初元碁”）携核心技术成果参展，国产AI4S计算平台亮相创新科技成果展区，并首次公开展示平台重要更新——Teco...",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/486370.html",
+      "publish_time": "2026-09-09",
+      "report_date": "2026-09-10",
+      "track": "industry",
+      "topic": "compute",
+      "importance_score": 9,
+      "tags": [
+        "公司动态",
+        "算力与芯片"
+      ]
+    },
+    {
+      "title": "宜宾，一场机器人“招聘会”的产业雄心",
+      "summary": "9月3日，宜宾国际会展中心，55支机器人团队正在完成一场特殊的“面试” | 世界动力电池大会的聚光灯下，55支机器人团队正在完成一场特殊的“面试” | 考题是真实任务，覆盖产线搬运、物品配送、衣物整理、饮品制作、应急救援等场景",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/486038.html",
+      "publish_time": "2026-09-09",
+      "report_date": "2026-09-10",
+      "track": "industry",
+      "topic": "embodied_ai",
+      "importance_score": 9,
+      "tags": [
+        "具身智能"
+      ]
+    },
+    {
+      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
+      "summary": "赛博义父Tibo，又来给大家送温 （重） 暖 （置） 了 | 原因很简单：全网都在拿GPT-6 Astra玩3D，很快就把额度烧光了 | 这回是面向所有付费订阅的全局重置，预计美西时间当天18点左右到账（北京时间8号上午10点左右）",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/485854.html",
+      "publish_time": "2026-09-08",
+      "report_date": "2026-09-10",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 9,
+      "tags": [
+        "大模型"
       ]
     },
     {
@@ -391,20 +419,6 @@
       "tags": [
         "大模型",
         "具身智能"
-      ]
-    },
-    {
-      "title": "感谢用GPT-6搓3D的！燃烧自己的token换来一次全体重置",
-      "summary": "赛博义父Tibo，又来给大家送温 （重） 暖 （置） 了 | 原因很简单：全网都在拿GPT-6 Astra玩3D，很快就把额度烧光了 | 这回是面向所有付费订阅的全局重置，预计美西时间当天18点左右到账（北京时间8号上午10点左右）",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/485854.html",
-      "publish_time": "2026-09-08",
-      "report_date": "2026-09-09",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 9,
-      "tags": [
-        "大模型"
       ]
     },
     {

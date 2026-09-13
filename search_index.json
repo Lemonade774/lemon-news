@@ -1,14 +1,44 @@
 {
-  "generated_at": "2026-09-12T08:22:22.930320+08:00",
-  "total_items": 1041,
+  "generated_at": "2026-09-13T08:23:43.298237+08:00",
+  "total_items": 1043,
   "items": [
+    {
+      "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
+      "summary": "面对近期AI大厂推进数学研究的方式，连一向与AI为善的陶哲轩都坐不住了 | 刚刚，陶哲轩、邓煜等25位菲尔兹奖得主联合发起并作为首批签署人，发布了一份声明表示： AI公司推进数学的方式，已经与数学共同体的目标出现“severe misalignment （严重偏移）” | 因鉴于近期AI急剧发展对数学领域带来的冲...",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/487653.html",
+      "publish_time": "2026-09-12",
+      "report_date": "2026-09-13",
+      "track": "industry",
+      "topic": "company",
+      "importance_score": 7,
+      "tags": [
+        "公司动态"
+      ]
+    },
+    {
+      "title": "探索RSI，生数新世界模型让机器人开始自我进化",
+      "summary": "触觉、记忆、Ego数据、自进化……这个世界模型全都有 机器人学习拧灯泡，如果拧歪了，谁来告诉它问题出在哪，下次又该怎么改 | 这正是机器人 “自进化” 让人期待的原因：人类不可能替它示范所有情况，想让机器人越干越好，就需要它有办法评价动作的结果，并从反馈中继续学习 | 生数科技最新发布的Motus2，在这方面做了...",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/487752.html",
+      "publish_time": "2026-09-12",
+      "report_date": "2026-09-13",
+      "track": "industry",
+      "topic": "embodied_ai",
+      "importance_score": 7,
+      "tags": [
+        "具身智能",
+        "大模型",
+        "公司动态"
+      ]
+    },
     {
       "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
       "summary": "Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second",
       "source": "OpenAI",
       "url": "https://openai.com/index/scaling-storage-one-billion-users-part-one",
       "publish_time": "2026-09-11",
-      "report_date": "2026-09-12",
+      "report_date": "2026-09-13",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -23,7 +53,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/cognition-devin-testing-with-astra",
       "publish_time": "2026-09-11",
-      "report_date": "2026-09-12",
+      "report_date": "2026-09-13",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -38,7 +68,7 @@
       "source": "AIHub",
       "url": "https://www.aihub.cn/news/deepseek-v4-1-flash-released",
       "publish_time": "2026-09-10",
-      "report_date": "2026-09-12",
+      "report_date": "2026-09-13",
       "track": "industry",
       "topic": "model_release",
       "importance_score": 7,
@@ -46,6 +76,81 @@
         "模型发布",
         "大模型",
         "公司动态"
+      ]
+    },
+    {
+      "title": "Introducing the Agents API",
+      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-the-agents-api",
+      "publish_time": "2026-09-10",
+      "report_date": "2026-09-13",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrob",
+      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
+      "publish_time": "2026-09-10",
+      "report_date": "2026-09-13",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Introducing ChatGPT for Financial Services",
+      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
+      "publish_time": "2026-09-10",
+      "report_date": "2026-09-13",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Expanding AI access and cyber defense for federal, state, local, and",
+      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/expanding-ai-access-us-government",
+      "publish_time": "2026-09-10",
+      "report_date": "2026-09-13",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
+      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
+      "publish_time": "2026-09-10",
+      "report_date": "2026-09-13",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
       ]
     },
     {
@@ -62,81 +167,6 @@
         "模型发布",
         "大模型",
         "公司动态"
-      ]
-    },
-    {
-      "title": "Introducing the Agents API",
-      "summary": "Build and launch cloud agents with the Agents API, a managed service powered by the Codex harness for orchestration, long-running sessions, and tool use",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-the-agents-api",
-      "publish_time": "2026-09-10",
-      "report_date": "2026-09-12",
-      "track": "industry",
-      "topic": "agent",
-      "importance_score": 7,
-      "tags": [
-        "Agent",
-        "大模型"
-      ]
-    },
-    {
-      "title": "How a researcher uses Codex and ChatGPT to search for new antimicrob",
-      "summary": "César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/using-codex-chatgpt-to-search-for-new-antimicrobials",
-      "publish_time": "2026-09-10",
-      "report_date": "2026-09-12",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 7,
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ]
-    },
-    {
-      "title": "Introducing ChatGPT for Financial Services",
-      "summary": "Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-chatgpt-financial-services",
-      "publish_time": "2026-09-10",
-      "report_date": "2026-09-12",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 7,
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ]
-    },
-    {
-      "title": "Expanding AI access and cyber defense for federal, state, local, and",
-      "summary": "OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/expanding-ai-access-us-government",
-      "publish_time": "2026-09-10",
-      "report_date": "2026-09-12",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 7,
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ]
-    },
-    {
-      "title": "Build more natural voice experiences with GPT‑Live‑1 in the API",
-      "summary": "GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-live-1-in-the-api",
-      "publish_time": "2026-09-10",
-      "report_date": "2026-09-12",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 7,
-      "tags": [
-        "AI 应用",
-        "大模型"
       ]
     },
     {

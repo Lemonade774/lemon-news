@@ -1,7 +1,157 @@
 {
-  "generated_at": "2026-09-13T08:23:43.298237+08:00",
-  "total_items": 1043,
+  "generated_at": "2026-09-16T08:21:45.185293+08:00",
+  "total_items": 1053,
   "items": [
+    {
+      "title": "科大讯飞推出 AStudio：面向复杂任务的新一代全场景 AI 生产力工作台",
+      "summary": "AIHub获悉，科大讯飞近日推出全新 AI 产品 AStudio ，官方将其定位为“新一代全场景 AI 生产力工作台” | 与传统 AI 聊天助手主要提供文本回答不同，AStudio 更强调从用户提出目标，到任务规划、工具调用、实际执行，再到最终成果交付的一整套工作流程 | 用户可以直接描述需要完成的工作，让 A...",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/astudio-launch",
+      "publish_time": "2026-09-15",
+      "report_date": "2026-09-16",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ]
+    },
+    {
+      "title": "Your Agent Aced the Task. Will It Do It Again",
+      "summary": "That is embarrassing onstage | Most benchmarks hide this variability behind an average | On AppWorld, a ReAct agent using GPT-4",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "publish_time": "2026-09-15",
+      "report_date": "2026-09-16",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 6,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "AI for Societal Impact",
+      "summary": "For over a decade, we’ve seen artificial intelligence steadily advance scientific discovery, shifting from theoretical research to real-world impact | Today,...",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+      "publish_time": "2026-09-15",
+      "report_date": "2026-09-16",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "手机替我跑了一整套流程！我就说了一句话，AI执行了100步",
+      "summary": "晚上下班，你正百无聊赖地坐在地铁里玩着你的手机 | 突然，你平时免打扰的明星粉丝群弹出一条重磅消息：你的爱豆，准备开演唱会了 | 你直接对着手机喊一句，「帮我查一下这场什么时候开票，提前五分钟定个抢票闹钟」",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489466.html",
+      "publish_time": "2026-09-15",
+      "report_date": "2026-09-16",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "AI 产业"
+      ]
+    },
+    {
+      "title": "Building AI to accelerate science and improve lives",
+      "summary": "We’re asking what’s possible for health, natural disaster and weather resilience, learning, and economic opportunity | They’re also helping students learn be...",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-applications-science-people",
+      "publish_time": "2026-09-15",
+      "report_date": "2026-09-16",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "AI for everyone in every language",
+      "summary": "This helps make sure that technology respects different cultures and helps people be understood on their own terms | Reaching this milestone is meaningful, b...",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-every-language",
+      "publish_time": "2026-09-15",
+      "report_date": "2026-09-16",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "New insights from Google’s AI & Economy ATLAS",
+      "summary": "How is AI being used by people every day, including in offices, labs, and creative studios around the world | Insights from Google’s AI & Economy ATLAS show ...",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-economy-atlas-september-2026",
+      "publish_time": "2026-09-15",
+      "report_date": "2026-09-16",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "首个AIGC长片大赛！RunningHub单项大奖100万，科幻IP免费改编",
+      "summary": "拍AI视频，已经能拿到 100万 元大奖了 | 这100万奖励的可不是一条十几秒的炫酷视频，而是一部真正能把故事讲完的 AI长片 | 海马云旗下AIGC创作平台 RunningHub联动第十七届华语科幻星云奖、金瞳奖 ，启动了 全球首个 聚焦影视级长片创作的AIGC赛事—— RunningHub全球AIGC长片创作大赛",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489260.html",
+      "publish_time": "2026-09-15",
+      "report_date": "2026-09-16",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用"
+      ]
+    },
+    {
+      "title": "How Fyxer built an AI executive assistant people trust",
+      "summary": "Fyxer uses OpenAI models, fine-tuning, memory, and real user feedback to organize inboxes and draft emails in each user’s voice",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/fyxer",
+      "publish_time": "2026-09-14",
+      "report_date": "2026-09-16",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Perplexity trusts GPT-6 Astra with end-to-end systems",
+      "summary": "Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/perplexity-improving-accuracy-with-astra",
+      "publish_time": "2026-09-14",
+      "report_date": "2026-09-16",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
     {
       "title": "陶哲轩邓煜究竟在反对什么：AI暴力解题摧毁人类数学精神",
       "summary": "面对近期AI大厂推进数学研究的方式，连一向与AI为善的陶哲轩都坐不住了 | 刚刚，陶哲轩、邓煜等25位菲尔兹奖得主联合发起并作为首批签署人，发布了一份声明表示： AI公司推进数学的方式，已经与数学共同体的目标出现“severe misalignment （严重偏移）” | 因鉴于近期AI急剧发展对数学领域带来的冲...",

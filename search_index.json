@@ -1,14 +1,136 @@
 {
-  "generated_at": "2026-09-16T08:21:45.185293+08:00",
-  "total_items": 1053,
+  "generated_at": "2026-09-17T08:21:47.576914+08:00",
+  "total_items": 1061,
   "items": [
+    {
+      "title": "Google 发布 Gemini 3.8 Live，实时语音 AI 可边对话边推理",
+      "summary": "2026年09月16日，Google 正式发布新一代实时语音模型 Gemini 3 | 8 Live Extended Thinking，进一步强化 Gemini 在实时语音交互和 Voice Agent 场景中的能力 | 两款模型目前均已进入 Gemini API 的 Stable 模型列表",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/google-gemini-3-8-live",
+      "publish_time": "2026-09-16",
+      "report_date": "2026-09-17",
+      "track": "industry",
+      "topic": "model_release",
+      "importance_score": 7,
+      "tags": [
+        "模型发布",
+        "大模型",
+        "Agent"
+      ]
+    },
+    {
+      "title": "Reimagining advertising with AI",
+      "summary": "Explore new AI-powered advertising experiences from OpenAI, including Sponsored Agents, tools for marketers, and integrations with HubSpot and Shopify",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/reimagining-advertising-with-ai",
+      "publish_time": "2026-09-16",
+      "report_date": "2026-09-17",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "协同办公进入Agent时代，飞书+豆包工作跑在了最前面",
+      "summary": "以及，协同办公发展到今天，下一个新阶段究竟应该是怎样的 | 这些问题，今天飞书和豆包工作已经率先给出了示范样例 | 刚刚举办的2026飞书未来无限大会暨豆包工作开工大会上，两个重磅新品来了： 飞书8",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490686.html",
+      "publish_time": "2026-09-16",
+      "report_date": "2026-09-17",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "AI 应用"
+      ]
+    },
+    {
+      "title": "Helping older adults use AI in everyday life",
+      "summary": "OpenAI and AARP are bringing free, hands-on ChatGPT workshops to 1,000 older adults across 10 U | cities to build practical AI skills safely",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
+      "publish_time": "2026-09-16",
+      "report_date": "2026-09-17",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "How to connect AI usage to business value",
+      "summary": "Learn how ChatGPT Work and Codex analytics help teams understand AI usage and spend, identify training needs, and connect adoption to business outcomes",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
+      "publish_time": "2026-09-16",
+      "report_date": "2026-09-17",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "被英伟达点名的杭州团队，补上了AI for Science的「最后一公里」",
+      "summary": "AI for Science的竞争，正在向 科研闭环 延伸 | 以 蛋白设计 为例，尽管蛋白模型越来越强，但真正想设计一个分子，研究人员还需要找文献、查结构，再下载权重、配置环境，把计算任务送上服务器 | 等模型给出结果，还要换个工具看结构、做筛选，判断哪些候选值得继续……一次计算跑完，下一步从哪里开始，往往仍 ...",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490185.html",
+      "publish_time": "2026-09-16",
+      "report_date": "2026-09-17",
+      "track": "industry",
+      "topic": "compute",
+      "importance_score": 7,
+      "tags": [
+        "算力与芯片",
+        "大模型",
+        "AI 应用"
+      ]
+    },
+    {
+      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
+      "summary": "这一次， 国产多模态 在物理世界也夯起来了—— 九大国际权威空间理解基准测试中， 八项断档第一 ，通用能力还能不打折 | 紫东太初最新开源的通用多模态大模型 ZDTaichu5 | 0-9B ，直接把10B以下通用模型空间具身的天花板又往上顶了一大截",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490839.html",
+      "publish_time": "2026-09-16",
+      "report_date": "2026-09-17",
+      "track": "industry",
+      "topic": "embodied_ai",
+      "importance_score": 8,
+      "tags": [
+        "具身智能",
+        "大模型"
+      ]
+    },
+    {
+      "title": "把记忆交给CPU，大模型会变快",
+      "summary": "拿Agent做Coding ，想必大家都已经很熟悉了 | 不过，如果我们把目光从聊天窗口移到背后的数据中心，事情就没那么简单了 | 一个Coding Agent改跨十几个文件的bug，需要反复读代码、查资料、跑测试",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/489724.html",
+      "publish_time": "2026-09-16",
+      "report_date": "2026-09-17",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
     {
       "title": "科大讯飞推出 AStudio：面向复杂任务的新一代全场景 AI 生产力工作台",
       "summary": "AIHub获悉，科大讯飞近日推出全新 AI 产品 AStudio ，官方将其定位为“新一代全场景 AI 生产力工作台” | 与传统 AI 聊天助手主要提供文本回答不同，AStudio 更强调从用户提出目标，到任务规划、工具调用、实际执行，再到最终成果交付的一整套工作流程 | 用户可以直接描述需要完成的工作，让 A...",
       "source": "AIHub",
       "url": "https://www.aihub.cn/news/astudio-launch",
       "publish_time": "2026-09-15",
-      "report_date": "2026-09-16",
+      "report_date": "2026-09-17",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -16,6 +138,21 @@
         "Agent",
         "AI 应用",
         "公司动态"
+      ]
+    },
+    {
+      "title": "AI for Societal Impact",
+      "summary": "For over a decade, we’ve seen artificial intelligence steadily advance scientific discovery, shifting from theoretical research to real-world impact | Today,...",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
+      "publish_time": "2026-09-15",
+      "report_date": "2026-09-17",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
       ]
     },
     {
@@ -30,21 +167,6 @@
       "importance_score": 6,
       "tags": [
         "Agent",
-        "大模型"
-      ]
-    },
-    {
-      "title": "AI for Societal Impact",
-      "summary": "For over a decade, we’ve seen artificial intelligence steadily advance scientific discovery, shifting from theoretical research to real-world impact | Today,...",
-      "source": "Google AI",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/ai-for-societal-impact",
-      "publish_time": "2026-09-15",
-      "report_date": "2026-09-16",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 7,
-      "tags": [
-        "AI 应用",
         "大模型"
       ]
     },

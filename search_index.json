@@ -1,14 +1,60 @@
 {
-  "generated_at": "2026-09-17T08:21:47.576914+08:00",
-  "total_items": 1061,
+  "generated_at": "2026-09-18T08:22:27.505111+08:00",
+  "total_items": 1063,
   "items": [
+    {
+      "title": "How Cooley is accelerating IPO 工作 with ChatGPT",
+      "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters...",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cooley-gopublic",
+      "publish_time": "2026-09-17",
+      "report_date": "2026-09-18",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型",
+        "融资与投资"
+      ]
+    },
+    {
+      "title": "从“会回答”到“会办事”，vivo如何解AI手机这道题",
+      "summary": "AI发展到今天，一个越来越扎心的事实是—— 对于手机这个终端设备来说， AI能力更强，并不意味着用户「体验更好」 | 一条航班延误通知弹出来，AI当然可以总结内容、回答晚点多久 | 但真要继续往下处理，事情立刻复杂起来：转机要不要改、酒店会不会受影响、明早的会议还能不能赶上，一箩筐任务需要解决",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/491649.html",
+      "publish_time": "2026-09-17",
+      "report_date": "2026-09-18",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "AI 产业"
+      ]
+    },
+    {
+      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
+      "summary": "这一次， 国产多模态 在物理世界也夯起来了—— 九大国际权威空间理解基准测试中， 八项断档第一 ，通用能力还能不打折 | 紫东太初最新开源的通用多模态大模型 ZDTaichu5 | 0-9B ，直接把10B以下通用模型空间具身的天花板又往上顶了一大截",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490839.html",
+      "publish_time": "2026-09-16",
+      "report_date": "2026-09-18",
+      "track": "industry",
+      "topic": "embodied_ai",
+      "importance_score": 8,
+      "tags": [
+        "具身智能",
+        "大模型"
+      ]
+    },
     {
       "title": "Google 发布 Gemini 3.8 Live，实时语音 AI 可边对话边推理",
       "summary": "2026年09月16日，Google 正式发布新一代实时语音模型 Gemini 3 | 8 Live Extended Thinking，进一步强化 Gemini 在实时语音交互和 Voice Agent 场景中的能力 | 两款模型目前均已进入 Gemini API 的 Stable 模型列表",
       "source": "AIHub",
       "url": "https://www.aihub.cn/news/google-gemini-3-8-live",
       "publish_time": "2026-09-16",
-      "report_date": "2026-09-17",
+      "report_date": "2026-09-18",
       "track": "industry",
       "topic": "model_release",
       "importance_score": 7,
@@ -24,7 +70,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "publish_time": "2026-09-16",
-      "report_date": "2026-09-17",
+      "report_date": "2026-09-18",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -39,7 +85,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/490686.html",
       "publish_time": "2026-09-16",
-      "report_date": "2026-09-17",
+      "report_date": "2026-09-18",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -54,7 +100,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/helping-older-adults-use-ai-in-everyday-life",
       "publish_time": "2026-09-16",
-      "report_date": "2026-09-17",
+      "report_date": "2026-09-18",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -69,7 +115,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/how-to-connect-ai-usage-to-business-value",
       "publish_time": "2026-09-16",
-      "report_date": "2026-09-17",
+      "report_date": "2026-09-18",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -84,7 +130,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/490185.html",
       "publish_time": "2026-09-16",
-      "report_date": "2026-09-17",
+      "report_date": "2026-09-18",
       "track": "industry",
       "topic": "compute",
       "importance_score": 7,
@@ -95,27 +141,12 @@
       ]
     },
     {
-      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-      "summary": "这一次， 国产多模态 在物理世界也夯起来了—— 九大国际权威空间理解基准测试中， 八项断档第一 ，通用能力还能不打折 | 紫东太初最新开源的通用多模态大模型 ZDTaichu5 | 0-9B ，直接把10B以下通用模型空间具身的天花板又往上顶了一大截",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/490839.html",
-      "publish_time": "2026-09-16",
-      "report_date": "2026-09-17",
-      "track": "industry",
-      "topic": "embodied_ai",
-      "importance_score": 8,
-      "tags": [
-        "具身智能",
-        "大模型"
-      ]
-    },
-    {
       "title": "把记忆交给CPU，大模型会变快",
       "summary": "拿Agent做Coding ，想必大家都已经很熟悉了 | 不过，如果我们把目光从聊天窗口移到背后的数据中心，事情就没那么简单了 | 一个Coding Agent改跨十几个文件的bug，需要反复读代码、查资料、跑测试",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/489724.html",
       "publish_time": "2026-09-16",
-      "report_date": "2026-09-17",
+      "report_date": "2026-09-18",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,

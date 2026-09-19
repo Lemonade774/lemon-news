@@ -1,14 +1,90 @@
 {
-  "generated_at": "2026-09-18T08:22:27.505111+08:00",
-  "total_items": 1063,
+  "generated_at": "2026-09-19T08:21:50.494816+08:00",
+  "total_items": 1067,
   "items": [
+    {
+      "title": "TypeSafe AI 推出 Jev：面向软件自动决策的 System One 模型",
+      "summary": "近日，TypeSafe AI 正式发布旗下首个 System One Model—— Jev | 这一模型并不以聊天、写作或长文本生成为主要目标，而是针对软件系统中的分类、评分、路由和条件判断进行优化 | TypeSafe 将其定义为一种“面向机器”的 AI 模型：输入程序状态和预先定义的问题后，Jev 可直接返...",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/typesafe-ai-jev",
+      "publish_time": "2026-09-18",
+      "report_date": "2026-09-19",
+      "track": "industry",
+      "topic": "model_release",
+      "importance_score": 7,
+      "tags": [
+        "模型发布",
+        "大模型",
+        "公司动态"
+      ]
+    },
+    {
+      "title": "New experts join Google’s AI & Economy team",
+      "summary": "You can explore their latest data and research publications at ai | google/economy to see how these insights shape future policy and workforce training | Goo...",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/expanding-ai-economy-research-bench",
+      "publish_time": "2026-09-18",
+      "report_date": "2026-09-19",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "AGI最难一战，竟在医院！中国AI登上Science，医生不怕失业还催着上线",
+      "summary": "AI正在横扫一切，但有块硬骨头，迟迟攻不下来，让无数人希望落空 | 2016年，Hinton老爷子就预言：“人们现在就应该停止培养放射科医生 | ”他甚至认为，五年内，AI就会在医疗影像识别上超过放射科医生",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/491875.html",
+      "publish_time": "2026-09-18",
+      "report_date": "2026-09-19",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "AI 产业"
+      ]
+    },
+    {
+      "title": "Hex turns complex analysis into visual reports with GPT‑6 Astra",
+      "summary": "GPT-6 Astra helps Hex’s data agents turn answers into interactive visualizations that employees are proud to share",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/hex-gpt-6-astra",
+      "publish_time": "2026-09-16",
+      "report_date": "2026-09-19",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
+      "summary": "这一次， 国产多模态 在物理世界也夯起来了—— 九大国际权威空间理解基准测试中， 八项断档第一 ，通用能力还能不打折 | 紫东太初最新开源的通用多模态大模型 ZDTaichu5 | 0-9B ，直接把10B以下通用模型空间具身的天花板又往上顶了一大截",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/490839.html",
+      "publish_time": "2026-09-16",
+      "report_date": "2026-09-19",
+      "track": "industry",
+      "topic": "embodied_ai",
+      "importance_score": 8,
+      "tags": [
+        "具身智能",
+        "大模型"
+      ]
+    },
     {
       "title": "How Cooley is accelerating IPO 工作 with ChatGPT",
       "summary": "Cooley built GO Public with ChatGPT Work to bring intelligence to the IPO process, helping lawyers surface issues earlier and focus judgment where it matters...",
       "source": "OpenAI",
       "url": "https://openai.com/index/cooley-gopublic",
       "publish_time": "2026-09-17",
-      "report_date": "2026-09-18",
+      "report_date": "2026-09-19",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -24,7 +100,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/491649.html",
       "publish_time": "2026-09-17",
-      "report_date": "2026-09-18",
+      "report_date": "2026-09-19",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -34,27 +110,12 @@
       ]
     },
     {
-      "title": "通用能力不打折，空间具身智能断层领先！ZDTaichu5.0-9B国产开源，跻身全球多模态第一梯队",
-      "summary": "这一次， 国产多模态 在物理世界也夯起来了—— 九大国际权威空间理解基准测试中， 八项断档第一 ，通用能力还能不打折 | 紫东太初最新开源的通用多模态大模型 ZDTaichu5 | 0-9B ，直接把10B以下通用模型空间具身的天花板又往上顶了一大截",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/09/490839.html",
-      "publish_time": "2026-09-16",
-      "report_date": "2026-09-18",
-      "track": "industry",
-      "topic": "embodied_ai",
-      "importance_score": 8,
-      "tags": [
-        "具身智能",
-        "大模型"
-      ]
-    },
-    {
       "title": "Google 发布 Gemini 3.8 Live，实时语音 AI 可边对话边推理",
       "summary": "2026年09月16日，Google 正式发布新一代实时语音模型 Gemini 3 | 8 Live Extended Thinking，进一步强化 Gemini 在实时语音交互和 Voice Agent 场景中的能力 | 两款模型目前均已进入 Gemini API 的 Stable 模型列表",
       "source": "AIHub",
       "url": "https://www.aihub.cn/news/google-gemini-3-8-live",
       "publish_time": "2026-09-16",
-      "report_date": "2026-09-18",
+      "report_date": "2026-09-19",
       "track": "industry",
       "topic": "model_release",
       "importance_score": 7,
@@ -70,7 +131,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/reimagining-advertising-with-ai",
       "publish_time": "2026-09-16",
-      "report_date": "2026-09-18",
+      "report_date": "2026-09-19",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -85,7 +146,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/490686.html",
       "publish_time": "2026-09-16",
-      "report_date": "2026-09-18",
+      "report_date": "2026-09-19",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,

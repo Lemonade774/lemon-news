@@ -1,7 +1,157 @@
 {
-  "generated_at": "2026-09-19T08:21:50.494816+08:00",
-  "total_items": 1067,
+  "generated_at": "2026-09-23T12:22:32.530359+08:00",
+  "total_items": 1077,
   "items": [
+    {
+      "title": "小米发布并开源 MiMo-V2.6：扩展强化学习规模，增强全模态 Agent 能力",
+      "summary": "2026年09月22日，小米 MiMo 团队正式发布并开源 Xiaomi MiMo-V2 | 6-Flash 两个原生全模态模型，是小米探索 RSI（递归自我改进）路径的一次重要尝试 | 6 的核心变化，是进一步扩大智能体强化学习的训练规模",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/xiaomi-mimo-v2-6-released",
+      "publish_time": "2026-09-23",
+      "report_date": "2026-09-23",
+      "track": "industry",
+      "topic": "model_release",
+      "importance_score": 7,
+      "tags": [
+        "模型发布",
+        "大模型",
+        "Agent"
+      ]
+    },
+    {
+      "title": "Parallel cut research time and cost in half with GPT‑6 Astra",
+      "summary": "GPT‑6 Astra allowed Parallel’s agents to research and synthesize labor-market data in half the time and at half the cost vs | prior models",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/parallel-cuts-time-and-cost-with-astra",
+      "publish_time": "2026-09-22",
+      "report_date": "2026-09-23",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
+      "summary": "This next phase of the collaboration puts that shared infrastructure into practice | Running the evaluations again may itself be prohibitively expensive",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/evaleval-aisi",
+      "publish_time": "2026-09-22",
+      "report_date": "2026-09-23",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 6,
+      "tags": [
+        "AI 应用",
+        "AI 开发生态"
+      ]
+    },
+    {
+      "title": "Better prompt caching for GPT-6",
+      "summary": "Learn how GPT-6 improves prompt caching with higher cache hit rates, new diagnostics, explicit breakpoints, and controls that reduce latency and costs",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
+      "publish_time": "2026-09-22",
+      "report_date": "2026-09-23",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "AI算力之争不靠堆卡！浪潮信息捅破智算「能力天花板」，还瓦解了「产能焦虑」",
+      "summary": "堆卡、堆机柜、堆发电机……似乎计算卡足够多、集群足够大，就能站在食物链顶端 | 但算力「够不够用」这个问题，已经不再能单靠堆卡来解决，它开始分化出越来越多的层面 | 第一个问题关于 智能上限 ，也就是你的算力能撑起多强的智能",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/493363.html",
+      "publish_time": "2026-09-22",
+      "report_date": "2026-09-23",
+      "track": "industry",
+      "topic": "compute",
+      "importance_score": 7,
+      "tags": [
+        "算力与芯片"
+      ]
+    },
+    {
+      "title": "Introducing GPT-6 Sol and Luna",
+      "summary": "Meet GPT-6 Sol and Luna, two models that bring frontier intelligence to everyday work with different balances of capability and cost",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
+      "publish_time": "2026-09-22",
+      "report_date": "2026-09-23",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Jun Kim, oMLX creator and maintainer, 加入 Hugging Face to support MLX",
+      "summary": "MLX is Apple's framework for local AI, especially optimized for Apple Silicon | Stability, and hopefully faster development | oMLX stays Apache 2",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/omlx",
+      "publish_time": "2026-09-22",
+      "report_date": "2026-09-23",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 6,
+      "tags": [
+        "AI 应用",
+        "AI 开发生态"
+      ]
+    },
+    {
+      "title": "How V7 gives AI agents institutional 记忆",
+      "summary": "6, V7 turns scattered company files into context agents can use to complete complex, source-linked work",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/v7",
+      "publish_time": "2026-09-21",
+      "report_date": "2026-09-23",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Higgsfield AI ships new video features in a day with GPT-6 Astra",
+      "summary": "With GPT-6 Astra, Higgsfield AI makes video ad creation easier for small businesses and brings new creative tools to market faster",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/higgsfield-from-prompt-to-production-with-astra",
+      "publish_time": "2026-09-21",
+      "report_date": "2026-09-23",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Building standards for the next phase of AI",
+      "summary": "OpenAI outlines a path to shared global AI standards, calling for coordinated evaluation, reporting, and governance to improve safety",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/building-standards-next-phase-ai",
+      "publish_time": "2026-09-21",
+      "report_date": "2026-09-23",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
     {
       "title": "TypeSafe AI 推出 Jev：面向软件自动决策的 System One 模型",
       "summary": "近日，TypeSafe AI 正式发布旗下首个 System One Model—— Jev | 这一模型并不以聊天、写作或长文本生成为主要目标，而是针对软件系统中的分类、评分、路由和条件判断进行优化 | TypeSafe 将其定义为一种“面向机器”的 AI 模型：输入程序状态和预先定义的问题后，Jev 可直接返...",

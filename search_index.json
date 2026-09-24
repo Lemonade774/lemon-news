@@ -1,7 +1,157 @@
 {
-  "generated_at": "2026-09-23T12:22:32.530359+08:00",
-  "total_items": 1077,
+  "generated_at": "2026-09-24T12:19:13.653896+08:00",
+  "total_items": 1087,
   "items": [
+    {
+      "title": "Ringg’s AI agents resolve up to 65% of customer calls with OpenAI",
+      "summary": "6, Ringg powers multilingual agents across voice, chat, WhatsApp, and web for 90% less cost vs",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ringg",
+      "publish_time": "2026-09-23",
+      "report_date": "2026-09-24",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "GPT-6 Astra搓3D刷屏后，3D生成的竞争规则变了",
+      "summary": "写代码、调Blender、搭场景，甚至从零做出一款3D游戏 | 过去要在专业软件里折腾半天的活儿，现在一句话就能让Agent接手 | 不过吧，GPT-6 Astra的表现，也让3D生成行业突然多了一个问题： 通用大模型自己都能建模了，专业3D生成模型还有用吗",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/496170.html",
+      "publish_time": "2026-09-23",
+      "report_date": "2026-09-24",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Two years of OpenAI Academy",
+      "summary": "Marking two years of OpenAI Academy and bringing AI skills to even more communities",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "publish_time": "2026-09-23",
+      "report_date": "2026-09-24",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "OpenAI extends cyber access to Ukraine for civilian defense",
+      "summary": "OpenAI is extending access to its Daybreak program to the Government of Ukraine to support the cyber defense of civilian infrastructure",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "publish_time": "2026-09-23",
+      "report_date": "2026-09-24",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Harvey turns legal context into stronger drafts with GPT-6 Astra",
+      "summary": "GPT-6 Astra produces more structured, context-aware legal documents, freeing lawyers to focus on strategy",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/harvey-from-context-to-confidence-with-astra",
+      "publish_time": "2026-09-23",
+      "report_date": "2026-09-24",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "How invideo 提升 color grading 3x with GPT‑6 Astra",
+      "summary": "With GPT‑6 Astra, invideo plans edits with greater precision, improves color correction and grading threefold, and produces 50 custom effects in one day",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/invideo-builds-with-gpt-6-astra",
+      "publish_time": "2026-09-23",
+      "report_date": "2026-09-24",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+      "summary": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+      "publish_time": "2026-09-23",
+      "report_date": "2026-09-24",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Airbnb widens access to GPT-6 Astra and OpenAI frontier 模型",
+      "summary": "Learn how Airbnb is expanding access to GPT-6 Astra and OpenAI frontier models to help engineering teams solve bugs, design systems, and ship faster",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/airbnb-gpt-6-astra",
+      "publish_time": "2026-09-23",
+      "report_date": "2026-09-24",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Grab and OpenAI bring practical AI skills to Southeast Asia",
+      "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
+      "publish_time": "2026-09-23",
+      "report_date": "2026-09-24",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Pruning LLMs Like a Physicist: Block Removal as an Ising Optimizatio",
+      "summary": "The payoff in the deep-compression regime is large: at 50% compression of Llama-3 | 3-70B-Instruct, we gain almost 23 percentage points on MMLU over the best...",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
+      "publish_time": "2026-09-21",
+      "report_date": "2026-09-24",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 6,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
     {
       "title": "小米发布并开源 MiMo-V2.6：扩展强化学习规模，增强全模态 Agent 能力",
       "summary": "2026年09月22日，小米 MiMo 团队正式发布并开源 Xiaomi MiMo-V2 | 6-Flash 两个原生全模态模型，是小米探索 RSI（递归自我改进）路径的一次重要尝试 | 6 的核心变化，是进一步扩大智能体强化学习的训练规模",

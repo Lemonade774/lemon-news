@@ -1,0 +1,306 @@
+{
+  "date": "2026-09-30",
+  "update_time": "2026-09-30T13:08:59.013347+08:00",
+  "total_items": 59,
+  "selection_summary": {
+    "today_count": 2,
+    "backfill_count": 8,
+    "previous_day_top_count": 0,
+    "selected_count": 10,
+    "candidate_count": 59,
+    "dedupe_window_days": 7,
+    "max_backfill_days": 3
+  },
+  "top_items": [
+    {
+      "title": "OpenAI推出Dot：由GPT-6 Astra驱动的个人AI智能体",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/openai-dots-launch",
+      "publish_time": "2026-09-30",
+      "category": "AI 资讯",
+      "summary": "2026年9月30日，OpenAI 正式推出个人 AI 智能体 Dot | 与传统的一问一答式聊天助手不同，Dot 被定位为能够长期承担工作职责的“数字同事”：它了解用户在意什么，持续在后台推进复杂项目和日常事务，在需要用户判断时主动汇报进度或请求决策 | 目前，Dot 已在 ChatGPT 中向符合条件市场的 ...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI",
+        "智能体"
+      ],
+      "tags": [
+        "Agent",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "today",
+      "is_backfill": false,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/09/499246.html",
+      "publish_time": "2026-09-30",
+      "category": "AI 产业",
+      "summary": "1 Sol 来了，重点加强了Agentic Coding、computer use和专业工作能力 官方称6 | OpenAI称，这也是历届规模最大的一次DevDay | 25个新发布不一一展开了，这篇推送我决定和大家展开分享一下最重要的5个点，分别是Dots、GPT-6",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "today",
+      "is_backfill": false,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verificati",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "publish_time": "2026-09-29",
+      "category": "AI 开发生态",
+      "summary": "A source-blind verifier may pass it, because the fact does exist in the pool | A source-aware verifier should not | Pool the two together and the claim looks...",
+      "importance_score": 6,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "AI 开发生态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Introducing GPT-6.1 Sol",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
+      "publish_time": "2026-09-29",
+      "category": "模型动态",
+      "summary": "Meet GPT-6 | 1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices",
+      "importance_score": 7,
+      "keywords": [
+        "GPT",
+        "NPU"
+      ],
+      "tags": [
+        "算力与芯片",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "compute",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Manus推出个人Agent应用Cue：每个Agent拥有独立电话、邮箱、钱包与电脑",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/manus-cue",
+      "publish_time": "2026-09-29",
+      "category": "AI 资讯",
+      "summary": "9月28日，AI Agent公司Manus在发布Manus 2 | 0的同时，推出了一款全新的独立应用 Cue | 与侧重研究、办公和开发任务的Manus主产品不同，Cue定位为面向个人用户的生活类Agent应用，主打“拥有专属身份的私人Agent”",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "AI 应用",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
+      "publish_time": "2026-09-28",
+      "category": "模型动态",
+      "summary": "Last week in Los Angeles, independent filmmaker Jeff Synthesized was named the grand prize winner for The Gifted | Chosen from more than 2,500 entries worldw...",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Towards safety cases for frontier AI training",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
+      "publish_time": "2026-09-28",
+      "category": "模型动态",
+      "summary": "Our early guidelines for safety cases in frontier AI training cover technical safeguards, operational practices, and investigating misalignment incidents",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "The Lenfest Institute grows landmark program with expanded OpenAI su",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
+      "publish_time": "2026-09-28",
+      "category": "模型动态",
+      "summary": "OpenAI is expanding the Lenfest AI Collaborative and Fellowship Program with $5 million in funding and up to $5 million in software credits and engineering s...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Basis completes a tax workbook 2x faster with GPT-6 Astra",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/basis-tax-workbook-with-astra",
+      "publish_time": "2026-09-28",
+      "category": "模型动态",
+      "summary": "GPT-6 Astra completed a 50-tab tax workbook twice as fast as GPT-5 | 6 Sol, and its stronger understanding of user intent gives Basis more confidence in real...",
+      "importance_score": 7,
+      "keywords": [
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Holo4: powering generalist computer-use agents",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/Hcompany/holo4",
+      "publish_time": "2026-09-28",
+      "category": "AI 开发生态",
+      "summary": "Holo4 is our new series of agentic models | It comes in two sizes: 27B dense and 35B-A3B Mixture of Experts | Both are available on the H Models API",
+      "importance_score": 6,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    }
+  ]
+}

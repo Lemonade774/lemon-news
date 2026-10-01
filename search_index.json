@@ -1,14 +1,44 @@
 {
-  "generated_at": "2026-09-30T13:08:59.199133+08:00",
-  "total_items": 1097,
+  "generated_at": "2026-10-01T13:23:37.984625+08:00",
+  "total_items": 1099,
   "items": [
+    {
+      "title": "Disrupting a coordinated 模型-distillation campaign",
+      "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
+      "publish_time": "2026-09-30",
+      "report_date": "2026-10-01",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Helping small businesses put AI to 工作",
+      "summary": "OpenAI is partnering with America’s SBDC to expand hands-on AI training and local support for small businesses, alongside a new report on how small teams are...",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
+      "publish_time": "2026-09-30",
+      "report_date": "2026-10-01",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
     {
       "title": "OpenAI推出Dot：由GPT-6 Astra驱动的个人AI智能体",
       "summary": "2026年9月30日，OpenAI 正式推出个人 AI 智能体 Dot | 与传统的一问一答式聊天助手不同，Dot 被定位为能够长期承担工作职责的“数字同事”：它了解用户在意什么，持续在后台推进复杂项目和日常事务，在需要用户判断时主动汇报进度或请求决策 | 目前，Dot 已在 ChatGPT 中向符合条件市场的 ...",
       "source": "AIHub",
       "url": "https://www.aihub.cn/news/openai-dots-launch",
       "publish_time": "2026-09-30",
-      "report_date": "2026-09-30",
+      "report_date": "2026-10-01",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -24,7 +54,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/499246.html",
       "publish_time": "2026-09-30",
-      "report_date": "2026-09-30",
+      "report_date": "2026-10-01",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -35,27 +65,12 @@
       ]
     },
     {
-      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verificati",
-      "summary": "A source-blind verifier may pass it, because the fact does exist in the pool | A source-aware verifier should not | Pool the two together and the claim looks...",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-      "publish_time": "2026-09-29",
-      "report_date": "2026-09-30",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 6,
-      "tags": [
-        "AI 应用",
-        "AI 开发生态"
-      ]
-    },
-    {
       "title": "Introducing GPT-6.1 Sol",
       "summary": "Meet GPT-6 | 1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices",
       "source": "OpenAI",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "publish_time": "2026-09-29",
-      "report_date": "2026-09-30",
+      "report_date": "2026-10-01",
       "track": "industry",
       "topic": "compute",
       "importance_score": 7,
@@ -70,7 +85,7 @@
       "source": "AIHub",
       "url": "https://www.aihub.cn/news/manus-cue",
       "publish_time": "2026-09-29",
-      "report_date": "2026-09-30",
+      "report_date": "2026-10-01",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -86,7 +101,7 @@
       "source": "Google AI",
       "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize",
       "publish_time": "2026-09-28",
-      "report_date": "2026-09-30",
+      "report_date": "2026-10-01",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -101,7 +116,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/towards-safety-cases-for-frontier-ai-training",
       "publish_time": "2026-09-28",
-      "report_date": "2026-09-30",
+      "report_date": "2026-10-01",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -116,7 +131,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/lenfest-ai-collaborative-expansion",
       "publish_time": "2026-09-28",
-      "report_date": "2026-09-30",
+      "report_date": "2026-10-01",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -131,13 +146,28 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/basis-tax-workbook-with-astra",
       "publish_time": "2026-09-28",
-      "report_date": "2026-09-30",
+      "report_date": "2026-10-01",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
       "tags": [
         "AI 应用",
         "大模型"
+      ]
+    },
+    {
+      "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verificati",
+      "summary": "A source-blind verifier may pass it, because the fact does exist in the pool | A source-aware verifier should not | Pool the two together and the claim looks...",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
+      "publish_time": "2026-09-29",
+      "report_date": "2026-09-30",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 6,
+      "tags": [
+        "AI 应用",
+        "AI 开发生态"
       ]
     },
     {

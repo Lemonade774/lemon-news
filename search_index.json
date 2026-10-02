@@ -1,14 +1,72 @@
 {
-  "generated_at": "2026-10-01T13:23:37.984625+08:00",
-  "total_items": 1099,
+  "generated_at": "2026-10-02T13:11:54.660220+08:00",
+  "total_items": 1103,
   "items": [
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "summary": "Enterprises need agents that work well in their own environments | Those are the weaknesses an enterprise needs to improve | The difficulty is turning those ...",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "publish_time": "2026-10-02",
+      "report_date": "2026-10-02",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 6,
+      "tags": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "How Albertsons Companies is reimagining retail from the inside out",
+      "summary": "Albertsons Cos | is using ChatGPT Enterprise and the OpenAI API to help teams work faster and make grocery shopping easier for millions of customers",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/albertsons-reimagining-retail",
+      "publish_time": "2026-10-01",
+      "report_date": "2026-10-02",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Den frees up 10-15 hours a week to grow with ChatGPT 工作",
+      "summary": "As it opens a new location, the social club prepares grant applications in 2 hours instead of 3 days and liquor-license materials in 3 hours instead of 4 days",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/the-den-family-social",
+      "publish_time": "2026-10-01",
+      "report_date": "2026-10-02",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Introducing Olmo-core 3: 开启, scalable training infrastructure for la",
+      "summary": "As MoEs grow, those costs can erode much of the computational advantage of using only part of the model for each input | Olmo-core 3 is built",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "publish_time": "2026-10-01",
+      "report_date": "2026-10-02",
+      "track": "industry",
+      "topic": "compute",
+      "importance_score": 6,
+      "tags": [
+        "算力与芯片"
+      ]
+    },
     {
       "title": "Disrupting a coordinated 模型-distillation campaign",
       "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation",
       "source": "OpenAI",
       "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
       "publish_time": "2026-09-30",
-      "report_date": "2026-10-01",
+      "report_date": "2026-10-02",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -23,7 +81,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "publish_time": "2026-09-30",
-      "report_date": "2026-10-01",
+      "report_date": "2026-10-02",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -38,7 +96,7 @@
       "source": "AIHub",
       "url": "https://www.aihub.cn/news/openai-dots-launch",
       "publish_time": "2026-09-30",
-      "report_date": "2026-10-01",
+      "report_date": "2026-10-02",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -54,7 +112,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/499246.html",
       "publish_time": "2026-09-30",
-      "report_date": "2026-10-01",
+      "report_date": "2026-10-02",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -70,7 +128,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/introducing-gpt-6-1-sol",
       "publish_time": "2026-09-29",
-      "report_date": "2026-10-01",
+      "report_date": "2026-10-02",
       "track": "industry",
       "topic": "compute",
       "importance_score": 7,
@@ -85,7 +143,7 @@
       "source": "AIHub",
       "url": "https://www.aihub.cn/news/manus-cue",
       "publish_time": "2026-09-29",
-      "report_date": "2026-10-01",
+      "report_date": "2026-10-02",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,

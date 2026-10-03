@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-02",
-  "update_time": "2026-10-02T13:11:54.495429+08:00",
+  "date": "2026-10-03",
+  "update_time": "2026-10-03T12:54:08.405496+08:00",
   "total_items": 60,
   "selection_summary": {
-    "today_count": 1,
+    "today_count": 0,
     "backfill_count": 3,
-    "previous_day_top_count": 6,
+    "previous_day_top_count": 7,
     "selected_count": 10,
     "candidate_count": 60,
     "dedupe_window_days": 7,
@@ -13,29 +13,87 @@
   },
   "top_items": [
     {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "title": "A 模型 guide for GPT-6 family",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "publish_time": "2026-10-02",
-      "category": "AI 开发生态",
-      "summary": "Enterprises need agents that work well in their own environments | Those are the weaknesses an enterprise needs to improve | The difficulty is turning those ...",
-      "importance_score": 6,
+      "category": "模型动态",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production",
+      "importance_score": 7,
       "keywords": [
-        "AI",
-        "Agent"
+        "GPT"
       ],
       "tags": [
-        "Agent"
+        "AI 应用",
+        "大模型"
       ],
       "track": "industry",
-      "topic": "agent",
-      "source_type": "ecosystem",
+      "topic": "ai_application",
+      "source_type": "official",
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "today",
-      "is_backfill": false,
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
       "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "The latest AI news we announced in September 2026",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+      "publish_time": "2026-10-02",
+      "category": "模型动态",
+      "summary": "Your browser does not support the audio element | They’re also using AI to help scientists map DNA, track climate change from space, and even study fruit fly...",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "publish_time": "2026-10-02",
+      "category": "模型动态",
+      "summary": "Chatham Financial uses Codex and GPT-5 | 6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
       "products": [],
       "financing": ""
     },
@@ -63,7 +121,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
@@ -94,39 +152,12 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [
         "ChatGPT"
       ],
-      "financing": ""
-    },
-    {
-      "title": "Introducing Olmo-core 3: 开启, scalable training infrastructure for la",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "publish_time": "2026-10-01",
-      "category": "AI 开发生态",
-      "summary": "As MoEs grow, those costs can erode much of the computational advantage of using only part of the model for each input | Olmo-core 3 is built",
-      "importance_score": 6,
-      "keywords": [
-        "AI",
-        "NPU"
-      ],
-      "tags": [
-        "算力与芯片"
-      ],
-      "track": "industry",
-      "topic": "compute",
-      "source_type": "ecosystem",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
       "financing": ""
     },
     {
@@ -258,56 +289,26 @@
       "financing": ""
     },
     {
-      "title": "Introducing GPT-6.1 Sol",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-gpt-6-1-sol",
-      "publish_time": "2026-09-29",
-      "category": "模型动态",
-      "summary": "Meet GPT-6 | 1 Sol: near-Astra intelligence for coding, computer use, and professional work at one-fifth of Astra’s standard API input and output token prices",
-      "importance_score": 7,
-      "keywords": [
-        "GPT",
-        "NPU"
-      ],
-      "tags": [
-        "算力与芯片",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "compute",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Manus推出个人Agent应用Cue：每个Agent拥有独立电话、邮箱、钱包与电脑",
-      "source": "AIHub",
-      "url": "https://www.aihub.cn/news/manus-cue",
-      "publish_time": "2026-09-29",
-      "category": "AI 资讯",
-      "summary": "9月28日，AI Agent公司Manus在发布Manus 2 | 0的同时，推出了一款全新的独立应用 Cue | 与侧重研究、办公和开发任务的Manus主产品不同，Cue定位为面向个人用户的生活类Agent应用，主打“拥有专属身份的私人Agent”",
-      "importance_score": 7,
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "publish_time": "2026-10-02",
+      "category": "AI 开发生态",
+      "summary": "Enterprises need agents that work well in their own environments | Those are the weaknesses an enterprise needs to improve | The difficulty is turning those ...",
+      "importance_score": 6,
       "keywords": [
         "AI",
         "Agent"
       ],
       "tags": [
-        "Agent",
-        "AI 应用",
-        "公司动态"
+        "Agent"
       ],
       "track": "industry",
       "topic": "agent",
-      "source_type": "aggregator",
+      "source_type": "ecosystem",
       "discovery_source": "",
       "corroboration_count": 1,
-      "publish_time_source": "article",
+      "publish_time_source": "rss",
       "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],

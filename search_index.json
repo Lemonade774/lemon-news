@@ -1,19 +1,50 @@
 {
-  "generated_at": "2026-10-02T13:11:54.660220+08:00",
-  "total_items": 1103,
+  "generated_at": "2026-10-03T12:54:08.595309+08:00",
+  "total_items": 1106,
   "items": [
     {
-      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
-      "summary": "Enterprises need agents that work well in their own environments | Those are the weaknesses an enterprise needs to improve | The difficulty is turning those ...",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "title": "A 模型 guide for GPT-6 family",
+      "summary": "Learn how startups can choose GPT-6 models, tune reasoning effort, improve prompts and skills, coordinate tools, and prepare workflows for production",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/practical-guide-building-gpt-6",
       "publish_time": "2026-10-02",
-      "report_date": "2026-10-02",
+      "report_date": "2026-10-03",
       "track": "industry",
-      "topic": "agent",
-      "importance_score": 6,
+      "topic": "ai_application",
+      "importance_score": 7,
       "tags": [
-        "Agent"
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "The latest AI news we announced in September 2026",
+      "summary": "Your browser does not support the audio element | They’re also using AI to help scientists map DNA, track climate change from space, and even study fruit fly...",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026",
+      "publish_time": "2026-10-02",
+      "report_date": "2026-10-03",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Chatham scales its capital markets expertise with OpenAI",
+      "summary": "Chatham Financial uses Codex and GPT-5 | 6 to build technology and redesign workflows, cutting trade validation from 30 minutes to under 4",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatham-financial",
+      "publish_time": "2026-10-02",
+      "report_date": "2026-10-03",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
       ]
     },
     {
@@ -22,7 +53,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/albertsons-reimagining-retail",
       "publish_time": "2026-10-01",
-      "report_date": "2026-10-02",
+      "report_date": "2026-10-03",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -37,7 +68,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/the-den-family-social",
       "publish_time": "2026-10-01",
-      "report_date": "2026-10-02",
+      "report_date": "2026-10-03",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -47,26 +78,12 @@
       ]
     },
     {
-      "title": "Introducing Olmo-core 3: 开启, scalable training infrastructure for la",
-      "summary": "As MoEs grow, those costs can erode much of the computational advantage of using only part of the model for each input | Olmo-core 3 is built",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/allenai/olmocore3",
-      "publish_time": "2026-10-01",
-      "report_date": "2026-10-02",
-      "track": "industry",
-      "topic": "compute",
-      "importance_score": 6,
-      "tags": [
-        "算力与芯片"
-      ]
-    },
-    {
       "title": "Disrupting a coordinated 模型-distillation campaign",
       "summary": "Learn how OpenAI disrupted a campaign to extract protected model reasoning and is strengthening defenses against adversarial distillation",
       "source": "OpenAI",
       "url": "https://openai.com/index/disrupting-a-coordinated-model-distillation-campaign",
       "publish_time": "2026-09-30",
-      "report_date": "2026-10-02",
+      "report_date": "2026-10-03",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -81,7 +98,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/helping-small-businesses-put-ai-to-work",
       "publish_time": "2026-09-30",
-      "report_date": "2026-10-02",
+      "report_date": "2026-10-03",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -96,7 +113,7 @@
       "source": "AIHub",
       "url": "https://www.aihub.cn/news/openai-dots-launch",
       "publish_time": "2026-09-30",
-      "report_date": "2026-10-02",
+      "report_date": "2026-10-03",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -112,7 +129,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/09/499246.html",
       "publish_time": "2026-09-30",
-      "report_date": "2026-10-02",
+      "report_date": "2026-10-03",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -120,6 +137,34 @@
         "Agent",
         "大模型",
         "公司动态"
+      ]
+    },
+    {
+      "title": "AutoSynthData: Generating Training Data for Enterprise Agents",
+      "summary": "Enterprises need agents that work well in their own environments | Those are the weaknesses an enterprise needs to improve | The difficulty is turning those ...",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ServiceNow-AI/autosynthdata",
+      "publish_time": "2026-10-02",
+      "report_date": "2026-10-03",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 6,
+      "tags": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "Introducing Olmo-core 3: 开启, scalable training infrastructure for la",
+      "summary": "As MoEs grow, those costs can erode much of the computational advantage of using only part of the model for each input | Olmo-core 3 is built",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/allenai/olmocore3",
+      "publish_time": "2026-10-01",
+      "report_date": "2026-10-02",
+      "track": "industry",
+      "topic": "compute",
+      "importance_score": 6,
+      "tags": [
+        "算力与芯片"
       ]
     },
     {

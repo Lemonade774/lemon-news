@@ -1,14 +1,73 @@
 {
-  "generated_at": "2026-10-09T13:43:06.664489+08:00",
-  "total_items": 1116,
+  "generated_at": "2026-10-10T13:25:49.532280+08:00",
+  "total_items": 1120,
   "items": [
+    {
+      "title": "Asana cuts 模型 costs 76x in browser tests with GPT-6.1 Sol",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "publish_time": "2026-10-09",
+      "report_date": "2026-10-10",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "字节找到了DeepSeek时强时弱的原因",
+      "summary": "DeepSeek的神鬼二象性被字节Seed团队逮到了 | 同一道题，什么都没改，只在前面多塞几个无关紧要的字符，模型突然就不会了 | Seed研究人员发现，DeepSeek-V4的表现竟然会随着信息的输入位置， 每隔4个Token周期性变化",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/502364.html",
+      "publish_time": "2026-10-09",
+      "report_date": "2026-10-10",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/sophos",
+      "publish_time": "2026-10-09",
+      "report_date": "2026-10-10",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Impactful scheduling for GPU clusters",
+      "summary": "We think about this task as a pyramid of four metrics that build on each other | The foundation is availability : how often the hardware is healthy and ready...",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "publish_time": "2026-10-09",
+      "report_date": "2026-10-10",
+      "track": "industry",
+      "topic": "compute",
+      "importance_score": 6,
+      "tags": [
+        "算力与芯片"
+      ]
+    },
     {
       "title": "How Oracle turns days of 工作 into minutes with ChatGPT and Codex",
       "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex",
       "source": "OpenAI",
       "url": "https://openai.com/index/oracle",
       "publish_time": "2026-10-08",
-      "report_date": "2026-10-09",
+      "report_date": "2026-10-10",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -23,7 +82,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/10/501995.html",
       "publish_time": "2026-10-08",
-      "report_date": "2026-10-09",
+      "report_date": "2026-10-10",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -39,7 +98,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/pollo-ai",
       "publish_time": "2026-10-08",
-      "report_date": "2026-10-09",
+      "report_date": "2026-10-10",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -54,7 +113,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/legalon-halves-codex-costs",
       "publish_time": "2026-10-08",
-      "report_date": "2026-10-09",
+      "report_date": "2026-10-10",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -69,7 +128,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
       "publish_time": "2026-10-08",
-      "report_date": "2026-10-09",
+      "report_date": "2026-10-10",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -84,7 +143,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/10/501749.html",
       "publish_time": "2026-10-07",
-      "report_date": "2026-10-09",
+      "report_date": "2026-10-10",
       "track": "industry",
       "topic": "compute",
       "importance_score": 7,

@@ -1,17 +1,133 @@
 {
-  "date": "2026-10-09",
-  "update_time": "2026-10-09T13:43:06.473133+08:00",
-  "total_items": 62,
+  "date": "2026-10-10",
+  "update_time": "2026-10-10T13:25:49.339611+08:00",
+  "total_items": 64,
   "selection_summary": {
     "today_count": 0,
-    "backfill_count": 10,
-    "previous_day_top_count": 0,
+    "backfill_count": 4,
+    "previous_day_top_count": 6,
     "selected_count": 10,
-    "candidate_count": 62,
+    "candidate_count": 64,
     "dedupe_window_days": 7,
     "max_backfill_days": 3
   },
   "top_items": [
+    {
+      "title": "Asana cuts 模型 costs 76x in browser tests with GPT-6.1 Sol",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/asana-browser-agent",
+      "publish_time": "2026-10-09",
+      "category": "模型动态",
+      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models",
+      "importance_score": 7,
+      "keywords": [
+        "GPT",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "字节找到了DeepSeek时强时弱的原因",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/502364.html",
+      "publish_time": "2026-10-09",
+      "category": "AI 产业",
+      "summary": "DeepSeek的神鬼二象性被字节Seed团队逮到了 | 同一道题，什么都没改，只在前面多塞几个无关紧要的字符，模型突然就不会了 | Seed研究人员发现，DeepSeek-V4的表现竟然会随着信息的输入位置， 每隔4个Token周期性变化",
+      "importance_score": 7,
+      "keywords": [
+        "DeepSeek"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "DeepSeek"
+      ],
+      "products": [
+        "DeepSeek"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/sophos",
+      "publish_time": "2026-10-09",
+      "category": "模型动态",
+      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Impactful scheduling for GPU clusters",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
+      "publish_time": "2026-10-09",
+      "category": "AI 开发生态",
+      "summary": "We think about this task as a pyramid of four metrics that build on each other | The foundation is availability : how often the hardware is healthy and ready...",
+      "importance_score": 6,
+      "keywords": [
+        "AI",
+        "GPU"
+      ],
+      "tags": [
+        "算力与芯片"
+      ],
+      "track": "industry",
+      "topic": "compute",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
     {
       "title": "How Oracle turns days of 工作 into minutes with ChatGPT and Codex",
       "source": "OpenAI",
@@ -33,7 +149,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [
@@ -65,7 +181,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
@@ -98,7 +214,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
@@ -127,7 +243,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [],
@@ -156,7 +272,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
@@ -188,132 +304,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "Helping teens learn, plan, and shape the future of AI",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/teens-learn-and-plan",
-      "publish_time": "2026-10-07",
-      "category": "模型动态",
-      "summary": "College Planner is coming to ChatGPT for Teens to help students manage college applications, alongside new flashcards, quizzes, and a teen AI council",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "GPT"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [
-        "ChatGPT"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "Radisson Hotel Group brings hotel discovery into ChatGPT",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/radisson",
-      "publish_time": "2026-10-07",
-      "category": "模型动态",
-      "summary": "Radisson partnered with Accenture to build a ChatGPT plugin using OpenAI technology, helping travelers find, compare, and book hotels while planning their trips",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "GPT-6 and Intelligent UI for everyone",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-6-for-everyone",
-      "publish_time": "2026-10-07",
-      "category": "模型动态",
-      "summary": "GPT‑6 is rolling out globally in ChatGPT with Intelligent UI, delivering faster responses with visuals and interactive experiences you can explore and use di...",
-      "importance_score": 7,
-      "keywords": [
-        "GPT"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [
-        "ChatGPT"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "How Jump Trading is scaling quant research with ChatGPT",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/jump-trading",
-      "publish_time": "2026-10-06",
-      "category": "模型动态",
-      "summary": "Jump Trading uses OpenAI to expand quantitative research | See how longer-running AI workflows combine multiple data sources with human review",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"

@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-10",
-  "update_time": "2026-10-10T13:25:49.339611+08:00",
+  "date": "2026-10-15",
+  "update_time": "2026-10-15T12:12:02.573672+08:00",
   "total_items": 64,
   "selection_summary": {
     "today_count": 0,
-    "backfill_count": 4,
-    "previous_day_top_count": 6,
+    "backfill_count": 10,
+    "previous_day_top_count": 0,
     "selected_count": 10,
     "candidate_count": 64,
     "dedupe_window_days": 7,
@@ -13,14 +13,81 @@
   },
   "top_items": [
     {
-      "title": "Asana cuts 模型 costs 76x in browser tests with GPT-6.1 Sol",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/asana-browser-agent",
-      "publish_time": "2026-10-09",
-      "category": "模型动态",
-      "summary": "Using GPT-6 Astra in Codex, Asana made its browser agent 76x cheaper and 5x faster in tests to offer customers more capable models",
+      "title": "千问办公发布电商版：一个AI入口打通多平台电商经营",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/qwen-work-ecommerce-release",
+      "publish_time": "2026-10-14",
+      "category": "AI 资讯",
+      "summary": "2026年10月14日，阿里巴巴旗下企业级Agent产品 千问办公 正式发布电商版，并同步开启邀测 | 千问办公电商版围绕电商商家的日常工作场景，对AI能力进行了重新设计和增强，重点面向跨多平台经营的商家，尝试用一个AI入口驱动不同电商平台的后台与工具，帮助商家完成AI时代的运营升级 | 受邀用户在千问办公中切换...",
       "importance_score": 7,
       "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "模型发布",
+        "Agent",
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "model_release",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "阿里巴巴",
+        "阿里"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Amp puts AI agents to 工作 beyond code with OpenAI 模型",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "publish_time": "2026-10-14",
+      "category": "模型动态",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/third-moment-research",
+      "publish_time": "2026-10-14",
+      "category": "模型动态",
+      "summary": "With GPT-6 Astra and GPT-6 | 1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
         "GPT",
         "Agent"
       ],
@@ -41,43 +108,12 @@
       "financing": ""
     },
     {
-      "title": "字节找到了DeepSeek时强时弱的原因",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/502364.html",
-      "publish_time": "2026-10-09",
-      "category": "AI 产业",
-      "summary": "DeepSeek的神鬼二象性被字节Seed团队逮到了 | 同一道题，什么都没改，只在前面多塞几个无关紧要的字符，模型突然就不会了 | Seed研究人员发现，DeepSeek-V4的表现竟然会随着信息的输入位置， 每隔4个Token周期性变化",
-      "importance_score": 7,
-      "keywords": [
-        "DeepSeek"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "DeepSeek"
-      ],
-      "products": [
-        "DeepSeek"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "Sophos cuts threat investigation time by 96% with OpenAI Daybreak",
+      "title": "How Block is building AI-powered security with OpenAI technology",
       "source": "OpenAI",
-      "url": "https://openai.com/index/sophos",
-      "publish_time": "2026-10-09",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "publish_time": "2026-10-14",
       "category": "模型动态",
-      "summary": "Discover how Sophos uses OpenAI’s Daybreak to cut cyber-threat investigation time by 96% and automate 52% of MDR cases while preserving human oversight",
+      "summary": "Block is building AI-powered security with OpenAI | Its security team investigates threats faster and proposes patches in minutes",
       "importance_score": 7,
       "keywords": [
         "AI",
@@ -102,22 +138,146 @@
       "financing": ""
     },
     {
-      "title": "Impactful scheduling for GPU clusters",
+      "title": "Google正式推出Gemini 4 Argon：百万token输出，主攻长程编程与企业级复杂任务",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/gemini-4-argon-release",
+      "publish_time": "2026-10-14",
+      "category": "AI 资讯",
+      "summary": "Google 于 10 月 13 日宣布，Gemini 4 系列首款前沿模型 Gemini 4 Argon 正式向开发者和订阅用户开放 | 该模型由 Google DeepMind 研发，定位为面向长链路、多步骤复杂工作的旗舰推理模型，重点覆盖真实世界软件工程、金融与法律等企业知识工作以及网络安全防御三大方向 |...",
+      "importance_score": 7,
+      "keywords": [
+        "Gemini"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "Google"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "publish_time": "2026-10-14",
+      "category": "模型动态",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/503093.html",
+      "publish_time": "2026-10-13",
+      "category": "AI 产业",
+      "summary": "啥，DeepSeek又开始给机器人公司投钱了 | 41亿元入股宇树科技后，梁文锋这回又把目光投向了一家成立没多久的机器人AI初创公司—— 据彭博社报道，DeepSeek计划领投其数千万美元种子轮融资 | 投后估值约4亿美元，折合人民币约 28亿 元",
+      "importance_score": 8,
+      "keywords": [
+        "AI",
+        "DeepSeek",
+        "机器人",
+        "融资"
+      ],
+      "tags": [
+        "AI × 金融",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "finance",
+      "topic": "ai_finance",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "DeepSeek"
+      ],
+      "products": [
+        "DeepSeek"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+      "publish_time": "2026-10-13",
+      "category": "模型动态",
+      "summary": "We’re giving developers, enterprises, scientists, and consumers access to our latest frontier model | Over the past few w",
+      "importance_score": 7,
+      "keywords": [
+        "Gemini"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
       "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/allenai/impactful-scheduling",
-      "publish_time": "2026-10-09",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "publish_time": "2026-10-13",
       "category": "AI 开发生态",
-      "summary": "We think about this task as a pyramid of four metrics that build on each other | The foundation is availability : how often the hardware is healthy and ready...",
+      "summary": "Unlike its predecessor, it is a reasoning-only model that produces an explicit chain of thought before its final answer | Pre-training was scaled up from ~17...",
       "importance_score": 6,
       "keywords": [
         "AI",
-        "GPU"
+        "Agent"
       ],
       "tags": [
-        "算力与芯片"
+        "Agent"
       ],
       "track": "industry",
-      "topic": "compute",
+      "topic": "agent",
       "source_type": "ecosystem",
       "discovery_source": "",
       "corroboration_count": 1,
@@ -129,14 +289,15 @@
       "financing": ""
     },
     {
-      "title": "How Oracle turns days of 工作 into minutes with ChatGPT and Codex",
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
       "source": "OpenAI",
-      "url": "https://openai.com/index/oracle",
-      "publish_time": "2026-10-08",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "publish_time": "2026-10-13",
       "category": "模型动态",
-      "summary": "Across recruiting, engineering, and operations, Oracle turns specialist knowledge into fast, repeatable workflows with ChatGPT Work and Codex",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2 | 5, and a path to voice filmmaking with GPT-Live",
       "importance_score": 7,
       "keywords": [
+        "AI",
         "GPT"
       ],
       "tags": [
@@ -149,169 +310,10 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [],
-      "products": [
-        "ChatGPT"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "ChatGPT踢到铁板了！能破解千禧数学难题，但论文复现率低至13.98%",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501995.html",
-      "publish_time": "2026-10-08",
-      "category": "AI 产业",
-      "summary": "上个月，OpenAI宣布其AI模型仅用88小时，便攻克了困扰人类百年的千禧年七大顶级数学难题之一——N-S方程；昨天，又放出722篇数学手稿，千禧难题又有仨 | 但在UniPat AI发布的PaperBenchX测评中，面对93个真实论文复现任务，表现最强的GPT-6 Astra，完整复现率却只有13 | △10...",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型",
-        "公司动态"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "Pollo AI turns creative ideas into campaigns with OpenAI",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/pollo-ai",
-      "publish_time": "2026-10-08",
-      "category": "模型动态",
-      "summary": "6, GPT-6 Astra, and GPT‑Image‑2 | 5, Pollo AI helps creators turn bold ideas into detailed images and cinematic video ads",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "LegalOn halves Codex costs while maintaining development speed",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/legalon-halves-codex-costs",
-      "publish_time": "2026-10-08",
-      "category": "模型动态",
-      "summary": "LegalOn cut estimated daily Codex costs by 65% while maintaining development speed | It matched Astra, Sol, and Luna to tasks and managed budgets strategically",
-      "importance_score": 7,
-      "keywords": [
-        "AI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
+      "selection_reason": "recent_backfill",
       "is_backfill": true,
       "companies": [],
       "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Disrupting AI-enabled “false front” operations",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
-      "publish_time": "2026-10-08",
-      "category": "模型动态",
-      "summary": "OpenAI disrupted two AI-enabled influence operations that used false-front journalists and a think tank to spread geopolitical messaging",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "AGI",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "OpenAI一夜甩出722篇数学论文！黎曼霍奇BSD全上阵，数学家：读不过来",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/501749.html",
-      "publish_time": "2026-10-07",
-      "category": "AI 产业",
-      "summary": "据OpenAI介绍，模型此前一共尝试了约4000个研究问题，平均每项结果消耗的算力，约相当于ChatGPT Pro思考3小时 | 论文、源码、部分Lean证明，被一股脑传上了GitHub | 翻开目录， 准黎曼猜想、霍奇猜想、BSD猜想、π的无理性指数 ……一个比一个名头大",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "算力"
-      ],
-      "tags": [
-        "算力与芯片",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "compute",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
       "financing": ""
     }
   ]

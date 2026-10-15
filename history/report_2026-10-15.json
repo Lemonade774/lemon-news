@@ -1,0 +1,320 @@
+{
+  "date": "2026-10-15",
+  "update_time": "2026-10-15T12:12:02.573672+08:00",
+  "total_items": 64,
+  "selection_summary": {
+    "today_count": 0,
+    "backfill_count": 10,
+    "previous_day_top_count": 0,
+    "selected_count": 10,
+    "candidate_count": 64,
+    "dedupe_window_days": 7,
+    "max_backfill_days": 3
+  },
+  "top_items": [
+    {
+      "title": "千问办公发布电商版：一个AI入口打通多平台电商经营",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/qwen-work-ecommerce-release",
+      "publish_time": "2026-10-14",
+      "category": "AI 资讯",
+      "summary": "2026年10月14日，阿里巴巴旗下企业级Agent产品 千问办公 正式发布电商版，并同步开启邀测 | 千问办公电商版围绕电商商家的日常工作场景，对AI能力进行了重新设计和增强，重点面向跨多平台经营的商家，尝试用一个AI入口驱动不同电商平台的后台与工具，帮助商家完成AI时代的运营升级 | 受邀用户在千问办公中切换...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "模型发布",
+        "Agent",
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "model_release",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "阿里巴巴",
+        "阿里"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Amp puts AI agents to 工作 beyond code with OpenAI 模型",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "publish_time": "2026-10-14",
+      "category": "模型动态",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/third-moment-research",
+      "publish_time": "2026-10-14",
+      "category": "模型动态",
+      "summary": "With GPT-6 Astra and GPT-6 | 1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "publish_time": "2026-10-14",
+      "category": "模型动态",
+      "summary": "Block is building AI-powered security with OpenAI | Its security team investigates threats faster and proposes patches in minutes",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Google正式推出Gemini 4 Argon：百万token输出，主攻长程编程与企业级复杂任务",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/gemini-4-argon-release",
+      "publish_time": "2026-10-14",
+      "category": "AI 资讯",
+      "summary": "Google 于 10 月 13 日宣布，Gemini 4 系列首款前沿模型 Gemini 4 Argon 正式向开发者和订阅用户开放 | 该模型由 Google DeepMind 研发，定位为面向长链路、多步骤复杂工作的旗舰推理模型，重点覆盖真实世界软件工程、金融与法律等企业知识工作以及网络安全防御三大方向 |...",
+      "importance_score": 7,
+      "keywords": [
+        "Gemini"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "Google"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "publish_time": "2026-10-14",
+      "category": "模型动态",
+      "summary": "New analysis shows how agentic AI adoption is growing across EU enterprises and small businesses—and where deeper use could unlock more value",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/503093.html",
+      "publish_time": "2026-10-13",
+      "category": "AI 产业",
+      "summary": "啥，DeepSeek又开始给机器人公司投钱了 | 41亿元入股宇树科技后，梁文锋这回又把目光投向了一家成立没多久的机器人AI初创公司—— 据彭博社报道，DeepSeek计划领投其数千万美元种子轮融资 | 投后估值约4亿美元，折合人民币约 28亿 元",
+      "importance_score": 8,
+      "keywords": [
+        "AI",
+        "DeepSeek",
+        "机器人",
+        "融资"
+      ],
+      "tags": [
+        "AI × 金融",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "finance",
+      "topic": "ai_finance",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "DeepSeek"
+      ],
+      "products": [
+        "DeepSeek"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon",
+      "publish_time": "2026-10-13",
+      "category": "模型动态",
+      "summary": "We’re giving developers, enterprises, scientists, and consumers access to our latest frontier model | Over the past few w",
+      "importance_score": 7,
+      "keywords": [
+        "Gemini"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "publish_time": "2026-10-13",
+      "category": "AI 开发生态",
+      "summary": "Unlike its predecessor, it is a reasoning-only model that produces an explicit chain of thought before its final answer | Pre-training was scaled up from ~17...",
+      "importance_score": 6,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Higgsfield takes AI video from 1 minute to over 10",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/higgsfield-longer-videos-voice",
+      "publish_time": "2026-10-13",
+      "category": "模型动态",
+      "summary": "Higgsfield brings creators longer videos with GPT-6 Astra, precise visuals with GPT-Image-2 | 5, and a path to voice filmmaking with GPT-Live",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    }
+  ]
+}

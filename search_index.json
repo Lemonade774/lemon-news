@@ -1,20 +1,50 @@
 {
-  "generated_at": "2026-10-16T12:08:04.634787+08:00",
-  "total_items": 1134,
+  "generated_at": "2026-10-17T11:58:27.979068+08:00",
+  "total_items": 1137,
   "items": [
     {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an 开启 Data Genera",
-      "summary": "Authors: AI4Bharat — Mohammed Safi Ur Rahman Khan, Mitesh Khapra, Anoop Kunchukuttan | We're excited to introduce Nemotron-pretraining-Indic-v1 approximately...",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "publish_time": "2026-10-16",
-      "report_date": "2026-10-16",
+      "report_date": "2026-10-17",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "summary": "With ia | i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Braz...",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "publish_time": "2026-10-16",
+      "report_date": "2026-10-17",
       "track": "industry",
       "topic": "ai_application",
-      "importance_score": 6,
+      "importance_score": 7,
       "tags": [
         "AI 应用",
-        "AI 开发生态"
+        "大模型"
+      ]
+    },
+    {
+      "title": "DeepSeek服务器全球宕机！Harness账号同时现身 2026-10-15",
+      "summary": "赶紧去翻官方状态页，好家伙，还真不是我一个人的问题 | DeepSeek官方已经挂出红色故障通知： DeepSeek网页及API目前部分中断，故障原因已经定位，正在实施修复 | 目前受影响的服务包括DeepSeek对话服务、DeepSeek V4 Pro API以及DeepSeek V4",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/503326.html",
+      "publish_time": "2026-10-15",
+      "report_date": "2026-10-17",
+      "track": "industry",
+      "topic": "compute",
+      "importance_score": 7,
+      "tags": [
+        "算力与芯片",
+        "大模型"
       ]
     },
     {
@@ -23,7 +53,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "publish_time": "2026-10-15",
-      "report_date": "2026-10-16",
+      "report_date": "2026-10-17",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -38,13 +68,89 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/10/503446.html",
       "publish_time": "2026-10-15",
-      "report_date": "2026-10-16",
+      "report_date": "2026-10-17",
       "track": "industry",
       "topic": "embodied_ai",
       "importance_score": 7,
       "tags": [
         "具身智能",
         "大模型"
+      ]
+    },
+    {
+      "title": "千问办公发布电商版：一个AI入口打通多平台电商经营",
+      "summary": "2026年10月14日，阿里巴巴旗下企业级Agent产品 千问办公 正式发布电商版，并同步开启邀测 | 千问办公电商版围绕电商商家的日常工作场景，对AI能力进行了重新设计和增强，重点面向跨多平台经营的商家，尝试用一个AI入口驱动不同电商平台的后台与工具，帮助商家完成AI时代的运营升级 | 受邀用户在千问办公中切换...",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/qwen-work-ecommerce-release",
+      "publish_time": "2026-10-14",
+      "report_date": "2026-10-17",
+      "track": "industry",
+      "topic": "model_release",
+      "importance_score": 7,
+      "tags": [
+        "模型发布",
+        "Agent",
+        "AI 应用"
+      ]
+    },
+    {
+      "title": "Amp puts AI agents to 工作 beyond code with OpenAI 模型",
+      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/amp-beyond-coding",
+      "publish_time": "2026-10-14",
+      "report_date": "2026-10-17",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "summary": "With GPT-6 Astra and GPT-6 | 1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/third-moment-research",
+      "publish_time": "2026-10-14",
+      "report_date": "2026-10-17",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "How Block is building AI-powered security with OpenAI technology",
+      "summary": "Block is building AI-powered security with OpenAI | Its security team investigates threats faster and proposes patches in minutes",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/block-ai-powered-security",
+      "publish_time": "2026-10-14",
+      "report_date": "2026-10-17",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an 开启 Data Genera",
+      "summary": "Authors: AI4Bharat — Mohammed Safi Ur Rahman Khan, Mitesh Khapra, Anoop Kunchukuttan | We're excited to introduce Nemotron-pretraining-Indic-v1 approximately...",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "publish_time": "2026-10-16",
+      "report_date": "2026-10-17",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 6,
+      "tags": [
+        "AI 应用",
+        "AI 开发生态"
       ]
     },
     {
@@ -93,67 +199,6 @@
         "AI × 金融",
         "大模型",
         "公司动态"
-      ]
-    },
-    {
-      "title": "千问办公发布电商版：一个AI入口打通多平台电商经营",
-      "summary": "2026年10月14日，阿里巴巴旗下企业级Agent产品 千问办公 正式发布电商版，并同步开启邀测 | 千问办公电商版围绕电商商家的日常工作场景，对AI能力进行了重新设计和增强，重点面向跨多平台经营的商家，尝试用一个AI入口驱动不同电商平台的后台与工具，帮助商家完成AI时代的运营升级 | 受邀用户在千问办公中切换...",
-      "source": "AIHub",
-      "url": "https://www.aihub.cn/news/qwen-work-ecommerce-release",
-      "publish_time": "2026-10-14",
-      "report_date": "2026-10-16",
-      "track": "industry",
-      "topic": "model_release",
-      "importance_score": 7,
-      "tags": [
-        "模型发布",
-        "Agent",
-        "AI 应用"
-      ]
-    },
-    {
-      "title": "Amp puts AI agents to 工作 beyond code with OpenAI 模型",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "publish_time": "2026-10-14",
-      "report_date": "2026-10-16",
-      "track": "industry",
-      "topic": "agent",
-      "importance_score": 7,
-      "tags": [
-        "Agent",
-        "大模型"
-      ]
-    },
-    {
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "summary": "With GPT-6 Astra and GPT-6 | 1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/third-moment-research",
-      "publish_time": "2026-10-14",
-      "report_date": "2026-10-16",
-      "track": "industry",
-      "topic": "agent",
-      "importance_score": 7,
-      "tags": [
-        "Agent",
-        "大模型"
-      ]
-    },
-    {
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "summary": "Block is building AI-powered security with OpenAI | Its security team investigates threats faster and proposes patches in minutes",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "publish_time": "2026-10-14",
-      "report_date": "2026-10-16",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 7,
-      "tags": [
-        "AI 应用",
-        "大模型"
       ]
     },
     {

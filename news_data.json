@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-16",
-  "update_time": "2026-10-16T12:08:04.488845+08:00",
+  "date": "2026-10-17",
+  "update_time": "2026-10-17T11:58:27.784021+08:00",
   "total_items": 64,
   "selection_summary": {
-    "today_count": 1,
-    "backfill_count": 4,
-    "previous_day_top_count": 5,
+    "today_count": 0,
+    "backfill_count": 3,
+    "previous_day_top_count": 7,
     "selected_count": 10,
     "candidate_count": 64,
     "dedupe_window_days": 7,
@@ -13,30 +13,91 @@
   },
   "top_items": [
     {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an 开启 Data Genera",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
       "publish_time": "2026-10-16",
-      "category": "AI 开发生态",
-      "summary": "Authors: AI4Bharat — Mohammed Safi Ur Rahman Khan, Mitesh Khapra, Anoop Kunchukuttan | We're excited to introduce Nemotron-pretraining-Indic-v1 approximately...",
-      "importance_score": 6,
+      "category": "模型动态",
+      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation",
+      "importance_score": 7,
+      "keywords": [
+        "GPT",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "publish_time": "2026-10-16",
+      "category": "模型动态",
+      "summary": "With ia | i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Braz...",
+      "importance_score": 7,
       "keywords": [
         "AI"
       ],
       "tags": [
         "AI 应用",
-        "AI 开发生态"
+        "大模型"
       ],
       "track": "industry",
       "topic": "ai_application",
-      "source_type": "ecosystem",
+      "source_type": "official",
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "today",
-      "is_backfill": false,
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
       "companies": [],
       "products": [],
+      "financing": ""
+    },
+    {
+      "title": "DeepSeek服务器全球宕机！Harness账号同时现身 2026-10-15",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/503326.html",
+      "publish_time": "2026-10-15",
+      "category": "AI 产业",
+      "summary": "赶紧去翻官方状态页，好家伙，还真不是我一个人的问题 | DeepSeek官方已经挂出红色故障通知： DeepSeek网页及API目前部分中断，故障原因已经定位，正在实施修复 | 目前受影响的服务包括DeepSeek对话服务、DeepSeek V4 Pro API以及DeepSeek V4",
+      "importance_score": 7,
+      "keywords": [
+        "DeepSeek"
+      ],
+      "tags": [
+        "算力与芯片",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "compute",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "DeepSeek"
+      ],
+      "products": [
+        "DeepSeek"
+      ],
       "financing": ""
     },
     {
@@ -60,7 +121,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [],
@@ -89,107 +150,12 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "华为"
       ],
       "products": [],
-      "financing": ""
-    },
-    {
-      "title": "阿里推出个人AI助理「千问Go!」：可跨平台代办航班理赔、价保比价等个人事务",
-      "source": "AIHub",
-      "url": "https://www.aihub.cn/news/qianwen-go-launch",
-      "publish_time": "2026-10-13",
-      "category": "AI 资讯",
-      "summary": "该产品内嵌于千问APP，定位为面向个人用户的 AI 办事助理，可处理更多类型、更多领域的个人事务 | 的体验申请页面已在千问APP上线，用户可提交申请加入 Waiting List，官方将逐步开放体验资格 | 基于 Agent 架构和云端执行环境运行",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "Agent"
-      ],
-      "tags": [
-        "Agent",
-        "AI 应用",
-        "公司动态"
-      ],
-      "track": "industry",
-      "topic": "agent",
-      "source_type": "aggregator",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "阿里"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Manus推出个人Agent应用Cue：每个Agent拥有独立电话、邮箱、钱包与电脑",
-      "source": "AIHub",
-      "url": "https://www.aihub.cn/news/manus-cue",
-      "publish_time": "2026-10-13",
-      "category": "AI 资讯",
-      "summary": "9月28日，AI Agent公司Manus在发布Manus 2 | 0的同时，推出了一款全新的独立应用 Cue | 与侧重研究、办公和开发任务的Manus主产品不同，Cue定位为面向个人用户的生活类Agent应用，主打“拥有专属身份的私人Agent”",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "Agent"
-      ],
-      "tags": [
-        "Agent",
-        "AI 应用",
-        "公司动态"
-      ],
-      "track": "industry",
-      "topic": "agent",
-      "source_type": "aggregator",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "梁文锋投了Swin Transformer作者！DeepSeek开始布局具身大脑",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/503093.html",
-      "publish_time": "2026-10-13",
-      "category": "AI 产业",
-      "summary": "啥，DeepSeek又开始给机器人公司投钱了 | 41亿元入股宇树科技后，梁文锋这回又把目光投向了一家成立没多久的机器人AI初创公司—— 据彭博社报道，DeepSeek计划领投其数千万美元种子轮融资 | 投后估值约4亿美元，折合人民币约 28亿 元",
-      "importance_score": 8,
-      "keywords": [
-        "AI",
-        "DeepSeek",
-        "机器人",
-        "融资"
-      ],
-      "tags": [
-        "AI × 金融",
-        "大模型",
-        "公司动态"
-      ],
-      "track": "finance",
-      "topic": "ai_finance",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "DeepSeek"
-      ],
-      "products": [
-        "DeepSeek"
-      ],
       "financing": ""
     },
     {
@@ -314,6 +280,33 @@
       "companies": [
         "OpenAI"
       ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an 开启 Data Genera",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "publish_time": "2026-10-16",
+      "category": "AI 开发生态",
+      "summary": "Authors: AI4Bharat — Mohammed Safi Ur Rahman Khan, Mitesh Khapra, Anoop Kunchukuttan | We're excited to introduce Nemotron-pretraining-Indic-v1 approximately...",
+      "importance_score": 6,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "AI 开发生态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
       "products": [],
       "financing": ""
     }

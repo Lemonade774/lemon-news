@@ -1,27 +1,27 @@
 {
-  "date": "2026-10-17",
-  "update_time": "2026-10-17T11:58:27.784021+08:00",
-  "total_items": 64,
+  "date": "2026-10-22",
+  "update_time": "2026-10-22T12:17:03.196426+08:00",
+  "total_items": 62,
   "selection_summary": {
     "today_count": 0,
-    "backfill_count": 3,
-    "previous_day_top_count": 7,
+    "backfill_count": 10,
+    "previous_day_top_count": 0,
     "selected_count": 10,
-    "candidate_count": 64,
+    "candidate_count": 62,
     "dedupe_window_days": 7,
     "max_backfill_days": 3
   },
   "top_items": [
     {
-      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "title": "Patch the Planet: global response coordination as agents uncover cri",
       "source": "OpenAI",
-      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
-      "publish_time": "2026-10-16",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "publish_time": "2026-10-21",
       "category": "模型动态",
-      "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source",
       "importance_score": 7,
       "keywords": [
-        "GPT",
+        "AI",
         "Agent"
       ],
       "tags": [
@@ -37,259 +37,51 @@
       "selection_reason": "recent_backfill",
       "is_backfill": true,
       "companies": [],
-      "products": [
-        "ChatGPT"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/itau-generative-ai",
-      "publish_time": "2026-10-16",
-      "category": "模型动态",
-      "summary": "With ia | i, a conversational interface, and the IARA governance platform, Itaú is applying its AI First strategy to customers and employees — in one of Braz...",
-      "importance_score": 7,
-      "keywords": [
-        "AI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
       "products": [],
       "financing": ""
     },
     {
-      "title": "DeepSeek服务器全球宕机！Harness账号同时现身 2026-10-15",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/503326.html",
-      "publish_time": "2026-10-15",
-      "category": "AI 产业",
-      "summary": "赶紧去翻官方状态页，好家伙，还真不是我一个人的问题 | DeepSeek官方已经挂出红色故障通知： DeepSeek网页及API目前部分中断，故障原因已经定位，正在实施修复 | 目前受影响的服务包括DeepSeek对话服务、DeepSeek V4 Pro API以及DeepSeek V4",
-      "importance_score": 7,
-      "keywords": [
-        "DeepSeek"
-      ],
-      "tags": [
-        "算力与芯片",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "compute",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "DeepSeek"
-      ],
-      "products": [
-        "DeepSeek"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "publish_time": "2026-10-15",
-      "category": "模型动态",
-      "summary": "Introducing the Rosalind Academic Plan, offering eligible academic labs sponsored access to GPT-Rosalind and tools to advance life sciences research",
-      "importance_score": 7,
-      "keywords": [
-        "GPT"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "前华为小艺大模型负责人创业，押注“主动式物理AI”",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/503446.html",
-      "publish_time": "2026-10-15",
-      "category": "AI 产业",
-      "summary": "你在饭店吃饭，结账付款正准备离开时，手表突然震动并显示信息： 再想象一下，你正在厨房做饭，突然家里的小机器人发出尖锐爆鸣： 你一个闪身步冲回卧室，发现家崽丝毫没意识到自己已经蠕动到了床的边缘 | 让机器有“眼力见儿”，主动发现人之所需，这是唐都钰提出“主动式物理AI”这个概念时的设想 | 过去几年，物理AI主要聚...",
-      "importance_score": 7,
-      "keywords": [
-        "大模型",
-        "AI",
-        "机器人"
-      ],
-      "tags": [
-        "具身智能",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "embodied_ai",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "华为"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "千问办公发布电商版：一个AI入口打通多平台电商经营",
+      "title": "Anthropic发布Claude Duet：主动汇报待办、后台持续执行的个人AI智能体",
       "source": "AIHub",
-      "url": "https://www.aihub.cn/news/qwen-work-ecommerce-release",
-      "publish_time": "2026-10-14",
+      "url": "https://www.aihub.cn/news/claude-duet-release",
+      "publish_time": "2026-10-21",
       "category": "AI 资讯",
-      "summary": "2026年10月14日，阿里巴巴旗下企业级Agent产品 千问办公 正式发布电商版，并同步开启邀测 | 千问办公电商版围绕电商商家的日常工作场景，对AI能力进行了重新设计和增强，重点面向跨多平台经营的商家，尝试用一个AI入口驱动不同电商平台的后台与工具，帮助商家完成AI时代的运营升级 | 受邀用户在千问办公中切换...",
+      "summary": "2026年10月21日，Anthropic宣布开放 Claude Duet 研究预览 | 官方表示，这款产品主要面向事务繁多、难以逐一跟进的专业人士和小企业主 | 从技术规格看，Claude Duet基于Claude Opus 5",
       "importance_score": 7,
       "keywords": [
         "AI",
-        "Agent"
+        "Claude",
+        "Anthropic",
+        "智能体"
       ],
       "tags": [
-        "模型发布",
         "Agent",
+        "大模型",
         "AI 应用"
       ],
       "track": "industry",
-      "topic": "model_release",
+      "topic": "agent",
       "source_type": "aggregator",
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "previous_day_top",
+      "selection_reason": "recent_backfill",
       "is_backfill": true,
       "companies": [
-        "阿里巴巴",
-        "阿里"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Amp puts AI agents to 工作 beyond code with OpenAI 模型",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/amp-beyond-coding",
-      "publish_time": "2026-10-14",
-      "category": "模型动态",
-      "summary": "See how Amp pushes the frontier of what agents can do with GPT-6 Astra, Ultrafast, GPT-Live-1, and Sign in with ChatGPT",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "Agent"
-      ],
-      "tags": [
-        "Agent",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "agent",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
+        "Anthropic"
       ],
       "products": [
-        "ChatGPT"
+        "Claude"
       ],
       "financing": ""
     },
     {
-      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/third-moment-research",
-      "publish_time": "2026-10-14",
-      "category": "模型动态",
-      "summary": "With GPT-6 Astra and GPT-6 | 1 Sol, Codex, and Daybreak for cybersecurity, this AI lab builds agents that focus for days and improve with use",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "GPT",
-        "Agent"
-      ],
-      "tags": [
-        "Agent",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "agent",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "How Block is building AI-powered security with OpenAI technology",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/block-ai-powered-security",
-      "publish_time": "2026-10-14",
-      "category": "模型动态",
-      "summary": "Block is building AI-powered security with OpenAI | Its security team investigates threats faster and proposes patches in minutes",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an 开启 Data Genera",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Re",
       "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
-      "publish_time": "2026-10-16",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "publish_time": "2026-10-21",
       "category": "AI 开发生态",
-      "summary": "Authors: AI4Bharat — Mohammed Safi Ur Rahman Khan, Mitesh Khapra, Anoop Kunchukuttan | We're excited to introduce Nemotron-pretraining-Indic-v1 approximately...",
+      "summary": "It needs no task-specific training, no feature engineering, and no flattening of tables | Foundation models have already rewritten the playbook for language ...",
       "importance_score": 6,
       "keywords": [
         "AI"
@@ -304,10 +96,226 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
+      "selection_reason": "recent_backfill",
       "is_backfill": true,
       "companies": [],
       "products": [],
+      "financing": ""
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal 工作 with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "publish_time": "2026-10-21",
+      "category": "模型动态",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access | Learn how its LegalEdge team is rethinking intake and scaling legal judgment",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/504734.html",
+      "publish_time": "2026-10-21",
+      "category": "AI 产业",
+      "summary": "现在每次去医院看病前，我都会 让AI帮我跑一轮 | 哪里不舒服、持续了多久，还包括既往病史，这些零零碎碎的信息，都在预问诊阶段准备妥帖 | 等到和医生面对面，结果发现医生也在 Vibe Working ： Agent协助医生下判断，诊室之外的随访与健康信息管理也由AI跟上",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Agent",
+        "智能体"
+      ],
+      "tags": [
+        "Agent"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "OpenAI 模型 are coming to Google Cloud",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "publish_time": "2026-10-21",
+      "category": "模型动态",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Gemini",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI",
+        "Google"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers ",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "publish_time": "2026-10-21",
+      "category": "模型动态",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT",
+      "importance_score": 7,
+      "keywords": [
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "publish_time": "2026-10-21",
+      "category": "模型动态",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "publish_time": "2026-10-21",
+      "category": "模型动态",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review | Its developers use Codex to build faster and improve code quality",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "publish_time": "2026-10-21",
+      "category": "模型动态",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale",
+      "importance_score": 7,
+      "keywords": [
+        "LLM",
+        "AI",
+        "GPT",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
       "financing": ""
     }
   ]

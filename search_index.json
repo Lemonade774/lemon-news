@@ -1,7 +1,157 @@
 {
-  "generated_at": "2026-10-17T11:58:27.979068+08:00",
-  "total_items": 1137,
+  "generated_at": "2026-10-22T12:17:03.318357+08:00",
+  "total_items": 1147,
   "items": [
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover cri",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "publish_time": "2026-10-21",
+      "report_date": "2026-10-22",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Anthropic发布Claude Duet：主动汇报待办、后台持续执行的个人AI智能体",
+      "summary": "2026年10月21日，Anthropic宣布开放 Claude Duet 研究预览 | 官方表示，这款产品主要面向事务繁多、难以逐一跟进的专业人士和小企业主 | 从技术规格看，Claude Duet基于Claude Opus 5",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/claude-duet-release",
+      "publish_time": "2026-10-21",
+      "report_date": "2026-10-22",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型",
+        "AI 应用"
+      ]
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Re",
+      "summary": "It needs no task-specific training, no feature engineering, and no flattening of tables | Foundation models have already rewritten the playbook for language ...",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "publish_time": "2026-10-21",
+      "report_date": "2026-10-22",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 6,
+      "tags": [
+        "AI 应用",
+        "AI 开发生态"
+      ]
+    },
+    {
+      "title": "How AT&T is rethinking in-house legal 工作 with OpenAI",
+      "summary": "AT&T is working with OpenAI to make legal knowledge easier to access | Learn how its LegalEdge team is rethinking intake and scaling legal judgment",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "publish_time": "2026-10-21",
+      "report_date": "2026-10-22",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "多智能体协同重构医疗AI！清华AIR孵化：医生AI分身“坐诊”医院",
+      "summary": "现在每次去医院看病前，我都会 让AI帮我跑一轮 | 哪里不舒服、持续了多久，还包括既往病史，这些零零碎碎的信息，都在预问诊阶段准备妥帖 | 等到和医生面对面，结果发现医生也在 Vibe Working ： Agent协助医生下判断，诊室之外的随访与健康信息管理也由AI跟上",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/504734.html",
+      "publish_time": "2026-10-21",
+      "report_date": "2026-10-22",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "OpenAI 模型 are coming to Google Cloud",
+      "summary": "OpenAI and Google Cloud are bringing frontier models and Codex workflows to Gemini’s Model Garden, available through Google Cloud Marketplace",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "publish_time": "2026-10-21",
+      "report_date": "2026-10-22",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers",
+      "summary": "From local businesses to global brands, more advertisers can now reach people as they explore, compare and decide what to buy in ChatGPT",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "publish_time": "2026-10-21",
+      "report_date": "2026-10-22",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Using thousands of AI agents to uncover new leads in biological data",
+      "summary": "See how OpenAI, PerturbAI, and Scripps Research used distributed AI agents to uncover promising research leads in data from millions of brain cells",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "publish_time": "2026-10-21",
+      "report_date": "2026-10-22",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Cloudflare links vulnerability discovery to defense with OpenAI",
+      "summary": "Cloudflare uses OpenAI Daybreak to investigate vulnerabilities and propose fixes for review | Its developers use Codex to build faster and improve code quality",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cloudflare-cyber",
+      "publish_time": "2026-10-21",
+      "report_date": "2026-10-22",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "How we built ChatGPT’s novel ad stack for user trust and relevance",
+      "summary": "Learn how OpenAI built ChatGPT’s LLM-powered ad stack to understand conversational intent, keep ads separate from answers, and deliver relevant ads at scale",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/building-chatgpt-ad-stack",
+      "publish_time": "2026-10-21",
+      "report_date": "2026-10-22",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
     {
       "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
       "summary": "Two engineers shipped Stack Overflow for Agents in a few weeks with Codex, and its ChatGPT plugin helped drive up to 10× growth in agent creation",

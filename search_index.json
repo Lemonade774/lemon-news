@@ -1,14 +1,133 @@
 {
-  "generated_at": "2026-10-22T12:17:03.318357+08:00",
-  "total_items": 1147,
+  "generated_at": "2026-10-23T12:20:53.156029+08:00",
+  "total_items": 1155,
   "items": [
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with",
+      "summary": "This is the follow up to our first blog post, The Agent Said It Was Done | The Database Disagreed | ThinkingBox-Training is now available on GitHub",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "publish_time": "2026-10-22",
+      "report_date": "2026-10-23",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 6,
+      "tags": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "What FDE means at OpenAI",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "publish_time": "2026-10-22",
+      "report_date": "2026-10-23",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Uber brings ChatGPT 工作 to all employees with OpenAI",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "publish_time": "2026-10-22",
+      "report_date": "2026-10-23",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6 | 1 Sol",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/terminal-x",
+      "publish_time": "2026-10-20",
+      "report_date": "2026-10-23",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defe",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institu...",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "publish_time": "2026-10-21",
+      "report_date": "2026-10-23",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT 工作",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "publish_time": "2026-10-20",
+      "report_date": "2026-10-23",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new tr...",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "publish_time": "2026-10-20",
+      "report_date": "2026-10-23",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Traini",
+      "summary": "This post starts from scratch and assumes no prior profiling experience | TorchNeuron supports standard PyTorch workflows on Trainium, including eager execut...",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "publish_time": "2026-10-21",
+      "report_date": "2026-10-23",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 6,
+      "tags": [
+        "AI 应用",
+        "AI 开发生态"
+      ]
+    },
     {
       "title": "Patch the Planet: global response coordination as agents uncover cri",
       "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source",
       "source": "OpenAI",
       "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
       "publish_time": "2026-10-21",
-      "report_date": "2026-10-22",
+      "report_date": "2026-10-23",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -23,7 +142,7 @@
       "source": "AIHub",
       "url": "https://www.aihub.cn/news/claude-duet-release",
       "publish_time": "2026-10-21",
-      "report_date": "2026-10-22",
+      "report_date": "2026-10-23",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,

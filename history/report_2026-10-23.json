@@ -1,0 +1,314 @@
+{
+  "date": "2026-10-23",
+  "update_time": "2026-10-23T12:20:52.961375+08:00",
+  "total_items": 60,
+  "selection_summary": {
+    "today_count": 0,
+    "backfill_count": 8,
+    "previous_day_top_count": 2,
+    "selected_count": 10,
+    "candidate_count": 60,
+    "dedupe_window_days": 7,
+    "max_backfill_days": 3
+  },
+  "top_items": [
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "publish_time": "2026-10-22",
+      "category": "AI 开发生态",
+      "summary": "This is the follow up to our first blog post, The Agent Said It Was Done | The Database Disagreed | ThinkingBox-Training is now available on GitHub",
+      "importance_score": 6,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "What FDE means at OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "publish_time": "2026-10-22",
+      "category": "模型动态",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Uber brings ChatGPT 工作 to all employees with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "publish_time": "2026-10-22",
+      "category": "模型动态",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Terminal X matches senior investor judgment 88.6% with GPT-6.1",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/terminal-x",
+      "publish_time": "2026-10-20",
+      "category": "模型动态",
+      "summary": "Terminal X’s Eval Agent grades outputs against a 54-criterion rubric, catching 25% more deviances from a fund’s mandate with GPT-6 | 1 Sol",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defe",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "publish_time": "2026-10-21",
+      "category": "模型动态",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institu...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT 工作",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "publish_time": "2026-10-20",
+      "category": "模型动态",
+      "summary": "An independent Schlotzsky’s and Cinnabon franchisee cut menu repricing time by 95% and built a workflow that could free up $100K in cash flow",
+      "importance_score": 7,
+      "keywords": [
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "OpenAI acquires Orchestra Bio",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-to-acquire-orchestra-bio",
+      "publish_time": "2026-10-20",
+      "category": "模型动态",
+      "summary": "OpenAI is acquiring Orchestra Bio to bring AI-powered operations to life sciences R&D, helping biopharma teams accelerate drug development and advance new tr...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Traini",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "publish_time": "2026-10-21",
+      "category": "AI 开发生态",
+      "summary": "This post starts from scratch and assumes no prior profiling experience | TorchNeuron supports standard PyTorch workflows on Trainium, including eager execut...",
+      "importance_score": 6,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "AI 开发生态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover cri",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "publish_time": "2026-10-21",
+      "category": "模型动态",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Anthropic发布Claude Duet：主动汇报待办、后台持续执行的个人AI智能体",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/claude-duet-release",
+      "publish_time": "2026-10-21",
+      "category": "AI 资讯",
+      "summary": "2026年10月21日，Anthropic宣布开放 Claude Duet 研究预览 | 官方表示，这款产品主要面向事务繁多、难以逐一跟进的专业人士和小企业主 | 从技术规格看，Claude Duet基于Claude Opus 5",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Claude",
+        "Anthropic",
+        "智能体"
+      ],
+      "tags": [
+        "Agent",
+        "大模型",
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "Anthropic"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "financing": ""
+    }
+  ]
+}

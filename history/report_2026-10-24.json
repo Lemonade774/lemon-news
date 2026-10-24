@@ -1,0 +1,319 @@
+{
+  "date": "2026-10-24",
+  "update_time": "2026-10-24T12:11:18.667200+08:00",
+  "total_items": 61,
+  "selection_summary": {
+    "today_count": 0,
+    "backfill_count": 4,
+    "previous_day_top_count": 6,
+    "selected_count": 10,
+    "candidate_count": 61,
+    "dedupe_window_days": 7,
+    "max_backfill_days": 3
+  },
+  "top_items": [
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "publish_time": "2026-10-23",
+      "category": "模型动态",
+      "summary": "Learn how OpenAI scaled Habitat with reliable multi-tenancy, global caching, and Azure Cosmos DB to deliver 12× faster reads for ChatGPT",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Does Your 模型 Run on AWS Trainium? Look It Up",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
+      "publish_time": "2026-10-23",
+      "category": "AI 开发生态",
+      "summary": "In a previous post , we introduced TorchNeuron, the native PyTorch backend for AWS Trainium (the torch-neuronx package) | Which ones actually do | The torch-...",
+      "importance_score": 6,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Securing our frontier 模型 training environment",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "publish_time": "2026-10-23",
+      "category": "模型动态",
+      "summary": "OpenAI explains how we strengthened containment for frontier model training and evaluation, including offline environments and high-compute red-teaming",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
+      "publish_time": "2026-10-23",
+      "category": "模型动态",
+      "summary": "OpenAI and Poland’s NASK are partnering on AI safety, security, and technical research to strengthen safeguards and support a more resilient digital ecosystem",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "What FDE means at OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/forward-deployed-engineering-means",
+      "publish_time": "2026-10-22",
+      "category": "模型动态",
+      "summary": "What forward deployed engineering means at OpenAI",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Uber brings ChatGPT 工作 to all employees with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/uber-chatgpt-work-rollout",
+      "publish_time": "2026-10-22",
+      "category": "模型动态",
+      "summary": "Uber is rolling out ChatGPT Work to more than 30,000 employees, helping teams research, analyze data, create presentations, and complete complex workflows",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Democratic governance of frontier AI, part II: Empowering cyber defe",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/empowering-cyber-defenders",
+      "publish_time": "2026-10-21",
+      "category": "模型动态",
+      "summary": "OpenAI outlines a blueprint for empowering cyber defenders with frontier AI, stronger safeguards, modernized cybersecurity, and more resilient public institu...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Patch the Planet: global response coordination as agents uncover cri",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities",
+      "publish_time": "2026-10-21",
+      "category": "模型动态",
+      "summary": "Patch the Planet connects security researchers, maintainers, and incident responders to help address critical vulnerabilities across open source",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Anthropic发布Claude Duet：主动汇报待办、后台持续执行的个人AI智能体",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/claude-duet-release",
+      "publish_time": "2026-10-21",
+      "category": "AI 资讯",
+      "summary": "2026年10月21日，Anthropic宣布开放 Claude Duet 研究预览 | 官方表示，这款产品主要面向事务繁多、难以逐一跟进的专业人士和小企业主 | 从技术规格看，Claude Duet基于Claude Opus 5",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Claude",
+        "Anthropic",
+        "智能体"
+      ],
+      "tags": [
+        "Agent",
+        "大模型",
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "Anthropic"
+      ],
+      "products": [
+        "Claude"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Turning Database Grading into RL Rewards: Post-Training Agents with",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
+      "publish_time": "2026-10-22",
+      "category": "AI 开发生态",
+      "summary": "This is the follow up to our first blog post, The Agent Said It Was Done | The Database Disagreed | ThinkingBox-Training is now available on GitHub",
+      "importance_score": 6,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    }
+  ]
+}

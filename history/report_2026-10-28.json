@@ -1,0 +1,321 @@
+{
+  "date": "2026-10-28",
+  "update_time": "2026-10-28T13:10:49.235555+08:00",
+  "total_items": 60,
+  "selection_summary": {
+    "today_count": 0,
+    "backfill_count": 4,
+    "previous_day_top_count": 6,
+    "selected_count": 10,
+    "candidate_count": 60,
+    "dedupe_window_days": 7,
+    "max_backfill_days": 3
+  },
+  "top_items": [
+    {
+      "title": "Retell uses OpenAI 模型 to help power 100M monthly calls",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/retell-ai",
+      "publish_time": "2026-10-27",
+      "category": "模型动态",
+      "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1 | 6M annual revenue run rate per employee",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Physical RSI第一站！便利店打工“人”自己进化，物理AI飞轮启动了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/505799.html",
+      "publish_time": "2026-10-27",
+      "category": "AI 产业",
+      "summary": "换作以往，这时候就必须由人工工程师出马，先排查问题，再调整程序、补充数据，让机器人重新练习一遍 | 它回看此前的执行记录，发现头部相机的视角分辨率不足，加上标签牌遮挡，很难看清小挂钩的位置 | 于是，Agent调整了策略，让左手先靠近目标，用腕部相机补上一个近距离视角，确认位置后，再由右手完成挂货",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Agent",
+        "机器人"
+      ],
+      "tags": [
+        "Agent",
+        "具身智能"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "publish_time": "2026-10-27",
+      "category": "AI 开发生态",
+      "summary": "At Ai2, we’ve been developing AI systems that support different parts of scientific discovery | But generating research ideas is only part of the challenge o...",
+      "importance_score": 6,
+      "keywords": [
+        "LLM",
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
+      "publish_time": "2026-10-27",
+      "category": "模型动态",
+      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "10亿Tokens免费送！实测全国产算力模型Spark-X2.6，纯代码搓出3D故宫",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/505225.html",
+      "publish_time": "2026-10-26",
+      "category": "AI 产业",
+      "summary": "不过，比热闹更值得看的，还是这些AI产品到底能做什么 | 教育、医疗、金融、翻译……讯飞这次把一批行业AI产品搬到了展台上，国产大模型怎么进入具体场景、怎么适配不同行业、又怎么真正用起来，在这里都能看到具体展示 | 5系列开源模型，全渠道累计下载量突破了256万（进入全球端侧模型下载量前四），4B版本还冲上过Hu...",
+      "importance_score": 8,
+      "keywords": [
+        "大模型",
+        "AI",
+        "算力"
+      ],
+      "tags": [
+        "模型发布",
+        "大模型",
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "model_release",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex code",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
+      "publish_time": "2026-10-26",
+      "category": "模型动态",
+      "summary": "CodeRabbit uses GPT-6 | 1 Sol to investigate security risks across complex codebases | Its security agent helps developers review findings and proposed fixes",
+      "importance_score": 7,
+      "keywords": [
+        "GPT",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Our newest AI Quest: Mapping the human brain",
+      "source": "Google AI",
+      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
+      "publish_time": "2026-10-26",
+      "category": "模型动态",
+      "summary": "Senior Director, Google Research Your browser does not support the audio element | Google launched a new game called \"Polar Peaks\" that lets you act like a s...",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "Google"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Greptile takes bug detection beyond code review with GPT-6 Astra",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/greptile-code-review-codex-astra",
+      "publish_time": "2026-10-26",
+      "category": "模型动态",
+      "summary": "How Greptile uses GPT-6 Astra to test user workflows, Daybreak to strengthen security, and Codex to reduce rework",
+      "importance_score": 7,
+      "keywords": [
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "成立3个月便反超GPT-6 Astra！深圳黑马首次亮相",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/505186.html",
+      "publish_time": "2026-10-26",
+      "category": "AI 产业",
+      "summary": "一家机器人芯片公司的首秀 先交出具身模型Paimon 一家在深圳成立 刚满三个月 的公司，明明给自己的定位是做 具身芯片 ，可它对外拿出的第一份成果，却是一个名叫 Paimon 的 具身基座模型 （系列） | 要知道，这个榜最近可是刚把GPT-6 Astra、Claude Opus 5 | 5、Gemini 4 ...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "Claude",
+        "Gemini",
+        "机器人"
+      ],
+      "tags": [
+        "算力与芯片",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "compute",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "Gemini",
+        "Claude"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "ChatGPT’s expanding world of 工作",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-expanding-world-of-work",
+      "publish_time": "2026-10-26",
+      "category": "模型动态",
+      "summary": "Explore OpenAI Signals data on 165 work activities across nearly 100 countries, revealing how people use ChatGPT for work and how usage changes over time",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    }
+  ]
+}

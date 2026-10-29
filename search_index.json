@@ -1,14 +1,92 @@
 {
-  "generated_at": "2026-10-28T13:10:49.343055+08:00",
-  "total_items": 1173,
+  "generated_at": "2026-10-29T13:22:13.454672+08:00",
+  "total_items": 1177,
   "items": [
+    {
+      "title": "谷歌发布 Gemini 4 Carbon：综合智能评测登顶，强化网络安全与长程智能体能力",
+      "summary": "2026年10月29日，谷歌正式发布新一代旗舰 AI 模型 Gemini 4 Carbon | 这是继两周前 Gemini 4 Argon 发布后，谷歌推出的又一款前沿模型，重点提升复杂推理、AI 编程、网络安全和长程智能体能力 | 谷歌表示，Carbon 是其目前能力最强的模型，尤其针对需要长期自主执行的复杂工...",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/google-gemini-4-carbon-release",
+      "publish_time": "2026-10-29",
+      "report_date": "2026-10-29",
+      "track": "industry",
+      "topic": "model_release",
+      "importance_score": 7,
+      "tags": [
+        "模型发布",
+        "大模型",
+        "Agent"
+      ]
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "publish_time": "2026-10-28",
+      "report_date": "2026-10-29",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Legora is building agentic operating system for legal 工作",
+      "summary": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/legora",
+      "publish_time": "2026-10-28",
+      "report_date": "2026-10-29",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Anthropic公开335页招股书：史上最大IPO，史上最亏AI公司 2026-10-27",
+      "summary": "刚刚，Claude的母公司Anthropic正式公开提交纳斯达克IPO申请，股票代码为“ANT” | （乍一看还以为是某昆虫公司上市了，bushi） 其335页的正式招股书也在刚才于SEC官网新鲜公开 | 与此前泄露的草案相比，公开版进一步更新了算力采购安排： Anthropic向微软作出的采购承诺由314亿美元...",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/505551.html",
+      "publish_time": "2026-10-27",
+      "report_date": "2026-10-29",
+      "track": "industry",
+      "topic": "compute",
+      "importance_score": 7,
+      "tags": [
+        "算力与芯片",
+        "大模型",
+        "公司动态"
+      ]
+    },
+    {
+      "title": "10亿Tokens免费送！实测全国产算力模型Spark-X2.6，纯代码搓出3D故宫",
+      "summary": "不过，比热闹更值得看的，还是这些AI产品到底能做什么 | 教育、医疗、金融、翻译……讯飞这次把一批行业AI产品搬到了展台上，国产大模型怎么进入具体场景、怎么适配不同行业、又怎么真正用起来，在这里都能看到具体展示 | 5系列开源模型，全渠道累计下载量突破了256万（进入全球端侧模型下载量前四），4B版本还冲上过Hu...",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/505225.html",
+      "publish_time": "2026-10-26",
+      "report_date": "2026-10-29",
+      "track": "industry",
+      "topic": "model_release",
+      "importance_score": 8,
+      "tags": [
+        "模型发布",
+        "大模型",
+        "AI 应用"
+      ]
+    },
     {
       "title": "Retell uses OpenAI 模型 to help power 100M monthly calls",
       "summary": "GPT-6 Astra tops Retell’s voice agent benchmark, while Codex helps it reach a $1 | 6M annual revenue run rate per employee",
       "source": "OpenAI",
       "url": "https://openai.com/index/retell-ai",
       "publish_time": "2026-10-27",
-      "report_date": "2026-10-28",
+      "report_date": "2026-10-29",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -23,7 +101,7 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/10/505799.html",
       "publish_time": "2026-10-27",
-      "report_date": "2026-10-28",
+      "report_date": "2026-10-29",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -33,27 +111,12 @@
       ]
     },
     {
-      "title": "Can we trust LLMs to judge whether a research idea is novel",
-      "summary": "At Ai2, we’ve been developing AI systems that support different parts of scientific discovery | But generating research ideas is only part of the challenge o...",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "publish_time": "2026-10-27",
-      "report_date": "2026-10-28",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 6,
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ]
-    },
-    {
       "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
       "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings",
       "source": "OpenAI",
       "url": "https://openai.com/index/oracle-apps-in-chatgpt",
       "publish_time": "2026-10-27",
-      "report_date": "2026-10-28",
+      "report_date": "2026-10-29",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -63,28 +126,12 @@
       ]
     },
     {
-      "title": "10亿Tokens免费送！实测全国产算力模型Spark-X2.6，纯代码搓出3D故宫",
-      "summary": "不过，比热闹更值得看的，还是这些AI产品到底能做什么 | 教育、医疗、金融、翻译……讯飞这次把一批行业AI产品搬到了展台上，国产大模型怎么进入具体场景、怎么适配不同行业、又怎么真正用起来，在这里都能看到具体展示 | 5系列开源模型，全渠道累计下载量突破了256万（进入全球端侧模型下载量前四），4B版本还冲上过Hu...",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/505225.html",
-      "publish_time": "2026-10-26",
-      "report_date": "2026-10-28",
-      "track": "industry",
-      "topic": "model_release",
-      "importance_score": 8,
-      "tags": [
-        "模型发布",
-        "大模型",
-        "AI 应用"
-      ]
-    },
-    {
       "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex code",
       "summary": "CodeRabbit uses GPT-6 | 1 Sol to investigate security risks across complex codebases | Its security agent helps developers review findings and proposed fixes",
       "source": "OpenAI",
       "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
       "publish_time": "2026-10-26",
-      "report_date": "2026-10-28",
+      "report_date": "2026-10-29",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -99,10 +146,25 @@
       "source": "Google AI",
       "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
       "publish_time": "2026-10-26",
-      "report_date": "2026-10-28",
+      "report_date": "2026-10-29",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Can we trust LLMs to judge whether a research idea is novel",
+      "summary": "At Ai2, we’ve been developing AI systems that support different parts of scientific discovery | But generating research ideas is only part of the challenge o...",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "publish_time": "2026-10-27",
+      "report_date": "2026-10-28",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 6,
       "tags": [
         "AI 应用",
         "大模型"

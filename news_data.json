@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-29",
-  "update_time": "2026-10-29T13:22:13.280378+08:00",
+  "date": "2026-10-30",
+  "update_time": "2026-10-30T13:21:36.626915+08:00",
   "total_items": 58,
   "selection_summary": {
-    "today_count": 1,
-    "backfill_count": 3,
+    "today_count": 0,
+    "backfill_count": 4,
     "previous_day_top_count": 6,
     "selected_count": 10,
     "candidate_count": 58,
@@ -12,6 +12,123 @@
     "max_backfill_days": 3
   },
   "top_items": [
+    {
+      "title": "An updated 模型 Spec for more capable and beneficial AI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "publish_time": "2026-10-29",
+      "category": "模型动态",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "模型更新",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "model_update",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Read",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "publish_time": "2026-10-29",
+      "category": "AI 开发生态",
+      "summary": "Manage competition registration, data access, and submissions",
+      "importance_score": 6,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "AI 开发生态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "publish_time": "2026-10-29",
+      "category": "模型动态",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI | Lawyers review grouped documents, summaries, and reports before advising clients",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "敢和英伟达现场PK的国产GPU，我是服的",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/506376.html",
+      "publish_time": "2026-10-29",
+      "category": "AI 产业",
+      "summary": "一家国产芯片公司，竟敢把自家的GPU和 英伟达H200 ，直接在现场 真枪实弹 地来了一把 PK | 而且题目还不是自己出的，是随机挑了几个人、 当场出题 的那种 | 例如 文生图 ，有人出的题目是“一只老虎把月亮踢飞”： 视频地址： https://mp",
+      "importance_score": 7,
+      "keywords": [
+        "GPU"
+      ],
+      "tags": [
+        "算力与芯片",
+        "AI 应用",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "compute",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "英伟达"
+      ],
+      "products": [],
+      "financing": ""
+    },
     {
       "title": "谷歌发布 Gemini 4 Carbon：综合智能评测登顶，强化网络安全与长程智能体能力",
       "source": "AIHub",
@@ -36,8 +153,8 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "today",
-      "is_backfill": false,
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
       "companies": [
         "谷歌"
       ],
@@ -70,7 +187,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
@@ -104,7 +221,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
@@ -139,7 +256,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "Anthropic",
@@ -148,36 +265,6 @@
       "products": [
         "Claude"
       ],
-      "financing": ""
-    },
-    {
-      "title": "10亿Tokens免费送！实测全国产算力模型Spark-X2.6，纯代码搓出3D故宫",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/505225.html",
-      "publish_time": "2026-10-26",
-      "category": "AI 产业",
-      "summary": "不过，比热闹更值得看的，还是这些AI产品到底能做什么 | 教育、医疗、金融、翻译……讯飞这次把一批行业AI产品搬到了展台上，国产大模型怎么进入具体场景、怎么适配不同行业、又怎么真正用起来，在这里都能看到具体展示 | 5系列开源模型，全渠道累计下载量突破了256万（进入全球端侧模型下载量前四），4B版本还冲上过Hu...",
-      "importance_score": 8,
-      "keywords": [
-        "大模型",
-        "AI",
-        "算力"
-      ],
-      "tags": [
-        "模型发布",
-        "大模型",
-        "AI 应用"
-      ],
-      "track": "industry",
-      "topic": "model_release",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
       "financing": ""
     },
     {
@@ -238,97 +325,6 @@
       "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "OpenAI expands partnership with Oracle to bring its apps to ChatGPT",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/oracle-apps-in-chatgpt",
-      "publish_time": "2026-10-27",
-      "category": "模型动态",
-      "summary": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI",
-        "Agent"
-      ],
-      "tags": [
-        "Agent",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "agent",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "GPT-6.1 Sol helps CodeRabbit strengthen security across complex code",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gpt-6-1-sol-coderabbit-code-security",
-      "publish_time": "2026-10-26",
-      "category": "模型动态",
-      "summary": "CodeRabbit uses GPT-6 | 1 Sol to investigate security risks across complex codebases | Its security agent helps developers review findings and proposed fixes",
-      "importance_score": 7,
-      "keywords": [
-        "GPT",
-        "Agent"
-      ],
-      "tags": [
-        "Agent",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "agent",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Our newest AI Quest: Mapping the human brain",
-      "source": "Google AI",
-      "url": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks",
-      "publish_time": "2026-10-26",
-      "category": "模型动态",
-      "summary": "Senior Director, Google Research Your browser does not support the audio element | Google launched a new game called \"Polar Peaks\" that lets you act like a s...",
-      "importance_score": 7,
-      "keywords": [
-        "AI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "Google"
-      ],
       "products": [],
       "financing": ""
     }

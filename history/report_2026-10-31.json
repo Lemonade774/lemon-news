@@ -1,0 +1,329 @@
+{
+  "date": "2026-10-31",
+  "update_time": "2026-10-31T13:05:09.800603+08:00",
+  "total_items": 59,
+  "selection_summary": {
+    "today_count": 0,
+    "backfill_count": 5,
+    "previous_day_top_count": 5,
+    "selected_count": 10,
+    "candidate_count": 59,
+    "dedupe_window_days": 7,
+    "max_backfill_days": 3
+  },
+  "top_items": [
+    {
+      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/506785.html",
+      "publish_time": "2026-10-30",
+      "category": "AI 产业",
+      "summary": "就在今早，ForgeKernel， 一个无人参与的Agent 在无需参考DeepSeek原始实现的情况下，就当着全网的面，把 DeepSeek最新 的 核心算子 写快了 9 | 5小时 的时间（从设计算子的角度来看，消耗时间算短的），也引来了不少网友的围观： 具体来说，这个直播的内容是一个Agent在英伟达B20...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "DeepSeek",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "DeepSeek",
+        "英伟达"
+      ],
+      "products": [
+        "DeepSeek"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "publish_time": "2026-10-30",
+      "category": "模型动态",
+      "summary": "OpenAI will honor a shared robots | txt signal to help website operators communicate their AI training preferences to participating providers",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Fair use benefits everyone",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "publish_time": "2026-10-30",
+      "category": "模型动态",
+      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI traini...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019 2026-10-28",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/505928.html",
+      "publish_time": "2026-10-28",
+      "category": "AI 产业",
+      "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3 | 10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3 | 1-flash 基础上进一步训练优化，在智能指数Artificial Analysis Intelligence Index v4",
+      "importance_score": 8,
+      "keywords": [
+        "大模型",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "蚂蚁集团",
+        "蚂蚁"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/credit-saison",
+      "publish_time": "2026-10-29",
+      "category": "模型动态",
+      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI | See how leaders and employees helped turn the results into companywide adoption",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "An updated 模型 Spec for more capable and beneficial AI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "publish_time": "2026-10-29",
+      "category": "模型动态",
+      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "模型更新",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "model_update",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ropes-gray-ai-diligence",
+      "publish_time": "2026-10-29",
+      "category": "模型动态",
+      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI | Lawyers review grouped documents, summaries, and reports before advising clients",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "敢和英伟达现场PK的国产GPU，我是服的",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/10/506376.html",
+      "publish_time": "2026-10-29",
+      "category": "AI 产业",
+      "summary": "一家国产芯片公司，竟敢把自家的GPU和 英伟达H200 ，直接在现场 真枪实弹 地来了一把 PK | 而且题目还不是自己出的，是随机挑了几个人、 当场出题 的那种 | 例如 文生图 ，有人出的题目是“一只老虎把月亮踢飞”： 视频地址： https://mp",
+      "importance_score": 7,
+      "keywords": [
+        "GPU"
+      ],
+      "tags": [
+        "算力与芯片",
+        "AI 应用",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "compute",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "英伟达"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "谷歌发布 Gemini 4 Carbon：综合智能评测登顶，强化网络安全与长程智能体能力",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/google-gemini-4-carbon-release",
+      "publish_time": "2026-10-29",
+      "category": "AI 资讯",
+      "summary": "2026年10月29日，谷歌正式发布新一代旗舰 AI 模型 Gemini 4 Carbon | 这是继两周前 Gemini 4 Argon 发布后，谷歌推出的又一款前沿模型，重点提升复杂推理、AI 编程、网络安全和长程智能体能力 | 谷歌表示，Carbon 是其目前能力最强的模型，尤其针对需要长期自主执行的复杂工...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Gemini",
+        "智能体"
+      ],
+      "tags": [
+        "模型发布",
+        "大模型",
+        "Agent"
+      ],
+      "track": "industry",
+      "topic": "model_release",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "谷歌"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
+      "publish_time": "2026-10-28",
+      "category": "模型动态",
+      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    }
+  ]
+}

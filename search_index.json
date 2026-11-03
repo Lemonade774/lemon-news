@@ -1,7 +1,160 @@
 {
-  "generated_at": "2026-10-31T13:05:09.938475+08:00",
-  "total_items": 1186,
+  "generated_at": "2026-11-03T14:13:43.664368+08:00",
+  "total_items": 1196,
   "items": [
+    {
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
+      "summary": "GPT-6 Astra能直接读取编辑小模型权重了 | MIT刚刚做了个实验，瞬间引爆大模型圈—— 0 | 016% 的权重，模型性能可以直接飞升",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507322.html",
+      "publish_time": "2026-11-03",
+      "report_date": "2026-11-03",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "阿里云发布 Qovest AI 投研工作台，支持深度研究与持续跟踪",
+      "summary": "11 月 2 日，阿里云正式发布 AI 投研工作台 Qovest ，面向专业机构投资者提供智能化投资研究服务 | 用户只需通过自然语言提出研究需求，Qovest 即可自动查询金融数据、收集相关资料、开展深度分析并生成研究报告，减少传统投研过程中重复性较高的数据整理和信息分析工作 | 在技术层面，Qovest 接入...",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/aliyun-qovest-ai-investment-research",
+      "publish_time": "2026-11-03",
+      "report_date": "2026-11-03",
+      "track": "finance",
+      "topic": "ai_finance",
+      "importance_score": 7,
+      "tags": [
+        "AI × 金融",
+        "模型发布",
+        "公司动态"
+      ]
+    },
+    {
+      "title": "美团发布 LongCat-2.5：强化多模态理解与长程智能体编程能力",
+      "summary": "11月2日，美团 LongCat 团队正式推出新一代大模型 LongCat-2 | 5 ，进一步强化 AI 编程和长程智能体能力 | 模型延续混合专家（MoE）架构，总参数量为1",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/meituan-longcat-2-5-release",
+      "publish_time": "2026-11-02",
+      "report_date": "2026-11-03",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型",
+        "公司动态"
+      ]
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "Your browser does not support the audio element | In October, we released new AI tools to help you work, stay safe, and learn | You can also use our new Synt...",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "publish_time": "2026-11-02",
+      "report_date": "2026-11-03",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 8,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "publish_time": "2026-11-02",
+      "report_date": "2026-11-03",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "publish_time": "2026-11-02",
+      "report_date": "2026-11-03",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Qodo builds context into AI code review with Codex",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "publish_time": "2026-11-02",
+      "report_date": "2026-11-03",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Securi",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U | S",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "publish_time": "2026-11-02",
+      "report_date": "2026-11-03",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了",
+      "summary": "8 Flash 而且 限时免费 还不是重点，关键是它完全可以搞定强如Gemini 4 Carbon都能翻车的网页啊 | 例如一个介绍 相机 的 网站 ，是可以完整且fashion到这种程度的： 视频地址： https://mp | com/s/WOIo1YEGWDFsqpg4HpRt1g 视频地址： https:...",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507277.html",
+      "publish_time": "2026-11-02",
+      "report_date": "2026-11-03",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+      "summary": "AI江湖的名头换了一茬又一茬：AI四小龙、大模型六小虎…… 这一次，行业的下一批明星公司，轮到 央视 亲自大点兵 | 1200家参赛企业层层突围， 中国AI创业十骏 新鲜出炉 | 名单横跨机器人、智能制造、生命科学，唯独有一家AI制药公司上榜，今天值得单独拎出来讲讲",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507150.html",
+      "publish_time": "2026-11-02",
+      "report_date": "2026-11-03",
+      "track": "industry",
+      "topic": "embodied_ai",
+      "importance_score": 7,
+      "tags": [
+        "具身智能",
+        "大模型",
+        "公司动态"
+      ]
+    },
     {
       "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%",
       "summary": "就在今早，ForgeKernel， 一个无人参与的Agent 在无需参考DeepSeek原始实现的情况下，就当着全网的面，把 DeepSeek最新 的 核心算子 写快了 9 | 5小时 的时间（从设计算子的角度来看，消耗时间算短的），也引来了不少网友的围观： 具体来说，这个直播的内容是一个Agent在英伟达B20...",

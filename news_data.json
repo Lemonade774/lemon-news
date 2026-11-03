@@ -1,11 +1,11 @@
 {
-  "date": "2026-10-31",
-  "update_time": "2026-10-31T13:05:09.800603+08:00",
+  "date": "2026-11-03",
+  "update_time": "2026-11-03T14:13:43.458093+08:00",
   "total_items": 59,
   "selection_summary": {
-    "today_count": 0,
-    "backfill_count": 5,
-    "previous_day_top_count": 5,
+    "today_count": 2,
+    "backfill_count": 8,
+    "previous_day_top_count": 0,
     "selected_count": 10,
     "candidate_count": 59,
     "dedupe_window_days": 7,
@@ -13,141 +13,191 @@
   },
   "top_items": [
     {
-      "title": "AI零帧起手写算子，反超DeepSeek人类手写巅峰：快了9.8%",
+      "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/506785.html",
-      "publish_time": "2026-10-30",
+      "url": "https://www.qbitai.com/2026/11/507322.html",
+      "publish_time": "2026-11-03",
       "category": "AI 产业",
-      "summary": "就在今早，ForgeKernel， 一个无人参与的Agent 在无需参考DeepSeek原始实现的情况下，就当着全网的面，把 DeepSeek最新 的 核心算子 写快了 9 | 5小时 的时间（从设计算子的角度来看，消耗时间算短的），也引来了不少网友的围观： 具体来说，这个直播的内容是一个Agent在英伟达B20...",
+      "summary": "GPT-6 Astra能直接读取编辑小模型权重了 | MIT刚刚做了个实验，瞬间引爆大模型圈—— 0 | 016% 的权重，模型性能可以直接飞升",
       "importance_score": 7,
-      "keywords": [
-        "AI",
-        "DeepSeek",
-        "Agent"
-      ],
-      "tags": [
-        "Agent",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "agent",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "DeepSeek",
-        "英伟达"
-      ],
-      "products": [
-        "DeepSeek"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "Making it easier for websites to express AI training preferences",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
-      "publish_time": "2026-10-30",
-      "category": "模型动态",
-      "summary": "OpenAI will honor a shared robots | txt signal to help website operators communicate their AI training preferences to participating providers",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Fair use benefits everyone",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
-      "publish_time": "2026-10-30",
-      "category": "模型动态",
-      "summary": "OpenAI shares excerpts from court briefs by creators, academics, accessibility advocates, and legal experts, among others, on how fair use supports AI traini...",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Personal Agent走向真实任务，蚂蚁百灵开源 Ling-3.1-flash-1019 2026-10-28",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/505928.html",
-      "publish_time": "2026-10-28",
-      "category": "AI 产业",
-      "summary": "10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3 | 10月28 日，蚂蚁集团旗下百灵大模型正式开源 Ling-3 | 1-flash 基础上进一步训练优化，在智能指数Artificial Analysis Intelligence Index v4",
-      "importance_score": 8,
       "keywords": [
         "大模型",
-        "Agent"
+        "GPT"
       ],
       "tags": [
-        "Agent",
+        "AI 应用",
         "大模型"
       ],
       "track": "industry",
-      "topic": "agent",
+      "topic": "ai_application",
       "source_type": "media",
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
+      "selection_reason": "today",
+      "is_backfill": false,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "阿里云发布 Qovest AI 投研工作台，支持深度研究与持续跟踪",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/aliyun-qovest-ai-investment-research",
+      "publish_time": "2026-11-03",
+      "category": "AI 资讯",
+      "summary": "11 月 2 日，阿里云正式发布 AI 投研工作台 Qovest ，面向专业机构投资者提供智能化投资研究服务 | 用户只需通过自然语言提出研究需求，Qovest 即可自动查询金融数据、收集相关资料、开展深度分析并生成研究报告，减少传统投研过程中重复性较高的数据整理和信息分析工作 | 在技术层面，Qovest 接入...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "投研"
+      ],
+      "tags": [
+        "AI × 金融",
+        "模型发布",
+        "公司动态"
+      ],
+      "track": "finance",
+      "topic": "ai_finance",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "today",
+      "is_backfill": false,
       "companies": [
-        "蚂蚁集团",
-        "蚂蚁"
+        "阿里"
       ],
       "products": [],
       "financing": ""
     },
     {
-      "title": "Credit Saison achieves 954% ROI in a ChatGPT Enterprise pilot",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/credit-saison",
-      "publish_time": "2026-10-29",
+      "title": "美团发布 LongCat-2.5：强化多模态理解与长程智能体编程能力",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/meituan-longcat-2-5-release",
+      "publish_time": "2026-11-02",
+      "category": "AI 资讯",
+      "summary": "11月2日，美团 LongCat 团队正式推出新一代大模型 LongCat-2 | 5 ，进一步强化 AI 编程和长程智能体能力 | 模型延续混合专家（MoE）架构，总参数量为1",
+      "importance_score": 7,
+      "keywords": [
+        "大模型",
+        "AI",
+        "智能体"
+      ],
+      "tags": [
+        "Agent",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "publish_time": "2026-11-02",
       "category": "模型动态",
-      "summary": "Credit Saison’s ChatGPT Enterprise pilot delivered 954% ROI | See how leaders and employees helped turn the results into companywide adoption",
+      "summary": "Your browser does not support the audio element | In October, we released new AI tools to help you work, stay safe, and learn | You can also use our new Synt...",
+      "importance_score": 8,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 2,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Scaling Git at OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-git-at-openai",
+      "publish_time": "2026-11-02",
+      "category": "模型动态",
+      "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible",
       "importance_score": 7,
       "keywords": [
         "AI",
-        "GPT"
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Preparing our next security sprint to harden OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
+      "publish_time": "2026-11-02",
+      "category": "模型动态",
+      "summary": "OpenAI is preparing its next internal security sprint with Cathedral Systems to test and strengthen its defenses using AI",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Qodo builds context into AI code review with Codex",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/qodo-codex-plugin",
+      "publish_time": "2026-11-02",
+      "category": "模型动态",
+      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
       ],
       "tags": [
         "AI 应用",
@@ -162,48 +212,16 @@
       "selection_reason": "recent_backfill",
       "is_backfill": true,
       "companies": [],
-      "products": [
-        "ChatGPT"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "An updated 模型 Spec for more capable and beneficial AI",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/updated-model-spec",
-      "publish_time": "2026-10-29",
-      "category": "模型动态",
-      "summary": "OpenAI’s updated Model Spec outlines five core values to guide more capable AI toward sound judgment, human agency, and faithfulness to human intent",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "tags": [
-        "模型更新",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "model_update",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
       "products": [],
       "financing": ""
     },
     {
-      "title": "How Ropes & Gray is developing AI for transactional diligence",
+      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Securi",
       "source": "OpenAI",
-      "url": "https://openai.com/index/ropes-gray-ai-diligence",
-      "publish_time": "2026-10-29",
+      "url": "https://openai.com/index/dan-driscoll-joins-openai",
+      "publish_time": "2026-11-02",
       "category": "模型动态",
-      "summary": "Ropes & Gray is developing AI for transactional diligence with OpenAI | Lawyers review grouped documents, summaries, and reports before advising clients",
+      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U | S",
       "importance_score": 7,
       "keywords": [
         "AI",
@@ -219,7 +237,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
+      "selection_reason": "recent_backfill",
       "is_backfill": true,
       "companies": [
         "OpenAI"
@@ -228,101 +246,63 @@
       "financing": ""
     },
     {
-      "title": "敢和英伟达现场PK的国产GPU，我是服的",
+      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/10/506376.html",
-      "publish_time": "2026-10-29",
+      "url": "https://www.qbitai.com/2026/11/507277.html",
+      "publish_time": "2026-11-02",
       "category": "AI 产业",
-      "summary": "一家国产芯片公司，竟敢把自家的GPU和 英伟达H200 ，直接在现场 真枪实弹 地来了一把 PK | 而且题目还不是自己出的，是随机挑了几个人、 当场出题 的那种 | 例如 文生图 ，有人出的题目是“一只老虎把月亮踢飞”： 视频地址： https://mp",
+      "summary": "8 Flash 而且 限时免费 还不是重点，关键是它完全可以搞定强如Gemini 4 Carbon都能翻车的网页啊 | 例如一个介绍 相机 的 网站 ，是可以完整且fashion到这种程度的： 视频地址： https://mp | com/s/WOIo1YEGWDFsqpg4HpRt1g 视频地址： https:...",
       "importance_score": 7,
       "keywords": [
-        "GPU"
+        "AI",
+        "Gemini"
       ],
       "tags": [
-        "算力与芯片",
         "AI 应用",
-        "公司动态"
+        "大模型"
       ],
       "track": "industry",
-      "topic": "compute",
+      "topic": "ai_application",
       "source_type": "media",
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "previous_day_top",
+      "selection_reason": "recent_backfill",
       "is_backfill": true,
-      "companies": [
-        "英伟达"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "谷歌发布 Gemini 4 Carbon：综合智能评测登顶，强化网络安全与长程智能体能力",
-      "source": "AIHub",
-      "url": "https://www.aihub.cn/news/google-gemini-4-carbon-release",
-      "publish_time": "2026-10-29",
-      "category": "AI 资讯",
-      "summary": "2026年10月29日，谷歌正式发布新一代旗舰 AI 模型 Gemini 4 Carbon | 这是继两周前 Gemini 4 Argon 发布后，谷歌推出的又一款前沿模型，重点提升复杂推理、AI 编程、网络安全和长程智能体能力 | 谷歌表示，Carbon 是其目前能力最强的模型，尤其针对需要长期自主执行的复杂工...",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "Gemini",
-        "智能体"
-      ],
-      "tags": [
-        "模型发布",
-        "大模型",
-        "Agent"
-      ],
-      "track": "industry",
-      "topic": "model_release",
-      "source_type": "aggregator",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "谷歌"
-      ],
+      "companies": [],
       "products": [
         "Gemini"
       ],
       "financing": ""
     },
     {
-      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "publish_time": "2026-10-28",
-      "category": "模型动态",
-      "summary": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex",
+      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507150.html",
+      "publish_time": "2026-11-02",
+      "category": "AI 产业",
+      "summary": "AI江湖的名头换了一茬又一茬：AI四小龙、大模型六小虎…… 这一次，行业的下一批明星公司，轮到 央视 亲自大点兵 | 1200家参赛企业层层突围， 中国AI创业十骏 新鲜出炉 | 名单横跨机器人、智能制造、生命科学，唯独有一家AI制药公司上榜，今天值得单独拎出来讲讲",
       "importance_score": 7,
       "keywords": [
+        "大模型",
         "AI",
-        "GPT",
-        "OpenAI",
-        "Agent"
+        "机器人"
       ],
       "tags": [
-        "Agent",
-        "大模型"
+        "具身智能",
+        "大模型",
+        "公司动态"
       ],
       "track": "industry",
-      "topic": "agent",
-      "source_type": "official",
+      "topic": "embodied_ai",
+      "source_type": "media",
       "discovery_source": "",
       "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
       "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
+      "companies": [],
+      "products": [],
       "financing": ""
     }
   ]

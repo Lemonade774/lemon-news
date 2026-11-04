@@ -1,14 +1,88 @@
 {
-  "generated_at": "2026-11-03T14:13:43.664368+08:00",
-  "total_items": 1196,
+  "generated_at": "2026-11-04T13:51:12.384952+08:00",
+  "total_items": 1200,
   "items": [
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security | Learn how it is building more adaptive defenses",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "publish_time": "2026-11-03",
+      "report_date": "2026-11-04",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/heimstaden",
+      "publish_time": "2026-11-03",
+      "report_date": "2026-11-04",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "summary": "当一众厂商还在围绕拣货、家务等任务探索时，如今有玩家盯上了具身智能产业化的一块硬骨头： 智能仓储 | 而且野心不小，要让AI接管整座仓库，实现7×24小时自主运行，还能在真实业务中持续学习、自主进化 | 这个玩家的名字大家也不陌生，正是全球智能机器人的头部企业 「极智嘉」 （Geek+）",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507507.html",
+      "publish_time": "2026-11-03",
+      "report_date": "2026-11-04",
+      "track": "industry",
+      "topic": "embodied_ai",
+      "importance_score": 7,
+      "tags": [
+        "具身智能"
+      ]
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "publish_time": "2026-11-03",
+      "report_date": "2026-11-04",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "summary": "Your browser does not support the audio element | In October, we released new AI tools to help you work, stay safe, and learn | You can also use our new Synt...",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "publish_time": "2026-11-02",
+      "report_date": "2026-11-04",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 8,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
     {
       "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
       "summary": "GPT-6 Astra能直接读取编辑小模型权重了 | MIT刚刚做了个实验，瞬间引爆大模型圈—— 0 | 016% 的权重，模型性能可以直接飞升",
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/11/507322.html",
       "publish_time": "2026-11-03",
-      "report_date": "2026-11-03",
+      "report_date": "2026-11-04",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -23,7 +97,7 @@
       "source": "AIHub",
       "url": "https://www.aihub.cn/news/aliyun-qovest-ai-investment-research",
       "publish_time": "2026-11-03",
-      "report_date": "2026-11-03",
+      "report_date": "2026-11-04",
       "track": "finance",
       "topic": "ai_finance",
       "importance_score": 7,
@@ -39,7 +113,7 @@
       "source": "AIHub",
       "url": "https://www.aihub.cn/news/meituan-longcat-2-5-release",
       "publish_time": "2026-11-02",
-      "report_date": "2026-11-03",
+      "report_date": "2026-11-04",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -50,27 +124,12 @@
       ]
     },
     {
-      "title": "The latest AI news we announced in October 2026",
-      "summary": "Your browser does not support the audio element | In October, we released new AI tools to help you work, stay safe, and learn | You can also use our new Synt...",
-      "source": "Google AI",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "publish_time": "2026-11-02",
-      "report_date": "2026-11-03",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 8,
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ]
-    },
-    {
       "title": "Scaling Git at OpenAI",
       "summary": "How OpenAI built Pando, a Git-compatible backend designed for the scale of development that Codex makes possible",
       "source": "OpenAI",
       "url": "https://openai.com/index/scaling-git-at-openai",
       "publish_time": "2026-11-02",
-      "report_date": "2026-11-03",
+      "report_date": "2026-11-04",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -85,7 +144,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai",
       "publish_time": "2026-11-02",
-      "report_date": "2026-11-03",
+      "report_date": "2026-11-04",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,

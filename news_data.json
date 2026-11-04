@@ -1,17 +1,165 @@
 {
-  "date": "2026-11-03",
-  "update_time": "2026-11-03T14:13:43.458093+08:00",
-  "total_items": 59,
+  "date": "2026-11-04",
+  "update_time": "2026-11-04T13:51:12.246021+08:00",
+  "total_items": 56,
   "selection_summary": {
-    "today_count": 2,
-    "backfill_count": 8,
-    "previous_day_top_count": 0,
+    "today_count": 0,
+    "backfill_count": 4,
+    "previous_day_top_count": 6,
     "selected_count": 10,
-    "candidate_count": 59,
+    "candidate_count": 56,
     "dedupe_window_days": 7,
     "max_backfill_days": 3
   },
   "top_items": [
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "publish_time": "2026-11-03",
+      "category": "模型动态",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security | Learn how it is building more adaptive defenses",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/heimstaden",
+      "publish_time": "2026-11-03",
+      "category": "模型动态",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507507.html",
+      "publish_time": "2026-11-03",
+      "category": "AI 产业",
+      "summary": "当一众厂商还在围绕拣货、家务等任务探索时，如今有玩家盯上了具身智能产业化的一块硬骨头： 智能仓储 | 而且野心不小，要让AI接管整座仓库，实现7×24小时自主运行，还能在真实业务中持续学习、自主进化 | 这个玩家的名字大家也不陌生，正是全球智能机器人的头部企业 「极智嘉」 （Geek+）",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "具身智能",
+        "机器人"
+      ],
+      "tags": [
+        "具身智能"
+      ],
+      "track": "industry",
+      "topic": "embodied_ai",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "OpenAI appoints Jill Hazelbaker as Chief Corporate Affairs Officer",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/jill-hazelbaker-chief-corporate-affairs-officer",
+      "publish_time": "2026-11-03",
+      "category": "模型动态",
+      "summary": "Jill Hazelbaker will join OpenAI as Chief Corporate Affairs Officer, leading the company’s global communications and corporate positioning",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "publish_time": "2026-11-02",
+      "category": "模型动态",
+      "summary": "Your browser does not support the audio element | In October, we released new AI tools to help you work, stay safe, and learn | You can also use our new Synt...",
+      "importance_score": 8,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 2,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
     {
       "title": "MIT：GPT-6 Astra能直接修改Qwen权重，数学能力暴涨6倍",
       "source": "量子位",
@@ -34,8 +182,8 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "today",
-      "is_backfill": false,
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
       "companies": [],
       "products": [],
       "financing": ""
@@ -63,8 +211,8 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "today",
-      "is_backfill": false,
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
       "companies": [
         "阿里"
       ],
@@ -95,34 +243,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "The latest AI news we announced in October 2026",
-      "source": "Google AI",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
-      "publish_time": "2026-11-02",
-      "category": "模型动态",
-      "summary": "Your browser does not support the audio element | In October, we released new AI tools to help you work, stay safe, and learn | You can also use our new Synt...",
-      "importance_score": 8,
-      "keywords": [
-        "AI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 2,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [],
@@ -150,7 +271,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
@@ -180,128 +301,11 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
       ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Qodo builds context into AI code review with Codex",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/qodo-codex-plugin",
-      "publish_time": "2026-11-02",
-      "category": "模型动态",
-      "summary": "Qodo brings company knowledge and coding standards into Codex, helping developers catch P0 issues across repositories before opening a pull request",
-      "importance_score": 7,
-      "keywords": [
-        "AI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "OpenAI appoints Dan Driscoll as Senior Counselor for National Securi",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/dan-driscoll-joins-openai",
-      "publish_time": "2026-11-02",
-      "category": "模型动态",
-      "summary": "OpenAI appoints Dan Driscoll to advise on responsible AI for national security modernization, cyber resilience, and collaboration with U | S",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "顶级AI翻车的活儿，被这个新出的免费国产AI接住了",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507277.html",
-      "publish_time": "2026-11-02",
-      "category": "AI 产业",
-      "summary": "8 Flash 而且 限时免费 还不是重点，关键是它完全可以搞定强如Gemini 4 Carbon都能翻车的网页啊 | 例如一个介绍 相机 的 网站 ，是可以完整且fashion到这种程度的： 视频地址： https://mp | com/s/WOIo1YEGWDFsqpg4HpRt1g 视频地址： https:...",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "Gemini"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [
-        "Gemini"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "央视严选「中国AI创业十骏」：唯一AI制药公司是清华系",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507150.html",
-      "publish_time": "2026-11-02",
-      "category": "AI 产业",
-      "summary": "AI江湖的名头换了一茬又一茬：AI四小龙、大模型六小虎…… 这一次，行业的下一批明星公司，轮到 央视 亲自大点兵 | 1200家参赛企业层层突围， 中国AI创业十骏 新鲜出炉 | 名单横跨机器人、智能制造、生命科学，唯独有一家AI制药公司上榜，今天值得单独拎出来讲讲",
-      "importance_score": 7,
-      "keywords": [
-        "大模型",
-        "AI",
-        "机器人"
-      ],
-      "tags": [
-        "具身智能",
-        "大模型",
-        "公司动态"
-      ],
-      "track": "industry",
-      "topic": "embodied_ai",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
       "products": [],
       "financing": ""
     }

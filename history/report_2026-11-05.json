@@ -1,0 +1,309 @@
+{
+  "date": "2026-11-05",
+  "update_time": "2026-11-05T14:10:49.222296+08:00",
+  "total_items": 55,
+  "selection_summary": {
+    "today_count": 0,
+    "backfill_count": 6,
+    "previous_day_top_count": 4,
+    "selected_count": 10,
+    "candidate_count": 55,
+    "dedupe_window_days": 7,
+    "max_backfill_days": 3
+  },
+  "top_items": [
+    {
+      "title": "阿里内测AI影视创作平台Looogen：本地Agent串联短剧制作全流程",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/looogen-internal-beta",
+      "publish_time": "2026-11-04",
+      "category": "AI 资讯",
+      "summary": "2026年11月4日，据《读佳》报道，阿里正在内测AI影视创作平台 Looogen（逻辑智片） | Looogen官网将其定位为“AI影视创作工作台”，口号为“有逻辑，自成片”，主要面向短剧与视频制作 | 用户可以通过对话完成剧本拆集、镜头设计、角色服装场景素材生成与检索、角色配音、背景音乐和成片制作，并管理多集...",
+      "importance_score": 6,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "阿里"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "publish_time": "2026-11-04",
+      "category": "模型动态",
+      "summary": "OpenAI will acquire Pierre Computer Company, expanding Codex’s tools for building, understanding, and reviewing code",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "publish_time": "2026-11-04",
+      "category": "模型动态",
+      "summary": "Daybreak Red brings GPT-5 | 6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/devrev-enterprise-self-service",
+      "publish_time": "2026-11-04",
+      "category": "模型动态",
+      "summary": "1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service",
+      "importance_score": 7,
+      "keywords": [
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "OpenAI发布Images 2.6：新增GIF动图生成，API推出Flare与Sunburst双模型",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/chatgpt-images-2-6-release",
+      "publish_time": "2026-11-04",
+      "category": "AI 资讯",
+      "summary": "2026年11月4日，OpenAI宣布推出图像产品新版本 Images 2 | 6 ，并同步上线ChatGPT、Codex和API | 此次更新将图像生成能力从静态图片延伸到动图，用户可以通过文字提示词或上传图片生成GIF，也可以保存常用参考图并在后续创作中重复使用",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "小米开源了个150元的AI小玩意，火到配件都涨价了 2026-11-02",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507107.html",
+      "publish_time": "2026-11-02",
+      "category": "AI 产业",
+      "summary": "一块小屏幕，三个按键，一个摇杆，屏幕里的西高地小狗时而忙碌，时而发愁，时而庆祝 | 这就是小米最近孵化的一款开源AI硬件 HachimoDock（哈基米机），硬件自制成本约150元 | 乍一看，这款热度极高的产品，像一台装着电子宠物的迷你游戏机",
+      "importance_score": 8,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "The latest AI news we announced in October 2026",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026",
+      "publish_time": "2026-11-02",
+      "category": "模型动态",
+      "summary": "Your browser does not support the audio element | In October, we released new AI tools to help you work, stay safe, and learn | You can also use our new Synt...",
+      "importance_score": 8,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 2,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "How Cisco defends at machine speed with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cisco-cyber",
+      "publish_time": "2026-11-03",
+      "category": "模型动态",
+      "summary": "Cisco combines network intelligence with OpenAI models to strengthen enterprise security | Learn how it is building more adaptive defenses",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Heimstaden is changing residential real estate management with AI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/heimstaden",
+      "publish_time": "2026-11-03",
+      "category": "模型动态",
+      "summary": "Discover how Heimstaden uses OpenAI’s ChatGPT Enterprise and Codex to transform property management, cut costs, and empower employees across Europe",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "机器人干活，AI当厂长！这家巨头要造下一代自主智能仓",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/507507.html",
+      "publish_time": "2026-11-03",
+      "category": "AI 产业",
+      "summary": "当一众厂商还在围绕拣货、家务等任务探索时，如今有玩家盯上了具身智能产业化的一块硬骨头： 智能仓储 | 而且野心不小，要让AI接管整座仓库，实现7×24小时自主运行，还能在真实业务中持续学习、自主进化 | 这个玩家的名字大家也不陌生，正是全球智能机器人的头部企业 「极智嘉」 （Geek+）",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "具身智能",
+        "机器人"
+      ],
+      "tags": [
+        "具身智能"
+      ],
+      "track": "industry",
+      "topic": "embodied_ai",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    }
+  ]
+}

@@ -1,17 +1,78 @@
 {
-  "date": "2026-11-06",
-  "update_time": "2026-11-06T14:04:21.332530+08:00",
-  "total_items": 56,
+  "date": "2026-11-07",
+  "update_time": "2026-11-07T13:36:20.143674+08:00",
+  "total_items": 57,
   "selection_summary": {
-    "today_count": 2,
-    "backfill_count": 8,
-    "previous_day_top_count": 0,
+    "today_count": 0,
+    "backfill_count": 2,
+    "previous_day_top_count": 8,
     "selected_count": 10,
-    "candidate_count": 56,
+    "candidate_count": 57,
     "dedupe_window_days": 7,
     "max_backfill_days": 3
   },
   "top_items": [
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "publish_time": "2026-11-06",
+      "category": "模型动态",
+      "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "publish_time": "2026-11-06",
+      "category": "模型动态",
+      "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
     {
       "title": "99.4%登顶全球第一！这个中国AI师承世界冠军",
       "source": "量子位",
@@ -33,8 +94,8 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "today",
-      "is_backfill": false,
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
       "companies": [],
       "products": [],
       "financing": ""
@@ -62,8 +123,8 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "today",
-      "is_backfill": false,
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
       "companies": [],
       "products": [],
       "financing": ""
@@ -92,7 +153,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
@@ -121,7 +182,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "Google"
@@ -153,7 +214,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "Google"
@@ -185,7 +246,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [
@@ -216,7 +277,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
@@ -248,68 +309,11 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
       ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Franklin Templeton uses OpenAI to support investment research",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/franklin-templeton",
-      "publish_time": "2026-11-05",
-      "category": "模型动态",
-      "summary": "Starting with equity research, Franklin Templeton is developing AI workflows to help portfolio managers compare research views and examine investment risks",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "孩子的人生大事，你要怎样的AI？海亮科服把AI生涯规划带给更多家庭",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/507919.html",
-      "publish_time": "2026-11-05",
-      "category": "AI 产业",
-      "summary": "偏偏孩子的表现，也未必能让家长拿定主意：生物课听得吃力，考试成绩却不错；地理课听得明白，分数又不高 | 再考虑大学专业的要求，以及学校实际开设的组合， 高一选科，成了不少家庭需要做的功课 | 不同组合会影响后续可报考的专业范围，也与孩子将来的职业方向有关",
-      "importance_score": 7,
-      "keywords": [
-        "AI"
-      ],
-      "tags": [
-        "AI 应用",
-        "AI 产业"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
       "products": [],
       "financing": ""
     }

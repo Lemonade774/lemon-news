@@ -1,13 +1,13 @@
 {
-  "date": "2026-11-07",
-  "update_time": "2026-11-07T13:36:20.143674+08:00",
-  "total_items": 57,
+  "date": "2026-11-08",
+  "update_time": "2026-11-08T13:38:32.228870+08:00",
+  "total_items": 56,
   "selection_summary": {
     "today_count": 0,
-    "backfill_count": 2,
-    "previous_day_top_count": 8,
+    "backfill_count": 0,
+    "previous_day_top_count": 10,
     "selected_count": 10,
-    "candidate_count": 57,
+    "candidate_count": 56,
     "dedupe_window_days": 7,
     "max_backfill_days": 3
   },
@@ -35,7 +35,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
@@ -65,7 +65,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"

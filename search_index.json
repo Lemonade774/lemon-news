@@ -1,7 +1,157 @@
 {
-  "generated_at": "2026-11-08T13:38:32.370328+08:00",
-  "total_items": 1218,
+  "generated_at": "2026-11-11T13:43:56.517002+08:00",
+  "total_items": 1227,
   "items": [
+    {
+      "title": "Google Gemini 4 Carbon 正式开放，支持百万 Token 上下文与多智能体协作",
+      "summary": "2026年11月11日，Google 正式开放旗舰级 AI 模型 Gemini 4 Carbon ，面向开发者、企业及部分订阅用户提供访问 | 该模型于 10 月 28 日首次公布，此前主要面向部分网络安全研究人员开放 | 此次正式发布后，用户可通过 Gemini API、 Google Antigravity ...",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/google-gemini-4-carbon-release",
+      "publish_time": "2026-11-11",
+      "report_date": "2026-11-11",
+      "track": "industry",
+      "topic": "model_release",
+      "importance_score": 7,
+      "tags": [
+        "模型发布",
+        "大模型",
+        "Agent"
+      ]
+    },
+    {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Ag",
+      "summary": "Tether AI Research introduces BotPsy , a 0 | 8B-parameter model  introduce BotPsy , a 0 | 8B-parameter model designed for function calling and agentic workfl...",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "publish_time": "2026-11-11",
+      "report_date": "2026-11-11",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 6,
+      "tags": [
+        "Agent"
+      ]
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus | See how they use it to prepare for civilian careers",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "publish_time": "2026-11-11",
+      "report_date": "2026-11-11",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+      "summary": "新闻线索刷屏，谁来跟、什么时候交、进展到哪一步，都得有人把这些事捋清楚 | 总结群聊记录、派选题、建待办、催ddl，它都能上手： 编辑部的日常工作， 千问办公 这回全给包圆了啊 | 0版本，是公测三个月以来最大的一次升级",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508798.html",
+      "publish_time": "2026-11-10",
+      "report_date": "2026-11-11",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "AI 应用"
+      ]
+    },
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "summary": "Gemini Intelligence is now available on more devices, including motorola signature 27 and Pixel 10 | See how expanded capabilities across these devices help ...",
+      "source": "Google AI",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "publish_time": "2026-11-10",
+      "report_date": "2026-11-11",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U | cities, helping them build practical AI skills for everyday life",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "publish_time": "2026-11-10",
+      "report_date": "2026-11-11",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "publish_time": "2026-11-10",
+      "report_date": "2026-11-11",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "publish_time": "2026-11-10",
+      "report_date": "2026-11-11",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "工作 at Frontier: AI’s effect on freelance 工作",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "publish_time": "2026-11-10",
+      "report_date": "2026-11-11",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cogent-security",
+      "publish_time": "2026-11-10",
+      "report_date": "2026-11-11",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
     {
       "title": "Measuring how AI agents handle everyday wet-lab science",
       "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science",
@@ -605,22 +755,6 @@
         "算力与芯片",
         "AI 应用",
         "公司动态"
-      ]
-    },
-    {
-      "title": "谷歌发布 Gemini 4 Carbon：综合智能评测登顶，强化网络安全与长程智能体能力",
-      "summary": "2026年10月29日，谷歌正式发布新一代旗舰 AI 模型 Gemini 4 Carbon | 这是继两周前 Gemini 4 Argon 发布后，谷歌推出的又一款前沿模型，重点提升复杂推理、AI 编程、网络安全和长程智能体能力 | 谷歌表示，Carbon 是其目前能力最强的模型，尤其针对需要长期自主执行的复杂工...",
-      "source": "AIHub",
-      "url": "https://www.aihub.cn/news/google-gemini-4-carbon-release",
-      "publish_time": "2026-10-29",
-      "report_date": "2026-10-31",
-      "track": "industry",
-      "topic": "model_release",
-      "importance_score": 7,
-      "tags": [
-        "模型发布",
-        "大模型",
-        "Agent"
       ]
     },
     {

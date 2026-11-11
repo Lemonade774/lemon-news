@@ -1,0 +1,317 @@
+{
+  "date": "2026-11-11",
+  "update_time": "2026-11-11T13:43:56.392707+08:00",
+  "total_items": 56,
+  "selection_summary": {
+    "today_count": 3,
+    "backfill_count": 7,
+    "previous_day_top_count": 0,
+    "selected_count": 10,
+    "candidate_count": 56,
+    "dedupe_window_days": 7,
+    "max_backfill_days": 3
+  },
+  "top_items": [
+    {
+      "title": "Google Gemini 4 Carbon 正式开放，支持百万 Token 上下文与多智能体协作",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/google-gemini-4-carbon-release",
+      "publish_time": "2026-11-11",
+      "category": "AI 资讯",
+      "summary": "2026年11月11日，Google 正式开放旗舰级 AI 模型 Gemini 4 Carbon ，面向开发者、企业及部分订阅用户提供访问 | 该模型于 10 月 28 日首次公布，此前主要面向部分网络安全研究人员开放 | 此次正式发布后，用户可通过 Gemini API、 Google Antigravity ...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Gemini",
+        "智能体"
+      ],
+      "tags": [
+        "模型发布",
+        "大模型",
+        "Agent"
+      ],
+      "track": "industry",
+      "topic": "model_release",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "today",
+      "is_backfill": false,
+      "companies": [
+        "Google"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Ag",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/qvac/botpsy",
+      "publish_time": "2026-11-11",
+      "category": "AI 开发生态",
+      "summary": "Tether AI Research introduces BotPsy , a 0 | 8B-parameter model  introduce BotPsy , a 0 | 8B-parameter model designed for function calling and agentic workfl...",
+      "importance_score": 6,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "today",
+      "is_backfill": false,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "ChatGPT Plus for veterans and servicemembers",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-plus-for-veterans",
+      "publish_time": "2026-11-11",
+      "category": "模型动态",
+      "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus | See how they use it to prepare for civilian careers",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "today",
+      "is_backfill": false,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "千问办公2.0卷向Team Agent，我们用它跑了一遍编辑部日常",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508798.html",
+      "publish_time": "2026-11-10",
+      "category": "AI 产业",
+      "summary": "新闻线索刷屏，谁来跟、什么时候交、进展到哪一步，都得有人把这些事捋清楚 | 总结群聊记录、派选题、建待办、催ddl，它都能上手： 编辑部的日常工作， 千问办公 这回全给包圆了啊 | 0版本，是公测三个月以来最大的一次升级",
+      "importance_score": 7,
+      "keywords": [
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Gemini Intelligence: New features, on more devices",
+      "source": "Google AI",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices",
+      "publish_time": "2026-11-10",
+      "category": "模型动态",
+      "summary": "Gemini Intelligence is now available on more devices, including motorola signature 27 and Pixel 10 | See how expanded capabilities across these devices help ...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Gemini"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Helping caregivers use AI in everyday life",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "publish_time": "2026-11-10",
+      "category": "模型动态",
+      "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U | cities, helping them build practical AI skills for everyday life",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Introducing Businesses in ChatGPT",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-businesses-chatgpt",
+      "publish_time": "2026-11-10",
+      "category": "模型动态",
+      "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT",
+      "importance_score": 7,
+      "keywords": [
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Closing the AI guidance gap in education",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/closing-ai-guidance-gap-education",
+      "publish_time": "2026-11-10",
+      "category": "模型动态",
+      "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "工作 at Frontier: AI’s effect on freelance 工作",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/ai-effect-on-freelance-work",
+      "publish_time": "2026-11-10",
+      "category": "模型动态",
+      "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Cogent and OpenAI build cyber defense factories for enterprises",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/cogent-security",
+      "publish_time": "2026-11-10",
+      "category": "模型动态",
+      "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    }
+  ]
+}

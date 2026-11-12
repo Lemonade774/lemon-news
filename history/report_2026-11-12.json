@@ -1,0 +1,301 @@
+{
+  "date": "2026-11-12",
+  "update_time": "2026-11-12T14:50:27.405445+08:00",
+  "total_items": 56,
+  "selection_summary": {
+    "today_count": 1,
+    "backfill_count": 9,
+    "previous_day_top_count": 0,
+    "selected_count": 10,
+    "candidate_count": 56,
+    "dedupe_window_days": 7,
+    "max_backfill_days": 3
+  },
+  "top_items": [
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "publish_time": "2026-11-12",
+      "category": "模型动态",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "today",
+      "is_backfill": false,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "publish_time": "2026-11-11",
+      "category": "模型动态",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions",
+      "importance_score": 7,
+      "keywords": [
+        "Gemini"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509146.html",
+      "publish_time": "2026-11-11",
+      "category": "AI 产业",
+      "summary": "真是活久见，今年双十一最有技术含量的事儿，居然不是研究怎么凑满减了 | 下了班刷直播准备买买买，没想到越刷越熟悉，AI啥时候混迹各大卖场了 | 前有直播一哥热火朝天带货两万亿Token，后脚刷到老罗直播间—— 好嘛，AI编程工具也直接挂上小黄车链接了",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding 模型",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "publish_time": "2026-11-11",
+      "category": "AI 开发生态",
+      "summary": "Multi-vector embedding models give each query token its own opportunity to find a match in a document | This makes them wonderfully expressive for search, bu...",
+      "importance_score": 6,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "publish_time": "2026-11-11",
+      "category": "模型动态",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale | Read his lessons on evals, guardrails, and taking AI into production",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "publish_time": "2026-11-09",
+      "category": "模型动态",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "腾讯推出 AI 游戏陪伴应用鹅次元：AI 角色看懂游戏画面，开启元气首测",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/tencent-e-cy-beta-test",
+      "publish_time": "2026-11-10",
+      "category": "AI 资讯",
+      "summary": "AIHub获悉，近日腾讯发布 AI 游戏陪伴应用\" 鹅次元 \"（E-CY）的官方 PV，产品官网同步上线，并开启\"元气首测\"招募 | 鹅次元定位为玩家的专属 AI 游戏伙伴，以\"懂游戏，更懂你\"为口号，通过拥有独立人设的 AI 角色，为 PC 端游玩家提供对局中的实时陪玩与游戏之外的日常陪伴 | 在产品形态上，鹅...",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "腾讯"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "具身智能出海，物流先行",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508716.html",
+      "publish_time": "2026-11-09",
+      "category": "AI 产业",
+      "summary": "11月5日，菜鸟在香港智慧港举行AI及具身智能产业合作发布会，宣布 向AI与具身智能企业开放全球仓网，打造AI与具身智能物流实景训练集群 | 具身机器人能接触到的物流任务可谓相当齐全 | 从仓储拣选、拆码垛，到自主导航配送、高空巡检，覆盖了物流作业的多个环节",
+      "importance_score": 8,
+      "keywords": [
+        "AI",
+        "具身智能",
+        "机器人"
+      ],
+      "tags": [
+        "具身智能",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "embodied_ai",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Singapore Airlines elevates travel & 工作 with OpenAI technology",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "publish_time": "2026-11-10",
+      "category": "模型动态",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kr...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "publish_time": "2026-11-09",
+      "category": "模型动态",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relations...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    }
+  ]
+}

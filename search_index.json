@@ -1,7 +1,156 @@
 {
-  "generated_at": "2026-11-11T13:43:56.517002+08:00",
-  "total_items": 1227,
+  "generated_at": "2026-11-12T14:50:27.585496+08:00",
+  "total_items": 1237,
   "items": [
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "publish_time": "2026-11-12",
+      "report_date": "2026-11-12",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "publish_time": "2026-11-11",
+      "report_date": "2026-11-12",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "summary": "真是活久见，今年双十一最有技术含量的事儿，居然不是研究怎么凑满减了 | 下了班刷直播准备买买买，没想到越刷越熟悉，AI啥时候混迹各大卖场了 | 前有直播一哥热火朝天带货两万亿Token，后脚刷到老罗直播间—— 好嘛，AI编程工具也直接挂上小黄车链接了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509146.html",
+      "publish_time": "2026-11-11",
+      "report_date": "2026-11-12",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用"
+      ]
+    },
+    {
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding 模型",
+      "summary": "Multi-vector embedding models give each query token its own opportunity to find a match in a document | This makes them wonderfully expressive for search, bu...",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/token-pooling",
+      "publish_time": "2026-11-11",
+      "report_date": "2026-11-12",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 6,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale | Read his lessons on evals, guardrails, and taking AI into production",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "publish_time": "2026-11-11",
+      "report_date": "2026-11-12",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "CodeRabbit scales agentic software development and ships 20x more",
+      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/coderabbit-codex-daybreak",
+      "publish_time": "2026-11-09",
+      "report_date": "2026-11-12",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "腾讯推出 AI 游戏陪伴应用鹅次元：AI 角色看懂游戏画面，开启元气首测",
+      "summary": "AIHub获悉，近日腾讯发布 AI 游戏陪伴应用\" 鹅次元 \"（E-CY）的官方 PV，产品官网同步上线，并开启\"元气首测\"招募 | 鹅次元定位为玩家的专属 AI 游戏伙伴，以\"懂游戏，更懂你\"为口号，通过拥有独立人设的 AI 角色，为 PC 端游玩家提供对局中的实时陪玩与游戏之外的日常陪伴 | 在产品形态上，鹅...",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/tencent-e-cy-beta-test",
+      "publish_time": "2026-11-10",
+      "report_date": "2026-11-12",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ]
+    },
+    {
+      "title": "具身智能出海，物流先行",
+      "summary": "11月5日，菜鸟在香港智慧港举行AI及具身智能产业合作发布会，宣布 向AI与具身智能企业开放全球仓网，打造AI与具身智能物流实景训练集群 | 具身机器人能接触到的物流任务可谓相当齐全 | 从仓储拣选、拆码垛，到自主导航配送、高空巡检，覆盖了物流作业的多个环节",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/508716.html",
+      "publish_time": "2026-11-09",
+      "report_date": "2026-11-12",
+      "track": "industry",
+      "topic": "embodied_ai",
+      "importance_score": 8,
+      "tags": [
+        "具身智能",
+        "公司动态"
+      ]
+    },
+    {
+      "title": "Singapore Airlines elevates travel & 工作 with OpenAI technology",
+      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kr...",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/singapore-airlines-travel-work",
+      "publish_time": "2026-11-10",
+      "report_date": "2026-11-12",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relations...",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "publish_time": "2026-11-09",
+      "report_date": "2026-11-12",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
     {
       "title": "Google Gemini 4 Carbon 正式开放，支持百万 Token 上下文与多智能体协作",
       "summary": "2026年11月11日，Google 正式开放旗舰级 AI 模型 Gemini 4 Carbon ，面向开发者、企业及部分订阅用户提供访问 | 该模型于 10 月 28 日首次公布，此前主要面向部分网络安全研究人员开放 | 此次正式发布后，用户可通过 Gemini API、 Google Antigravity ...",

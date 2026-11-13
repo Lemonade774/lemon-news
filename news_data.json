@@ -1,17 +1,168 @@
 {
-  "date": "2026-11-12",
-  "update_time": "2026-11-12T14:50:27.405445+08:00",
-  "total_items": 56,
+  "date": "2026-11-13",
+  "update_time": "2026-11-13T14:08:34.451264+08:00",
+  "total_items": 57,
   "selection_summary": {
-    "today_count": 1,
-    "backfill_count": 9,
-    "previous_day_top_count": 0,
+    "today_count": 0,
+    "backfill_count": 5,
+    "previous_day_top_count": 5,
     "selected_count": 10,
-    "candidate_count": 56,
+    "candidate_count": 57,
     "dedupe_window_days": 7,
     "max_backfill_days": 3
   },
   "top_items": [
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "source": "Google AI",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "publish_time": "2026-11-12",
+      "category": "模型动态",
+      "summary": "VP of Product, Google Search Your browser does not support the audio element | You can try these improved capabilities by visiting Google Search today to ask...",
+      "importance_score": 7,
+      "keywords": [
+        "Gemini"
+      ],
+      "tags": [
+        "模型更新",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "model_update",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "Google"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "publish_time": "2026-11-12",
+      "category": "模型动态",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measu...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "publish_time": "2026-11-12",
+      "category": "AI 开发生态",
+      "summary": "LLMs rely on their context to generate the next set of tokens | The lack of explicit structure can also be exploited by attackers, for example, in the form o...",
+      "importance_score": 6,
+      "keywords": [
+        "LLM"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/children-first-declaration",
+      "publish_time": "2026-11-12",
+      "category": "模型动态",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety | The work supports shared tools to measure risks and opportunities for young people",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Google Cloud 推出 Gemini for healthcare",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "publish_time": "2026-11-10",
+      "category": "模型动态",
+      "summary": "Moving beyond simple information retrieval, it enables healthcare teams to turn siloed data into coordinated action | Clinicians lose nearly 28 hours each we...",
+      "importance_score": 7,
+      "keywords": [
+        "Gemini"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "Google"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "source": "OpenAI",
@@ -33,8 +184,8 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "today",
-      "is_backfill": false,
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
       "companies": [],
       "products": [],
       "financing": ""
@@ -60,7 +211,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [
@@ -88,34 +239,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Token Pooling-Aware Training for Multi-Vector Embedding 模型",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/token-pooling",
-      "publish_time": "2026-11-11",
-      "category": "AI 开发生态",
-      "summary": "Multi-vector embedding models give each query token its own opportunity to find a match in a document | This makes them wonderfully expressive for search, bu...",
-      "importance_score": 6,
-      "keywords": [
-        "AI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "ecosystem",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [],
@@ -142,40 +266,9 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "CodeRabbit scales agentic software development and ships 20x more",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/coderabbit-codex-daybreak",
-      "publish_time": "2026-11-09",
-      "category": "模型动态",
-      "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "OpenAI",
-        "Agent"
-      ],
-      "tags": [
-        "Agent",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "agent",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
       "products": [],
       "financing": ""
     },
@@ -200,101 +293,12 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "腾讯"
       ],
       "products": [],
-      "financing": ""
-    },
-    {
-      "title": "具身智能出海，物流先行",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/508716.html",
-      "publish_time": "2026-11-09",
-      "category": "AI 产业",
-      "summary": "11月5日，菜鸟在香港智慧港举行AI及具身智能产业合作发布会，宣布 向AI与具身智能企业开放全球仓网，打造AI与具身智能物流实景训练集群 | 具身机器人能接触到的物流任务可谓相当齐全 | 从仓储拣选、拆码垛，到自主导航配送、高空巡检，覆盖了物流作业的多个环节",
-      "importance_score": 8,
-      "keywords": [
-        "AI",
-        "具身智能",
-        "机器人"
-      ],
-      "tags": [
-        "具身智能",
-        "公司动态"
-      ],
-      "track": "industry",
-      "topic": "embodied_ai",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Singapore Airlines elevates travel & 工作 with OpenAI technology",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/singapore-airlines-travel-work",
-      "publish_time": "2026-11-10",
-      "category": "模型动态",
-      "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kr...",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "ChatGPT Enterprise now available in AWS Marketplace",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-      "publish_time": "2026-11-09",
-      "category": "模型动态",
-      "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relations...",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "GPT"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [
-        "ChatGPT"
-      ],
       "financing": ""
     }
   ]

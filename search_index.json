@@ -1,14 +1,90 @@
 {
-  "generated_at": "2026-11-12T14:50:27.585496+08:00",
-  "total_items": 1237,
+  "generated_at": "2026-11-13T14:08:34.575806+08:00",
+  "total_items": 1242,
   "items": [
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "summary": "VP of Product, Google Search Your browser does not support the audio element | You can try these improved capabilities by visiting Google Search today to ask...",
+      "source": "Google AI",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "publish_time": "2026-11-12",
+      "report_date": "2026-11-13",
+      "track": "industry",
+      "topic": "model_update",
+      "importance_score": 7,
+      "tags": [
+        "模型更新",
+        "大模型"
+      ]
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measu...",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "publish_time": "2026-11-12",
+      "report_date": "2026-11-13",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "summary": "LLMs rely on their context to generate the next set of tokens | The lack of explicit structure can also be exploited by attackers, for example, in the form o...",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "publish_time": "2026-11-12",
+      "report_date": "2026-11-13",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 6,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety | The work supports shared tools to measure risks and opportunities for young people",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/children-first-declaration",
+      "publish_time": "2026-11-12",
+      "report_date": "2026-11-13",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Google Cloud 推出 Gemini for healthcare",
+      "summary": "Moving beyond simple information retrieval, it enables healthcare teams to turn siloed data into coordinated action | Clinicians lose nearly 28 hours each we...",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
+      "publish_time": "2026-11-10",
+      "report_date": "2026-11-13",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型",
+        "公司动态"
+      ]
+    },
     {
       "title": "Gilbert + Tobin rethinks the business of law with AI",
       "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin",
       "source": "OpenAI",
       "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "publish_time": "2026-11-12",
-      "report_date": "2026-11-12",
+      "report_date": "2026-11-13",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -23,7 +99,7 @@
       "source": "Google AI",
       "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
       "publish_time": "2026-11-11",
-      "report_date": "2026-11-12",
+      "report_date": "2026-11-13",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -38,12 +114,42 @@
       "source": "量子位",
       "url": "https://www.qbitai.com/2026/11/509146.html",
       "publish_time": "2026-11-11",
-      "report_date": "2026-11-12",
+      "report_date": "2026-11-13",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
       "tags": [
         "AI 应用"
+      ]
+    },
+    {
+      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
+      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale | Read his lessons on evals, guardrails, and taking AI into production",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/jiostar-vijay-seshadri",
+      "publish_time": "2026-11-11",
+      "report_date": "2026-11-13",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "腾讯推出 AI 游戏陪伴应用鹅次元：AI 角色看懂游戏画面，开启元气首测",
+      "summary": "AIHub获悉，近日腾讯发布 AI 游戏陪伴应用\" 鹅次元 \"（E-CY）的官方 PV，产品官网同步上线，并开启\"元气首测\"招募 | 鹅次元定位为玩家的专属 AI 游戏伙伴，以\"懂游戏，更懂你\"为口号，通过拥有独立人设的 AI 角色，为 PC 端游玩家提供对局中的实时陪玩与游戏之外的日常陪伴 | 在产品形态上，鹅...",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/tencent-e-cy-beta-test",
+      "publish_time": "2026-11-10",
+      "report_date": "2026-11-13",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "公司动态"
       ]
     },
     {
@@ -62,21 +168,6 @@
       ]
     },
     {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale | Read his lessons on evals, guardrails, and taking AI into production",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "publish_time": "2026-11-11",
-      "report_date": "2026-11-12",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 7,
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ]
-    },
-    {
       "title": "CodeRabbit scales agentic software development and ships 20x more",
       "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team",
       "source": "OpenAI",
@@ -89,21 +180,6 @@
       "tags": [
         "Agent",
         "大模型"
-      ]
-    },
-    {
-      "title": "腾讯推出 AI 游戏陪伴应用鹅次元：AI 角色看懂游戏画面，开启元气首测",
-      "summary": "AIHub获悉，近日腾讯发布 AI 游戏陪伴应用\" 鹅次元 \"（E-CY）的官方 PV，产品官网同步上线，并开启\"元气首测\"招募 | 鹅次元定位为玩家的专属 AI 游戏伙伴，以\"懂游戏，更懂你\"为口号，通过拥有独立人设的 AI 角色，为 PC 端游玩家提供对局中的实时陪玩与游戏之外的日常陪伴 | 在产品形态上，鹅...",
-      "source": "AIHub",
-      "url": "https://www.aihub.cn/news/tencent-e-cy-beta-test",
-      "publish_time": "2026-11-10",
-      "report_date": "2026-11-12",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 7,
-      "tags": [
-        "AI 应用",
-        "公司动态"
       ]
     },
     {

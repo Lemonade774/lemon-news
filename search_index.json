@@ -1,14 +1,74 @@
 {
-  "generated_at": "2026-11-13T14:08:34.575806+08:00",
-  "total_items": 1242,
+  "generated_at": "2026-11-14T13:54:59.374105+08:00",
+  "total_items": 1246,
   "items": [
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "publish_time": "2026-11-13",
+      "report_date": "2026-11-14",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal 工作 with OpenAI",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals | Its Forge agents navigate systems so technicians can focus on issues needing thei...",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "publish_time": "2026-11-13",
+      "report_date": "2026-11-14",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
+    {
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "summary": "国产AI首次完成 大规模肺癌实证 ，挑战「头号癌症杀手」取得重大突破： 围绕40例复杂肺癌病例，在完全统一的标准评估下， AI对医生 ， 88比12 | 其中参与实验的250名医生，来自全国各地的三甲医院 | 多数还是主任或副主任医师，平时排号都排不上的那种……含金量自然不言而喻",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509796.html",
+      "publish_time": "2026-11-13",
+      "report_date": "2026-11-14",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 8,
+      "tags": [
+        "AI 应用",
+        "AI 产业"
+      ]
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger 基金会 for local AI ecosystem",
+      "summary": "5 years since its inception , the project has grown a lot and many downstream applications already depend on our work | We expect this trend to continue as l...",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "publish_time": "2026-11-13",
+      "report_date": "2026-11-14",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 6,
+      "tags": [
+        "AI 应用",
+        "融资与投资"
+      ]
+    },
     {
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "summary": "VP of Product, Google Search Your browser does not support the audio element | You can try these improved capabilities by visiting Google Search today to ask...",
       "source": "Google AI",
       "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
       "publish_time": "2026-11-12",
-      "report_date": "2026-11-13",
+      "report_date": "2026-11-14",
       "track": "industry",
       "topic": "model_update",
       "importance_score": 7,
@@ -23,13 +83,72 @@
       "source": "OpenAI",
       "url": "https://openai.com/business/customer-stories/amplitude",
       "publish_time": "2026-11-12",
-      "report_date": "2026-11-13",
+      "report_date": "2026-11-14",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
       "tags": [
         "Agent",
         "大模型"
+      ]
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety | The work supports shared tools to measure risks and opportunities for young people",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/children-first-declaration",
+      "publish_time": "2026-11-12",
+      "report_date": "2026-11-14",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "publish_time": "2026-11-12",
+      "report_date": "2026-11-14",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "publish_time": "2026-11-11",
+      "report_date": "2026-11-14",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "summary": "真是活久见，今年双十一最有技术含量的事儿，居然不是研究怎么凑满减了 | 下了班刷直播准备买买买，没想到越刷越熟悉，AI啥时候混迹各大卖场了 | 前有直播一哥热火朝天带货两万亿Token，后脚刷到老罗直播间—— 好嘛，AI编程工具也直接挂上小黄车链接了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509146.html",
+      "publish_time": "2026-11-11",
+      "report_date": "2026-11-14",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用"
       ]
     },
     {
@@ -42,21 +161,6 @@
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 6,
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ]
-    },
-    {
-      "title": "Supporting research on AI and children’s safety",
-      "summary": "OpenAI commits $2 million to research on AI and children’s safety | The work supports shared tools to measure risks and opportunities for young people",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/children-first-declaration",
-      "publish_time": "2026-11-12",
-      "report_date": "2026-11-13",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 7,
       "tags": [
         "AI 应用",
         "大模型"
@@ -76,50 +180,6 @@
         "AI 应用",
         "大模型",
         "公司动态"
-      ]
-    },
-    {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
-      "publish_time": "2026-11-12",
-      "report_date": "2026-11-13",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 7,
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ]
-    },
-    {
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions",
-      "source": "Google AI",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
-      "publish_time": "2026-11-11",
-      "report_date": "2026-11-13",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 7,
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ]
-    },
-    {
-      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
-      "summary": "真是活久见，今年双十一最有技术含量的事儿，居然不是研究怎么凑满减了 | 下了班刷直播准备买买买，没想到越刷越熟悉，AI啥时候混迹各大卖场了 | 前有直播一哥热火朝天带货两万亿Token，后脚刷到老罗直播间—— 好嘛，AI编程工具也直接挂上小黄车链接了",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/509146.html",
-      "publish_time": "2026-11-11",
-      "report_date": "2026-11-13",
-      "track": "industry",
-      "topic": "ai_application",
-      "importance_score": 7,
-      "tags": [
-        "AI 应用"
       ]
     },
     {

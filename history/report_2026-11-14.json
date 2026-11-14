@@ -1,0 +1,306 @@
+{
+  "date": "2026-11-14",
+  "update_time": "2026-11-14T13:54:59.227373+08:00",
+  "total_items": 59,
+  "selection_summary": {
+    "today_count": 0,
+    "backfill_count": 4,
+    "previous_day_top_count": 6,
+    "selected_count": 10,
+    "candidate_count": 59,
+    "dedupe_window_days": 7,
+    "max_backfill_days": 3
+  },
+  "top_items": [
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "publish_time": "2026-11-13",
+      "category": "模型动态",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections",
+      "importance_score": 7,
+      "keywords": [
+        "GPT",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal 工作 with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "publish_time": "2026-11-13",
+      "category": "模型动态",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals | Its Forge agents navigate systems so technicians can focus on issues needing thei...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509796.html",
+      "publish_time": "2026-11-13",
+      "category": "AI 产业",
+      "summary": "国产AI首次完成 大规模肺癌实证 ，挑战「头号癌症杀手」取得重大突破： 围绕40例复杂肺癌病例，在完全统一的标准评估下， AI对医生 ， 88比12 | 其中参与实验的250名医生，来自全国各地的三甲医院 | 多数还是主任或副主任医师，平时排号都排不上的那种……含金量自然不言而喻",
+      "importance_score": 8,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "AI 产业"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger 基金会 for local AI ecosystem",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "publish_time": "2026-11-13",
+      "category": "AI 开发生态",
+      "summary": "5 years since its inception , the project has grown a lot and many downstream applications already depend on our work | We expect this trend to continue as l...",
+      "importance_score": 6,
+      "keywords": [
+        "AI",
+        "基金"
+      ],
+      "tags": [
+        "AI 应用",
+        "融资与投资"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "source": "Google AI",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade",
+      "publish_time": "2026-11-12",
+      "category": "模型动态",
+      "summary": "VP of Product, Google Search Your browser does not support the audio element | You can try these improved capabilities by visiting Google Search today to ask...",
+      "importance_score": 7,
+      "keywords": [
+        "Gemini"
+      ],
+      "tags": [
+        "模型更新",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "model_update",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "Google"
+      ],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
+      "publish_time": "2026-11-12",
+      "category": "模型动态",
+      "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measu...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Supporting research on AI and children’s safety",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/children-first-declaration",
+      "publish_time": "2026-11-12",
+      "category": "模型动态",
+      "summary": "OpenAI commits $2 million to research on AI and children’s safety | The work supports shared tools to measure risks and opportunities for young people",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "publish_time": "2026-11-12",
+      "category": "模型动态",
+      "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api",
+      "publish_time": "2026-11-11",
+      "category": "模型动态",
+      "summary": "Meet the Gemini Decisions API, powered by our state-of-the-art model Gemini Decision for fast, calibrated multimodal decisions",
+      "importance_score": 7,
+      "keywords": [
+        "Gemini"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "双11直播间爆改AI秀场，罗永浩上手TRAE，秒变AI Coding的大众嘴替",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509146.html",
+      "publish_time": "2026-11-11",
+      "category": "AI 产业",
+      "summary": "真是活久见，今年双十一最有技术含量的事儿，居然不是研究怎么凑满减了 | 下了班刷直播准备买买买，没想到越刷越熟悉，AI啥时候混迹各大卖场了 | 前有直播一哥热火朝天带货两万亿Token，后脚刷到老罗直播间—— 好嘛，AI编程工具也直接挂上小黄车链接了",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    }
+  ]
+}

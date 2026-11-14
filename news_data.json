@@ -1,17 +1,133 @@
 {
-  "date": "2026-11-13",
-  "update_time": "2026-11-13T14:08:34.451264+08:00",
-  "total_items": 57,
+  "date": "2026-11-14",
+  "update_time": "2026-11-14T13:54:59.227373+08:00",
+  "total_items": 59,
   "selection_summary": {
     "today_count": 0,
-    "backfill_count": 5,
-    "previous_day_top_count": 5,
+    "backfill_count": 4,
+    "previous_day_top_count": 6,
     "selected_count": 10,
-    "candidate_count": 57,
+    "candidate_count": 59,
     "dedupe_window_days": 7,
     "max_backfill_days": 3
   },
   "top_items": [
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "publish_time": "2026-11-13",
+      "category": "模型动态",
+      "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections",
+      "importance_score": 7,
+      "keywords": [
+        "GPT",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Shield helps technicians hand off legacy portal 工作 with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/shield",
+      "publish_time": "2026-11-13",
+      "category": "模型动态",
+      "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals | Its Forge agents navigate systems so technicians can focus on issues needing thei...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "中国AI突破复杂肺癌诊疗！中美医疗圈集体坐不住了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/509796.html",
+      "publish_time": "2026-11-13",
+      "category": "AI 产业",
+      "summary": "国产AI首次完成 大规模肺癌实证 ，挑战「头号癌症杀手」取得重大突破： 围绕40例复杂肺癌病例，在完全统一的标准评估下， AI对医生 ， 88比12 | 其中参与实验的250名医生，来自全国各地的三甲医院 | 多数还是主任或副主任医师，平时排号都排不上的那种……含金量自然不言而喻",
+      "importance_score": 8,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "AI 产业"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "llama.cpp v1.0.0 : A stronger 基金会 for local AI ecosystem",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "publish_time": "2026-11-13",
+      "category": "AI 开发生态",
+      "summary": "5 years since its inception , the project has grown a lot and many downstream applications already depend on our work | We expect this trend to continue as l...",
+      "importance_score": 6,
+      "keywords": [
+        "AI",
+        "基金"
+      ],
+      "tags": [
+        "AI 应用",
+        "融资与投资"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
     {
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
       "source": "Google AI",
@@ -33,7 +149,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "Google"
@@ -66,38 +182,11 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
       ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-      "publish_time": "2026-11-12",
-      "category": "AI 开发生态",
-      "summary": "LLMs rely on their context to generate the next set of tokens | The lack of explicit structure can also be exploited by attackers, for example, in the form o...",
-      "importance_score": 6,
-      "keywords": [
-        "LLM"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "ecosystem",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
       "products": [],
       "financing": ""
     },
@@ -123,44 +212,12 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
       ],
       "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Google Cloud 推出 Gemini for healthcare",
-      "source": "Google AI",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare",
-      "publish_time": "2026-11-10",
-      "category": "模型动态",
-      "summary": "Moving beyond simple information retrieval, it enables healthcare teams to turn siloed data into coordinated action | Clinicians lose nearly 28 hours each we...",
-      "importance_score": 7,
-      "keywords": [
-        "Gemini"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型",
-        "公司动态"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "Google"
-      ],
-      "products": [
-        "Gemini"
-      ],
       "financing": ""
     },
     {
@@ -242,62 +299,6 @@
       "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/jiostar-vijay-seshadri",
-      "publish_time": "2026-11-11",
-      "category": "模型动态",
-      "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale | Read his lessons on evals, guardrails, and taking AI into production",
-      "importance_score": 7,
-      "keywords": [
-        "AI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "腾讯推出 AI 游戏陪伴应用鹅次元：AI 角色看懂游戏画面，开启元气首测",
-      "source": "AIHub",
-      "url": "https://www.aihub.cn/news/tencent-e-cy-beta-test",
-      "publish_time": "2026-11-10",
-      "category": "AI 资讯",
-      "summary": "AIHub获悉，近日腾讯发布 AI 游戏陪伴应用\" 鹅次元 \"（E-CY）的官方 PV，产品官网同步上线，并开启\"元气首测\"招募 | 鹅次元定位为玩家的专属 AI 游戏伙伴，以\"懂游戏，更懂你\"为口号，通过拥有独立人设的 AI 角色，为 PC 端游玩家提供对局中的实时陪玩与游戏之外的日常陪伴 | 在产品形态上，鹅...",
-      "importance_score": 7,
-      "keywords": [
-        "AI"
-      ],
-      "tags": [
-        "AI 应用",
-        "公司动态"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "aggregator",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "腾讯"
-      ],
       "products": [],
       "financing": ""
     }

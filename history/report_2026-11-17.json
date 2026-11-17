@@ -1,0 +1,312 @@
+{
+  "date": "2026-11-17",
+  "update_time": "2026-11-17T15:32:32.257070+08:00",
+  "total_items": 52,
+  "selection_summary": {
+    "today_count": 1,
+    "backfill_count": 9,
+    "previous_day_top_count": 0,
+    "selected_count": 10,
+    "candidate_count": 52,
+    "dedupe_window_days": 7,
+    "max_backfill_days": 3
+  },
+  "top_items": [
+    {
+      "title": "Strengthening NATO and allied cyber defenses with AI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "publish_time": "2026-11-17",
+      "category": "模型动态",
+      "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "today",
+      "is_backfill": false,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "LVMH’s Media Division 宣布 strategic partnership with OpenAI",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "publish_time": "2026-11-16",
+      "category": "模型动态",
+      "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI"
+      ],
+      "tags": [
+        "模型发布",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "model_release",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "More ways to move care forward with ChatGPT for Healthcare",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "publish_time": "2026-11-16",
+      "category": "模型动态",
+      "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done",
+      "importance_score": 7,
+      "keywords": [
+        "GPT",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Advancing computer-use agents for healthcare teams",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "publish_time": "2026-11-16",
+      "category": "模型动态",
+      "summary": "暂无详细内容，请点击阅读原文查看。",
+      "importance_score": 7,
+      "keywords": [
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Broadening access to AI for scientists",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "publish_time": "2026-11-16",
+      "category": "模型动态",
+      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Strengthening the fight against online child sexual abuse with new t",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "publish_time": "2026-11-16",
+      "category": "模型动态",
+      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "publish_time": "2026-11-16",
+      "category": "模型动态",
+      "summary": "Explore how more than 1,800 scientists use ChatGPT in research | See findings on daily workflows, reported productivity, and expectations for discovery",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "How Revolut raises ambition without lowering the bar",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "publish_time": "2026-11-16",
+      "category": "模型动态",
+      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "King’s Trust and OpenAI 发布 £1m partnership",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "publish_time": "2026-11-16",
+      "category": "模型动态",
+      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/510232.html",
+      "publish_time": "2026-11-14",
+      "category": "AI 产业",
+      "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了 不ber，现在的基准测试都进化到酱婶了 | 这回不刷题了，就直接给AI一组实验条件，让它 自己研究、提前猜真实湿实验的结果 …… 比如，同一个反应换几种条件，哪种能得到更多目标产物 | 答案先藏好，等AI交卷，再拿实测结果对一对",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "算力"
+      ],
+      "tags": [
+        "算力与芯片",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "compute",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    }
+  ]
+}

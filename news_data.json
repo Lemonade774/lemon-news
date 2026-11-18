@@ -1,17 +1,199 @@
 {
-  "date": "2026-11-17",
-  "update_time": "2026-11-17T15:32:32.257070+08:00",
-  "total_items": 52,
+  "date": "2026-11-18",
+  "update_time": "2026-11-18T14:56:35.802206+08:00",
+  "total_items": 54,
   "selection_summary": {
-    "today_count": 1,
-    "backfill_count": 9,
-    "previous_day_top_count": 0,
+    "today_count": 0,
+    "backfill_count": 6,
+    "previous_day_top_count": 4,
     "selected_count": 10,
-    "candidate_count": 52,
+    "candidate_count": 54,
     "dedupe_window_days": 7,
     "max_backfill_days": 3
   },
   "top_items": [
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "publish_time": "2026-11-17",
+      "category": "模型动态",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward",
+      "importance_score": 7,
+      "keywords": [
+        "GPT"
+      ],
+      "tags": [
+        "模型更新",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "model_update",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "OpenAI发布GPT-6.2 Astra与Sol：Astra API降价20%，Sol以约五分之一成本逼近旗舰编码表现",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/gpt-6-2-astra-sol-release",
+      "publish_time": "2026-11-17",
+      "category": "AI 资讯",
+      "summary": "2026年11月17日，OpenAI正式发布 GPT-6 | 2 Sol 两款新模型，同步上线ChatGPT Work、Codex与OpenAI API | 2 Astra是GPT-6 Astra的迭代版本，定位为面向复杂、长周期专业任务的前沿旗舰模型，OpenAI称其为“全球最适合科学家的模型”，重点覆盖科研、...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT",
+        "OpenAI"
+      ],
+      "tags": [
+        "模型发布",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "model_release",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Put Gemini to 工作 for you",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+      "publish_time": "2026-11-17",
+      "category": "模型动态",
+      "summary": "Gemini can now make the calls, pay the bills, and finish your tasks | Vice President, Labs, Gemini app, and AI Studio Your browser does not support the audio...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Gemini"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "publish_time": "2026-11-17",
+      "category": "模型动态",
+      "summary": "Introducing GPT‑6 | 2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the...",
+      "importance_score": 7,
+      "keywords": [
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "publish_time": "2026-11-17",
+      "category": "模型动态",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "OpenAI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "OpenAI"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "华为云上线 openPangu-2.1-Pro：开源盘古新一代旗舰模型，聚焦 Agent 开发、鸿蒙编码与推理优化",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/openpangu-2-1-pro-release",
+      "publish_time": "2026-11-15",
+      "category": "AI 资讯",
+      "summary": "2026年11月15日，华为云宣布其 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2 | 这是开源盘古系列的最新一代模型，围绕 Agent 开发、AI 编码和推理优化三个方向进行能力升级，在深度研究、鸿蒙系统操控、鸿蒙 App 开发、昇腾算子生成及推理链路优化等场景实现增强 | 该模型相比上...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "华为"
+      ],
+      "products": [],
+      "financing": ""
+    },
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "source": "OpenAI",
@@ -34,8 +216,8 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "today",
-      "is_backfill": false,
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
       "companies": [
         "OpenAI"
       ],
@@ -65,7 +247,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
@@ -97,7 +279,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [
@@ -126,183 +308,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Broadening access to AI for scientists",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "publish_time": "2026-11-16",
-      "category": "模型动态",
-      "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "GPT"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [
-        "ChatGPT"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "Strengthening the fight against online child sexual abuse with new t",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/strengthening-online-child-safety",
-      "publish_time": "2026-11-16",
-      "category": "模型动态",
-      "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse",
-      "importance_score": 7,
-      "keywords": [
-        "AI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Science at the Frontier: How scientists use ChatGPT",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "publish_time": "2026-11-16",
-      "category": "模型动态",
-      "summary": "Explore how more than 1,800 scientists use ChatGPT in research | See findings on daily workflows, reported productivity, and expectations for discovery",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "GPT"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [
-        "ChatGPT"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "How Revolut raises ambition without lowering the bar",
-      "source": "OpenAI",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "publish_time": "2026-11-16",
-      "category": "模型动态",
-      "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "King’s Trust and OpenAI 发布 £1m partnership",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "publish_time": "2026-11-16",
-      "category": "模型动态",
-      "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型",
-        "公司动态"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "「史上最严」湿实验预测基准发布！推理拉满、算力翻5倍也白搭",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/510232.html",
-      "publish_time": "2026-11-14",
-      "category": "AI 产业",
-      "summary": "斯坦福、哈佛、康奈尔……十余家顶尖团队齐坐一桌了 不ber，现在的基准测试都进化到酱婶了 | 这回不刷题了，就直接给AI一组实验条件，让它 自己研究、提前猜真实湿实验的结果 …… 比如，同一个反应换几种条件，哪种能得到更多目标产物 | 答案先藏好，等AI交卷，再拿实测结果对一对",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "算力"
-      ],
-      "tags": [
-        "算力与芯片",
-        "公司动态"
-      ],
-      "track": "industry",
-      "topic": "compute",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [],

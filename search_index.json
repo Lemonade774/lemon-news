@@ -1,14 +1,105 @@
 {
-  "generated_at": "2026-11-17T15:32:32.407600+08:00",
-  "total_items": 1256,
+  "generated_at": "2026-11-18T14:56:35.920767+08:00",
+  "total_items": 1262,
   "items": [
+    {
+      "title": "Introducing ChatGPT for Sales",
+      "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "publish_time": "2026-11-17",
+      "report_date": "2026-11-18",
+      "track": "industry",
+      "topic": "model_update",
+      "importance_score": 7,
+      "tags": [
+        "模型更新",
+        "大模型"
+      ]
+    },
+    {
+      "title": "OpenAI发布GPT-6.2 Astra与Sol：Astra API降价20%，Sol以约五分之一成本逼近旗舰编码表现",
+      "summary": "2026年11月17日，OpenAI正式发布 GPT-6 | 2 Sol 两款新模型，同步上线ChatGPT Work、Codex与OpenAI API | 2 Astra是GPT-6 Astra的迭代版本，定位为面向复杂、长周期专业任务的前沿旗舰模型，OpenAI称其为“全球最适合科学家的模型”，重点覆盖科研、...",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/gpt-6-2-astra-sol-release",
+      "publish_time": "2026-11-17",
+      "report_date": "2026-11-18",
+      "track": "industry",
+      "topic": "model_release",
+      "importance_score": 7,
+      "tags": [
+        "模型发布",
+        "大模型",
+        "公司动态"
+      ]
+    },
+    {
+      "title": "Put Gemini to 工作 for you",
+      "summary": "Gemini can now make the calls, pay the bills, and finish your tasks | Vice President, Labs, Gemini app, and AI Studio Your browser does not support the audio...",
+      "source": "Google AI",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features",
+      "publish_time": "2026-11-17",
+      "report_date": "2026-11-18",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "summary": "Introducing GPT‑6 | 2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the...",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "publish_time": "2026-11-17",
+      "report_date": "2026-11-18",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "Introducing OpenAI for Chile",
+      "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "publish_time": "2026-11-17",
+      "report_date": "2026-11-18",
+      "track": "industry",
+      "topic": "ai_application",
+      "importance_score": 7,
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ]
+    },
+    {
+      "title": "华为云上线 openPangu-2.1-Pro：开源盘古新一代旗舰模型，聚焦 Agent 开发、鸿蒙编码与推理优化",
+      "summary": "2026年11月15日，华为云宣布其 MaaS 模型即服务平台正式上线开源盘古模型 openPangu-2 | 这是开源盘古系列的最新一代模型，围绕 Agent 开发、AI 编码和推理优化三个方向进行能力升级，在深度研究、鸿蒙系统操控、鸿蒙 App 开发、昇腾算子生成及推理链路优化等场景实现增强 | 该模型相比上...",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/openpangu-2-1-pro-release",
+      "publish_time": "2026-11-15",
+      "report_date": "2026-11-18",
+      "track": "industry",
+      "topic": "agent",
+      "importance_score": 7,
+      "tags": [
+        "Agent",
+        "大模型"
+      ]
+    },
     {
       "title": "Strengthening NATO and allied cyber defenses with AI",
       "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems",
       "source": "OpenAI",
       "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
       "publish_time": "2026-11-17",
-      "report_date": "2026-11-17",
+      "report_date": "2026-11-18",
       "track": "industry",
       "topic": "ai_application",
       "importance_score": 7,
@@ -23,7 +114,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/lvmh-media-division-partnership",
       "publish_time": "2026-11-16",
-      "report_date": "2026-11-17",
+      "report_date": "2026-11-18",
       "track": "industry",
       "topic": "model_release",
       "importance_score": 7,
@@ -38,7 +129,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "publish_time": "2026-11-16",
-      "report_date": "2026-11-17",
+      "report_date": "2026-11-18",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,
@@ -53,7 +144,7 @@
       "source": "OpenAI",
       "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "publish_time": "2026-11-16",
-      "report_date": "2026-11-17",
+      "report_date": "2026-11-18",
       "track": "industry",
       "topic": "agent",
       "importance_score": 7,

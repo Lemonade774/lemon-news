@@ -1,17 +1,101 @@
 {
-  "date": "2026-11-20",
-  "update_time": "2026-11-20T14:49:10.547210+08:00",
-  "total_items": 54,
+  "date": "2026-11-21",
+  "update_time": "2026-11-21T14:43:17.513229+08:00",
+  "total_items": 52,
   "selection_summary": {
     "today_count": 1,
-    "backfill_count": 5,
-    "previous_day_top_count": 4,
+    "backfill_count": 2,
+    "previous_day_top_count": 7,
     "selected_count": 10,
-    "candidate_count": 54,
+    "candidate_count": 52,
     "dedupe_window_days": 7,
     "max_backfill_days": 3
   },
   "top_items": [
+    {
+      "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511727.html",
+      "publish_time": "2026-11-21",
+      "category": "AI 产业",
+      "summary": "Alpöge没有发表完整论文，选择公布了整套Lean形式化证明代码，分成14个压缩文件供外界下载 | 如果把它转成一份包含全部细节的文档，篇幅会超过25万页 | Alpöge还在文档里表示， 研究到了最后阶段，Claude已经远远跑在了自己前面 ，连他本人都表示自己“在尚未掌握证明周边大量数学知识的情况下，就已经...",
+      "importance_score": 7,
+      "keywords": [
+        "Claude"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "today",
+      "is_backfill": false,
+      "companies": [],
+      "products": [
+        "Claude"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/hebbia",
+      "publish_time": "2026-11-20",
+      "category": "模型动态",
+      "summary": "Hebbia tested GPT-6 Astra for financial research | Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Can AI help scientists identify promising drug candidates",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-medchembench",
+      "publish_time": "2026-11-20",
+      "category": "模型动态",
+      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
     {
       "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27",
       "source": "量子位",
@@ -32,8 +116,8 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "today",
-      "is_backfill": false,
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
       "companies": [],
       "products": [],
       "financing": ""
@@ -61,7 +145,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "OpenAI"
@@ -92,7 +176,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "Google"
@@ -123,7 +207,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [],
@@ -150,7 +234,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [
         "Meta"
@@ -178,7 +262,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [],
@@ -214,96 +298,6 @@
       "products": [
         "Gemini"
       ],
-      "financing": ""
-    },
-    {
-      "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-      "source": "OpenAI",
-      "url": "https://openai.com/business/customer-stories/sumitomo-life",
-      "publish_time": "2026-11-18",
-      "category": "模型动态",
-      "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis | Early use by executives helped drive ...",
-      "importance_score": 7,
-      "keywords": [
-        "GPT"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [],
-      "products": [
-        "ChatGPT"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "Gemini app is now available on lower-记忆 Android devices",
-      "source": "Google AI",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices",
-      "publish_time": "2026-11-18",
-      "category": "模型动态",
-      "summary": "Until recently, hardware limits meant those phones only had basic voice commands | We re-architected the app so the core Gemini experience runs smoothly on h...",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "Gemini"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [],
-      "products": [
-        "Gemini"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "Managing frontier AI risk: From training to deployment",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "publish_time": "2026-11-18",
-      "category": "模型动态",
-      "summary": "OpenAI explains how it manages frontier AI risk from training through deployment with model alignment, sandboxing, blocking safeguards, and monitoring",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "AGI",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [],
       "financing": ""
     }
   ]

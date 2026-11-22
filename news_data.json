@@ -1,17 +1,47 @@
 {
-  "date": "2026-11-21",
-  "update_time": "2026-11-21T14:43:17.513229+08:00",
+  "date": "2026-11-22",
+  "update_time": "2026-11-22T14:12:13.992705+08:00",
   "total_items": 52,
   "selection_summary": {
-    "today_count": 1,
-    "backfill_count": 2,
-    "previous_day_top_count": 7,
+    "today_count": 0,
+    "backfill_count": 1,
+    "previous_day_top_count": 9,
     "selected_count": 10,
     "candidate_count": 52,
     "dedupe_window_days": 7,
     "max_backfill_days": 3
   },
   "top_items": [
+    {
+      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/511779.html",
+      "publish_time": "2026-11-21",
+      "category": "AI 产业",
+      "summary": "2 Astra又给具身智能上强度了，狠狠来了一计天马流星拳 | 机器人基础设施公司XDOF的最新实测中，GPT-6 | 2Astra操控双臂机器人 完成16项操作任务的综合成功率 ，从两个月前GPT-6Astra的19",
+      "importance_score": 7,
+      "keywords": [
+        "GPT",
+        "具身智能",
+        "机器人"
+      ],
+      "tags": [
+        "具身智能",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "embodied_ai",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
     {
       "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
       "source": "量子位",
@@ -33,8 +63,8 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "today",
-      "is_backfill": false,
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
       "companies": [],
       "products": [
         "Claude"
@@ -63,7 +93,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [],
@@ -90,7 +120,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [],
@@ -266,38 +296,6 @@
       "is_backfill": true,
       "companies": [],
       "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Google发布Gemini 4 Neon：以更低成本提供接近前沿的编程与推理能力",
-      "source": "AIHub",
-      "url": "https://www.aihub.cn/news/gemini-4-neon-release",
-      "publish_time": "2026-11-18",
-      "category": "AI 资讯",
-      "summary": "2026年11月18日，Google正式发布Gemini 4系列新模型 Gemini 4 Neon | 在Gemini 4系列中，Neon位于面向高难度长周期项目的旗舰模型 Gemini 4 Carbon 和面向快速日常执行的 Gemini 4 Hydrogen 之间 | 它的定位是保留接近前沿的能力，同时以更快...",
-      "importance_score": 7,
-      "keywords": [
-        "Gemini"
-      ],
-      "tags": [
-        "模型发布",
-        "大模型",
-        "公司动态"
-      ],
-      "track": "industry",
-      "topic": "model_release",
-      "source_type": "aggregator",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "Google"
-      ],
-      "products": [
-        "Gemini"
-      ],
       "financing": ""
     }
   ]

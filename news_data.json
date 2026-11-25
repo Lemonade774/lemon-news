@@ -1,38 +1,124 @@
 {
-  "date": "2026-11-22",
-  "update_time": "2026-11-22T14:12:13.992705+08:00",
-  "total_items": 52,
+  "date": "2026-11-25",
+  "update_time": "2026-11-25T16:00:11.674569+08:00",
+  "total_items": 54,
   "selection_summary": {
-    "today_count": 0,
-    "backfill_count": 1,
-    "previous_day_top_count": 9,
+    "today_count": 1,
+    "backfill_count": 9,
+    "previous_day_top_count": 0,
     "selected_count": 10,
-    "candidate_count": 52,
+    "candidate_count": 54,
     "dedupe_window_days": 7,
     "max_backfill_days": 3
   },
   "top_items": [
     {
-      "title": "GPT-6.2 Astra再次暴击具身模型：16项任务成功率较GPT-6 Astra翻倍",
+      "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511779.html",
-      "publish_time": "2026-11-21",
+      "url": "https://www.qbitai.com/2026/11/512498.html",
+      "publish_time": "2026-11-25",
       "category": "AI 产业",
-      "summary": "2 Astra又给具身智能上强度了，狠狠来了一计天马流星拳 | 机器人基础设施公司XDOF的最新实测中，GPT-6 | 2Astra操控双臂机器人 完成16项操作任务的综合成功率 ，从两个月前GPT-6Astra的19",
+      "summary": "“单纯的3D建模生成，可能逐渐被大语言模型吞掉 | ”作为视觉几何的世界级奠基者，看到今年9月发布的GPT-6-Astra所展现出的空间理解和三维重建能力，研究三维视觉近40年的 权龙 很难无动于衷 | 1988年，他发表ICCV华人计算机视觉第一篇论文；1995年提出奠定三视图重建基础的“六点算法”；后来成为香...",
       "importance_score": 7,
       "keywords": [
-        "GPT",
-        "具身智能",
-        "机器人"
+        "计算机视觉",
+        "AI",
+        "GPT"
       ],
       "tags": [
-        "具身智能",
+        "AI 应用",
         "大模型",
         "公司动态"
       ],
       "track": "industry",
-      "topic": "embodied_ai",
+      "topic": "ai_application",
       "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "today",
+      "is_backfill": false,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "publish_time": "2026-11-24",
+      "category": "模型动态",
+      "summary": "In the internal security platform, the number of vulnerabilities fixed more than doubled | iFood maintains more than 15,000 code repositories | None of these...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "How Gemini is changing the game for Golden State's organization and ",
+      "source": "Google AI",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+      "publish_time": "2026-11-24",
+      "category": "模型动态",
+      "summary": "The collaboration integrates Gemini across the entire franchise ecosystem",
+      "importance_score": 7,
+      "keywords": [
+        "Gemini"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Sand.ai发布MAGI-2：480B全模态视频模型，支持20个素材参考与30秒生成",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/magi-2-release",
+      "publish_time": "2026-11-24",
+      "category": "AI 资讯",
+      "summary": "2026年11月24日，视频生成公司Sand | ai发布旗舰全模态视频模型 MAGI-2 | 该模型在同一个主干网络中同步生成画面与声音，覆盖与口型同步的人物对白、拟音、环境音和配乐；单次请求可参考最多20个图片、视频和音频素材，并支持局部编辑，可生成最长30秒的1080P视频",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "AGI"
+      ],
+      "tags": [
+        "公司动态",
+        "大模型",
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "company",
+      "source_type": "aggregator",
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
@@ -43,44 +129,14 @@
       "financing": ""
     },
     {
-      "title": "黎曼猜想被证明？！Claude加持，34岁数学家放出Lean证明",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511727.html",
-      "publish_time": "2026-11-21",
-      "category": "AI 产业",
-      "summary": "Alpöge没有发表完整论文，选择公布了整套Lean形式化证明代码，分成14个压缩文件供外界下载 | 如果把它转成一份包含全部细节的文档，篇幅会超过25万页 | Alpöge还在文档里表示， 研究到了最后阶段，Claude已经远远跑在了自己前面 ，连他本人都表示自己“在尚未掌握证明周边大量数学知识的情况下，就已经...",
-      "importance_score": 7,
-      "keywords": [
-        "Claude"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [],
-      "products": [
-        "Claude"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "Hebbia sees improvements in financial research with GPT-6 Astra",
+      "title": "GPT-6 模型 demonstrate intrinsic protein-design capabilities",
       "source": "OpenAI",
-      "url": "https://openai.com/business/customer-stories/hebbia",
-      "publish_time": "2026-11-20",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "publish_time": "2026-11-24",
       "category": "模型动态",
-      "summary": "Hebbia tested GPT-6 Astra for financial research | Its prerelease evaluations found gains in source coverage, citation relevance, and presentation quality",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code | Lab tests found evidence of binding across five targets",
       "importance_score": 7,
       "keywords": [
-        "AI",
         "GPT"
       ],
       "tags": [
@@ -93,22 +149,22 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
+      "selection_reason": "recent_backfill",
       "is_backfill": true,
       "companies": [],
       "products": [],
       "financing": ""
     },
     {
-      "title": "Can AI help scientists identify promising drug candidates",
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
       "source": "OpenAI",
-      "url": "https://openai.com/index/introducing-medchembench",
-      "publish_time": "2026-11-20",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "publish_time": "2026-11-24",
       "category": "模型动态",
-      "summary": "MedChemBench evaluates how well AI models interpret molecular structures, reason from experimental evidence, and select compounds in early drug discovery",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning",
       "importance_score": 7,
       "keywords": [
-        "AI"
+        "GPT"
       ],
       "tags": [
         "AI 应用",
@@ -120,21 +176,79 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "豆包AI个人助理小豆开启公测：主打主动式服务，覆盖日程、生活与办公事务",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/doubao-personal-assistant-public-beta",
+      "publish_time": "2026-11-24",
+      "category": "AI 资讯",
+      "summary": "2026年11月24日，豆包旗下AI个人助理产品“ 小豆 ”正式开启公测 | 小豆以独立App的形式推出，定位为“主动式AI助理”，帮助用户处理信息查询、日程安排、生活服务与办公事务等日常需求 | 公测期间，小豆采用邀请制开放，用户凭邀请码即可开通体验并获赠一定量免费额度，邀请好友还有机会获得更多额度",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
       "is_backfill": true,
       "companies": [],
       "products": [],
       "financing": ""
     },
     {
-      "title": "双系统决策+双层自进化，Agnes让Agent效率最高提速14倍，成本骤降至1/27",
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511582.html",
-      "publish_time": "2026-11-20",
+      "url": "https://www.qbitai.com/2026/11/512362.html",
+      "publish_time": "2026-11-24",
       "category": "AI 产业",
-      "summary": "软件做一次、卖给很多家，前面那90块就能被一点点摊薄 | 谁懂，独立FDE （前沿部署工程师） 、斯坦福在读博士Zaniel此前跟量子位交流时算的这笔账，几乎把今天Agent落地最扎心的现实说透了 | 开发成本从90块跳水到1块，最难啃的那10块，却还杵在原地纹丝不动",
+      "summary": "一家长期深耕端侧AI基础设施的中国科技公司实测， 有效吞吐量能提升270% | 这背后的道理，可以从一座城市的交通系统说起 | 汽车的引擎决定单辆车的性能，道路网络和交通调度则决定整座城市的通行能力",
       "importance_score": 7,
       "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "算力与芯片",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "compute",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "publish_time": "2026-11-23",
+      "category": "AI 开发生态",
+      "summary": "AI evaluations help shape which systems people build, adopt, and trust | An evaluation gives a system tasks, checks its answers or actions, and produces a sc...",
+      "importance_score": 6,
+      "keywords": [
+        "AI",
         "Agent"
       ],
       "tags": [
@@ -142,144 +256,24 @@
       ],
       "track": "industry",
       "topic": "agent",
-      "source_type": "media",
+      "source_type": "ecosystem",
       "discovery_source": "",
       "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "previous_day_top",
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
       "is_backfill": true,
       "companies": [],
       "products": [],
       "financing": ""
     },
     {
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "source": "OpenAI",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
-      "publish_time": "2026-11-19",
-      "category": "模型动态",
-      "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast",
-      "importance_score": 7,
-      "keywords": [
-        "AI",
-        "GPT",
-        "OpenAI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "OpenAI"
-      ],
-      "products": [
-        "ChatGPT"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "source": "Google AI",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval",
-      "publish_time": "2026-11-19",
-      "category": "模型动态",
-      "summary": "Tool Retrieval is now in preview in the Gemini Interactions API | Product Manager, Gemini API Research Scientist, Google DeepMind Your browser does not suppo...",
-      "importance_score": 7,
-      "keywords": [
-        "Gemini"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "Google"
-      ],
-      "products": [
-        "Gemini"
-      ],
-      "financing": ""
-    },
-    {
-      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
-      "source": "Google AI",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson",
-      "publish_time": "2026-11-19",
-      "category": "模型动态",
-      "summary": "What do Leonardo da Vinci, Benjamin Franklin, and Ada Lovelace have to teach us about creativity in the age of AI | They look at why curiosity and human judg...",
-      "importance_score": 7,
-      "keywords": [
-        "AI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "official",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "GTA6刷屏！零AI纯手搓的3A大作玩一个少一个了",
+      "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
       "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511180.html",
-      "publish_time": "2026-11-19",
+      "url": "https://www.qbitai.com/2026/11/512017.html",
+      "publish_time": "2026-11-23",
       "category": "AI 产业",
-      "summary": "熟悉的迈阿密，熟悉的街景，还是那个都市味儿～ R星 诚不欺我 | 苦等13年， GTA6 终于正式发售，媒体评测一水儿的好评如潮 | 146家媒体共同给出Metacritic 均分99分 ，追平《塞尔达传说：时之笛》的历史最高分",
-      "importance_score": 7,
-      "keywords": [
-        "AI"
-      ],
-      "tags": [
-        "AI 应用",
-        "AI 产业"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "previous_day_top",
-      "is_backfill": true,
-      "companies": [
-        "Meta"
-      ],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "好清晰！最新国产AI画的8K图，放这么大大大大也不糊",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/511092.html",
-      "publish_time": "2026-11-19",
-      "category": "AI 产业",
-      "summary": "像人脸上的细纹、手指的纹路、钻戒的真实感，还有脸上的雀斑，依旧是 清晰可见 | 这一回，眼周的纹路更加清晰了，就连睫毛，还有眼妆的细微颗粒感都那么清晰 | 为了方便看整体 放大的过程 ，我们特意做了一段视频，大家可以来感受一下： 视频地址： https://mp",
-      "importance_score": 7,
+      "summary": "表格已经给大家整理好了，欢迎自取～ 还都是医疗深度推理、实时多模态交互以及疾病风险预测等硬核方向，精准踩中健康AI落地需求 | 不得不说，今年的蚂蚁医疗健康生态大会，亮点多多，完全看不过来啊 | 还有个普通用户能轻松上手的 LingSante Live ： 打开阿福APP，给AI打个视频电话，它就能直接 「望闻问...",
+      "importance_score": 8,
       "keywords": [
         "AI"
       ],
@@ -292,9 +286,11 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "previous_day_top",
+      "selection_reason": "recent_backfill",
       "is_backfill": true,
-      "companies": [],
+      "companies": [
+        "蚂蚁"
+      ],
       "products": [],
       "financing": ""
     }

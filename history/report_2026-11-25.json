@@ -1,0 +1,298 @@
+{
+  "date": "2026-11-25",
+  "update_time": "2026-11-25T16:00:11.674569+08:00",
+  "total_items": 54,
+  "selection_summary": {
+    "today_count": 1,
+    "backfill_count": 9,
+    "previous_day_top_count": 0,
+    "selected_count": 10,
+    "candidate_count": 54,
+    "dedupe_window_days": 7,
+    "max_backfill_days": 3
+  },
+  "top_items": [
+    {
+      "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512498.html",
+      "publish_time": "2026-11-25",
+      "category": "AI 产业",
+      "summary": "“单纯的3D建模生成，可能逐渐被大语言模型吞掉 | ”作为视觉几何的世界级奠基者，看到今年9月发布的GPT-6-Astra所展现出的空间理解和三维重建能力，研究三维视觉近40年的 权龙 很难无动于衷 | 1988年，他发表ICCV华人计算机视觉第一篇论文；1995年提出奠定三视图重建基础的“六点算法”；后来成为香...",
+      "importance_score": 7,
+      "keywords": [
+        "计算机视觉",
+        "AI",
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "today",
+      "is_backfill": false,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "publish_time": "2026-11-24",
+      "category": "模型动态",
+      "summary": "In the internal security platform, the number of vulnerabilities fixed more than doubled | iFood maintains more than 15,000 code repositories | None of these...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "How Gemini is changing the game for Golden State's organization and ",
+      "source": "Google AI",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state",
+      "publish_time": "2026-11-24",
+      "category": "模型动态",
+      "summary": "The collaboration integrates Gemini across the entire franchise ecosystem",
+      "importance_score": 7,
+      "keywords": [
+        "Gemini"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "Gemini"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "Sand.ai发布MAGI-2：480B全模态视频模型，支持20个素材参考与30秒生成",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/magi-2-release",
+      "publish_time": "2026-11-24",
+      "category": "AI 资讯",
+      "summary": "2026年11月24日，视频生成公司Sand | ai发布旗舰全模态视频模型 MAGI-2 | 该模型在同一个主干网络中同步生成画面与声音，覆盖与口型同步的人物对白、拟音、环境音和配乐；单次请求可参考最多20个图片、视频和音频素材，并支持局部编辑，可生成最长30秒的1080P视频",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "AGI"
+      ],
+      "tags": [
+        "公司动态",
+        "大模型",
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "company",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "GPT-6 模型 demonstrate intrinsic protein-design capabilities",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "publish_time": "2026-11-24",
+      "category": "模型动态",
+      "summary": "GPT-6 models design protein structures and sequences using reasoning and code | Lab tests found evidence of binding across five targets",
+      "importance_score": 7,
+      "keywords": [
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Clay helps sales teams win with Codex and ChatGPT",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/clay-plugins-openai",
+      "publish_time": "2026-11-24",
+      "category": "模型动态",
+      "summary": "ChatGPT and Codex integrations help Clay’s users research deals and turn data into go-to-market plays, with GPT-6 models handling the reasoning",
+      "importance_score": 7,
+      "keywords": [
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [
+        "ChatGPT"
+      ],
+      "financing": ""
+    },
+    {
+      "title": "豆包AI个人助理小豆开启公测：主打主动式服务，覆盖日程、生活与办公事务",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/doubao-personal-assistant-public-beta",
+      "publish_time": "2026-11-24",
+      "category": "AI 资讯",
+      "summary": "2026年11月24日，豆包旗下AI个人助理产品“ 小豆 ”正式开启公测 | 小豆以独立App的形式推出，定位为“主动式AI助理”，帮助用户处理信息查询、日程安排、生活服务与办公事务等日常需求 | 公测期间，小豆采用邀请制开放，用户凭邀请码即可开通体验并获赠一定量免费额度，邀请好友还有机会获得更多额度",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "业界首提“端侧超节点”，让端侧AI组队计算：AI效率暴涨270%，不用换芯片或模型",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512362.html",
+      "publish_time": "2026-11-24",
+      "category": "AI 产业",
+      "summary": "一家长期深耕端侧AI基础设施的中国科技公司实测， 有效吞吐量能提升270% | 这背后的道理，可以从一座城市的交通系统说起 | 汽车的引擎决定单辆车的性能，道路网络和交通调度则决定整座城市的通行能力",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "算力与芯片",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "compute",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "How to build and maintain an agentic evaluation",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/agentic-evals",
+      "publish_time": "2026-11-23",
+      "category": "AI 开发生态",
+      "summary": "AI evaluations help shape which systems people build, adopt, and trust | An evaluation gives a system tasks, checks its answers or actions, and produces a sc...",
+      "importance_score": 6,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "蚂蚁医疗健康AI五连发！开源、本地部署、望闻问切全安排上了",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512017.html",
+      "publish_time": "2026-11-23",
+      "category": "AI 产业",
+      "summary": "表格已经给大家整理好了，欢迎自取～ 还都是医疗深度推理、实时多模态交互以及疾病风险预测等硬核方向，精准踩中健康AI落地需求 | 不得不说，今年的蚂蚁医疗健康生态大会，亮点多多，完全看不过来啊 | 还有个普通用户能轻松上手的 LingSante Live ： 打开阿福APP，给AI打个视频电话，它就能直接 「望闻问...",
+      "importance_score": 8,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [
+        "蚂蚁"
+      ],
+      "products": [],
+      "financing": ""
+    }
+  ]
+}

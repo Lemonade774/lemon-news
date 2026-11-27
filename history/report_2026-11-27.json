@@ -1,0 +1,292 @@
+{
+  "date": "2026-11-27",
+  "update_time": "2026-11-27T15:52:15.139587+08:00",
+  "total_items": 57,
+  "selection_summary": {
+    "today_count": 3,
+    "backfill_count": 2,
+    "previous_day_top_count": 5,
+    "selected_count": 10,
+    "candidate_count": 57,
+    "dedupe_window_days": 7,
+    "max_backfill_days": 3
+  },
+  "top_items": [
+    {
+      "title": "腾讯混元发布Hy3D 3.6：专业级3D大模型，高模与PBR材质贴图生成全面升级",
+      "source": "AIHub",
+      "url": "https://www.aihub.cn/news/hunyuan-hy3d-3-6-release",
+      "publish_time": "2026-11-27",
+      "category": "AI 资讯",
+      "summary": "2026年11月27日，腾讯混元正式发布最新一代3D大模型 Hy3D 3 | 6已上线腾讯云Token Hub提供API服务，并接入腾讯旗下多款创作与生产平台 | 与通用语言模型通过编写代码、组合基础图元来搭建3D模型的方式不同，Hy3D 3",
+      "importance_score": 7,
+      "keywords": [
+        "大模型"
+      ],
+      "tags": [
+        "模型发布",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "model_release",
+      "source_type": "aggregator",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "today",
+      "is_backfill": false,
+      "companies": [
+        "腾讯"
+      ],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "陶哲轩下场验证黎曼猜想！“AI批量吐证明就像发电厂排核废料”",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/513075.html",
+      "publish_time": "2026-11-27",
+      "category": "AI 产业",
+      "summary": "但别误会，他不是完全反对AI用在数学研究上，只是他认为AI公司与人类数学家合作，完全可以产出更容易理解的结果 | 其实吧，陶哲轩自己也在跟进解读AI的黎曼猜想证明 | 按他在博客上的初步判断，这份黎曼猜想证明似乎用上了朗兰兹纲领和算术几何里的不少现代工具",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "公司动态",
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "company",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "today",
+      "is_backfill": false,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/513227.html",
+      "publish_time": "2026-11-27",
+      "category": "AI 产业",
+      "summary": "不ber，让机器人在场景里找个东西怎么就这么 难 | 陌生环境移动作业要先建图，然而 实时建图的误差 在所难免： 地下停车场巡检两公里，哪怕每百米只偏半米，一路累积回到起点地图就错位十米；明明是同一根立柱却出现两次，后续定位导航全都乱套 | 接到第一个指令，机器人走遍整个办公室，终于找到了角落里的打印机",
+      "importance_score": 8,
+      "keywords": [
+        "机器人"
+      ],
+      "tags": [
+        "具身智能",
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "embodied_ai",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "today",
+      "is_backfill": false,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "publish_time": "2026-11-26",
+      "category": "AI 开发生态",
+      "summary": "Part 1: Understanding swarms and training to communicate This is an aspirational blog series for aspirational readers | Furthermore, it would be extremely co...",
+      "importance_score": 6,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "AI 3D界的“X光”来了！一图直出巴洛克雕塑，3D打印开箱即用",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512981.html",
+      "publish_time": "2026-11-26",
+      "category": "AI 产业",
+      "summary": "2 Astra跑出来的3D效果真有点东西 | 见过不少让人眼前一亮的建模成果，这次我们想冲一把硬核难度 | 看Astra能不能扛住考验，完整复现这件结构繁复、细节密集的巴洛克雕塑",
+      "importance_score": 7,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "AI 产业"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512916.html",
+      "publish_time": "2026-11-26",
+      "category": "AI 产业",
+      "summary": "下面这条1080p的视频，生成价格是15元人民币 | 这是一条单次生成出来的30秒原片，不是后期剪辑的哦～ 在权威评测机构Artificial Analysis的图生视频榜单里， 生成这条视频的模型冲到了全球榜一 | 由衷感慨一下，视频模型这一波，国内玩家在全球赛场势头确实生猛",
+      "importance_score": 8,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "华人计算机视觉泰斗二次创业！离开苹果下场，专注下一代空间与物理AI",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512498.html",
+      "publish_time": "2026-11-25",
+      "category": "AI 产业",
+      "summary": "“单纯的3D建模生成，可能逐渐被大语言模型吞掉 | ”作为视觉几何的世界级奠基者，看到今年9月发布的GPT-6-Astra所展现出的空间理解和三维重建能力，研究三维视觉近40年的 权龙 很难无动于衷 | 1988年，他发表ICCV华人计算机视觉第一篇论文；1995年提出奠定三视图重建基础的“六点算法”；后来成为香...",
+      "importance_score": 7,
+      "keywords": [
+        "计算机视觉",
+        "AI",
+        "GPT"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型",
+        "公司动态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "source": "OpenAI",
+      "url": "https://openai.com/business/customer-stories/ifood",
+      "publish_time": "2026-11-24",
+      "category": "模型动态",
+      "summary": "In the internal security platform, the number of vulnerabilities fixed more than doubled | iFood maintains more than 15,000 code repositories | None of these...",
+      "importance_score": 7,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "official",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "Where scientists draw the line on AI agents",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "publish_time": "2026-11-25",
+      "category": "AI 开发生态",
+      "summary": "Delegating research tasks to AI does not remove scientists’ responsibility for how the work is accomplished | Researchers also need clear institutional guide...",
+      "importance_score": 6,
+      "keywords": [
+        "AI",
+        "Agent"
+      ],
+      "tags": [
+        "Agent"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "An Indic Voice Agent with CUGA",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+      "publish_time": "2026-11-25",
+      "category": "AI 开发生态",
+      "summary": "Configurable Generalist Agent, leader in AppWorld Benchmark",
+      "importance_score": 6,
+      "keywords": [
+        "Agent"
+      ],
+      "tags": [
+        "Agent"
+      ],
+      "track": "industry",
+      "topic": "agent",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    }
+  ]
+}

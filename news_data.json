@@ -1,17 +1,98 @@
 {
-  "date": "2026-11-27",
-  "update_time": "2026-11-27T15:52:15.139587+08:00",
+  "date": "2026-11-28",
+  "update_time": "2026-11-28T15:21:13.402159+08:00",
   "total_items": 57,
   "selection_summary": {
-    "today_count": 3,
-    "backfill_count": 2,
-    "previous_day_top_count": 5,
+    "today_count": 0,
+    "backfill_count": 1,
+    "previous_day_top_count": 9,
     "selected_count": 10,
     "candidate_count": 57,
     "dedupe_window_days": 7,
     "max_backfill_days": 3
   },
   "top_items": [
+    {
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/video-trainium3",
+      "publish_time": "2026-11-27",
+      "category": "AI 开发生态",
+      "summary": "Thanks to our partnership with AWS, we were lucky enough to get access to a Trainium3 machine ( trn3 | 48xlarge , 64 NeuronCores) for a month | We spent most...",
+      "importance_score": 6,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "AI 开发生态"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "ecosystem",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "rss",
+      "selection_reason": "recent_backfill",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/513227.html",
+      "publish_time": "2026-11-27",
+      "category": "AI 产业",
+      "summary": "不ber，让机器人在场景里找个东西怎么就这么 难 | 陌生环境移动作业要先建图，然而 实时建图的误差 在所难免： 地下停车场巡检两公里，哪怕每百米只偏半米，一路累积回到起点地图就错位十米；明明是同一根立柱却出现两次，后续定位导航全都乱套 | 接到第一个指令，机器人走遍整个办公室，终于找到了角落里的打印机",
+      "importance_score": 8,
+      "keywords": [
+        "机器人"
+      ],
+      "tags": [
+        "具身智能",
+        "AI 应用"
+      ],
+      "track": "industry",
+      "topic": "embodied_ai",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
+    {
+      "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
+      "source": "量子位",
+      "url": "https://www.qbitai.com/2026/11/512916.html",
+      "publish_time": "2026-11-26",
+      "category": "AI 产业",
+      "summary": "下面这条1080p的视频，生成价格是15元人民币 | 这是一条单次生成出来的30秒原片，不是后期剪辑的哦～ 在权威评测机构Artificial Analysis的图生视频榜单里， 生成这条视频的模型冲到了全球榜一 | 由衷感慨一下，视频模型这一波，国内玩家在全球赛场势头确实生猛",
+      "importance_score": 8,
+      "keywords": [
+        "AI"
+      ],
+      "tags": [
+        "AI 应用",
+        "大模型"
+      ],
+      "track": "industry",
+      "topic": "ai_application",
+      "source_type": "media",
+      "discovery_source": "",
+      "corroboration_count": 1,
+      "publish_time_source": "article",
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
+      "companies": [],
+      "products": [],
+      "financing": ""
+    },
     {
       "title": "腾讯混元发布Hy3D 3.6：专业级3D大模型，高模与PBR材质贴图生成全面升级",
       "source": "AIHub",
@@ -34,8 +115,8 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "today",
-      "is_backfill": false,
+      "selection_reason": "previous_day_top",
+      "is_backfill": true,
       "companies": [
         "腾讯"
       ],
@@ -63,61 +144,7 @@
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "article",
-      "selection_reason": "today",
-      "is_backfill": false,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "首个带跨任务空间记忆的原生基模开源！机器人端侧就能跑",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/513227.html",
-      "publish_time": "2026-11-27",
-      "category": "AI 产业",
-      "summary": "不ber，让机器人在场景里找个东西怎么就这么 难 | 陌生环境移动作业要先建图，然而 实时建图的误差 在所难免： 地下停车场巡检两公里，哪怕每百米只偏半米，一路累积回到起点地图就错位十米；明明是同一根立柱却出现两次，后续定位导航全都乱套 | 接到第一个指令，机器人走遍整个办公室，终于找到了角落里的打印机",
-      "importance_score": 8,
-      "keywords": [
-        "机器人"
-      ],
-      "tags": [
-        "具身智能",
-        "AI 应用"
-      ],
-      "track": "industry",
-      "topic": "embodied_ai",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "today",
-      "is_backfill": false,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent",
-      "source": "Hugging Face",
-      "url": "https://huggingface.co/blog/training-swarms",
-      "publish_time": "2026-11-26",
-      "category": "AI 开发生态",
-      "summary": "Part 1: Understanding swarms and training to communicate This is an aspirational blog series for aspirational readers | Furthermore, it would be extremely co...",
-      "importance_score": 6,
-      "keywords": [
-        "AI",
-        "Agent"
-      ],
-      "tags": [
-        "Agent"
-      ],
-      "track": "industry",
-      "topic": "agent",
-      "source_type": "ecosystem",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "rss",
-      "selection_reason": "recent_backfill",
+      "selection_reason": "previous_day_top",
       "is_backfill": true,
       "companies": [],
       "products": [],
@@ -137,33 +164,6 @@
       "tags": [
         "AI 应用",
         "AI 产业"
-      ],
-      "track": "industry",
-      "topic": "ai_application",
-      "source_type": "media",
-      "discovery_source": "",
-      "corroboration_count": 1,
-      "publish_time_source": "article",
-      "selection_reason": "recent_backfill",
-      "is_backfill": true,
-      "companies": [],
-      "products": [],
-      "financing": ""
-    },
-    {
-      "title": "顶尖商用级AI视频每秒只要5毛！中国开源新势力拿下全球第一",
-      "source": "量子位",
-      "url": "https://www.qbitai.com/2026/11/512916.html",
-      "publish_time": "2026-11-26",
-      "category": "AI 产业",
-      "summary": "下面这条1080p的视频，生成价格是15元人民币 | 这是一条单次生成出来的30秒原片，不是后期剪辑的哦～ 在权威评测机构Artificial Analysis的图生视频榜单里， 生成这条视频的模型冲到了全球榜一 | 由衷感慨一下，视频模型这一波，国内玩家在全球赛场势头确实生猛",
-      "importance_score": 8,
-      "keywords": [
-        "AI"
-      ],
-      "tags": [
-        "AI 应用",
-        "大模型"
       ],
       "track": "industry",
       "topic": "ai_application",
@@ -208,24 +208,23 @@
       "financing": ""
     },
     {
-      "title": "How iFood scales coding agents across 15,000 repositories",
-      "source": "OpenAI",
-      "url": "https://openai.com/business/customer-stories/ifood",
-      "publish_time": "2026-11-24",
-      "category": "模型动态",
-      "summary": "In the internal security platform, the number of vulnerabilities fixed more than doubled | iFood maintains more than 15,000 code repositories | None of these...",
-      "importance_score": 7,
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent",
+      "source": "Hugging Face",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "publish_time": "2026-11-26",
+      "category": "AI 开发生态",
+      "summary": "Part 1: Understanding swarms and training to communicate This is an aspirational blog series for aspirational readers | Furthermore, it would be extremely co...",
+      "importance_score": 6,
       "keywords": [
         "AI",
         "Agent"
       ],
       "tags": [
-        "Agent",
-        "大模型"
+        "Agent"
       ],
       "track": "industry",
       "topic": "agent",
-      "source_type": "official",
+      "source_type": "ecosystem",
       "discovery_source": "",
       "corroboration_count": 1,
       "publish_time_source": "rss",
